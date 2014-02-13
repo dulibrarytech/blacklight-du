@@ -1,0 +1,51 @@
+<!DOCTYPE html> <!-- ruby yeild tag where text appears -->
+<html>
+<head>
+  <title>Search DU</title>
+  <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+  <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+  <%= favicon_link_tag asset_path('kwak_favicon.ico') %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+
+	<%= render :partial => 'shared/header_navbar' %>
+
+	<div id="ajax-modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="modal menu" aria-hidden="true">
+	    <div class="modal-dialog">
+	      <div class="modal-content">
+	      </div>
+	    </div>
+  	</div>
+
+  	<!-- Main content container - Blacklight -->
+  <!--div id="main-container" class="container"-->
+
+  	<!-- Main Content Window - DU Template-->
+	<div id="main-container" class="container content-window">
+
+      <!-- Navbar section -->
+      <div class="container bannersNav" id="nav-bar">
+          <%= render_search_bar  %>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12">
+          <div id="main-flashes">
+            <%= render :partial=>'/flash_msg' %>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <%= yield %>
+      </div>
+
+      <%= render :partial => 'shared/footer' %>
+
+    </div> <!-- DU container -->
+
+  <!--/div--> <!-- Main Container -->
+
+</body>
+</html>

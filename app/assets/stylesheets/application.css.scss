@@ -1,0 +1,293 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the top of the
+ * compiled file, but it's generally better to create a new file per style scope.
+ *
+ *= require_self
+ *= require_tree .
+ */
+
+@import "variables";
+
+@import "bootstrap";
+
+@import 'blacklight/blacklight';
+
+/* Main DU Template Rules 
+ * Overridden Bootstrap Rules for Blacklight - App Template */
+
+body {
+
+	background-color: #e5e3e1;
+}
+
+label {
+
+	font-weight: bold;
+}
+
+a:hover {
+
+	color: #DDDDDD;
+}
+
+/* DU Logo Bar */
+.navbar-inner{
+
+	/* ALL values in this block must be changed to set the DU logo bar color, gradient or flat */
+	background-color:#8b2332;
+	background-image:-moz-linear-gradient(top,#8b2332,#8b2332);
+	background-image:-ms-linear-gradient(top,#8b2332,#8b2332);
+	background-image:-webkit-gradient(linear,0 0,0 100%,from(#8b2332),to(#8b2332));
+	background-image:-webkit-linear-gradient(top,#8b2332,#8b2332);
+	background-image:-o-linear-gradient(top,#8b2332,#8b2332);
+	background-image:linear-gradient(top,#8b2332,#8b2332);
+
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#8b2332',endColorstr='#8b2332',GradientType=0);
+}
+
+.navbar .nav> li > a:hover {
+
+	color:#fff
+}
+
+.navbar .nav .active > a ,.navbar .nav .active > a:hover {
+
+	color:#fff;
+	background-color:#5a001a;
+}
+
+.navbar .nav .dropdown-toggle .caret {
+
+	border-top-color:white!important;
+	border-bottom-color:white!important;
+}
+
+/* 'Link navbar' anchor properties */
+.bannersNav a {
+	
+	/*color: #000000;
+	margin-top: 5px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif; 
+	font-size: 16px;*/
+}
+
+.bannersNav li > a:hover {
+
+	/*background-color:#a89968;
+	color: #ffffff;
+	text-transform: uppercase;
+	border: none;
+	padding-left: -10px;
+	padding-right: -10px;
+	font-size: 14px;*/
+}
+
+/* 'Link navbar' list */
+.nav-tabs {
+    border-bottom: 0px solid #ddd;
+}
+
+/* 'Link navbar' list items (individual link sections) */
+.navbar-item {
+
+	border-right:1px solid #D0C8AC;
+	width: 140px;
+	text-align: center;
+}
+
+.navbar .brand {
+
+	margin-left: 0px;
+}
+
+/* Page specific label */
+.generic-label {
+
+	padding: 20px;
+	font-size: 19px;
+	font-weight: bold;
+}
+
+/* Main content area */
+.content-window {
+
+	height: 550px;
+	margin-top: 165px;
+
+	background-color: #FFFFFF;
+	/*border-style: solid;
+	border-color: #515155;*/
+
+	box-shadow: 0px 0px 25px 3px #888888;
+}
+
+.container {
+
+	width: 1000px;
+  	margin-right: none;
+  	margin-left: none;
+  	padding-left: 0px;
+  	padding-right: 0px; }
+  .container:before, .container:after {
+    content: " ";
+    display: table; }
+  .container:after {
+    clear: both; }
+  @media (min-width: 768px) {
+    .container {
+      width: 1000px; } }
+  @media (min-width: 992px) {
+    .container {
+      width: 1000px; } }
+  @media (min-width: 1200px) {
+    .container {
+      width: 1000px; } 
+  }
+
+/* Form background */
+.well {
+
+    background-color: #C0C0C0;
+    border: 10px solid #ffffff;
+    -webkit-border-radius: 4px;
+       -moz-border-radius: 4px;
+            border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+       -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+            box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);  
+
+    padding: 19px;
+    margin-bottom: 10px;   
+}
+
+.copyright-text {
+
+	font-size: 12px;
+	text-align: center;
+	color: #8b2332;
+	font-weight: bold;
+	position: relative;
+	bottom: 25px;
+}
+
+.btn-primary {
+	
+	color:#DDDDDD;
+	text-shadow:0 -1px 0;
+	background-color:#8b2332;
+	*background-color:#8b2332;
+	background-image:-moz-linear-gradient(top,#8b2332,#8b2332);
+	background-image:-webkit-gradient(linear,0 0,0 100%,from(#8b2332),to(#8b2332));
+	background-image:-webkit-linear-gradient(top,#8b2332,#8b2332);
+	background-image:-o-linear-gradient(top,#8b2332,#8b2332);
+	background-image:linear-gradient(to bottom,#8b2332,#8b2332);
+	background-repeat:repeat-x;
+	border-color:#8b2332 #8b2332 #8b2332;
+	border-color:rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#8b2332',endColorstr='#8b2332',GradientType=0);
+	filter:progid:DXImageTransform.Microsoft.gradient(enabled=false)
+}
+
+/* DU logo */
+#logo {
+
+	margin-top: 5px;
+}
+#logo-link {
+
+	margin-left: -15px;
+}
+
+#app-title {
+
+	height: 53px;
+}
+
+/* 'file tab' element */
+#app-title-box { 
+
+	background-color: #000000;
+	width: 300px;
+	height: 32px;
+	margin-top: 50px;
+
+	text-align: center;
+	color: #FFFFFF;
+	padding-top: 20px;
+	font-size: 1.5em;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif; 
+
+	position: relative; 
+	left: -33px;
+    z-index: 1;
+}
+
+#header-bar-base {
+
+	height: 52px; /* Height of DU logo bar */
+}
+
+#footer-bar-base {
+
+	height: 100px; /* Height of footer bar */
+}
+
+/* Main 'link navbar' settings */
+#nav-bar {
+
+	background-color:#a89968;
+	height: 120px;
+	width: 1000px;
+	margin-left: 0px;
+	padding: 0px;
+}
+
+#footer-bar {
+
+	bottom: auto; 
+	opacity:0.7;
+}
+
+/* 
+ * Blacklight specific css rules
+ */
+
+
+
+.navbar-brand {
+
+	width: 150px;
+    height: 50px;
+	background:transparent image_url('du-logo2.gif') no-repeat top left;
+	display: inline-block;
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	padding-right:0;
+	margin-right:20px;
+	padding-left: 0;
+}
+
+div.row {
+
+	width: 1000px;
+}
+
+.input-group {
+
+	width: 665px;
+	margin-top: 35px;
+	margin-left: 240px;
+}
+
+div#content {
+
+	margin-top: 10px;
+	padding: 20px;
+}
