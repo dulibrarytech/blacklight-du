@@ -1,0 +1,7 @@
+If upgrading this version of Blacklight (5.0.1) to another version, core files have been edited and may need to be updated manually, before 
+before they may be used in any newer version.  Any changes to files for the DU project have been marked with a 'DU ' comment prefix.  All files 
+in this repo should be able to be simply 'dropped' into their cooresponding folders in the new skeleton BL app to upgrade.
+
+Core files that may need manual changes to complete an upgrade:
+
+app/helpers/blacklight_helper_behavior.rb
