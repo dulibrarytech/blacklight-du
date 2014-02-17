@@ -27,8 +27,8 @@
         solr.RAMDirectoryFactory is memory based, not persistent, and doesn't work with replication. -->
   <directoryFactory name="DirectoryFactory" class="${solr.directoryFactory:solr.StandardDirectoryFactory}"/>
 
-  <lib dir="../lib/contrib/analysis-extras/lib" />
-  <lib dir="../lib/contrib/analysis-extras/lucene-libs" />
+  <lib dir="../../lib/contrib/analysis-extras/lib" />
+  <lib dir="../../lib/contrib/analysis-extras/lucene-libs" />
 
   <dataDir>${solr.blacklight-core.data.dir:}</dataDir>
   
@@ -191,18 +191,27 @@
 
        <!-- NOT using marc_display because it is large and will slow things down for search results -->
        <str name="fl">
-         id, 
+         id,
+
+         <!-- Blacklight DU -->
+         title,
+         subject,
+         links, 
+         abstract,
+         identifier,
+         pub_date,
+         format,
+         creator,
+
          score,
          author_display,
-         author_vern_display, 
-         format, 
+         author_vern_display,  
          isbn_t, 
          language_facet, 
          lc_callnum_display,
          material_type_display, 
          published_display,
          published_vern_display,
-         pub_date,
          title_display,
          title_vern_display,
          subject_topic_facet,
@@ -217,12 +226,17 @@
        <str name="facet">true</str>
        <str name="facet.mincount">1</str>
        <str name="facet.limit">10</str>
+
+       <!-- Blacklight DU -->
+       <str name="facet.field">subject</str>
+       <str name="facet.field">creator</str>
        <str name="facet.field">format</str>
+       <str name="facet.field">pub_date</str>
+
        <str name="facet.field">lc_1letter_facet</str>
        <str name="facet.field">lc_alpha_facet</str>
        <str name="facet.field">lc_b4cutter_facet</str>
        <str name="facet.field">language_facet</str>
-       <str name="facet.field">pub_date</str>
        <str name="facet.field">subject_era_facet</str>
        <str name="facet.field">subject_geo_facet</str>
        <str name="facet.field">subject_topic_facet</str>
