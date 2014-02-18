@@ -518,7 +518,7 @@
     <field name="id" type="string" indexed="true" stored="true" required="true" />
     <field name="text" type="text" indexed="true" stored="false" multiValued="true"/>
     <field name="timestamp" type="date" indexed="true" stored="true" default="NOW" multiValued="false"/>
-    <field name="spell" type="textSpell" indexed="true" stored="true" multiValued="true"/>
+    
 
     <!-- DU: OAI -->
     <field name="title" type="text_general" indexed="true" stored="true" multiValued="false"/>
@@ -526,9 +526,9 @@
     <field name="pub_date" type="string" indexed="true" stored="true" multiValued="false"/>
     <field name="links" type="string" indexed="true" stored="true" multiValued="yes"/>
     <field name="creator" type="text_general" indexed="true" stored="true" multiValued="false"/>
-    <field name="format" type="text_general" indexed="false" stored="true" multiValued="true"/>
-    <field name="abstract" type="text_general" indexed="false" stored="true" multiValued="false"/>
-    <field name="identifier" type="text_general" indexed="false" stored="true" multiValued="true"/>
+    <field name="format" type="text_general" indexed="true" stored="true" multiValued="true"/>
+    <field name="abstract" type="text_general" indexed="true" stored="true" multiValued="false"/>
+    <field name="identifier" type="text_general" indexed="true" stored="true" multiValued="true"/>
 
     <!-- Blacklight Default -->
     <dynamicField name="*_i"  type="sint"    indexed="true"  stored="true"/>
