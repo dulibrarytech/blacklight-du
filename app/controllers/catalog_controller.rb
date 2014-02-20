@@ -51,7 +51,8 @@ class CatalogController < ApplicationController
     #
     # :show may be set to false if you don't want the facet to be drawn in the 
     # facet bar
-    lconfig.add_facet_field 'format', :label => 'Format'
+    lconfig.add_facet_field 'type_facet', :label => 'Media Type'
+    lconfig.add_facet_field 'format_facet', :label => 'Format'
     # config.add_facet_field 'pub_date', :label => 'Publication Year', :single => true
     # config.add_facet_field 'subject_topic_facet', :label => 'Topic', :limit => 20 
     # config.add_facet_field 'language_facet', :label => 'Language', :limit => true 
@@ -89,7 +90,8 @@ class CatalogController < ApplicationController
     config.add_index_field 'title', :label => 'Title:'
     config.add_index_field 'creator', :label => 'Creator:'
     config.add_index_field 'pub_date', :label => 'Date:'
-    config.add_index_field 'format', :label => 'Format:'
+    config.add_index_field 'type_facet', :label => 'Media Type:'
+    config.add_index_field 'format_facet', :label => 'Format:'
 
     # solr fields to be displayed in the show (single result) view
     #   The ordering of the field names is the order of the display 
@@ -112,7 +114,10 @@ class CatalogController < ApplicationController
     config.add_show_field 'title', :label => 'Title:'
     config.add_show_field 'creator', :label => 'Creator:'
     config.add_show_field 'pub_date', :label => 'Date:'
-    config.add_show_field 'format', :label => 'Format:'
+    # config.add_show_field 'type_facet', :label => 'Media Type:'
+    # config.add_show_field 'format_facet', :label => 'Format:'
+    config.add_show_field 'type', :label => 'Type Details:'
+    config.add_show_field 'format', :label => 'Format Details:'
     config.add_show_field 'subject', :label => 'Subjects:'
     config.add_show_field 'abstract', :label => 'Abstract:'
     config.add_show_field 'identifier', :label => 'Identifiers:'
