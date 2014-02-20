@@ -529,6 +529,7 @@
     <field name="format" type="text_general" indexed="true" stored="true" multiValued="true"/>
     <field name="abstract" type="text_general" indexed="true" stored="true" multiValued="false"/>
     <field name="identifier" type="text_general" indexed="true" stored="true" multiValued="true"/>
+    <field name="type" type="text_general" indexed="true" stored="true" multiValued="true"/>
 
     <!-- Blacklight Default -->
     <dynamicField name="*_i"  type="sint"    indexed="true"  stored="true"/>
