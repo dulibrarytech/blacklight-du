@@ -202,6 +202,8 @@
          pub_date,
          format,
          creator,
+         format_facet,
+         type_facet,
 
          score,
          author_display,
@@ -228,9 +230,10 @@
        <str name="facet.limit">10</str>
 
        <!-- Blacklight DU -->
-       <str name="facet.field">subject</str>
-       <str name="facet.field">creator</str>
-       <str name="facet.field">format</str>
+       <!--str name="facet.field">subject</str-->
+       <!--str name="facet.field">creator</str-->
+       <str name="facet.field">format_facet</str>
+       <str name="facet.field">type_facet</str>
        <str name="facet.field">pub_date</str>
 
        <str name="facet.field">lc_1letter_facet</str>
