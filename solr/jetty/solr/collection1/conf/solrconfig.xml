@@ -204,6 +204,7 @@
          creator,
          format_facet,
          type_facet,
+         subject_facet,
 
          score,
          author_display,
@@ -234,6 +235,7 @@
        <!--str name="facet.field">creator</str-->
        <str name="facet.field">format_facet</str>
        <str name="facet.field">type_facet</str>
+       <str name="facet.field">subject_facet</str>
        <str name="facet.field">pub_date</str>
 
        <str name="facet.field">lc_1letter_facet</str>
