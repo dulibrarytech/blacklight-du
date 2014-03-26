@@ -87,6 +87,8 @@
        -->
 
        <str name="qf">
+         all_fields^1000000
+         title^100000
          title_unstem_search^100000
          subtitle_unstem_search^50000
          title_t^25000
@@ -95,14 +97,16 @@
          title_addl_t^2500
          title_added_entry_unstem_search^1500
          title_added_entry_t^1250
+         subject^10000
          subject_topic_unstem_search^1000
          subject_unstem_search^750
          subject_topic_facet^625
          subject_t^500
-         author_unstem_search^250
-         author_addl_unstem_search^250
-         author_t^100
-         author_addl_t^50
+         creator^1000
+         creator_unstem_search^250
+         creator_addl_unstem_search^250
+         creator_t^100
+         creator_addl_t^50
          subject_addl_unstem_search^250
          subject_addl_t^50
          title_series_unstem_search^25
@@ -111,6 +115,8 @@
          text
        </str>
        <str name="pf">
+         all_fields^10000000
+         title^5000000
          title_unstem_search^1000000
          subtitle_unstem_search^500000
          title_t^250000
@@ -119,13 +125,15 @@
          title_addl_t^25000
          title_added_entry_unstem_search^15000
          title_added_entry_t^12500
+         subject^50000
          subject_topic_unstem_search^10000
          subject_unstem_search^7500
          subject_topic_facet^6250
          subject_t^5000
-         author_unstem_search^2500
-         author_addl_unstem_search^2500
-         author_t^1000
+         creator^5000
+         creator_unstem_search^2500
+         creator_addl_unstem_search^2500
+         creator_t^1000
          author_addl_t^500
          subject_addl_unstem_search^2500
          subject_addl_t^500
@@ -133,19 +141,22 @@
          title_series_t^100
          text^10
        </str>
-       <str name="author_qf">
-         author_unstem_search^200
-         author_addl_unstem_search^50
-         author_t^20
-         author_addl_t
+       <str name="creator_qf">
+         creator^300
+         creator_unstem_search^200
+         creator_addl_unstem_search^50
+         creator_t^20
+         creator_addl_t
        </str>
-       <str name="author_pf">
-         author_unstem_search^2000
-         author_addl_unstem_search^500
-         author_t^200
-         author_addl_t^10
+       <str name="creator_pf">
+         creator^3000
+         creator_unstem_search^2000
+         creator_addl_unstem_search^500
+         creator_t^200
+         creator_addl_t^10
        </str>
        <str name="title_qf">
+         title^100000
          title_unstem_search^50000
          subtitle_unstem_search^25000
          title_addl_unstem_search^10000
@@ -158,6 +169,7 @@
          title_series_t
        </str>
        <str name="title_pf">
+         title^1000000
          title_unstem_search^500000
          subtitle_unstem_search^250000
          title_addl_unstem_search^100000
@@ -170,6 +182,7 @@
          title_series_unstem_search^10
        </str>
        <str name="subject_qf">
+         subject^1000
          subject_topic_unstem_search^200
          subject_unstem_search^125
          subject_topic_facet^100
@@ -178,6 +191,7 @@
          subject_addl_t
        </str>
        <str name="subject_pf">
+         subject^10000
          subject_topic_unstem_search^2000
          subject_unstem_search^1250
          subject_t^1000
@@ -185,6 +199,22 @@
          subject_addl_unstem_search^100
          subject_addl_t^10
        </str>
+       <!-- <str name="all_fields_qf">
+         subject_topic_unstem_search^2000
+         subject_unstem_search^1250
+         subject_t^1000
+         subject_topic_facet^500
+         subject_addl_unstem_search^100
+         subject_addl_t^10
+       </str>
+       <str name="all_fields_pf">
+         subject_topic_unstem_search^2000
+         subject_unstem_search^1250
+         subject_t^1000
+         subject_topic_facet^500
+         subject_addl_unstem_search^100
+         subject_addl_t^10
+       </str> -->
        
        <int name="ps">3</int>
        <float name="tie">0.01</float>
