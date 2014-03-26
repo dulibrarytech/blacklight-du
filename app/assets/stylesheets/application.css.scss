@@ -280,8 +280,16 @@ a:hover {
 
 div.row {
 
-	width: 1000px;
+	width: 900px;
 	padding-left: 15px;
+}
+
+.panel-group .panel {
+
+  margin-bottom: 0;
+  border-radius: 4px;
+  overflow-x: hidden;
+  overflow-y: auto;
 }
 
 .input-group {
