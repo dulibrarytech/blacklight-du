@@ -25,8 +25,35 @@
 	<div id="main-container" class="container content-window">
 
       <!-- Navbar section -->
-      <div class="container bannersNav" id="nav-bar">
+      <!-- <div class="container bannersNav" id="nav-bar">
           <%= render_search_bar  %>
+      </div> -->
+      <div class="bannersNav" id="nav-bar" style="width: auto">
+          <table id="table">
+              <tr>
+                  <!-- Blacklight 'util' links -->
+                  <td id="util-links-section">
+                      <ul class="util-links">  
+                          <li>
+                              <%= link_to t('blacklight.header_links.return_search_home'), start_over_path %>
+                          </li>
+                          <li>
+                              <%= link_to t('blacklight.header_links.search_history'), search_history_path %>
+                          </li>
+                          <li>
+                              <%= link_to t('blacklight.header_links.bookmarks'), '#' %>
+                          </li>
+                      </ul>
+                  </td>
+
+                  <!-- Blacklight search form -->
+                  <td id="searchbar-section">
+                      <div class="container bannersNav" id="nav-bar">
+                          <%= render_search_bar  %>
+                      </div>
+                  </td>
+              </tr>
+          </table>
       </div>
 
       <div class="row">

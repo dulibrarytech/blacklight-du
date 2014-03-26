@@ -1,0 +1,6 @@
+en:
+  blacklight:
+    application_name: 'Blacklight'
+
+    header_links:
+      return_search_home: 'Search Home'
