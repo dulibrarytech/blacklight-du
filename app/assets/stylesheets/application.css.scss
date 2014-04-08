@@ -128,7 +128,7 @@ a:hover {
 	/*border-style: solid;
 	border-color: #515155;*/
 
-	box-shadow: 0px 0px 25px 3px #888888;
+	/*box-shadow: 0px 0px 25px 3px #888888;*/
 }
 
 .container {
@@ -216,19 +216,20 @@ a:hover {
 /* 'file tab' element */
 #app-title-box { 
 
-	background-color: #000000;
-	width: 300px;
-	height: 32px;
+	background-color: #454545;
+	width: 250px;
+	height: 45px;
 	margin-top: 50px;
 
 	text-align: center;
 	color: #FFFFFF;
-	padding-top: 20px;
+	padding-top: 10px;
 	font-size: 1.5em;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif; 
 
 	position: relative; 
-	left: -33px;
+	top: 28px;
+	left: 0px;
     z-index: 1;
 }
 
@@ -240,6 +241,16 @@ a:hover {
 #footer-bar-base {
 
 	height: 100px; /* Height of footer bar */
+}
+
+div#nav-bar.bannersNav {
+	
+	margin-top: -95px;
+}
+
+div#nav-bar.container.bannersNav {
+	
+	margin-top: 0px;
 }
 
 /* Main 'link navbar' settings */
