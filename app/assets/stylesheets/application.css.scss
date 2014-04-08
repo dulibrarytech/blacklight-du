@@ -251,6 +251,7 @@ div#nav-bar.bannersNav {
 div#nav-bar.container.bannersNav {
 	
 	margin-top: 0px;
+	margin-left: 90px;
 }
 
 /* Main 'link navbar' settings */
@@ -315,6 +316,12 @@ ul.util-links {
 	list-style-type: none;
 }
 
+ul.util-links li {
+	
+	padding: 3px;
+	margin-top: 5px;
+}
+
 ul.util-links li a {
 	
 	color: white;
@@ -332,14 +339,24 @@ table#table {
 	width: 100%;
 }
 
+td#navbar-logo-section {
+	
+	width: 10%;
+}
+
+td#util-links-section {
+	
+	width: 15%;
+}
+
 td#searchbar-section {
 	
 	width: 75%;
 }
 
-td#util-links-section {
+td#navbar-logo-section {
 	
-	width: 25%;
+	padding-left: 40px;
 }
 
 /* DU global search bar */
