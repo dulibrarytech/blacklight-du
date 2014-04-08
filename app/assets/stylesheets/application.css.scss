@@ -117,7 +117,7 @@ a:hover {
 /* Main content area */
 .content-window {
 
-	height: auto;
+	height: 600px;
 	margin-top: 165px;
 	padding-bottom: 50px;
 	/*max-height: 1100px;
@@ -133,7 +133,7 @@ a:hover {
 
 .container {
 
-	width: 1000px;
+	width: 1300px;
   	margin-right: none;
   	margin-left: none;
   	padding-left: 0px;
@@ -145,13 +145,13 @@ a:hover {
     clear: both; }
   @media (min-width: 768px) {
     .container {
-      width: 1000px; } }
+      width: 1300px; } }
   @media (min-width: 992px) {
     .container {
-      width: 1000px; } }
+      width: 1300px; } }
   @media (min-width: 1200px) {
     .container {
-      width: 1000px; } 
+      width: 1300px; } 
   }
 
 /* Form background */
@@ -291,7 +291,7 @@ div#nav-bar.container.bannersNav {
 
 div.row {
 
-	width: 900px;
+	width: 1300px;
 	padding-left: 15px;
 }
 
@@ -327,14 +327,19 @@ div#content {
 	padding: 20px;
 }
 
+table#table {
+	
+	width: 100%;
+}
+
 td#searchbar-section {
 	
-	width: 785px;
+	width: 75%;
 }
 
 td#util-links-section {
 	
-	width: 215px;
+	width: 25%;
 }
 
 /* DU global search bar */
