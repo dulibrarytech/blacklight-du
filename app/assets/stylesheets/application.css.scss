@@ -31,6 +31,17 @@ label {
 	font-weight: bold;
 }
 
+h4, h3 {
+	
+	color: #8b2332;
+	font-weight: bold;
+}
+
+p {
+	
+	padding-left: 10px;
+}
+
 a:hover {
 
 	color: #DDDDDD;
@@ -157,13 +168,13 @@ a:hover {
 
 article.floatbox { 
 
-	width:350px; 
-	height:250px; 
+	width:435px; 
+	height:350px; 
 	margin:0 10px 20px 10px; 
 	padding:20px; 
 	float:left; 
 	border:solid; 
-	border-color:#CCC; 
+	border-color:#a89968; 
 	border-width:1px; 
 	border-radius:10px
 }
@@ -406,12 +417,13 @@ div#content.col-md-9 {
 div#related-articles {
 	
 	padding-top: 30px;
-	padding-left: 15px;
+	padding-left: 0px;
+	margin-left: -10px;
 }
 
-image#aac-banner-image {
+div#aac-banner-image {
 	
-	border-radius: 10px;
+	margin-top: -1px;
 }
 
 
