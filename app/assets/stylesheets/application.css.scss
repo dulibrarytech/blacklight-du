@@ -134,7 +134,7 @@ div#bg-container {
 .content-window {
 
 	height: auto;
-	min-height: 600px;
+	min-height: 800px;
 	margin-top: 165px;
 	padding-bottom: 50px;
 	/*max-height: 1100px;
@@ -422,9 +422,49 @@ div#facets.facets.sidenav/*, div#content.col-md-9*/ {
 
 div#content.col-md-9 {
 	
-	padding-top: 0px;
+	padding: 20px 0px 0px 0px;
 	margin-top: 0px;
-	padding-left: 0px;
+}
+
+div#content.col-md-9.show-document {
+	
+	padding: 20px 20px 20px 50px;
+}
+
+dl.dl-horizontal.dl-invert {
+	
+	font-size: 15px;
+	padding-top: 50px;
+}
+
+dl.document-metadata.dl-horizontal.dl-invert {
+	
+	padding-top: 20px;
+}
+
+div#appliedParams {
+	
+	border-radius: 10px;
+}
+
+div#document.document {
+	
+	padding-top: 35px;
+}
+
+div.documentHeader.row {
+	
+	width: 1000px;
+}
+
+div[id*='doc_codu_'] h1 {
+
+	font-size: 27px;
+}
+
+h5.index_title.col-sm-9.col-lg-10 {
+	
+	font-size: 19px;
 }
 
 div#related-articles {
