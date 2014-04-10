@@ -23,7 +23,7 @@
 
 body {
 
-	background-color: #e5e3e1;
+	background-color: #8b2332;
 }
 
 label {
@@ -45,6 +45,11 @@ p {
 a:hover {
 
 	color: #DDDDDD;
+}
+
+div#bg-container {
+	
+	background-color: #e5e3e1;
 }
 
 /* DU Logo Bar */
@@ -266,7 +271,21 @@ article.floatbox {
 
 #footer-bar-base {
 
-	height: 100px; /* Height of footer bar */
+	background-color: #8b2332;
+	position: relative;
+	width: 100%;
+	bottom: 0px;
+}
+
+div#footer-content {
+	
+	text-align: center;
+	padding: 30px 10px 0px 10px;
+	color: #e5e3e1;
+}
+
+div#footer-content a {
+
 }
 
 div#nav-bar.bannersNav {
@@ -288,12 +307,6 @@ div#nav-bar.container.bannersNav {
 	width: 700px;
 	margin-left: 0px;
 	padding: 0px;
-}
-
-#footer-bar {
-
-	bottom: auto; 
-	opacity:0.7;
 }
 
 /* 

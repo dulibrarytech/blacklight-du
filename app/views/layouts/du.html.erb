@@ -7,83 +7,89 @@
   <%= favicon_link_tag asset_path('kwak_favicon.ico') %>
   <%= csrf_meta_tags %>
 </head>
+
 <body>
 
-	<%= render :partial => 'shared/header_navbar' %>
+  <div id="bg-container">
 
-	<div id="ajax-modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="modal menu" aria-hidden="true">
-	    <div class="modal-dialog">
-	      <div class="modal-content">
-	      </div>
-	    </div>
-  	</div>
+  	<%= render :partial => 'shared/header_navbar' %>
 
-  	<!-- Title Box text -->
-    <div id="app-title" class="container">
-      <div id="app-title-box">
-        DU Special Collections
-      </div>
-    </div>
+  	<div id="ajax-modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="modal menu" aria-hidden="true">
+  	    <div class="modal-dialog">
+  	      <div class="modal-content">
+  	      </div>
+  	    </div>
+    	</div>
 
-    <!-- Main content container - Blacklight -->
-  <!--div id="main-container" class="container"-->
-
-  	<!-- Main Content Window - DU Template-->
-	<div id="main-container" class="container content-window">
-
-      <!-- Navbar section -->
-      <!-- <div class="container bannersNav" id="nav-bar">
-          <%= render_search_bar  %>
-      </div> -->
-      <div class="bannersNav" id="nav-bar" style="width: auto">
-          <table id="table">
-              <tr>
-                  <td id="navbar-logo-section">
-                    <img src="/assets/du-signature2.gif" alt="DU Shield Logo" height="115" width="115">
-                  </td>
-
-                  <!-- Blacklight 'util' links -->
-                  <td id="util-links-section">
-                      <ul class="util-links">  
-                          <li>
-                              <%= link_to t('blacklight.header_links.return_search_home'), start_over_path %>
-                          </li>
-                          <li>
-                              <%= link_to t('blacklight.header_links.search_history'), search_history_path %>
-                          </li>
-                          <li>
-                              <%= link_to t('blacklight.header_links.bookmarks'), '#' %>
-                          </li>
-                      </ul>
-                  </td>
-
-                  <!-- Blacklight search form -->
-                  <td id="searchbar-section">
-                      <div class="container bannersNav" id="nav-bar">
-                          <%= render_search_bar  %>
-                      </div>
-                  </td>
-              </tr>
-          </table>
+    	<!-- Title Box text -->
+      <div id="app-title" class="container">
+        <div id="app-title-box">
+          DU Special Collections
+        </div>
       </div>
 
-      <div class="row">
-        <div class="col-md-12">
-          <div id="main-flashes">
-            <%= render :partial=>'/flash_msg' %>
-          </div>
+      <!-- Main content container - Blacklight -->
+    <!--div id="main-container" class="container"-->
+
+    	<!-- Main Content Window - DU Template-->
+  	<div id="main-container" class="container content-window">
+
+        <!-- Navbar section -->
+        <!-- <div class="container bannersNav" id="nav-bar">
+            <%= render_search_bar  %>
+        </div> -->
+        <div class="bannersNav" id="nav-bar" style="width: auto">
+            <table id="table">
+                <tr>
+                    <td id="navbar-logo-section">
+                      <img src="/assets/du-signature2.gif" alt="DU Shield Logo" height="115" width="115">
+                    </td>
+
+                    <!-- Blacklight 'util' links -->
+                    <td id="util-links-section">
+                        <ul class="util-links">  
+                            <li>
+                                <%= link_to t('blacklight.header_links.return_search_home'), start_over_path %>
+                            </li>
+                            <li>
+                                <%= link_to t('blacklight.header_links.search_history'), search_history_path %>
+                            </li>
+                            <li>
+                                <%= link_to t('blacklight.header_links.bookmarks'), '#' %>
+                            </li>
+                        </ul>
+                    </td>
+
+                    <!-- Blacklight search form -->
+                    <td id="searchbar-section">
+                        <div class="container bannersNav" id="nav-bar">
+                            <%= render_search_bar  %>
+                        </div>
+                    </td>
+                </tr>
+            </table>
         </div>
 
-      <div class="row">
-        <%= yield %>
-      </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div id="main-flashes">
+              <%= render :partial=>'/flash_msg' %>
+            </div>
+          </div>
 
-      <%= render :partial => 'shared/footer' %>
+        <div class="row">
+          <%= yield %>
+        </div>
 
-    </div> <!-- DU container -->
+        <!--%= render :partial => 'shared/footer' %-->
 
-  <!--/div--> <!-- Main Container -->
+      </div> <!-- DU container -->
 
+    </div> <!-- Main Container -->
+    <%= render :partial => 'shared/footer' %>
+
+  </div> <!-- Background Container -->
+  
 </body>
 
 <!-- Temporarily force accordion open on main page load -->
