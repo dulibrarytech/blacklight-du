@@ -295,11 +295,11 @@ div#footer-content a {
 
 div#pagination-footer {
 	
-	height: 60px;
+	height: 50px;
 	background-color: #8b2332;
 	width: 100%;
 	bottom: auto; 
-	opacity:0.7;
+	opacity:0.6;
 	z-index: 100;
 	position: fixed;
 	bottom: 0px;
@@ -395,6 +395,45 @@ div#content {
 
 	margin-top: 10px;
 	padding: 20px;
+}
+
+div.row.record-padding {
+	
+	margin: 0 auto;
+}
+
+div#pagination-elements.col-md-9 {
+	
+	margin-left: 385px;
+}
+
+.pagination {
+	
+	margin-top: 5px;
+}
+
+ul.pagination > li {
+	
+	background-color: #8b2332;
+}
+
+ul.pagination li a {
+	
+	color: #ffffff;
+	font-size: 16px;
+	font-weight: bold;
+	background-color: #8b2332;
+}
+
+ul.pagination li.disabled a {
+	
+	background-color: #8b2332;
+}
+
+ul.pagination li.active a {
+	
+	background-color: #a89968;
+	color: #000000;
 }
 
 table#table {
