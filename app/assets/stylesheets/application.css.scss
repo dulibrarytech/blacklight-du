@@ -299,10 +299,11 @@ div#pagination-footer {
 	background-color: #8b2332;
 	width: 100%;
 	bottom: auto; 
-	opacity:0.6;
+	opacity:0.8;
 	z-index: 100;
 	position: fixed;
 	bottom: 0px;
+	left: 0px;
 }
 
 div#nav-bar.bannersNav {
@@ -404,7 +405,7 @@ div.row.record-padding {
 
 div#pagination-elements.col-md-9 {
 	
-	margin-left: 375px;
+	margin-left: 365px;
 }
 
 .pagination {
@@ -429,6 +430,7 @@ ul.pagination li a {
 ul.pagination li.disabled a {
 	
 	background-color: #8b2332;
+	color: black;
 }
 
 ul.pagination li.active a {
@@ -436,6 +438,12 @@ ul.pagination li.active a {
 	background-color: #a89968;
 	border-radius: 10px;
 	color: #000000;
+}
+
+ul.pagination li a:hover {
+	
+	border-radius: 10px;
+	color: black;
 }
 
 table#table {
