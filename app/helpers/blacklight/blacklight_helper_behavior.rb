@@ -264,7 +264,7 @@ module Blacklight::BlacklightHelperBehavior
     # DU: Locate 'links' field, add anchor tags to display as link on view
     # At this point, we can only handle link fields with single values (one link on record), not an array of multiple values.
     if options[:field] == "links"
-      value = "<a id='du-link' href='" + value.to_s + "'>" + value.to_s + "</a>"
+      value = "<a id='du-link' href='" + value.to_s + "' target='_blank'>" + value.to_s + "</a>"
       render_field_link_value value, field_config
     else
       render_field_value value, field_config
