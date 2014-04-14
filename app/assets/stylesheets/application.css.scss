@@ -277,6 +277,29 @@ article.floatbox {
 	z-index: 500;
 }
 
+a.btn {
+	
+	font-size: 13px;
+}
+
+div.pull-right a {
+	
+	color: #8b2332;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+div.page_links {
+	
+	color: #8b2332;
+	font-size: 15px;
+}
+
+span.constraints-label {
+	
+	font-size: 13px;
+}
+
 div.pagination {
 	
 }
@@ -430,7 +453,7 @@ ul.pagination li a {
 ul.pagination li.disabled a {
 	
 	background-color: #8b2332;
-	color: black;
+	color: white;
 }
 
 ul.pagination li.active a {
@@ -525,7 +548,7 @@ div.documentHeader.row {
 
 div[id*='doc_codu_'] h1 {
 
-	font-size: 27px;
+	font-size: 24px;
 }
 
 h5.index_title.col-sm-9.col-lg-10 {
