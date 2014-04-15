@@ -284,14 +284,50 @@ a.btn {
 
 div.pull-right a {
 	
-	color: #8b2332;
+	color: black;
+	background-color: white;
 	font-size: 16px;
-	font-weight: bold;
+	/*font-weight: bold;*/
+}
+
+div.pull-right.search-widgets a {
+	
+	background-color: #dedede;
+	color: #232323;
+}
+
+div.pull-right.search-widgets > a:hover {
+	
+	color: #232323;
+}
+
+div#sort-dropdown button a, 
+div#per_page-dropdown button a {
+	
+	background-color: white;
+}
+
+.panel-default > .panel-heading {
+
+  color: #333333;  
+  background-color: #dedede;
+  border-color: #dddddd;
+}
+
+.panel-default {
+	
+	margin-top: 35px;
+}
+
+div#previousNextDocument {
+	
+	padding-bottom: 25px;
+	padding-top: 15px;
 }
 
 div.page_links {
 	
-	color: #8b2332;
+	color: black;
 	font-size: 17px;
 }
 
