@@ -1,0 +1,39 @@
+<ul class="facet-values list-unstyled">
+  <% paginator =    
+      Blacklight::Solr::FacetPaginator.new(display_facet.items,        
+        :limit => facet_limit_for(solr_field))
+  %>
+  <% paginator.items.each do |item| -%>
+    <li>
+
+      <!-- Blacklight-du: Facet pane thumbnails -->
+      <!-- TODO: Create function that returns the image link -->
+      <% if item.value == "text" %>
+        <span class="facet-tn" style="margin-left: 2px;"><img src="assets/old-book-TN.png" width="23" height="23"/></span>
+      <% elsif item.value == "still image" %>
+        <span class="facet-tn"><img src="assets/picture-in-frame-TN.png" width="30" height="30"/></span>
+      <% elsif item.value == "sound recording" %>
+        <span class="facet-tn"><img src="assets/mic-TN.png" width="25" height="25"/></span>
+      <% elsif item.value == "map" %>
+        <span class="facet-tn"><img src="assets/map-TN.png" width="27" height="27"/></span>
+      <% elsif item.value == "moving image" %>
+        <span class="facet-tn" style="margin-left: -5px;"><img src="assets/film-camera-TN.png" width="30" height="30"/></span>
+      <% elsif item.value == "art reproduction" %>
+        <span class="facet-tn"><img src="assets/palette-TN.png" width="20" height="20"/></span>
+      <% elsif item.value == "scrapbook" %>
+        <span class="facet-tn"><img src="assets/scrap-TN.png" width="22" height="22"/></span>
+      <% end %>
+
+    <% if facet_in_params?( solr_field, item.value ) %>              
+        <%= render_selected_facet_value(solr_field, item) %>              
+      <% else %>              
+        <%= render_facet_value(solr_field, item) %>              
+    <% end -%>
+    </li>
+  <% end %>
+
+  <% if(paginator.has_next?)  %>
+    <li class="more_facets_link"><%= link_to(t('blacklight.search.facets.more'), params.merge(:id => solr_field, :action=>"facet", :page => nil), :class => "more_facets_link") %></li>
+  <% end %>
+
+</ul>
