@@ -235,6 +235,7 @@
          format_facet,
          type_facet,
          subject_facet,
+         thumbnail,
 
          score,
          author_display,
