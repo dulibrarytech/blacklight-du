@@ -125,10 +125,11 @@ module Blacklight::BlacklightHelperBehavior
   # @param [SolrDocument] document
   # @param [Blacklight::Solr::Configuration::SolrField] solr_field
   # @return [Boolean]
+  # Blacklight-du: Added last condition; future image fields should not be displayed in the regular field area
   def should_render_index_field? document, solr_field
-    document.has?(solr_field.field) ||
-      (document.has_highlight_field? solr_field.field if solr_field.highlight) ||
-      solr_field.accessor
+    (document.has?(solr_field.field) ||
+          (document.has_highlight_field? solr_field.field if solr_field.highlight) ||
+          solr_field.accessor) && solr_field.field != "local_identifier"
   end
 
   ##
@@ -137,10 +138,11 @@ module Blacklight::BlacklightHelperBehavior
   # @param [SolrDocument] document
   # @param [Blacklight::Solr::Configuration::SolrField] solr_field
   # @return [Boolean]
+  # Blacklight-du: Added last condition; future image fields should not be displayed in the regular field area
   def should_render_show_field? document, solr_field
-    document.has?(solr_field.field) ||
-      (document.has_highlight_field? solr_field.field if solr_field.highlight) ||
-      solr_field.accessor
+    (document.has?(solr_field.field) ||
+            (document.has_highlight_field? solr_field.field if solr_field.highlight) ||
+            solr_field.accessor) && solr_field.field != "local_identifier"
   end
 
   ##
@@ -162,6 +164,7 @@ module Blacklight::BlacklightHelperBehavior
   # @overload render_index_field_label(document, options)
   #   Allow an extention point where information in the document
   #   may drive the value of the field
+
   #   @param [SolrDocument] doc
   #   @param [Hash] opts
   #   @options opts [String] :field    
