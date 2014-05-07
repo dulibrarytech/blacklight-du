@@ -219,8 +219,12 @@ module Blacklight::BlacklightHelperBehavior
     field = args.shift || options[:field]
     field_config = index_fields(document)[field]
     value = options[:value] || get_field_values(document, field, field_config, options)
-    link = '<img src="' + value + '" class="tn-image"></img>'
-    link.html_safe
+    if value != nil && val != ""
+      link = '<img src="' + value + '" class="tn-image"></img>'
+      link.html_safe
+    else
+      ""
+    end
   end
 
   ##
