@@ -1,0 +1,11 @@
+Restart rails server: Kill rails process, become user rvm-ruby, navigate to main BL folder, start rails server.
+
+Re-index blacklight:	1. Stop solr
+						2. Remove [BL]/solr/jetty/solr/[collection1]/data
+						3. Restart solr
+						4. Verify 0 docs
+						5. Post new objects
+
+Upload index to server: 1. Stop solr on server
+						2. remove folder [BL]/solr/jetty/solr/[collection1]  <- name of solr core folder
+						3. Replace with new collection1 folder
