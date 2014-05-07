@@ -47,10 +47,20 @@ a:hover {
 	color: #DDDDDD;
 }
 
-dt[class*='blacklight-']  {
+dt[class*='blacklight-'] {
 	
 	color: #8b2332;
 	font-weight: bold;
+}
+
+div[id*='doc_codu-'] dl dd{
+	
+	font-size: 18px;
+}
+
+div[id*='doc_codu-'] h1 {
+	
+	font-size: 29px;
 }
 
 img.tn-image {
