@@ -53,6 +53,12 @@ dt[class*='blacklight-']  {
 	font-weight: bold;
 }
 
+img.tn-image {
+	
+	height: 140px;
+	width: 120px;
+}
+
 div#bg-container {
 	
 	background-color: #e5e3e1;
@@ -602,6 +608,11 @@ div[id*='doc_codu_'] h1 {
 h5.index_title.col-sm-9.col-lg-10 {
 	
 	font-size: 19px;
+}
+
+table#index-row {
+	
+	width: 900px;
 }
 
 div#related-articles {

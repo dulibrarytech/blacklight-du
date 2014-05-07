@@ -129,7 +129,7 @@ module Blacklight::BlacklightHelperBehavior
   def should_render_index_field? document, solr_field
     (document.has?(solr_field.field) ||
           (document.has_highlight_field? solr_field.field if solr_field.highlight) ||
-          solr_field.accessor) && solr_field.field != "local_identifier"
+          solr_field.accessor) && solr_field.field != "thumbnail"
   end
 
   ##
@@ -142,7 +142,7 @@ module Blacklight::BlacklightHelperBehavior
   def should_render_show_field? document, solr_field
     (document.has?(solr_field.field) ||
             (document.has_highlight_field? solr_field.field if solr_field.highlight) ||
-            solr_field.accessor) && solr_field.field != "local_identifier"
+            solr_field.accessor) && solr_field.field != "thumbnail"
   end
 
   ##
@@ -210,9 +210,22 @@ module Blacklight::BlacklightHelperBehavior
     render_field_value value, field_config
   end
 
+  # Blacklight-du
+  # Render the thumbnail field value (preview image)
+  def render_image_preview *args
+    options = args.extract_options!
+    document = args.shift || options[:document]
+
+    field = args.shift || options[:field]
+    field_config = index_fields(document)[field]
+    value = options[:value] || get_field_values(document, field, field_config, options)
+    link = '<img src="' + value + '" class="tn-image"></img>'
+    link.html_safe
+  end
+
   ##
   # Render the show field label for a document
-  #
+  ##
   # @overload render_document_show_field_label(options)
   #   Use the default, document-agnostic configuration
   #   @param [Hash] opts

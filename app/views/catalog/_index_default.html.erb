@@ -1,7 +1,7 @@
 <%# default partial to display solr document fields in catalog index view -%>
 <dl class="document-metadata dl-horizontal dl-invert">
   
-	<table>
+	<table id="index-row">
 	  	<tr>
 	  		<td width="80%">
 	  			<% index_fields(document).each do |solr_fname, field| -%>
@@ -14,7 +14,11 @@
 
 			<!-- Thumbnail preview section -->
 			<td width="20%" align="right">
-				<!--img href='http://' width='100' height='200'/>TEST<-->
+				<% index_fields(document).each do |solr_fname, field| -%>
+					<% if solr_fname == 'thumbnail' %>
+						<%= render_image_preview document, :field => solr_fname %>
+					<% end -%>
+				<% end -%>
 			</td>
 		</tr>
 	</table>
