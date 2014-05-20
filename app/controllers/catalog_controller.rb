@@ -120,9 +120,10 @@ class CatalogController < ApplicationController
     config.add_show_field 'type', :label => 'Type'
     config.add_show_field 'format', :label => 'Format'
     config.add_show_field 'subject', :label => 'Subject'
-    config.add_show_field 'abstract', :label => 'Abstract'
+    config.add_show_field 'abstract', :label => 'Description'
     config.add_show_field 'identifier', :label => 'Identifiers'
     config.add_show_field 'links', :label => 'Online'
+    config.add_show_field 'publisher', :label => 'Publisher'
     
 
     # "fielded" search configuration. Used by pulldown among other places.
