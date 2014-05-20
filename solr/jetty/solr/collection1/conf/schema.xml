@@ -133,6 +133,7 @@ be used for benchmarking.  To improve performance one could
   <field name="identifier" type="text_general" indexed="true" stored="true" multiValued="true"/>
   <field name="type" type="text_general" indexed="true" stored="true" multiValued="true"/>
   <field name="thumbnail" type="string" indexed="true" stored="true" multiValued="false"/>
+  <field name="publisher" type="text_general" indexed="true" stored="true" multiValued="false"/>
       
  <field name="sku" type="text_en_splitting_tight" indexed="true" stored="true" omitNorms="true"/>
  <field name="name" type="text_general" indexed="true" stored="true"/>
