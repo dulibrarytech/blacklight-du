@@ -53,6 +53,12 @@ dt[class*='blacklight-'] {
 	font-weight: bold;
 }
 
+td dt[class*='blacklight-'] {
+	
+	color: #8b2332;
+	font-weight: normal;
+}
+
 div[id*='doc_codu-'] dl dd{
 	
 	font-size: 18px;
@@ -594,13 +600,15 @@ div#content.col-md-9.show-document {
 
 dl.dl-horizontal.dl-invert {
 	
-	font-size: 15px;
+	font-size: 18px;
 	padding-top: 50px;
 }
 
 dl.document-metadata.dl-horizontal.dl-invert {
 	
+	font-size: 15px;
 	padding-top: 20px;
+
 }
 
 div#appliedParams {
