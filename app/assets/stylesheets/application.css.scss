@@ -58,9 +58,11 @@ div[id*='doc_codu-'] dl dd{
 	font-size: 18px;
 }
 
-div[id*='doc_codu-'] h1 {
+div[id*='doc_codu-'] h1,
+div[id*='doc_'] h1 {
 	
-	font-size: 29px;
+	font-size: 28px;
+	margin-left: 35px;
 }
 
 img.tn-image {
@@ -571,6 +573,12 @@ div#facets.facets.sidenav/*, div#content.col-md-9*/ {
 div.facet-tn-section{
 	
 	height: 32px;
+}
+
+li.facet-item {
+	
+	height: 30px;
+	padding-bottom: 0px;
 }
 
 div#content.col-md-9 {
