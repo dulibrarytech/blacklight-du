@@ -14,11 +14,16 @@
 
 			<!-- Thumbnail preview section -->
 			<td width="20%" align="right">
+
+				<!-- Get the links url for the 'thumbnail image link' target --> 
+				<% image_link_url = document[:links] %>
+
 				<% index_fields(document).each do |solr_fname, field| -%>
 					<% if solr_fname == 'thumbnail' %>
-						<%= render_image_preview document, :field => solr_fname %>
+						<%= render_image_preview document, :url => image_link_url, :field => solr_fname %>
 					<% end -%>
 				<% end -%>
+
 			</td>
 		</tr>
 	</table>
