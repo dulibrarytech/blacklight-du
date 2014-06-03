@@ -221,7 +221,7 @@ module Blacklight::BlacklightHelperBehavior
     value = options[:value] || get_field_values(document, field, field_config, options)
     if value != nil && value != ""
       #link = '<img src="' + value + '" class="tn-image"></img>'
-      link = link_to image_tag(value, class: "tn-image"), options[:url]
+      link = link_to image_tag(value, class: "tn-image"), options[:url], :target => "_blank"
       link.html_safe
     else
       "" # return an empty string
