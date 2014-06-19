@@ -468,6 +468,24 @@ div.row {
 	width: 50px;
 }
 
+@-moz-document url-prefix() {
+	
+	#search {
+	
+		height: 45px;
+	}
+
+	#q.form-control {
+		
+		height: 47px;
+	}
+
+	span#search-field-dropdown.input-group-addon {
+
+		height: 40px;
+	}
+}
+
 ul.util-links {
 	
 	list-style-type: none;
@@ -680,3 +698,4 @@ div#aac-banner-image {
 .searchContainer .headerSearch input[type='search'] { color:#444; }
 .searchContainer .headerSearch input.searchField { position:relative; top:-5px; }
 .searchContainer .headerSearch .btnSearch { top:1px; }
+
