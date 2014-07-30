@@ -7,22 +7,22 @@
     <li class="facet-item">
 
       <!-- Blacklight-du: Facet pane thumbnails -->
-      <% if item.value == "text" %>
-        <span class="facet-tn"><%= image_tag "old-book-TN.png", size: "25x25" %></span>
-      <% elsif item.value == "still image" %>
-        <span class="facet-tn" style="margin-left: -2px;"><%= image_tag "picture-in-frame-TN.png", size: "33x32" %></span>
+      <% if item.value == "still image" %>
+        <span class="facet-tn" style="margin-left: -2px; position: absolute; top: 162px; left: 32px"><%= image_tag "picture-in-frame-TN.png", size: "33x30" %></span>
+      <% elsif item.value == "text" %>
+        <span class="facet-tn"><%= image_tag "old-book-TN.png", size: "25x25", style: "margin-top: -5px;" %></span> 
       <% elsif item.value == "sound recording" %>
-        <span class="facet-tn"><%= image_tag "mic-TN.png", size: "25x27" %></span>
+        <span class="facet-tn"><%= image_tag "mic-TN.png", size: "25x27", style: "margin-top: -5px;" %></span>
       <% elsif item.value == "map" %>
-        <span class="facet-tn"><%= image_tag "map-TN.png", size: "29x29" %></span>
+        <span class="facet-tn" style="margin-left: -5px;"><%= image_tag "map-TN.png", size: "29x29", style: "margin-top: -7px;" %></span>
       <% elsif item.value == "moving image" %>
-        <span class="facet-tn" style="margin-left: -5px;"><%= image_tag "film-camera-TN.png", size: "30x27" %></span>
+        <span class="facet-tn" style="margin-left: -5px;"><%= image_tag "film-camera-TN.png", size: "30x27", style: "margin-top: -5px;" %></span>
       <% elsif item.value == "art reproduction" %>
-        <span class="facet-tn"><%= image_tag "palette-TN.png", size: "27x27" %></span>
+        <span class="facet-tn"><%= image_tag "palette-TN.png", size: "27x27", style: "margin-top: -5px;" %></span>
       <% elsif item.value == "scrapbook" %>
-        <span class="facet-tn"><%= image_tag "scrap-TN.png", size: "27x27" %></span>
+        <span class="facet-tn"><%= image_tag "scrap-TN.png", size: "27x27", style: "margin-top: -5px;" %></span>
       <% elsif item.value == "archival resource" %>
-        <span class="facet-tn" style="margin-left: -5px;"><%= image_tag "archive-TN.jpg", size: "32x30" %></span>
+        <span class="facet-tn" style="margin-left: -5px;"><%= image_tag "archive-TN.jpg", size: "32x30", style: "margin-top: -10px;" %></span>
       <% end %>
 
     <% if facet_in_params?( solr_field, item.value ) %>              
