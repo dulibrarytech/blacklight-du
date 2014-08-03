@@ -8,7 +8,7 @@
 
       <!-- Blacklight-du: Facet pane thumbnails -->
       <% if item.value == "still image" %>
-        <span class="facet-tn" style="margin-left: -2px; position: absolute; top: 162px; left: 32px"><%= image_tag "picture-in-frame-TN.png", size: "33x30" %></span>
+        <span class="facet-tn" id="still-image-tn"><%= image_tag "picture-in-frame-TN.png", size: "33x30" %></span>
       <% elsif item.value == "text" %>
         <span class="facet-tn"><%= image_tag "old-book-TN.png", size: "25x25", style: "margin-top: -5px;" %></span> 
       <% elsif item.value == "sound recording" %>
