@@ -1,0 +1,1898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T01:04:34Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63414</identifier>
+    <datestamp>2013-01-28T20:39:39Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>A CROSS-SHEAR-BASED NUMERICAL WEAR MODEL OF INTERVERTEBRAL DISC IMPLANTS</dc:title>
+  <dc:creator>Ghiglieri, William Andrew</dc:creator>
+  <dc:contributor>Mechanical Engineering</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>September 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>Ultra high molecular weight polyethylene is the bearing surface of choice for implants, but because of wear, it is often a limiting factor for the longevity of the implant. Understanding the wear potential of new implants such as the total disc replacement (TDR) is critical due to their rise in clinical implementation. Unidirectional motion shows dramatically lower wear rates then multidirectional motion due to a phenomenon known as cross-shear. Previously, numerical wear models did not incorporate cross-shear, limiting the accuracy of the model for prediction of wear over multiple loading conditions. The objective of this study was to develop an adaptive finite element model to study the effects of cross-shear wear of TDR over multiple loading conditions. The framework for the calculation of wear was developed from a previous wear model used in the hip and knee, and updated to include cross-shear based upon the A/(A+B) theory of Turell et al. Based on the sliding distances and directions, the model computed a wear factor for each node which was used to adaptively compute the wear at each update interval representing ten million wear cycles. The platform was applied to the lumbar ProDisc implant (ProDisc-L) TDR, and run for 10 million wear cycles with multiple loading conditions to find how the varying cross-path motions affected wear. Next, a cervical ProDisc (ProDisc-C) implant was run with three different loading conditions and compared to experimental results to validate the cross-shear based model using the A/(A+B) method and a modified A/(A+B) method.As expected with unidirectional motion, the lumbar model predicted the wear to be essentially zero. With multidirectional motion, the more cross path motion experienced, the higher the wear. Using the A/(A+B) method, the cervical model showed good agreement in trend to the experimental wear results, while the modified A/(A+B) method showed good agreement in trend and value to the experimental results.  Even though this model uses a simplification of the wear process, the results prove that by incorporating cross-shear into a numerical wear analysis, the wear rates can be accurately predicted.</dc:description>
+  <dc:description>MS</dc:description>
+  <dc:format>108</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63414</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63414</dc:identifier>
+  <dc:contributor>Rullkoetter, Paul J.</dc:contributor>
+  <dc:contributor>Matin, Mohammad</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+  <dc:contributor>Laz, Peter</dc:contributor>
+  <dc:contributor>Lengsfeld, Corinne</dc:contributor>
+  <dc:subject>Mechanical engineering</dc:subject>
+  <dc:subject>Biomedical research</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63049</identifier>
+    <datestamp>2013-01-28T20:41:33Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>A New Heaven and A New Earth: The Book of Revelation and Latin American Liberation Theology</dc:title>
+  <dc:creator>Olson, Alicia M</dc:creator>
+  <dc:contributor>Religious Studies</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>June 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>The Apocalypse of John is often cited as a favorite text of base communities in Latin America, but little has been written about how Revelation is interpreted in this context. Works on Revelation by four Latin American liberationist authors, Pablo Richard, Carlos Mesters, Jorge Pixley, and Justo Gonzalez, are discussed in detail.  Content, method, and the influence of the themes of liberation theology on their interpretations of the Apocalypse are discussed in relation to each.  Liberationist readings of Revelation are oriented toward the present in such a way that they do not ignore the past or future, but rather find in the past a mirror of the present struggles and in Revelation&apos;s visions of the future a model for liberating activity in the present.</dc:description>
+  <dc:description>MA</dc:description>
+  <dc:subject>Religion, General--Latin American Liberation Theology; Bible--Revelation; Carlos Mesters; Pablo Richard; Jorge Pixley; Justo Gonzalez</dc:subject>
+  <dc:format>75</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63049</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63049</dc:identifier>
+  <dc:contributor>Robbins, Gregory</dc:contributor>
+  <dc:contributor>Leon, Luis</dc:contributor>
+  <dc:contributor>Wadsworth, Nancy</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63189</identifier>
+    <datestamp>2013-01-28T20:44:22Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>A NEW METHODOLOGY FOR DEVELOPING FUELS DATA FOR FIRE SIMULATION MODELS IN THE COLORADO FRONT RANGE</dc:title>
+  <dc:creator>Walsh, Benjamin David</dc:creator>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>June 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>The use of fire simulation models for hazard assessment in topographically diverse and fire sensitive regions such as Colorado&apos;s Front Range has been used effectively.  The Hayman Fire, which burned over an area of more than 138,000 acres, highlighted the need for accurate hazard assessment in such areas.  In this study, a new methodology is implemented, which addresses the issues of differential illumination and delineation of spectrally similar fuels categories as they relate to generating the critical fuels data layer necessary for effective fire simulations.  
+				
+The methods are designed to be streamlined, resource efficient, and robust.  Although fuels data are already being generated by the Forest Service for much of the United States, the resources employed to do so are not representative of those of many individuals and organizations who may have a desire to quantify the fire hazard present in their area.  This research develops and tests a methodology which is capable of generating similarly effective fuels data in a much more streamlined and less resource intensive way.  The result is a functionally similar fuels layer to that developed by the Forest Service.  A statistical comparison of the two layers shows a 76% accuracy rate in fuel model delineation.</dc:description>
+  <dc:description>MA</dc:description>
+  <dc:subject>Geography--Geotechnology</dc:subject>
+  <dc:format>90</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63189</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63189</dc:identifier>
+  <dc:contributor>Keables, Michael J.</dc:contributor>
+  <dc:contributor>Berry, Joseph</dc:contributor>
+  <dc:contributor>Anderson, Sharolyn</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63210</identifier>
+    <datestamp>2013-01-28T21:02:12Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>A Quantitative Molecular Technique for Studying Competition Among Strains of Micromonas pusilla</dc:title>
+  <dc:creator>Olsofka, Claire</dc:creator>
+  <dc:contributor>Biological Sciences</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>November 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>In order to study competitive interactions of a globally important picophytoplankton, Micromonas pusilla, a novel methodology enlisting quantitative polymerase chain reaction (qPCR) was used to determine cell abundance among three different strains of M. pusilla.  Phytoplankton are important primary producers and play a vital role in aquatic food webs.  M. pusilla remains a cryptic species in its global distribution; while genetic differences separate strains of M. pusilla, it exhibits morphologically indistinguishable characteristics.  Optimization and validation of methods for qPCR involved primer and probe specificity for three M. pusilla strains (CCMP488, CCMP491, CCMP1195) as well as qPCR amplification efficiency, and standard curves based on the relationship between β-tubulin gene copies and cells.  Competition assays were based on semicontinuous growth methods whereby strains were mixed together at different temperatures and transferred weekly.  CCMP1195 outgrew CCMP491 at 22°C; however, the opposite trend occurred at 26°C.  While little information is known about the global distribution of M. pusilla, it was found that temperature influences the distribution and competition of the different strains studied.  This novel molecular technique reveals a new ways to observe the dynamic properties of the temperature of the ocean.</dc:description>
+  <dc:description>MS</dc:description>
+  <dc:subject>Biology, General</dc:subject>
+  <dc:format>99</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63210</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63210</dc:identifier>
+  <dc:contributor>Dores, Robert</dc:contributor>
+  <dc:contributor>Smith, Dwight</dc:contributor>
+  <dc:contributor>Short, Steven</dc:contributor>
+  <dc:contributor>Angleson, Joseph</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63556</identifier>
+    <datestamp>2013-01-28T21:05:29Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>A Study of Colorado&apos;s TABOR Law and Its Influence on Public Finance During the 2001 Recession</dc:title>
+  <dc:creator>Brewer, Zak</dc:creator>
+  <dc:contributor>Economics</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>Colorado&apos;s constitutional Taxpayer Bill of Rights (TABOR) is a product of the citizen initiative process, a mechanism of direct democracy that allows citizens to circumvent legislatures and enact laws themselves.  A prominent argument against this process is that such a mode of lawmaking can generate conflicts within state constitutions and bring about unintended consequences.  This paper considers the Colorado state budget difficulties that arose during the 2001 recession, the relationship of TABOR and those difficulties, and finds that TABOR resulted in unintended consequences that were unforeseen by voters who approved the measure.  Examples of these unanticipated, unintended consequences include: significant budget cuts for higher education, reductions in state mental health services, and insufficiencies within the TABOR law regarding how TABOR refunds were to be made.</dc:description>
+  <dc:description>M.A.</dc:description>
+  <dc:subject>Economics, Finance</dc:subject>
+  <dc:format>76</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63556</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63556</dc:identifier>
+  <dc:contributor>Wilson, Matthew</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:contributor>Freeman, Katherine</dc:contributor>
+  <dc:contributor>Mott, Tracy</dc:contributor>
+  <dc:contributor>Sterett, Susan</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63005</identifier>
+    <datestamp>2013-01-28T21:08:33Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>ADAPTIVE NEURO-FUZZY MODELING AND ITS APPLICATION TO AUTONOMOUS NAVIGATION</dc:title>
+  <dc:creator>Mitra, Arjun</dc:creator>
+  <dc:contributor>Computer Engineering</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>September 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>This thesis research project proposes modeling dynamic environments defined in Cartesian space utilizing the inherent linear separability property of neural networks. The activation function of the neurons fuzzifies the linear separation of points in Cartesian space. The composition of sets of linearly separated points create an entity or agent in the environment.Due to the parallel nature of artificial neural networks this model is parallely decomposable and reduces the computation time either when incorporated on a hardware neural network platform or by utilizing multithreading in a simple processor. Hence, not only does this modeling methodology provide an efficient and viable mechanism to model the environment, but simultaneously creates a decision space (fuzzy membership), that provides meaningful information about the interaction of the entities in the universe of discourse.To test this modeling methodology, it was applied to the domain of autonomous robot navigation in two dimensional Cartesian space. A number of computer simulations were carried out to test the feasibility of using the neuro-fuzzy modeling architecture with the Artificial Potential Fields (APF) method of robot navigation and the hybrid A-star (A*) - APF navigation strategy. The results of the simulations proved that the neuro-fuzzy modeling architecture can be successfully interfaced with the hybrid A-star (A*) - APF navigation strategy to provide a viable navigation heuristic for autonomous holonomic robot navigation in a dynamic environment.</dc:description>
+  <dc:description>MS</dc:description>
+  <dc:subject>Computer Science--Engineering, Robotics--Autonomous robot navigation; neural networks; hybrid neuro-fuzzy architecture; A star algorithm; Artificial Potential Fields</dc:subject>
+  <dc:format>86</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63005</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63005</dc:identifier>
+  <dc:contributor>Jones, Irvin</dc:contributor>
+  <dc:contributor>Newman, Kim</dc:contributor>
+  <dc:contributor>Narapareddy, Vijaya L.</dc:contributor>
+  <dc:contributor>Salters, Roger</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63024</identifier>
+    <datestamp>2013-01-28T21:10:36Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>American Protestant Fundamentalist Anti-Intellectualism in Historical and Critical Perspective</dc:title>
+  <dc:creator>Tillman, Rachel</dc:creator>
+  <dc:contributor>Religious Studies</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>June 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>This paper seeks to explore what is meant by the common scholarly characterization of American Protestant fundamentalists as &quot;anti-intellectual.&quot; Fundamentalists are heirs of the nineteenth century evangelical assimilation of popular Baconian science and Common to Christian Scripture. Yet as popular intellectual currents shifted to Darwinism and scientific positivism, the fundamentalists increasingly withdrew from the public intellectual sphere, placing Biblical faith in opposition to human reason. The combination of an uncritical acceptance of nineteenth century philosophy and a wholesale retreat from the public intellectual realm created an array of obstacles for fundamentalists&apos; engagement with the life of the mind. Yet more importantly, as a result of this history, the fundamentalists embraced an essentially self-contradictory theological epistemology that both relied on and denied the capacity of the natural human mind to know truth. In order to understand how the tensions within this position are resolved by the fundamentalist community, this paper examines how literalist readings of Scripture, themselves based on positive Common Sense epistemology, are used to defend a strong anti-intellectual bias. David Kelsey&apos;s analysis of theology as &apos;imaginative construal&quot; is used to show how fundamentalists discovered within literalist, Baconian readings of Scripture doctrines that justify their anti-intellectual stance.</dc:description>
+  <dc:description>MA</dc:description>
+  <dc:subject>Religion, General--Philosophy--Fundamentalism; evangelicalism; anti-intellectual; inerrancy; theology; Common Sense philosophy</dc:subject>
+  <dc:format>86</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63024</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63024</dc:identifier>
+  <dc:contributor>Raschke, Carl</dc:contributor>
+  <dc:contributor>Reshotko, Naomi</dc:contributor>
+  <dc:contributor>Robbins, Gregory</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63563</identifier>
+    <datestamp>2013-01-28T21:13:48Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>An Inquiry into the Metaphysical Foundations of Mathematics in Economics</dc:title>
+  <dc:creator>Luna, Edgar</dc:creator>
+  <dc:contributor>Economics</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>Economics is supposed to fall somewhere between a hard science and a social science.  During the last half century, economics has become highly mathematical trying to mimic physics.  The purpose of this study is to look at the metaphysical statements linked to mathematical models, specifically, Game Theory.  In doing so, it will be demonstrated that Game Theory, as part of neoclassical economics, engages in analysis which can be categorized as metaphysical, with real metaphysical implications.  In categorizing the metaphysical assumptions of neoclassical economists/game theorists we will see how much of their analysis is consists in a reductive, implausible metaphysical view.  Problems that arise from this view are hardly taken into consideration most economists.  This lack of consideration has non-trivial consequences for economics as a discipline and for its methodology.</dc:description>
+  <dc:description>M.A.</dc:description>
+  <dc:subject>Economics, Theory--Philosophy--Economics, History--Economic Methodology--History of Economic Thought--Philosophy of Mathematics--Philosophy of Science</dc:subject>
+  <dc:format>122</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63563</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63563</dc:identifier>
+  <dc:contributor>Urquhart, Robert</dc:contributor>
+  <dc:contributor>Mott, Tracy</dc:contributor>
+  <dc:contributor>Upton, Candace</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63209</identifier>
+    <datestamp>2013-01-28T21:17:55Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Applications of High-Speed Infrared Spectroscopy</dc:title>
+  <dc:creator>Holubowitch, Nicolas Edward</dc:creator>
+  <dc:contributor>Chemistry and Biochemistry</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>September 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>This thesis discusses four major projects performed at the University of Denver utilizing high-speed infrared spectroscopy for gas phase detection of carbon dioxide and other species. One project was performed for ADA-ES based in Littleton, Colorado as an investigation of potential new materials (or novel combinations of existing materials) for the capture of carbon dioxide in flue gases emitted by power plants. A second project uses traditional remote sensing instrumentation developed at DU to create a modified fast-response continuous remote sensor that can be placed at one side of the road. Hopes are to ultimately couple this technology with other detectors (i.e. PM detectors) to monitor species which cannot currently be quantified using across-the-road techniques. Third, a series of tests was performed on FEAT instruments to make them easier to use. And finally, a study of diesel truck emissions was performed in California and findings are presented and compared to new EPA standards.</dc:description>
+  <dc:description>MS</dc:description>
+  <dc:subject>Chemistry, Analytical</dc:subject>
+  <dc:format>139</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63209</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63209</dc:identifier>
+  <dc:contributor>Stedman, Donald H.</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63388</identifier>
+    <datestamp>2013-01-28T21:20:02Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Characterization of Nano-Confined Lipids Using FTIR and EPR Spectroscopy</dc:title>
+  <dc:creator>Kryszak, Kristin D</dc:creator>
+  <dc:contributor>Chemistry and Biochemistry</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>September 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>An optical biosensor can used to study biological membrane interactions. In order to create such a biosensor, the membrane is supported on a solid support substrate, anodic aluminum oxide (AAO) discs. This will protects the membrane from contaminants while increasing the surface area able to be studied. The overall goal of this project is to create an optical biosensor in order to detect interactions with biological membranes.The nature of the discontinuous chain-melting transition of nanopore-confined saturated phosphatidylcholines has been characterized by FTIR and EPR spectroscopy and compared to aqueous vesicle dispersions. Determined by FTIR spectroscopy, confinement alters the melting temperature of the DPPC bilayers, increasing it slightly in the heating direction and reducing it by as much as 1.5°C in the cooling direction. Moreover, the cooperative nature of the Lβ&apos; (gel phase) ↔  Lα&apos; (liquid crystalline phase) is reduced at least in the cooling direction.Investigation of the CH2 wagging modes gives us a more direct look at the amount of gauche rotomers in the lipid acyl chain. The nanopores influence the extent of rotomer formation, not decreasing it as we initially thought. The largest change appears in gauche rotomers contained in double gauche.Using the order parameters determined by EPR with doxylstearate spin labels, the number of gauche rotomers in the liquid crystalline phase was estimated. The calculated gauche content per molecule (using the 5-doxyl) is 8.19 which compares well to the values of 8.18 obtained from the FTIR analysis. For the AAO confined lipids the calculated gauche content is 8.71, when a slightly higher value of 9.20 was obtained by FTIR. The EPR order parameters suggest that the AAO cause a reduction of disorder mostly in the gel phase. The reduction in long axis rotation observed in FTIR experiments is confirmed by EPR. It appears that confinement favors trans-gauche isomerization over rotation.</dc:description>
+  <dc:description>MS</dc:description>
+  <dc:subject>Chemistry, Biochemistry--Biophysics, General--Chemistry, Physical--Supported Lipids; Anodic Aluminum Oxide; Nanopores; DPPC; Doxylstearate; Wagging Modes</dc:subject>
+  <dc:format>189</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63388</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63388</dc:identifier>
+  <dc:contributor>Wells, Todd A.</dc:contributor>
+  <dc:contributor>Sadler, Susan E.</dc:contributor>
+  <dc:contributor>Stedman, Donald H.</dc:contributor>
+  <dc:contributor>Eaton, Sandra S.</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62923</identifier>
+    <datestamp>2013-02-04T18:24:40Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Chasing the Buffalo off of Main Street:  The Evaluation of Economic Vitality in Rural High Plains Towns</dc:title>
+  <dc:creator>Rolander-Peterson, Heidi Anne</dc:creator>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>June 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>Author: Heidi Rolander-PetersonTitle: Chasing the Buffalo off of Main Street:The Evaluation of Economic Vitality in Rural High Plains TownsAdvisor: Dr. Andrew GoetzDegree Date: June 2008ABSTRACTThis study is an examination of how prolific the transformation of therural small town (population between 1000 and 5000 persons) and Main Streethas been since 1950. The study uses established criteria including population,density, age, and downtown vacancy to examine the vitality of the ruraldowntown. The research is divided into several components including acomprehensive literature review of the data and analysis recorded by writers andscholars over the last one hundred years. Encompassed in the literature review isdescription of what elements of commerce, infrastructure, buildings and businesscompose the small town downtown followed by data collected for an originalindex of vitality. The study sought to determine the relationship between thevitality of the downtown business core and the implementation of economicdevelopment plans and concluded that based on the data collected and statisticalanalysis of that data that a definitive conclusion could not be reached.The study did reveal that population loss on the high plains on the UnitedStates is more prevalent in the hinterlands than in small towns themselves. It canalso be concluded that in addition to the data collected town assets, human capital,economic development plans, entrepreneurship, and human capital may impactthe vitality of rural Main Street.DPDoFcumentsCompleteClick Here &amp; UpgradeExpanded FeaturesUnlimited Pages</dc:description>
+  <dc:description>MA</dc:description>
+  <dc:subject>Geography</dc:subject>
+  <dc:format>143</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62923</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:62923</dc:identifier>
+  <dc:contributor>Goetz, Andrew R.</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63157</identifier>
+    <datestamp>2013-02-04T18:26:10Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Classroom Ethnography: Focus on Communication</dc:title>
+  <dc:creator>Bronder, Melissa M.</dc:creator>
+  <dc:contributor>Anthropology</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>June 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>I conducted research at three educational sites, a private learning center and two sites in a Denver Public middle school, to attempt to investigate what combination of curriculum, teaching methods, and expectations lead to the formation of a classroom culture that enables students to become self-motivated learners.  My theoretical base drew heavily upon social scientists who researched communication, student alienation, and political minority student success and failure.  I found that the teachers who actively created a successful classroom culture were conscious of their verbal and non-verbal communication styles and methods, were highly cognizant of the dynamics involved in the student-teacher relationship, and helped the students to believe in themselves and develop a long-term perspective.  The teachers who did not enable students to become self-motivated learners practiced a teaching philosophy that I termed debilitating sympathy, through which they focused on the students&apos; immediate present and ultimately perpetuated an oppressive education system.</dc:description>
+  <dc:description>MA</dc:description>
+  <dc:subject>Anthropology, Cultural--Education, Administration--Education, Curriculum and Instruction--Afterschool programs; student success or failure; student alienation; political minority students; classroom ethnography; classroom communication</dc:subject>
+  <dc:format>239</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63157</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63157</dc:identifier>
+  <dc:contributor>Ehlers, Tracy</dc:contributor>
+  <dc:contributor>Clark, Bonnie</dc:contributor>
+  <dc:contributor>Clemmer-Smith, Richard</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63564</identifier>
+    <datestamp>2013-02-04T18:28:44Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>CONTINUING THE GREAT DEBATE:  THE INTRINSIC VALUE OF THE LEADING INDEX</dc:title>
+  <dc:creator>Morgan, Seth</dc:creator>
+  <dc:contributor>Economics</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>The following work is a look into the history and value of the composite index of leading indicators. Current and past business cycle theory is explored to demonstrate the relevance of a tool like the composite index of leading indicators. An argument that business cycle theory has not proven sufficient in explaining changes in the direction of the economy is made. The notion that the composite leading index has a proven track record of successfully predicting movements in the economy is reviewed. The conclusion becomes the idea that since theory and its forecasting counterparts have not proven a reliable method to predict movements in the economy, a tool like the composite leading index is valuable.</dc:description>
+  <dc:description>M.A.</dc:description>
+  <dc:subject>Economics, Theory--Economics, General--Economics, Commerce-Business--Conference Board--Economic Indicators--Leading Index--Leading Indicators--Philip Klein--Victor Zarnowtiz</dc:subject>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63564</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63564</dc:identifier>
+  <dc:contributor>Mott, Tracy</dc:contributor>
+  <dc:contributor>Schulten, Susan</dc:contributor>
+  <dc:contributor>Urquhart, Robert</dc:contributor>
+  <dc:contributor>Freeman, Kathy</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63112</identifier>
+    <datestamp>2013-02-04T18:30:34Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Contradictions in Creole Identity: Reflections from Cape Verde</dc:title>
+  <dc:creator>Craig, Brett Janson</dc:creator>
+  <dc:contributor>International and Intercultural Communication</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>September 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>The history of the islands of Cape Verde has created a creole language (Crioulo) and people strongly tied to their complex linguistic identities.  The presence of Portuguese as an official language throughout this history has created complex and contradictory identity associations among its inhabitants.  These identities have always been contingent upon the presence of an external factor which initiates the association, and often contradiction, in individuals dependent upon how they wish to be perceived.  The two languages in Cape Verde carry with them extensive connotations of socio-economic, political, and racial status, and the Cape Verdeans often move between groups as they perform their cultural identity.  The presence of an outsider (the author) who is also a missionary, adds significantly to these contradictions as identities are constructed and shaped dependent upon the identity (and perceived identity) of that external presence.</dc:description>
+  <dc:description>MA</dc:description>
+  <dc:subject>Anthropology, Cultural--Language, General--Sociology, Ethnic and Racial Studies--Creole language and identity; language and culture; positionality; autoethnography; privilege</dc:subject>
+  <dc:format>100</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63112</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63112</dc:identifier>
+  <dc:contributor>Calafell, Bernadette Marie</dc:contributor>
+  <dc:contributor>Prince, Rob</dc:contributor>
+  <dc:contributor>Willink, Kate</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62912</identifier>
+    <datestamp>2013-02-04T18:34:42Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Cowboy Ride</dc:title>
+  <dc:creator>Monserrate, Rachel</dc:creator>
+  <dc:contributor>Mass Communications</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>September 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>Cowboy Ride
+A Video Documentary of the Threats to Livelihood
+Ranchers Face in Southeastern WyomingAn Abstract of a Thesis 
+Presented to the Faculty of Social Sciences
+Mass Communications and Journalism Studies
+University of DenverIn Partial Fulfillment of the requirements 
+For the degree of
+Master of ArtsBy Rachel Monserrate
+May 2008Ranching in southeastern Wyoming is facing critical threats from lawsuits regarding environmental issues. But what are the reasons that these lawsuits are filed, and what is the price that ranchers - and the legacy of ranching in the American West - will pay? Cowboy Ride provides a personal, first-person account of growing up on ranches and addresses what ranchers stand to lose if environmental groups file successful lawsuits against them. This film also examines a specific lawsuit challenging the grazing permits allotted on the Pole Mountain area of the Medicine Bow National Forest.To inform this topic, I examined prior instances of private property, eminent domain, and the challenges that ranchers face in trying to maintain their livelihoods. Through production challenges, my proposed project changed dramatically from an examination of a specific lawsuit to an account of what ranching means to me, how a lawsuit can threaten livelihoods, and what hope exists for ranching in the future.While Cowboy Ride may have raised more questions about the future of ranching than I was ultimately able to answer, the film serves to explore the fight over the West and the costs incurred along the way. This examination provides for future students an explanation of the challenges that documentary filmmaking presents and will encourage them to embrace the process and allow the story to tell itself.</dc:description>
+  <dc:description>MA</dc:description>
+  <dc:subject>Mass Communications--Ranching--Eminent Domain--Endangered Species--Grazing--Wyoming</dc:subject>
+  <dc:format>74</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62912</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:62912</dc:identifier>
+  <dc:contributor>Buxton, Rodney</dc:contributor>
+  <dc:contributor>Howard, Deborah</dc:contributor>
+  <dc:contributor>Waldman, Diane</dc:contributor>
+  <dc:contributor>Schofield Clark, Lynn</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63386</identifier>
+    <datestamp>2013-02-04T18:36:31Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Developing Effective Counterterrorism Strategy:  Coercion vs. Conciliation</dc:title>
+  <dc:creator>Chimahusky, Rebecca</dc:creator>
+  <dc:contributor>Josef Korbel School of International Studies</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>August 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>What is an effective counterterrorism strategy?  Using the case of the conflict in Northern Ireland and the case of the conflict between Israel and Palestine, this project tests the arguments of Paul Wilkinson and Peter Sederberg, concerning approaches to the threat of terrorism, in order to determine whether coercion, conciliation, or some combination of the two most effectively responds to the threat of terrorism.  As the Northern Ireland case shows, a balanced approach that includes good security policy and addressing the economic, social, and/or legal issues that lie at the root of the conflict out of which the use of terrorism evolved will address security and defense issues, and the underlying motivations of the terrorist organizations.  It serves to defend the state, undermine popular support because grievances are being addressed, ease the co-optation of terrorist organizations (if possible), and improve chances for success of negotiations.  Coercive and conciliatory approaches each have their place, but neither can stand alone.</dc:description>
+  <dc:description>MA</dc:description>
+  <dc:subject>Political Science, International Law and Relations--International Relations--Security--Counterterrorism--Conflict Resolution</dc:subject>
+  <dc:format>132</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63386</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63386</dc:identifier>
+  <dc:contributor>Feste, Karen</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63313</identifier>
+    <datestamp>2013-02-04T18:38:38Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Digital Memorialization: Collective Memory, Tragedy, and Participatory Spaces</dc:title>
+  <dc:creator>Hebert, Sara</dc:creator>
+  <dc:contributor>Digital Media Studies</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>June 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>Throughout American history, memorials have played a key role in shaping  collective memory and propagating particular beliefs and conceptions of public tragedy. With the rise of an online participatory culture, collective memory can be shaped by a plurality of voices, rather than by those with powerful positions in government and other large organizations, which typically control the process of memorialization.  Social media connects communities through technology and has allowed the public to create spaces for mourning and memorialization without the input of official culture.  The digital memorials that arise out of media environments contribute to and change the collective memory of American public tragedy.  This study centers around three forms of digital memorials: video memorials, mourning on social networking sites, and memorials in virtual worlds.Through analysis of specific digital memorial sites, commentary from digital memorial media producers and a historical analysis of traditional memorial sites and spontaneous shrine sites this thesis examines how these memorials function as activist media not only in relation to issues surrounding public tragedy, but also by shaping collective memory.</dc:description>
+  <dc:description>MA</dc:description>
+  <dc:subject>Mass Communications--Memorials; digital media; death studies; Facebook; YouTube; Second Life</dc:subject>
+  <dc:format>131</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63313</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63313</dc:identifier>
+  <dc:contributor>Russell, Adrienne</dc:contributor>
+  <dc:contributor>Stott, Annette</dc:contributor>
+  <dc:contributor>Schofield-Clark, Lynn</dc:contributor>
+  <dc:contributor>Weaver, Timothy</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63277</identifier>
+    <datestamp>2013-02-04T18:40:53Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>DIRECT BRAIN CONTROL OF PROSTHESIS</dc:title>
+  <dc:creator>Aasted, Christopher M</dc:creator>
+  <dc:contributor>Electrical Engineering</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>September 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>The goal of this research is to design and build a more life-like prosthesis with a higher degree of freedom than currently available prosthetic devices. Direct brain monitoring of the motor cortices was selected as a control mechanism that would provide more versatility than the myoelectric sensors used in most commercially available prostheses. Near-infrared imaging was tested to determine its potential for use in a feedforward/feedback, neural-fuzzy logic training network, which would utilize electromyography as the feedback element. To minimize power requirements as well as risk to the wearer of the imaging device, light emitting diodes were used as the source of near-infrared light. Initial tests indicate agreement between the near-infrared and magnetoencephalography data collected during similar activities. However, developing a light transmission system to negate the requirement of shaving the subject&apos;s head to use the near-infrared imaging device, resulted in poor signal strength due to the combination of light emitting diodes and plastic fiber optics and has ultimately lead us to reconsider the use of near-infrared for real-time monitoring of the brain. The effectiveness of functional near-infrared imaging for real-time control of a prosthetic limb and the associated limitations of this imaging technology are discussed as well as a method for mapping brain activity to muscle control and the results of using electromyography for monitoring muscle activation.</dc:description>
+  <dc:description>MS</dc:description>
+  <dc:subject>Engineering, Biomedical--Engineering, Electronics and Electrical--Engineering, Robotics--Prosthesis; Near-Infrared Spectroscopy; Direct Brain Control; Brain Imaging; Feedforward/Feedback; Electromyography;</dc:subject>
+  <dc:format>112</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63277</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63277</dc:identifier>
+  <dc:contributor>Shoureshi, Rahmat</dc:contributor>
+  <dc:contributor>Pourkamali, Siavash</dc:contributor>
+  <dc:contributor>Laz, Peter</dc:contributor>
+  <dc:contributor>Lengsfeld, Corinne</dc:contributor>
+  <dc:contributor>Matin, Mohammad</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63015</identifier>
+    <datestamp>2013-02-04T18:43:27Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Environmental impact of restoration of riparian ecosystems: Fitting Russian olive (Elaeagnus angustifolia) into the picture</dc:title>
+  <dc:creator>Gaddis, Margaret Lacey</dc:creator>
+  <dc:contributor>Biological Sciences</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>June 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>Riparian zones in the western United States are threatened by invasive species and increasingly, land management strategies include ecological restoration. Russian olive (Elaeagnus angustifolia) is a riparian invader with a flexible germination scheme and the ability to fix nitrogen through actinorhizal symbiosis. Two literature reviews, one addressing E. angustifolia and another addressing evapotranspiration in western riparian lands provide background on riparian ecology.  The foci of this thesis are two field projects to address the effect E. angustifolia and subsequent restoration has on riparian ecology. A multi-site vegetation survey after E. angustifolia removal relates site attributes (predictor variables) to restoration success, which was quantified by vegetation measurements (response variables). Regression tree modeling was used to analyze the data; these models indicate that edaphic and hydrologic variables explain the most variability in restoration success. A biogeochemical study of one of the 22 sites used in the first study quantified monthly soil inorganic nitrogen and moisture measurements in an E. angustifolia stand that subsequently underwent restoration (removal of invasive trees). This study indicates a sharp decrease in inorganic nitrogen concentrations after E. angustifolia removal. These studies are meant to inform land managers dealing with E. angustifolia invasion as well as encourage other researchers to address E. angustifolia in their work.</dc:description>
+  <dc:description>MS</dc:description>
+  <dc:subject>Biology, Ecology--Russian olive; Elaeagnus angustifolia; invasion; restoration; Colorado; nitrogen</dc:subject>
+  <dc:format>84</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63015</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63015</dc:identifier>
+  <dc:contributor>Sher, Anna</dc:contributor>
+  <dc:contributor>Stedman, Donald</dc:contributor>
+  <dc:contributor>Sanford, Robert L.</dc:contributor>
+  <dc:contributor>Monahan, Micheal</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63570</identifier>
+    <datestamp>2013-02-04T18:49:44Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hemingway and Bullshit</dc:title>
+  <dc:creator>Eiers, Nathan</dc:creator>
+  <dc:contributor>English</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>Author: Nathan R. L. EilersTitle: HEMINGWAY AND BULLSHITAdvisor: Clark DavisDegree Date: November 2008ABSTRACTThis paper uses Harry Frankfurt&apos;s definition of bullshit as a lens to re-examine Ernest Hemingway&apos;s aesthetic of factual details and omission. Frankfurt argues that bullshit consists of speech made with indifference to its veracity, and one who makes a habit of bullshitting may lose touch with reality. By studying three works across the author&apos;s career, &quot;Big Two-Hearted River,&quot; &quot;The Short Happy Life of Francis Macomber,&quot; and The Old Man and the Sea, one sees that Hemingway&apos;s prose style evolves and eventually contradicts his artistic statements. Given the fact that he promotes his aesthetic while discarding it, his theory becomes bullshit. Because normative critical interpretation of the author rests largely on his aesthetic theory, it too is inaccurate. Though Hemingway misrepresents how he writes, the success of his work regardless of aesthetics demonstrates that his writing is more complex than many think and deserves a more thorough re-evaluation.</dc:description>
+  <dc:description>M.A.</dc:description>
+  <dc:subject>Literature, Modern--Literature, American--Literature, English--Aesthetics--Big Two-Hearted River--Bullshit--Ernest Hemingway--The Old Man and the Sea--The Short Happy Life of Francis Macomber</dc:subject>
+  <dc:format>71</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63570</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63570</dc:identifier>
+  <dc:contributor>Davis, Clark</dc:contributor>
+  <dc:contributor>Goodfriend, Joyce</dc:contributor>
+  <dc:contributor>Kiteley, Brian</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62965</identifier>
+    <datestamp>2013-02-04T19:56:23Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Influence of a highly interactive species upon bird diversity within a gradient of urbanization</dc:title>
+  <dc:creator>Salamack, Kristin</dc:creator>
+  <dc:contributor>Biological Sciences</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>April 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>Urbanization and subsequent habitat fragmentation have significantly reduced the range of the black-tailed prairie dog (Cynomys ludovicianus). Studies suggest that prairie dogs are highly interactive species that can influence bird species diversity, abundance, and richness. Past research was conducted on native prairie and few studies investigated whether this relationship exists in an urban/suburban setting. The landscape changes that reduced the prairie dog&apos;s range also impact bird species directly, resulting in habitat loss and isolation. I performed bird counts on 20 habitat fragments stratified along an urban gradient in the Denver metropolitan area to examine the influence of fragment area, isolation, and distance from city center on bird diversity measures. I used 12 fragments (six colonized by prairie dogs, six uncolonized by prairie dogs) in a paired study to determine whether the presence of prairie dogs influences bird diversity measures in an urban setting. Diversity measures were generally higher on colonized fragments for every season except winter; however, these trends were not statistically significant. Diversity measures for the paired study increased significantly with increasing area and increasing isolation. When I analyzed all 20 habitat fragments, I found that larger fragment area and fragments further from the city center exhibited significantly higher diversity measures in univariate models. I found that diversity measures were significantly higher on fragments that were older, larger, and had higher forb cover in multivariate models. Future biodiversity studies along the urban gradient in Denver should include an analysis of the matrix adjacent to habitat fragments and should employ better indices for estimating urbanization. Future studies of the role of prairie dogs as highly interactive species in urban systems should also include an analysis of other taxa.</dc:description>
+  <dc:description>MS</dc:description>
+  <dc:subject>Biology, Ecology--Urban ecology; urbanization; black-tailed prairie dog; grassland birds; fragmentation; interactive species</dc:subject>
+  <dc:format>137</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62965</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:62965</dc:identifier>
+  <dc:contributor>Reading, Richard P.</dc:contributor>
+  <dc:contributor>Christophel, David</dc:contributor>
+  <dc:contributor>Crooks, Kevin R.</dc:contributor>
+  <dc:contributor>Dores, Robert M.</dc:contributor>
+  <dc:contributor>Platt, James</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63574</identifier>
+    <datestamp>2013-02-04T19:58:07Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Integrating Service-Learning into Undergraduate Students&apos; Curricula: Recommendations for Best Practices</dc:title>
+  <dc:creator>Shalabi, Neivin Mahmoud Marzouk</dc:creator>
+  <dc:contributor>Higher Education</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>Several recent studies have revealed that there is increasing individualism and declining interest in politics and civic engagement among college students. Accordingly, many scholars called for reinvigorating the civic mission of higher education. This thesis study examines academic service-learning as an effective pedagogy for promoting students’ civic engagement. The purpose of this thesis is to investigate the best ways of integrating service-learning into the curricula of undergraduate students. Using McCarthy’s (2003) conceptual framework, the “Concept of Triangles,” this study provides a comprehensive review of literature on the theoretical underpinnings, partners, and relationships of academic service-learning. The results of the study suggest that establishing clear connections between course content and the kind of service students do, and making meaningful placements of students to service sites are necessary for establishing effective
+service-learning courses. Additionally, the findings of the study reveal that promoting critical reflection, encouraging active participation from all partners, and meeting real community needs are essential to the success of service-learning programs. Finally, the findings of this study indicate that effective campus/community partnerships are characterized by reciprocal, collaborative, democratic, caring, trusting, and respectful relationships.</dc:description>
+  <dc:description>M.A.</dc:description>
+  <dc:subject>Education, Higher--Campus/community partnerships--Civic Engagement--Concepts--Critical Pedagogy--Partners--Service-Learning</dc:subject>
+  <dc:format>94</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63574</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63574</dc:identifier>
+  <dc:contributor>Tuitt, Franklin A.</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+  <dc:contributor>Grealy, Deborah S.</dc:contributor>
+  <dc:contributor>Cox, Enid O.</dc:contributor>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63142</identifier>
+    <datestamp>2013-02-04T20:00:51Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>INVESTIGATING BACTERIAL INTERACTIONS WITH POLYMER SURFACES USING ATTENUATED TOTAL REFLECTANCE FOURIER TRANSFORM INFRARED SPECTROSCOPY</dc:title>
+  <dc:creator>Ayres, Patrick Rob</dc:creator>
+  <dc:contributor>Chemistry and Biochemistry</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>June 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>We have investigated and characterized the interactions of &lt;em&gt;E. coliform&lt;/em&gt; bacterial cells with polymeric surfaces by attenuated total reflectance Fourier transform infrared spectroscopy.  Using chemical modifications to the surface of polystyrene-based polymers, we were able to characterize and compare the chemical changes taking place in the region approximately 600 to 1000 nanometers from the surface of the device.  Statistical analysis performed on the spectral region from 1800 cm&lt;sup&gt;-1&lt;/sup&gt; to 800 cm&lt;sup&gt;-1&lt;/sup&gt; allowed us to identify biochemical changes in this region of the IR spectrum that suggest that polymer architecture and to a lesser degree, chemical structure, is responsible for differences between how bacterial cells were interacting with our polymers.  Further investigations using scanning electron microscopy, direct bacterial culture analysis in moving and static media, ATR-FTIR microscopy, and multivariate analysis were able to collectively confirm that polymer morphology played a greater role in introducing variability into the process of adhesive interaction with E. coli bacteria than did the chemical makeup of the adherent surface.</dc:description>
+  <dc:description>MS</dc:description>
+  <dc:subject>Chemistry, Analytical--Chemistry, Biochemistry--FTIR; ATR; Bacteria; Analysis; Biochemistry; SEM</dc:subject>
+  <dc:format>170</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63142</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63142</dc:identifier>
+  <dc:contributor>Wells, Todd A.</dc:contributor>
+  <dc:contributor>Sadler, Susan E.</dc:contributor>
+  <dc:contributor>Stedman, Donald H.</dc:contributor>
+  <dc:contributor>Eaton, Sandra S.</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63558</identifier>
+    <datestamp>2013-02-04T20:02:01Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>ISLAMIC RELIGIOUS CURRICULA AND TERRORISM : A CASE STUDY OF THE AZHERITE SCHOOLS IN EGYPT</dc:title>
+  <dc:creator>BABIKIR, BABIKIR FAISAL</dc:creator>
+  <dc:contributor>Conflict Resolution Institute</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>This thesis examines the connection between Islamic religious educationand terrorism. It looks at the curricula of the Azherite religious schools in Egypt.It examines how the curricula view the three themes of Jihad which are offensiveJihad, defensive Jihad, and Jihad for the purification of the soul in addition to therelations of Muslims with non-Muslims. Books which are used by violent jihadistgroups for membership acquisition and cadre training are also studied for Jihadthemes and relations with non-Muslims.The analysis shows that the curricula are, generally speaking, a peaceful onein its principal direction, since it obviously calls for defensive Jihad and notoffensive Jihad. Often, it deals with important concepts of Jihad within theconfines of such subjects as the Jihad for the purification of the soul [the GreaterJihad]. Some textbooks included lessons on &quot;Peace in Islam&quot; and advocated thefact that peace is the origin in Islamic Shari&apos;a and war is the exception and it isfought only for defensive reasons. This orientation in the curricula very muchcoincides with the themes of conflict resolution The comparison between theAzherite schools&apos; textbooks and the books used by violent jihadist groups formembership acquisition and cadre training shows that they are in total contrast inrelation to how they view the topic of Jihad and relationship with non-Muslims.</dc:description>
+  <dc:description>M.A.</dc:description>
+  <dc:subject>Political Science, General</dc:subject>
+  <dc:format>135</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63558</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63558</dc:identifier>
+  <dc:contributor>Feste, Karen A</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63339</identifier>
+    <datestamp>2013-02-06T17:58:25Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Islamic Saint Veneration: Iran</dc:title>
+  <dc:creator>Ferg, Erica</dc:creator>
+  <dc:contributor>Religious Studies</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>June 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>Islamic saint veneration is not generally known outside of the Islamic world, and is rarely discussed in textbooks on Islam.  Practices of Islamic saint veneration can vary by region, and there is little English-language information on Islamic saint veneration as it is practiced in Iran.  The most distinctive characteristic of saint veneration in modern Iran is the presence of and pilgrimage to thousands of Imam-zadeh shrines - shrines dedicated to the numerous descendants of the twelve Shi&apos;ite Imams.  Through an examination of Islamic saint veneration, the religious history of Iran, current Municipality of Tehran data on shrines near Tehran, the anthropological work of Anne Bettridge on shrine culture in the city of Shiraz, and a modern Shi&apos;ite pilgrimage guide, this thesis seeks to situate the practice of Islamic saint veneration in modern Iran.  As will be demonstrated herein, the prevalence of Imam-zadeh shrines in modern Iran is due to religious reforms instituted during the Safavid era in Iranian history (1501-1736 C.E.), when the mostly-Sunni population was converted to Twelver Shi&apos;ism.  During the conversion process, the already-extant practices of saint veneration in Iran were reformed from the local panoply they had been and promoted in the particularly Twelver-Shi&apos;ite image of Imam and Imam-zadeh veneration - as a means of reinforcing and validating imperial control, and as means of popularizing Shi&apos;ite beliefs.</dc:description>
+  <dc:description>MA</dc:description>
+  <dc:subject>Religion, General--History, Middle Eastern--Saints; Iran; Imam-zadeh; Islam; Safavid; Twelver Shi&apos;ism;</dc:subject>
+  <dc:format>73</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63339</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63339</dc:identifier>
+  <dc:contributor>Takim, Liyakat</dc:contributor>
+  <dc:contributor>Pessin, Sarah</dc:contributor>
+  <dc:contributor>Robbins, Gregory</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62882</identifier>
+    <datestamp>2013-02-06T17:59:48Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>&quot;Let Emily Sing For You&quot; or: How to Steal a Blessing from Emily Dickinson</dc:title>
+  <dc:creator>Wiegman, Karen</dc:creator>
+  <dc:contributor>English</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>September 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>&quot;Who is Emily Dickinson?&quot; is the primary question I confront in my thesis.  The question is difficult, given Dickinson&apos;s inventive juxtapositions, mental suppleness, atypical grammar, odd diction, and curious metaphors; even her very best critics have struggled to cage her immense cognitive creativity.  After reading all the works of the leading scholars in Dickinson studies, as well as those of her minor critics, I determined that the best approach I could take toward understanding Dickinson and her work was my own - a unique, individual approach.  Seeking an appropriate metaphor or symbol that would help me comprehend her poetry, I determined that the (multifarious) image of an angel, as a symbolic &quot;form&quot; that mediates between the spiritual and physical world just as Dickinson did as a poet, was the best figure through which I could read and interpret her life&apos;s work.  In doing this, my largest discovery was evidence that every investigation we undertake into a &quot;subject&quot; is really an investigation into our own mind.  While we presume to begin at &quot;the beginning&quot; of our subject, we are really only at the beginning of ourselves, standing in our largest blind spot.  Thus, my study was entirely about &quot;me.&quot;  While believing I was wrestling with Dickinson, I was actually wrestling with my own angel, my adversary, my &quot;self,&quot; while her process escaped me.  In a sense, Dickinson serves as an angel to me for the duration of my thesis, and, in the end, I release her back into the heavens to become a muse for someone else.</dc:description>
+  <dc:description>MA</dc:description>
+  <dc:subject>Literature, English</dc:subject>
+  <dc:format>100</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62882</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:62882</dc:identifier>
+  <dc:contributor>Davis, Clark</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63571</identifier>
+    <datestamp>2013-02-06T18:03:12Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Liberalization of the Capital Market in Russia</dc:title>
+  <dc:creator>Smole, Nejc</dc:creator>
+  <dc:contributor>Economics</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>This paper analyzes the empirical events of capital market liberalization in Russia and refers to the procedure of capital market liberalization described in theory as a benchmark to assess the magnitude of events shaping the capital market liberalization in Russia.The reformers of Russian regime change did not take a gradual approach of adjustments toward a successful socioeconomic transition. The state failed to create market-supporting institutions and instead rather proceeded with an ambitious program of synchronized application of policy changes and the economic liberalization. Lack of market-supporting institutions and an underdeveloped legal system in Russia have been the key tools through which politically well-connected managers and politicians themselves seized the opportunity and established ownership of former state-owned enterprises. Russian privatization did not provide efficiency incentives to produce new wealth, rather is has redistributed the already existing wealth through dubious methods.Clearly, the ultimate goal of capital liberalization in Russia was not to disperse ownership of former state-owned enterprises among the people of Russia, but to create a powerful support group that would ensure the second mandate of President Yeltsin&apos;s administration. The class of newborn `oligarchs&apos; in Russia became the ruling minority that was not interested in creating value; rather, they were interested in stealing the value that has already existed. Weak and vaguely defined laws as opposed to explicit legal foundations and the ability to enforce contracts at proper institutions make an enormous difference in development of capital markets.</dc:description>
+  <dc:description>M.A.</dc:description>
+  <dc:subject>Economics, Finance--Economics, History</dc:subject>
+  <dc:format>75</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63571</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63571</dc:identifier>
+  <dc:contributor>Mott, Tracy</dc:contributor>
+  <dc:contributor>Pap, Jennifer</dc:contributor>
+  <dc:contributor>Yasar, Yavuz</dc:contributor>
+  <dc:contributor>Urquhart, Robert</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63348</identifier>
+    <datestamp>2013-02-06T18:05:21Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Material property predictions of polymers using molecular dynamics simulations</dc:title>
+  <dc:creator>Stowe, Joshua Quillan</dc:creator>
+  <dc:contributor>Mechanical Engineering</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>June 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>Author: Joshua Q StoweTitle: Material property predictions of polymers using molecular dynamics simulationsAdvisors: Dr. Maciej Kumosa and Dr. Peter LazDegree Date: June 2008ABSTRACTNanoscale materials can exhibit different physical properties compared to their macroscale counterparts.  The use of multiscale modeling of materials has been recognized as a tool to predict both physical and chemical properties of materials between the nanoscale and macroscale.  Thus, the primary goal of this research was to utilize molecular dynamics, one of the multiscale modeling techniques, to predict of the mechanical behavior of polyethylene.Stress-strain relationships and the Young&apos;s modulus were calculated for low density polyethylene at several molecular weights and high density polyethylene models at a single molecular weight.  Probabilistic Monte Carlo methods were used in order to identify possible sources of uncertainty in the mechanical property predictions.Probabilistic methods identified the effects of uncertainty on mechanical property predictions.  Significant variability, on the order of 1000% of the mean, in stress-strain relationships and the Young&apos;s modulus predictions were caused by variations in polymer configuration and density, the non-unique nature of molecular dynamic calculations of equilibrium, and the molecular weight of the model used for analysis.</dc:description>
+  <dc:description>MS</dc:description>
+  <dc:subject>Engineering, Mechanical--Engineering, Materials Science--Engineering, Mechanical--Molecular dynamics; mechanical properties; polyethylene; probabilistic modeling</dc:subject>
+  <dc:format>118</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63348</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63348</dc:identifier>
+  <dc:contributor>Laz, Peter</dc:contributor>
+  <dc:contributor>Kumosa, Maciej</dc:contributor>
+  <dc:contributor>Predecki, Paul</dc:contributor>
+  <dc:contributor>Kutateladze, Andrei</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63555</identifier>
+    <datestamp>2013-02-06T18:06:51Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>MEMS TRANSDUCER FOR HEARING AID DEVICE</dc:title>
+  <dc:creator>Tang, Houwen</dc:creator>
+  <dc:contributor>Electrical Engineering</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>A study of implantable middle ear MEMS piezoelectric transducer for hearing aids was developed. The physical vibration deflection at the tip of the transducer is simulated using finite element method. Further, a study of thermoelastic damping effect of four designed MEMS mirrors used as resonators is presented. An optical measurement system based on Mach-Zehnder interferometer is</dc:description>
+  <dc:description>M.S.</dc:description>
+  <dc:subject>Engineering, Electronics and Electrical--Hearing aids--MEMS Transducer</dc:subject>
+  <dc:format>72</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63555</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63555</dc:identifier>
+  <dc:contributor>Yi, Yunbo</dc:contributor>
+  <dc:contributor>Whitman, Bob</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63235</identifier>
+    <datestamp>2013-02-06T18:09:05Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Metric Conflict in the Brandenburg Concertos of J. S. Bach</dc:title>
+  <dc:creator>Colahan, Ellwood</dc:creator>
+  <dc:contributor>Music</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>September 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>This paper presents a comprehensive metric analysis of Bach&apos;s Brandenburg Concertos, with particular emphasis on the issues of metric conflict. The analytic methodology is based on the work of Fred Lerdahl and Ray Jackendoff, while the analytic notation used is based partly on that of Lerdahl and Jackendoff and partly on that of Jonathan Kramer, with some original modifications.The paper discusses the factors generating metric conflict, along with its distribution, correlation with other structural parameters, and functional effects. The relationship between metric conflict and fluctuations in the depth of metric hierarchy is examined in detail. Some cases of metric displacement and metric irregularity are examined, when they form part of the context for particular episodes of conflict.The conclusion argues for an approach to interpreting this and similar repertoires that leaves room for the emergence in performance of the independent metric organization of different parts, as an integral part of the ebb and flow of musical tension.</dc:description>
+  <dc:description>MA</dc:description>
+  <dc:subject>Music--Form--Meter--Rhythm--Baroque--Bach--Concerto grosso</dc:subject>
+  <dc:format>232</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63235</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63235</dc:identifier>
+  <dc:contributor>Malloy, Chris</dc:contributor>
+  <dc:contributor>Sheinbaum, John</dc:contributor>
+  <dc:contributor>De Ghize, Susan</dc:contributor>
+  <dc:contributor>DeLyser, Ronald</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63116</identifier>
+    <datestamp>2013-02-06T18:11:31Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Micro Liter Incubator Array for High Throughput Pathogenesis Studies</dc:title>
+  <dc:creator>Fulstone, Rachel Summer</dc:creator>
+  <dc:contributor>Engineering</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>September 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>The increasing emergence of new antibiotic-resistant bacterial strains and the 
+weaponization of normally rare bacterial strains pose a potential threat of pandemic disease.  
+Recognition of this threat has invigorated efforts to address prevention (quarantine, vaccination) and cure (antibiotics) of these diseases, as well as the study of the complex interaction between host, pathogen, and environmental factors that impact the progression and severity of the disease. The genomic revolution and the advent of reverse vaccinology promise a rapid response to infectious diseases, but many of these infectious agents are difficult or impossible to grow in vitro (e.g., HCV, Whipple disease).  Moreover, an understanding of the pathogen itself and an understanding of host-pathogen interactions should lead to new therapies and even cures. We hypothesize that by exploiting the advances in micro fluidics and materials engineering, we can create a device to rapidly and simultaneously investigate a myriad of culture conditions necessary for successful cultivation
+of target organisms.To achieve these goals this work designed, constructed, and tested a 3-D micro liter incubator array prototype system, ready for large scale injection molding manufacturing, which also employs diffusion bonding to affix the multi laminae structure. The device was utilized to impart variable stress conditions on wild-type yeast (PRE1PRE2).  Results were measured through techniques suitable for coupling the device to a high-throughput plate reader.</dc:description>
+  <dc:description>MS</dc:description>
+  <dc:subject>Engineering, Biomedical</dc:subject>
+  <dc:format>110</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63116</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63116</dc:identifier>
+  <dc:contributor>Lengsfeld, Corinne</dc:contributor>
+  <dc:contributor>Dores, Bob</dc:contributor>
+  <dc:contributor>Yi, Yun Bo</dc:contributor>
+  <dc:contributor>Pourkamali, Siavesh</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63279</identifier>
+    <datestamp>2013-02-06T18:14:06Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Navigating Hybrid Identities: Performing &quot;Irishness&quot; in an Urban Soundscape</dc:title>
+  <dc:creator>Aiken, Katie</dc:creator>
+  <dc:contributor>Anthropology</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>June 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>This ethnography seeks to call into question what it means to be an Irish traditional musician in Denver, Colorado at the beginning of the 21st century.  To unpack the various musical pathways navigated in this community, the author conducted participant-observation at pub sessions, in-depth interviews, and informal interviews over a period of two years.  Individual&apos;s musical choices become especially important in such multireferential urban soundscapes - manifesting useful new nuances for the literature on identity and music.  Denver pub settings, removed from Ireland in time and space and connected to other local and global soundscapes, engage complex concepts of hybridity in tradition, authenticity, performance, and identity.  As musicians navigate their numerous identities, as well as those that become possible and imaginable through &quot;scapes,&quot; they resituate themselves in multiple and meaningful ways, playing out not only their own identities but also adding to the repertoire of possible identities in the process.</dc:description>
+  <dc:description>MA</dc:description>
+  <dc:subject>Anthropology, Cultural--Music--Hybrid identities; urban ethnomusicology; performance; identity; tradition; ethnography of Irish traditional musicians in Denver--Colorado</dc:subject>
+  <dc:format>234</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63279</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63279</dc:identifier>
+  <dc:contributor>LaVita, James</dc:contributor>
+  <dc:contributor>Morelli, Sarah</dc:contributor>
+  <dc:contributor>Kreps, Christina</dc:contributor>
+  <dc:contributor>Clemmer-Smith, Richard</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63566</identifier>
+    <datestamp>2013-02-06T18:16:24Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Organizational Conflict within the Department of Homeland Security</dc:title>
+  <dc:creator>Manderson, M. Katherine</dc:creator>
+  <dc:contributor>Conflict Resolution Institute</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>This thesis seeks to explain why the Department of Homeland Security had difficulty fulfilling its roles when it was formed, specifically its role as grant administrator.  Role theory surmises that conflict arises from unclear expectations, conflicting expectations, and too many roles.  This study utilized various public testimonies, legislation, and other government documents to examine how the missions of the twenty-two agencies that were merged together to make up DHS changed.  Even though DHS has changed continually over the five years since its existence most employees seem to be clear on the mission of the organization in which they work.  However, there is still a considerable amount of conflict resulting from the agencies being forced together in such a frankensteinian way.</dc:description>
+  <dc:description>M.A.</dc:description>
+  <dc:subject>Business Administration, Management</dc:subject>
+  <dc:format>154</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63566</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63566</dc:identifier>
+  <dc:contributor>Laird, Frank</dc:contributor>
+  <dc:contributor>Feste, Karen</dc:contributor>
+  <dc:contributor>Allen, Doug</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62951</identifier>
+    <datestamp>2013-02-06T18:18:15Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Palmer Divide as a Vital Prehistoric Place: Interpreting and Understanding the Prehistoric Occupation of the Palmer Divide Region in Colorado</dc:title>
+  <dc:creator>Guy Hays, Heidi Lee</dc:creator>
+  <dc:contributor>Anthropology</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>September 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>Situated in the heart of Colorado is a unique and beautiful environmental oasis historically referred to as the Palmer Divide.  Untold quantities of prehistoric artifacts have been collected from this region by private landowners.  Possibly forever lost to scientific study, these artifacts would have allowed archaeologists to have a more comprehensive understanding of the prehistory of Colorado because as it now stands, there is a large geographical void not considered into existing hypotheses.  Documentation and analysis of a small portion of these privately held artifacts conducted for this thesis research indicates that, contrary to current hypotheses, the Palmer Divide was continuously utilized by a diverse range of cultural groups throughout prehistory.  This research also demonstrates that cultural traditions believed to have been restricted to distinct environmental regions exploited a larger geographical area.  Repetitive exploitation of and visitation to the Palmer Divide made this a vital and significant place for prehistoric populations.</dc:description>
+  <dc:description>MA</dc:description>
+  <dc:subject>Anthropology, Archaeology--Prehistory; Colorado; Palmer Divide; Private Collections; Paleoindian; Archaic</dc:subject>
+  <dc:format>385</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62951</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:62951</dc:identifier>
+  <dc:contributor>Conyers, Lawrence</dc:contributor>
+  <dc:contributor>Pessin, Sarah</dc:contributor>
+  <dc:contributor>Kreps, Christina</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63283</identifier>
+    <datestamp>2013-02-06T18:19:42Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Performance and Calibration of On-Road Remote Sensors</dc:title>
+  <dc:creator>Peddle, Allison</dc:creator>
+  <dc:contributor>Chemistry and Biochemistry</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>September 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>On-road remote sensors measure the car exhaust and report its emissions in real time. Three projects surrounding the performance and calibration of FEAT (Fuel Efficiency Automobile Test) and RSD (Remote Sensing Detector) units were undertaken. Currently, Colorado is conducting a program in which gross emitters are identified by the RSD 4600. An analysis of the RSD 4600 and FEAT instruments&apos; noise was performed to verify that instrument noise did not affect the reported emissions. The RSD 4600 showed less instrument noise than the FEAT instruments, except for the NO channel.Secondly, an innovative method was developed to make a 1:1 CO:CO2 gas ratio and 0.1 HC/CO2¬ gas ratio. This is advantageous because one of the three gas cylinders used in on-road calibration can be eliminated. Transporting gas cylinders and having them on site is expensive and inconvenient, especially in foreign countries.Finally, an on-road study of vehicle emissions was conducted in March of 2008 in San Jose, Fresno, and L.A., California. This is the first time that NH3, SO2 and NO2 were measured by on-road remote sensors. The results of the analysis of ammonia emissions from light duty vehicles are presented here.</dc:description>
+  <dc:description>MS</dc:description>
+  <dc:subject>Chemistry, Analytical--On-road remote sensing; calibration; synthesized CO and CO2; FEAT</dc:subject>
+  <dc:format>169</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63283</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63283</dc:identifier>
+  <dc:contributor>Stedman, Donald H.</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63079</identifier>
+    <datestamp>2013-02-06T18:22:10Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>POTENTIAL EFFICACY OF LEAF EPIDERMAL CHARACTERS TO DELIMIT GENERIC BOUNDARIES WITHIN THE SYZYGIUM ALLIANCE (MYRTACEAE)</dc:title>
+  <dc:creator>Goshorn, Mary VB</dc:creator>
+  <dc:contributor>Biological Sciences</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>June 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>The Syzygium alliance (Myrtaceae) is a group of genera consisting of Acmena, Acmenosperma, Waterhousea, Cleistocalyx, Piliocalyx and Syzygium s.s.  They collectively number over 1200 species, most of which have been placed in Syzygium s.s.  It has long been disputed as to whether these genera should all be lumped into Syzygium s.l. or kept separate.I undertook an analysis of leaf cuticles to search for set of leaf epidermal surface characters that would distinguish each genus.  I measured or noted all apparent surface characters on the cuticles and compiled a detailed list of the epidermal characters of each of the studied species. A consistency study showed excessive variation in the measured characters within some species, which weakened the analyses, but some trends were still apparent.  
+I ran a principle components analysis to collapse correlated data and then three Multiple Discriminant Analyses.  One analysis focused on the entire group of samples, one on groups recognized by Hyland, and one on groups recognized by Craven et al.  The MDA of the overall data set and of Hyland&apos;s groups both showed good separation of Acmena, Acmenosperma, and Waterhousea.  All three MDAs showed strong overlap of Syzygium and Eugenia, which indicates that leaf epidermal characters by themselves are unable to distinguish between these two genera.</dc:description>
+  <dc:description>MS</dc:description>
+  <dc:subject>Biology, Botany--Syzygium; Myrtaceae; taxonomy; multivariate statistics; leaf characters; leaf traits</dc:subject>
+  <dc:format>144</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63079</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63079</dc:identifier>
+  <dc:contributor>Sher Simon, Anna A.</dc:contributor>
+  <dc:contributor>Christophel, David C.</dc:contributor>
+  <dc:contributor>Stedman, Don</dc:contributor>
+  <dc:contributor>Snow, Neil</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63557</identifier>
+    <datestamp>2013-02-06T18:24:17Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Protecting Investment, Profit, and Personnel: Corporations as Social Change Agents</dc:title>
+  <dc:creator>Fotino, Carole Claire</dc:creator>
+  <dc:contributor>Conflict Resolution Institute</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>This paper describes a three-level toolkit - The Investment Sustainability Toolkit.  The Toolkit assists firms in improving the efficacy of one segment of Corporate Social Responsibility (CSR) initiative by creating at the first level, a strategy of conflict prevention.  This strategy is followed by Common Elements of Conflict that Resolves/Becomes Violent, and Key Areas for Stabilization as Level II.  The third and final level of the toolkit describes specific initiatives for increasing success, through The Screening Checklist.The paper assesses through case study, the efforts of Firestone, Inc. in Liberia regarding regional development, stabilization, and economic development.  This is done through the lens of the 3-levels of The Toolkit and for the purposes of illustrating lost opportunities that a Toolkit framework would have identified by linking the success of all stakeholders.  Losses That Look Like Wins are a key focus area within the case study as are times of stability that offer the opportunity to create institutions - civil, political, economic - to perpetuate that stability.This paper makes the case for corporations as social change agents, for preceding violence, and for including a strategy, and a framework, as well as targeted initiatives to increase the success and efficacy of this segment of CSR.</dc:description>
+  <dc:description>M.A.</dc:description>
+  <dc:subject>Business Administration, Management--Economics, Commerce-Business--Conflict prevention--Investment--Preconciliation--Stabilization perpetuation--Strategic corporate social responsibility--Transnational corporations</dc:subject>
+  <dc:format>207</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63557</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63557</dc:identifier>
+  <dc:contributor>Allen, Douglas</dc:contributor>
+  <dc:contributor>Wittmer, Dennis</dc:contributor>
+  <dc:contributor>Winn, Joan</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63333</identifier>
+    <datestamp>2013-02-06T18:28:35Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Reader Response to Product Placement in Women&apos;s Magazines</dc:title>
+  <dc:creator>Caputo, Renee</dc:creator>
+  <dc:contributor>Mass Communications</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>June 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>Product placement in women&apos;s magazines is an unexplored area of research. This thesis project seeks to understand how readers of women&apos;s magazines respond to product placement in Cosmopolitan and O, The Oprah Magazine. To conduct this project, two types of analysis were used: ideological analysis and reception analysis. The ideological analysis was used in order to discover how women&apos;s magazines construct ideologies related to ideal femininity and how the product placement is framed within the ideologies. The reception analysis was essential in understanding how readers of women&apos;s magazines react to product placement, and, in turn, the ideal femininity ideologies framing the articles within the magazines. The reception analysis consisted of four focus groups, containing white female participants from 18- to 35-years-old: the ages that make up the target demographics for the two magazines. The groups were split up into two groups of 18- to 25-year-old white females and two groups of 26- to 35-year-old white females. Stuart Hall&apos;s theory of reader response was essential to interpreting the women&apos;s responses to the magazines.The ideologies discovered primarily revolved around ideal beauty and consumption as a way to obtain an ideal beauty and lifestyle. The ideological analysis also found that the magazines create ideal femininity identities for the readers to aspire to emulate: the Cosmo girl and O woman. The women in the focus groups were very aware of the ideal beauty ideology and generally opposed the content and the product placement when this ideology was present. When the ideology of consumption was the primary ideology present within an article, the women did not oppose the content. Consumption seems to be a natural and expected part of the women&apos;s magazine reading experience.Through application of Hall&apos;s reader response theory it was apparent that women read the articles and the product placement in different ways, thus showing that women&apos;s magazines&apos; readers can be active participants in reading and aren&apos;t always taking the information presented as the gospel; an idea that has been discussed time-and-again in research about the impact of women&apos;s magazines on their readers. The readings weren&apos;t relegated to dominant, negotiated, and oppositional either; instead the readings occurred on a continuum--dominant-negotiated, negotiated-oppositional, etc.--which challenges Hall, since his theory relies on three clear-cut styles of reading cultural texts. Also discussed in this thesis, in relation to Hall&apos;s reader response theory, is the concept of &quot;doings,&quot; or how the women physically take action on their readings of the text. Although it was not within the scope of this study to actually follow the women to track their doings, &quot;talking about doing&quot; was noted in the participants&apos; responses.Overall, this thesis project provides valuable insight not only into how product placement and the ideologies surrounding it influence women&apos;s magazines readers, but also into how women react to, respond to, and utilize the content in women&apos;s magazines.</dc:description>
+  <dc:description>MA</dc:description>
+  <dc:subject>Mass Communications--Women&apos;s Studies--Product placement; women&apos;s magazines; ideology; Stuart Hall</dc:subject>
+  <dc:format>393</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63333</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63333</dc:identifier>
+  <dc:contributor>Buxton, Rodney</dc:contributor>
+  <dc:contributor>Botta, Renee</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:contributor>Schroeder, Sheila</dc:contributor>
+  <dc:contributor>Whitt, Margaret</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62964</identifier>
+    <datestamp>2013-02-06T18:42:14Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Role of Islet Melanocortin Receptor Signaling in Alpha Cell Function</dc:title>
+  <dc:creator>Lumsden, Theresa Ann</dc:creator>
+  <dc:contributor>Biological Sciences</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>June 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>Hypoglycemia is the state defined by lower than normal levels of glucose in the blood. During hypoglycemia, pancreatic alpha cells secrete glucagon to increase blood glucose and maintain glucose homeostasis. Currently, the mechanisms which initiate glucagon secretion are not well understood. This study investigates the role of melanocortins in regulating glucagon secretion.
+	Insulin tolerance tests in mice lacking the pro-opiomelanocortin (POMC) gene showed a correlation between the melanocortin, α-MSH, and glucagon secretion in alpha cells (Hochgeschwender et al. 2003). Results of the current study indicate that the POMC product, melanocortin α-MSH, is acting through a melanocortin receptor at the surface of the alpha cells to trigger the release of glucagon. In order to define the function of pancreatic melanocortin receptors and their interactions with POMC, one must try to identify and characterize these receptors in relation to their physiological role in energy homeostasis, as well as focus on future therapeutic targets for treating hypoglycemia in diabetics. 
+	Analysis through polymerase chain reaction, Quantitative PCR, as well as a combination of fluorescent techniques was used to investigate the receptor type, expression levels, and distribution of melanocortin receptors present in mouse pancreatic islets and a cultured alpha cell line. The melanocortin receptors 3 and 4 are known to be prevalent in the central nervous system where both play a role in energy homeostasis and neuroendocrine processes (Ellacott and Cone 2006). The receptor MC4 was found to be expressed in whole mouse islets as well as alpha cells.  However, the receptor MC3 does not appear in either islets or alpha cells. Therefore, this study concludes that α-MSH may act directly through MC4R to trigger glucagon secretion in alpha cells.</dc:description>
+  <dc:description>MS</dc:description>
+  <dc:subject>Biology, Cell--Alpha Cells; glucagon secretion; alpha MSH; POMC</dc:subject>
+  <dc:format>49</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62964</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:62964</dc:identifier>
+  <dc:contributor>Angleson, Joseph</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62892</identifier>
+    <datestamp>2013-02-06T18:45:14Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>The Dark Nights and Transformation: A Psychoanalytic Interpretation of John of the Cross</dc:title>
+  <dc:creator>Kreiselmaier, Andrew Kent</dc:creator>
+  <dc:contributor>Religious Studies</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>September 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>In this thesis, I examine the benefit that John of the Cross&apos; spiritual path of divine union can have for modern religious seekers and the psychotherapeutic community. Whereas classical Freudian psychoanalysts tended to depict religion and mysticism as illusional wish fulfillment and regression to pre-Oedipal states of fusion, many contemporary psychoanalytic theories promote the positive role that religion can play in people&apos;s lives as a source of strength, meaning, and purpose. In order to examine one ancient path of spirituality, in this thesis I analyze the spiritual path of John of the Cross with contemporary theories of psychoanalysis to illuminate the psychological processes that may be operating within John&apos;s path. In this thesis I first describe the life of John of the Cross in his sixteenth-century, Spanish context, and then discuss his synthesis of the classical Christian three-fold stage theory of the spiritual journey with his transitional phases of purgation and detachment of the dark nights, which when completed, John maintains, leads to a union with God in likeness and participation. Next, I describe Obeyesekere&apos;s contemporary hermeneutical model of psychoanalysis with its concepts of regression, progression, and the symbolic remove. Then, I detail the philosophical and methodological insights of Parsons&apos; three schools of the psychoanalytic study of mysticism, and Browning&apos;s reconception of the field of religion and psychological studies as a critical hermeneutical enterprise. Finally, in this thesis I analyze John&apos;s path with Obeyesekere&apos;s, Parsons&apos; and Browning&apos;s theories, arguing that John&apos;s path constitutes a built in regression to archaic unconscious material in his dark nights and a resolution and transformation of that material through and in his numinous Catholic theological symbolic order; that John&apos;s depiction of the divine union is consistent with Parsons&apos; descriptions of primordial levels of consciousness in his transformational school; and that John&apos;s own life and personality were transformed during his own spiritual journey. Together with the theological validation of John&apos;s path by the Catholic Church and other theologians, I maintain that the convergences of John&apos;s spiritual path with all three psychoanalytic and hermeneutical theories validate John&apos;s system as a viable, dynamic, and orthodox Western Christian path of spirituality and mysticism. In the Conclusion, I then discuss the considerable benefit that John&apos;s path can have both for religious seekers in providing comfort and meaning for their experiences of severe existential and spiritual loss in the dark nights, as well as for the psychotherapeutic community in combating reductionistic models of human functioning and the conception of mere symptom maintenance as the goal of treatment. Recognizing the psychological processes that operate within John&apos;s path and conceiving of the dark nights as traditional, recognized stages of the spiritual journey that may achieve psychological and spiritual transformation in adherents can also benefit the clients of mental health professionals. This discussion of the theoretical considerations of the value of John&apos;s spiritual path for psychotherapeutic and academic psychology then naturally broadens the focus of this thesis to encompass basic questions and suggestions for future research regarding the dialogue between theology and psychology.</dc:description>
+  <dc:description>MA</dc:description>
+  <dc:subject>Religion, General--Psychology, Personality--Religion, General--Psychoanalysis mysticism spirituality Obeyesekere dark night</dc:subject>
+  <dc:format>165</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62892</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:62892</dc:identifier>
+  <dc:contributor>Dixon, Sandra Lee</dc:contributor>
+  <dc:contributor>Torre, Javier</dc:contributor>
+  <dc:contributor>Robbins, Gregory</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63569</identifier>
+    <datestamp>2013-02-06T18:48:08Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>THE DEVELOPMENT DRIVE OF NORTH-SOUTH VERSUS SOUTH-SOUTH PTAs</dc:title>
+  <dc:creator>Ramirez, Jose Luis</dc:creator>
+  <dc:contributor>Economics</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>The importance of PTAs in today&apos;s global economic order is unmistakable, especially during the last fifteen years when their proliferation has dramatically accelerated and their scope and structure have radically changed.  However, the available theoretical framework (international trade theories) from which their developmental impact is assessed seems to be largely lagging behind.  Hence, there is a crucial need for more realistic assessments of their embedded developmental features because an increasing number of developing countries are perceiving these agreements as one of the key instruments to propel their long delayed economic development.  In this thesis, I strive to construct an alternative theoretical framework that can better adapt to current PTAs&apos; structures, allowing a more realistic assessment of their economic impact on developing countries.  By following this alternative approach, I comparatively assess the development drive of two of today&apos;s most important PTAs, namely NAFTA and ASEAN.  The main conclusion echoes an increasing literature that warns developing countries from engaging in &quot;reciprocal&quot; North-South PTAs, but at the same time, encourages them to pursue South-South integration, which can prove to be beneficial for their development.</dc:description>
+  <dc:description>M.A.</dc:description>
+  <dc:subject>Economics, General--Economics, Commerce-Business--Political Science, International Law and Relations--ASEAN--Foreign Investment--Market Access--NAFTA--PTAs and Development--Regional Economic Integration</dc:subject>
+  <dc:format>131</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63569</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63569</dc:identifier>
+  <dc:contributor>Sai-wing Ho, Peter</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:contributor>Goetz, Andrew</dc:contributor>
+  <dc:contributor>Mott, Tracy</dc:contributor>
+  <dc:contributor>von Arnim, Rudiger</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63340</identifier>
+    <datestamp>2013-02-06T19:09:45Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>The Impact of Industry Characteristics on the Diffusion of Adjustable Speed Motors Across Manufacturing Industries</dc:title>
+  <dc:creator>Nesbitt, Lawrence</dc:creator>
+  <dc:contributor>Economics</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>June 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>Author: Larry Nesbitt Title: THE IMPACT OF INDUSTRY CHARACTERISTICS ON THE DIFFUSION OF ADJUSTABLE SPEED MOTORS Advisor: Dr. Yavuz Yasar Degree Date: June 2008  ABSTRACT   This paper examines the relationship of the diffusion of new technologies to industry level characteristics.  Specifically, adjustable speed motors, an energy saving technology of wide applicability across manufacturing industries, is the subject of this examination.  Industry characteristics, including average profits, average employment, mean value of shipments, business failure rate, average energy costs, and various employment levels are used to explain differing levels of the technology penetration in different manufacturing industries.  A panel dataset has been constructed to analyze the relationship between these various industry characteristics and technology penetration.  This dataset includes statistics from 1992, 1998, and 2002.  Three separate models for analyzing the data are employed.  These include the Constant Coefficients model and two variations of the Least Squared Dummy Variable Model.  These models suggest both average energy costs and mean profits have a positive relationship to technology penetration while failure rate appears to have a negative relationship.  The role of average firm size is ambiguous.</dc:description>
+  <dc:description>MA</dc:description>
+  <dc:subject>Economics, General--Technology Diffusion; Adjustable Speed Motors; Technology Penetration; Energy Efficient Technologies; Manufacturing Industry Characteristics</dc:subject>
+  <dc:format>60</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63340</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63340</dc:identifier>
+  <dc:contributor>Yasar, Yavuz</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:contributor>Mott, Tracy</dc:contributor>
+  <dc:contributor>Knecht, Tom</dc:contributor>
+  <dc:contributor>Freeman, Katherine</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63204</identifier>
+    <datestamp>2013-02-06T19:13:15Z</datestamp>
+    <setSpec>codu_62282</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>What&apos;s in the News: A Quantitative Content Analysis of The Daily Show with Jon Stewart and Network News</dc:title>
+  <dc:creator>Lee, Courtney M</dc:creator>
+  <dc:contributor>Mass Communications</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>June 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>This study investigated the differences and similarities between traditional network news and one example of nontraditional news: The Daily Show with Jon Stewart. There has been a significant amount of research written about the effects of watching nontraditional news as opposed to traditional news. This study looked at several key variables to determine exactly what differentiates these genres of news, and what researcher may have overlooked in terms of similarities these genres share. The results indicate that many variables that deal with entertainment value and educational value create differences between these genres of news. There are, however, significant findings that show how The Daily Show distinguishes itself from network news in ways that may not contribute to the entertainment value of the program, but instead create a new form of journalism that does not necessarily have to be objective to be credible.</dc:description>
+  <dc:description>MA</dc:description>
+  <dc:subject>Mass Communications</dc:subject>
+  <dc:format>211</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63204</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63204</dc:identifier>
+  <dc:contributor>Botta, Renee A.</dc:contributor>
+  <dc:contributor>Gorak, Jan</dc:contributor>
+  <dc:contributor>Thompson, Margaret</dc:contributor>
+  <dc:contributor>Schofiled Clark, Lynn</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

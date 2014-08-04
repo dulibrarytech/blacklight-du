@@ -1,0 +1,2143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T01:05:35Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54196</identifier>
+    <datestamp>2012-03-26T17:46:08Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Jean Blackledge</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Blackledge, Jean</dc:creator>
+  <dc:subject>Blackledge, Jean G.</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Jean Blackledge discusses changes that took place in the University Park neighborhood of Denver, Colorado, since her move to the area in 1958 including the increase in the number of commercial businesses, the increase in the amount of traffic in the neighborhood, and the growth of trees and other vegetation. Blackledge affirms that University Park residents are mostly professionals including doctors, lawyers, and professors who work at the University of Denver.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item, (sound tape cassette), 1 audiotape cassette, 4 minutes, 59 seconds, analog, monoral</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00003</dc:identifier>
+  <dc:identifier>http://library.du.edu/about/collections/digitallibrary ||udpl-upoh-ma-0003-blackledge- ||F784.D4U558 1986 no.3</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:54196</dc:identifier>
+  <dc:identifier>codu:54196</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54230</identifier>
+    <datestamp>2012-03-26T17:47:32Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Andrew Gassman</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Gassman, Andrew</dc:creator>
+  <dc:subject>Gassman, Andrew</dc:subject>
+  <dc:subject>Chamberlin Observatory</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Astronomy</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Astronomers</dc:subject>
+  <dc:description>Andrew Gassman, Chamberlin Observatory astronomer, provides a brief history of Chamberlin Observatory, which is located in Observatory Park in the University Park area of Denver, Colorado. Gassman notes that the observatory was built for research in 1896 and at the time of its construction was located far from populated, lighted areas that might interfere with its operation. He relates that as the surrounding area became populated, the function of the Observatory changed from a research facility for astronomers to a facility to educate students and the public about astronomy. Gassman also discusses the historical features of the Observatory.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item, (sound tape cassette), 1 audiotape cassette, 5 minutes, 15 seconds,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00018</dc:identifier>
+  <dc:identifier>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=296 ||udpl-upoh-ma-00018-gassman-tl ||F784.D4U558 1986 no.18</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:54230</dc:identifier>
+  <dc:identifier>codu:54230</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54203</identifier>
+    <datestamp>2012-03-26T17:46:38Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Mr. Sam Huddleston</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Huddleston, Sam L.,--1914-2007</dc:creator>
+  <dc:subject>Huddleston, Sam L.,--1914-2007</dc:subject>
+  <dc:subject>Sam L. Huddleston and Associates</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Landscape architects</dc:subject>
+  <dc:description>Sam Huddleston discusses the University Park area of Denver, Colorado, and the changes that have taken place since he moved to the area in 1949. He talks about development of Harvard Gulch Park, construction of I-25 (Denver&apos;s North-South Interstate Highway), noise from the increased traffic in the neighborhood, and commercial and residential development in the area. Huddleston also discusses how residents are trying to deal with emerging problems due to the increased population density and commercial growth in University Park.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item, (sound tape cassette), 1 audiotape cassette, 24 minutes, 17 seconds,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00024</dc:identifier>
+  <dc:identifier>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=306 ||udpl-upoh-ma-00024-huddleson-t1 ||F784.D4 U558 1986 no.24</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:54203</dc:identifier>
+  <dc:identifier>codu:54203</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54195</identifier>
+    <datestamp>2012-03-26T17:45:47Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Loretta Eitelgeorge</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Eitelgeorge, Loretta M.,--1903-1997</dc:creator>
+  <dc:subject>Eitelgeorge, Loretta M.,--1903-1997</dc:subject>
+  <dc:subject>University Park Methodist Episcopal Church (Denver, Colo.)</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Loretta Eitelgeorge relates her personal memories of musical and social events in the University Park area of Denver, Colorado, the occupants of various homes in the area (some families included 3 generations simultaneously residing in the Park), the interrelationship between the University Park Methodist Church and the University of Denver faculty, the gradual build-up of the area, and the many trees and plants in the area, especially the Denver University Rose, cultivated by Dr. Ira E. Cutler. Mrs. Eitelgeorge also reads extensively from an article by Eula Fairchild on life in University Park from 1909-1959.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item, (sound tape cassette), 1 audiotape cassette, 38 minutes, 56 seconds, analog, monoral</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00011</dc:identifier>
+  <dc:identifier>http://library.du.edu/about/ ||udpl-upoh-ma-00011-eitelgeorge-t1b-cleaned ||F784.D4U558 1986 no.11</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:54195</dc:identifier>
+  <dc:identifier>codu:54195</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54215</identifier>
+    <datestamp>2012-03-26T17:46:24Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Mr. and Mrs. Farnsworth</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Farnsworth, Margaret A.</dc:creator>
+  <dc:subject>Farnsworth, Margaret A.</dc:subject>
+  <dc:subject>Farnsworth, Glenn C.</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>Observatory Park (Denver, Colo.)</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Mr. and Mrs. Farnsworth discuss details about the University Park area of Denver, Colorado, including commercial and residential development that took place in the neighborhood after they moved there in 1939. They confirm that the area was populated primarily with college professors, including three on their block, but that other types of professionals also live in the neighborhood. Mr. and Mrs. Farnsworth also talk about the streetcar line, grocery stores, Observatory Park, and the public and private schools that were in the area.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item, (sound tape cassette), 1 audiotape cassette, 13 minutes, 28 seconds,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00016</dc:identifier>
+  <dc:identifier>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=322 ||udpl-upoh-ma-00016-farnsworth-t1 ||F784.D4U558 1986 no.16</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:54215</dc:identifier>
+  <dc:identifier>codu:54215</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54235</identifier>
+    <datestamp>2012-03-26T17:46:34Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Mr. and Mrs. Dorcas</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Dorcas, Robert S.</dc:creator>
+  <dc:subject>Dorcas, Robert S.</dc:subject>
+  <dc:subject>Dorcas, Daisy B.</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Engineers</dc:subject>
+  <dc:subject>Teachers</dc:subject>
+  <dc:description>Mr. and Mrs. Dorcas provide general information about the development of the University Park area of Denver, Colorado, since their move to the neighborhood in 1938. They talk about the local schools, local businesses, their neighbors&apos; professions and the effect of the University of Denver on the neighborhood.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item, (sound tape cassette), 1 audiotape cassette, 30 minutes, 29 seconds,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00008</dc:identifier>
+  <dc:identifier>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=327 ||udpl-upoh-ma-0008-dorcus-t1 ||F784.D4U558 1986 no.8</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:54235</dc:identifier>
+  <dc:identifier>codu:54235</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54234</identifier>
+    <datestamp>2012-03-26T17:45:54Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Chuck and Dorothy Haines</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Haines, Dorothy F.</dc:creator>
+  <dc:subject>Haines, Charles H.</dc:subject>
+  <dc:subject>Haines, Dorothy F.</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Boy Scouts of America.--Troop 5 (Denver, Colo.)</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Chuck and Dorothy Haines discuss details about the University Park area of Denver, Colorado and the changes that have taken place since they moved to the neighborhood. They talk about the local schools, passenger and freight train service in the area, and local businesses including the pharmacy and the Piggly Wiggly grocery store. They discuss the relationship between the neighborhood and the University of Denver, highlighting the friction between the two groups in the past. Chuck Haines also relates some historical details about Boy Scout Troop 5, Denver, Colorado.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item, (sound tape cassette), 1 audiotape cassette, 21 minutes, 8 seconds,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00022</dc:identifier>
+  <dc:identifier>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=328 ||udpl-upoh-ma-00022-haines-tl ||F784.D4 U558 1986 no.22</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:54234</dc:identifier>
+  <dc:identifier>codu:54234</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54193</identifier>
+    <datestamp>2012-03-26T17:46:55Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Frances Hayes</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Hayes, Frances E.</dc:creator>
+  <dc:subject>Hayes, Frances E.</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>University Park Methodist Episcopal Church (Denver, Colo.)</dc:subject>
+  <dc:subject>University Park Methodist Church (Denver, Colo.)</dc:subject>
+  <dc:subject>University Park United Methodist Church (Denver, Colo.)</dc:subject>
+  <dc:subject>Alumnae</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Employees</dc:subject>
+  <dc:description>Frances Hayes of 3343 E. Colorado Avenue (and formerly of 2181 S. Clayton Street), Denver, Colorado shares her memories about the University Park area of Denver including attending church services at Old Main, now University Hall, on the University of Denver campus before the United Park Methodist Church was built. She notes that Sunday school classes were held both at the Iliff School of Theology and in Old Main at this time. Hayes also talks about her summer wedding ceremony in Wasser Chapel in the University Park United Methodist Church, the influence that the University of Denver had on the neighborhood, and the retail stores that were located in the area, including pharmacies and grocery stores.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item, (sound tape cassette), 1 audiotape cassette, 27 minutes, 25 seconds,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00023</dc:identifier>
+  <dc:identifier>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=325 ||udpl-upoh-ma-00023-hayes-t1 ||F784.D4 U558 1986 no.23</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:54193</dc:identifier>
+  <dc:identifier>codu:54193</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54201</identifier>
+    <datestamp>2012-03-26T17:45:42Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Mrs. Ruth Geyer</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Geyer, Ruth J.</dc:creator>
+  <dc:subject>Geyer, Ruth J.</dc:subject>
+  <dc:subject>University Park Methodist Episcopal Church (Denver, Colo.)</dc:subject>
+  <dc:subject>University Park Methodist Church (Denver, Colo.)</dc:subject>
+  <dc:subject>University Park United Methodist Church (Denver, Colo.)</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Alumnae</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Ruth Geyer discusses changes that have taken place in the University Park area of Denver, Colorado, since moving to the neighborhood in 1920 including residential and commercial development, types of transportation systems and the number of trees as well as the amount of other types of vegetation. She notes that her mother helped raise funds to build the University Park Methodist Church. Geyer also talks about the neighborhood families that kept goats and cows on a vacant lot across from her house.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item, (sound tape cassette), 1 audiotape cassette, 13 minutes, 26 seconds,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00019</dc:identifier>
+  <dc:identifier>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=323 ||udpl-upoh-ma-00019-geyer-t1 ||F784.D4U558 1986 no.19</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:54201</dc:identifier>
+  <dc:identifier>codu:54201</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54216</identifier>
+    <datestamp>2012-03-26T17:45:58Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Mr. and Mrs. Max Grassfield</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Grassfield, Max P.</dc:creator>
+  <dc:subject>Grassfield, Max P.</dc:subject>
+  <dc:subject>Grassfield, Patricia L.</dc:subject>
+  <dc:subject>Grassfield and Company</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Max P. and Patricia L. Grassfield share their memories of the University Park area of Denver, Colorado, including the professions of their neighbors and the changing demographics of the neighborhood.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item, (sound tape cassette), 1 audiotape cassette, 17 minutes, 21 seconds,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00021</dc:identifier>
+  <dc:identifier>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=605 ||udpl-upoh-ma-00021-grassfield-t1 ||F784.D4 U558 1986 no.21</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:54216</dc:identifier>
+  <dc:identifier>codu:54216</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54198</identifier>
+    <datestamp>2012-03-26T17:47:28Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Carolyn Etter</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Etter, Carolyn B.</dc:creator>
+  <dc:subject>Etter, Carolyn B.</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Carolyn Etter shares her memories of the University Park area of Denver, Colorado, including the professions of the individuals in the neighborhood, business development in University Park, and changes in both transportation services and traffic flows.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item, (sound tape cassette), 1 audiotape cassette, 12 minutes, 17 seconds,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00014</dc:identifier>
+  <dc:identifier>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=604 ||udpl-upoh-ma-00014-etter-t1 ||F784.D4U558 1986 no.14</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:54198</dc:identifier>
+  <dc:identifier>codu:54198</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55645</identifier>
+    <datestamp>2012-03-26T17:46:05Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Pat Gilmore</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Gilmore, Patricia K.</dc:creator>
+  <dc:subject>Gilmore, Patricia K.</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>University Park Elementary School (Denver, Colo.)</dc:subject>
+  <dc:subject>Cultural pluralism</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Pat Gilmore discusses details about the University Park area of Denver, Colorado and the changes that took place since she moved to the area in 1960. She talks about the neighborhood schools such as the University Park Elementary School, as well as local businesses. She provides a brief history of her home at 2474 S. Jackson Street, which was one of two log cabins that were built in the neighborhood. Gilmore also talks about the wide variety of religious denominations that are present in University Park area including Quakers, Russian Orthodox, Muslims, Catholics, Methodists and Seventh Day Adventists.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item, (sound tape cassette), 1 audiotape cassette, 29 minutes, 20 seconds,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00020</dc:identifier>
+  <dc:identifier>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=329 ||udpl-upoh-ma-00020-gilmore-tl ||F784.D4 U558 1986 no.20</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55645</dc:identifier>
+  <dc:identifier>codu:55645</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54219</identifier>
+    <datestamp>2012-03-26T17:46:52Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Ralph Atkinson</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Atkinson, Ralph,--1906-2001</dc:creator>
+  <dc:subject>Atkinson, Ralph,--1906-2001</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Ralph Atkinson discusses what the University Park area of Denver, Colorado was like when he moved into his house in 1952, including the extent of housing development and the number of commercial businesses in the area.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item, (sound tape cassette), 1 audiotape cassette, 3 minutes, 18 seconds, analog, monoral</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00001</dc:identifier>
+  <dc:identifier>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=331 ||udpl-upoh-ma-0001-atkinson-t1a.aif ||F784.D4 U558 1986 no.1</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:54219</dc:identifier>
+  <dc:identifier>codu:54219</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54222</identifier>
+    <datestamp>2012-03-26T17:46:48Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Mary Coen</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Coen, Mary S.</dc:creator>
+  <dc:subject>Underhill, Ruth Murray,--1884-1984</dc:subject>
+  <dc:subject>Coen, Mary S.</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Alumnae</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Anthropologists</dc:subject>
+  <dc:description>Mary Coen discusses the life and work of author, anthropologist, and University of Denver professor Dr. Ruth Murray Underhill, including details about her Quaker parents, her education at Vassar College as well as the London School of Economics, her studies with Franz Boas, and her field work with the Papago Indians in Colorado and Arizona. Coen notes that Underhill moved to the University Park neighborhood after World War II, at about the same time that she became an anthropology professor at the University of Denver. Coen also provides the titles of a number of Underhill&apos;s books and discusses her legacy.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item, (sound tape cassette), 1 audiotape cassette, 14 minutes, 7 seconds, analog, monoral</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00006</dc:identifier>
+  <dc:identifier>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=303 ||udpl-upoh-ma-0006-coen-t1 ||F784.D4U558 1986 no.6</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:54222</dc:identifier>
+  <dc:identifier>codu:54222</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54204</identifier>
+    <datestamp>2012-03-26T17:47:09Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Helen Driscoll</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Driscoll, Helen N.</dc:creator>
+  <dc:subject>Driscoll, Helen N.</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>University Park Guild (Denver, Colo.)</dc:subject>
+  <dc:subject>University Park Methodist Church (Denver, Colo.)</dc:subject>
+  <dc:subject>University Park Reviewers Club (Denver, Colo.)</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Helen Driscoll discusses commercial and residential development in the University Park area of Denver, Colorado since 1950 and affirms that the residents were chiefly legal, medical, and academic professionals. She describes the activities of the University Park Guild, which was closely associated with the University Park Methodist Church, and the University Park Book Review. She also discusses changes that took place in the neighborhood, including the change in public transportation from the Trolley Line 8 to RTD buses, renovations at the University Park Elementary School, and the move of the Colorado Military Academy to a new location in Lakewood, Colorado.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item, (sound tape cassette), 1 audiotape cassette, 7 minutes, 36 seconds,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00010</dc:identifier>
+  <dc:identifier>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=298 ||udpl-upoh-ma-00010-driscoll-tl ||F784.D4U558 1986 no.10</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:54204</dc:identifier>
+  <dc:identifier>codu:54204</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54194</identifier>
+    <datestamp>2012-03-26T17:47:02Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Nancy Dorn Presents Humorous Anecdotes about Christmas Carol Sings at Observatory Park, Denver, Colorado</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Dorn, Nancy W.,--1930-2004</dc:creator>
+  <dc:subject>University Park Community Council (Denver, Colo.)</dc:subject>
+  <dc:subject>Friends of International Students at the University of Denver (Denver, Colo.)</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Nancy Dorn presents humorous anecdotes about two events that took place during the University Park Community Council&apos;s annual Christmas Carol Sings at Observatory Park, Denver, Colorado, during the 1970s. She relates a story about a misunderstanding with an artificial Christmas tree, and another about the misfortunes of the members of a brass band who play their instruments outside in cold weather.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item, (sound tape cassette), 1 audiotape cassette, 14 minutes, 40 seconds,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00009</dc:identifier>
+  <dc:identifier>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=625 ||udpl-upoh-ma-0009-dorn-t1 ||F784.D4U558 1986 no.9</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:54194</dc:identifier>
+  <dc:identifier>codu:54194</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55322</identifier>
+    <datestamp>2012-03-26T17:46:58Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Barry Matchett Shows Annita Andrick, of the Penrose Archives, a Plat Map of University Park</dc:title>
+  <dc:subject>Neighborhoods</dc:subject>
+  <dc:subject>Matchett, Barry</dc:subject>
+  <dc:subject>Andrick, Annita</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Eagle Scout Barry Matchett shows Annita Andrick of the University of Denver Penrose Library Special Collections &amp; Archives, a plat map of the University Park neighborhood of Denver, Colorado. Matchett was a member of the Boy Scouts of America, Troop 5 in Denver. He interviewed residents of University Park in their homes as part of his 1986 Eagle Scout project.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>1 item, (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>M054.02.0002.0001.00001</dc:identifier>
+  <dc:identifier>codu:55322</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54240</identifier>
+    <datestamp>2012-03-26T17:46:44Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Mary Engle</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Engle, Mary W.,--1898-1998</dc:creator>
+  <dc:subject>Engle, Mary W.,--1898-1998</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Mary Engle discusses details about the University Park area of Denver, Colorado and the changes that have taken place since she moved to the neighborhood in 1934. She talks about the area schools, businesses, transportation services, and the professions of the individuals in the neighborhood.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item, (sound tape cassette), 1 audiotape cassette, 14 minutes, 57 seconds,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00013</dc:identifier>
+  <dc:identifier>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=615 ||udpl-upoh-ma-0013-engle-t1 ||F784.D4U558 1986 no.13</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:54240</dc:identifier>
+  <dc:identifier>codu:54240</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54214</identifier>
+    <datestamp>2012-03-26T17:45:38Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Mr. James Hurlbut</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Hurlbut, James F.</dc:creator>
+  <dc:subject>Hurlbut, James F.</dc:subject>
+  <dc:subject>Denver Research Institute</dc:subject>
+  <dc:subject>Boy Scouts of America.--Troop 5 (Denver, Colo.)</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Scout leaders</dc:subject>
+  <dc:subject>Employees</dc:subject>
+  <dc:description>James Hurlbut shares his memories of the University Park area of Denver, Colorado including the professions of his neighbors, local schools, as well as commercial and residential development. Hurlbut also gives a brief account of his accomplishments during the time he served as Scoutmaster of Boy Scout Troop 5.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item, (sound tape cassette), 1 audiotape cassette, 11 minutes, 37 seconds,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00025</dc:identifier>
+  <dc:identifier>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=616 ||udpl-upoh-ma-00025-hurlbut-tl ||F784.D4 U558 1986 no.25</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:54214</dc:identifier>
+  <dc:identifier>codu:54214</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55644</identifier>
+    <datestamp>2012-03-26T17:47:23Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Mrs. Edith Blankenship</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Blankenship, Edith O.,--1911-1998</dc:creator>
+  <dc:subject>Blankenship, Edith O.,--1911-1998</dc:subject>
+  <dc:subject>University Park United Methodist Church (Denver, Colo.)</dc:subject>
+  <dc:subject>Grocery trade</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Edith Blankenship shares her memories of what the University Park area of Denver, Colorado was like after moving to the area in the 1930&apos;s including the wheat fields, chicken farms, and local street cars. She also discusses home-owned grocery stores, which she describes as neighborhood businesses that have a grocery store in the front with living accommodations for a family in the back.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item, (sound tape cassette), 1 audiotape cassette, 12 minutes, 41 seconds, analog, monoral</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00004</dc:identifier>
+  <dc:identifier>udpl-upoh-ma-0004-blankenship-t1a.aif</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55644</dc:identifier>
+  <dc:identifier>codu:55644</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54236</identifier>
+    <datestamp>2012-03-26T17:45:51Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Juanita Johnson</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Johnson, Juanita R.</dc:creator>
+  <dc:subject>Johnson, Juanita R.</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Alumnae</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Teachers</dc:subject>
+  <dc:description>Juanita Johnson discusses details about the University Park area of Denver, Colorado, and the changes that have taken place since she moved to the neighborhood in 1960. She talks about changes in the types of transportation systems, the increase in traffic and noise pollution, and the decrease in the number of young children in the neighborhood. Johnson also describes what the University of Denver was like both during and after World War II including details such as student activities, student housing, and class size.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item, (sound tape cassette), 1 audiotape cassette, 45 minutes, 19 seconds,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00027</dc:identifier>
+  <dc:identifier>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=619 ||udpl-upoh-ma-00027-johnson-tlb ||F784.D4 U558 1986 no.27</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:54236</dc:identifier>
+  <dc:identifier>codu:54236</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54221</identifier>
+    <datestamp>2012-03-26T17:45:35Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Royce Forsyth</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Forsyth, Royce D. (Royce Delmar),--1927-2007</dc:creator>
+  <dc:subject>Forsyth, Royce D. (Royce Delmar),--1927-2007</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Alumni</dc:subject>
+  <dc:subject>Quaker converts</dc:subject>
+  <dc:subject>Solar houses</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Teachers</dc:subject>
+  <dc:description>Royce D. Forsyth shares his memories about the University Park area of Denver, Colorado, talking about the construction of the Mary Reed Library at the University of Denver and the residential development in the neighborhood. Forsyth discusses the two solar powered homes that he built in University Park, providing details about the construction of the home, the materials that were used in the construction, and the energy savings from solar heating. He points out that the landscaping of his homes is also energy efficient, naming the native plants that use low amounts of water. He also talks about his religious faith, discussing how he became a Quaker and giving some details of the interior of a Quaker meeting house at the corner of E. Iliff Ave. and S. Columbine St.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item, (sound tape cassette), 1 audiotape cassette, 28 minutes, 49 seconds,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00017</dc:identifier>
+  <dc:identifier>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=326 ||udpl-upoh-ma-00017-forsyth-tl ||F784.D4U558 1986 no.17</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:54221</dc:identifier>
+  <dc:identifier>codu:54221</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54225</identifier>
+    <datestamp>2012-03-26T17:45:20Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Jean Emery</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Emery, Jean J.</dc:creator>
+  <dc:subject>Emery, Jean J.</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>University Park Elementary School (Denver, Colo.)</dc:subject>
+  <dc:subject>University Park Parent-Teacher Association (Denver, Colo.)</dc:subject>
+  <dc:subject>Alumnae</dc:subject>
+  <dc:subject>School integration</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Teachers</dc:subject>
+  <dc:description>Jean Emery discusses details about the University Park area of Denver, Colorado and the changes that took place since she moved to the neighborhood in 1952. She talks about local businesses, commercial and residential development, and transportation systems. Emery also discusses in depth the efforts to use busing both as a means to ease overcrowding in the local schools, including University Park Elementary School, as well as to achieve school desegregation.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item, (2 sound tape cassettes), 2 audiotape cassettes, 1 hour, 5 minutes,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00012</dc:identifier>
+  <dc:identifier>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=624 ||udpl-upoh-ma-00012-emery-t2a ||F784.D4U558 1986 no.12</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:54225</dc:identifier>
+  <dc:identifier>codu:54225</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54211</identifier>
+    <datestamp>2012-03-26T17:45:24Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Dr. Allen Breck Presents a History of the University Park Neighborhood of Denver, Colorado</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Breck, Allen duPont</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Breck, Allen duPont</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Dr. Allen Breck discusses the University Park neighborhood of Denver, Colorado. Breck notes that although a number of professionals still live in the area, there are not as many University of Denver faculty members with homes in the neighborhood as there were in past years. He speculates that this may be due to the fact that University Park houses are more expensive. He discusses schools in the area, and the positive effect that living in the neighborhood has had on his life. He also discusses zoning issues and how the community and the University of Denver fought changes that they perceived would have a negative effect on the area. He concludes with a brief history of the origin of the neighborhood, as the Union Colony started by John Evans in 1886.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:type>Oral histories (Document genres)</dc:type>
+  <dc:type>Interviews</dc:type>
+  <dc:type>Audiocassettes</dc:type>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>1 item, (sound tape cassette), 1 audiotape cassette, 8 minutes, 36 seconds, analog, monoral</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00005</dc:identifier>
+  <dc:identifier>http://library.du.edu/about/collections/digitallibrary/ ||udpl-upoh-ma-0005-breck-t1 ||F784.D4U558 1986 no.5</dc:identifier>
+  <dc:identifier>codu:54211</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55646</identifier>
+    <datestamp>2012-03-26T17:46:02Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with John Ivey</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Ivey, John B.,--1927-2003</dc:creator>
+  <dc:subject>Ivey, John B.,--1927-2003</dc:subject>
+  <dc:subject>Boy Scouts of America.--Troop 5 (Denver, Colo.)</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Scout leaders</dc:subject>
+  <dc:description>John Ivey discusses the University Park area of Denver, Colorado, noting that when he moved to the neighborhood, businesses in University Park were well established and few vacant lots remained for development. He says that the only change that he has seen is in the landscaping and vegetation, especially the maturation of trees in the area. Many professionals lived on his block including doctors, dentists, lawyers, and stockbrokers. He says that he believes the University of Denver has had a positive effect on the area since there were many campus activities that residents of the neighborhood could attend, such as athletic events and plays. Ivey also discusses his experiences during the time that he was Scoutmaster of Boy Scout Troop 5, Denver, Colorado from 1968 to 1972.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item, (sound tape cassette), 1 audiotape cassette, 18 minutes, 58 seconds,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00026</dc:identifier>
+  <dc:identifier>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=309 ||udpl-upoh-ma-00026-ivey-t1 ||F784.D4 U558 1986 no.26</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55646</dc:identifier>
+  <dc:identifier>codu:55646</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54238</identifier>
+    <datestamp>2012-03-26T17:46:41Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Kathleen Babcock</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Babcock, Kathleen M.,--1903-</dc:creator>
+  <dc:subject>Babcock, Kathleen M.,--1903-</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>University Park Elementary School (Denver, Colo.)</dc:subject>
+  <dc:subject>Public schools</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Kathleen M. Babcock, a lifelong resident of the University Park area of Denver, Colorado, lists her numerous area addresses and describes her early University Park neighborhood as farmland with most residents keeping cattle, chickens, and horses. Babcock discusses local shops and businesses, area churches, and neighborhood activities for children, including a May Day Festival at the University of Denver, holiday parties, ice skating at a lighted rink in the winter, and visits on Saturdays to a gymnasium on University Avenue. Babcock also talks about the first streets to be paved in the neighborhood, her first ride in an automobile, and the local streetcar route, which later became the bus route from University Park to downtown Denver.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item, (sound tape cassette), 1 audiotape cassette, 25 minutes, 51 seconds, analog, monoral</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00002</dc:identifier>
+  <dc:identifier>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=300 ||udpl-upoh-ma-0002-babcock-19860601-t1a.aif ||F784.D4 U558 1986 no.2</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:54238</dc:identifier>
+  <dc:identifier>codu:54238</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54229</identifier>
+    <datestamp>2012-03-26T17:46:16Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Marjorie and Marion Cutler</dc:title>
+  <dc:title>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:title>
+  <dc:creator>Cutler, Marian F.--(Marian Frances),--1897-1987</dc:creator>
+  <dc:subject>Cutler, Marjorie M.--(Marjorie Mitchell),--1904-1990</dc:subject>
+  <dc:subject>Cutler, Marian F.--(Marian Frances),--1897-1987</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Boy Scouts of America.--Troop 5 (Denver, Colo.)</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Plant propagation</dc:subject>
+  <dc:subject>Roses</dc:subject>
+  <dc:subject>Corn</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>College registrars</dc:subject>
+  <dc:subject>Teachers</dc:subject>
+  <dc:subject>College teachers</dc:subject>
+  <dc:subject>Botanists</dc:subject>
+  <dc:description>Sisters Marjorie and Marian Cutler share their memories of the University Park area of Denver, Colorado, and Marjorie discusses historical details about the neighborhood. Marjorie talks about the origins of Boy Scout Troop 5, Denver, Colo., adding that it was the first troop west of the Mississippi. She gives a brief history of the University of Denver (DU) and talks about Chancellor Henry Buchtel&apos;s role in raising money for the university, including his efforts to provide funding to build a chapel and a library on the DU campus. Marjorie provides a biographical sketch of their father, Dr. Ira E. Cutler, and also discusses his scholarly and personal interests, including his study of the types of corn that could be grown at high altitude and his work on the &quot;DU rose&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item, (sound tape cassette), 1 audiotape cassette, 1 hour, 15 seconds, analog, monoral</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00007</dc:identifier>
+  <dc:identifier>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=630 ||udpl-upoh-ma-0007-cutler-tlb ||F784.D4U558 1986 no.7</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:54229</dc:identifier>
+  <dc:identifier>codu:54229</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64983</identifier>
+    <datestamp>2013-02-01T23:51:31Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Veta Schairer</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Schairer, Veta</dc:creator>
+  <dc:subject>Schairer, Veta</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Title supplied by cataloger.</dc:description>
+  <dc:description>Interview conducted at 3100 E. Warren Avenue, Denver, Colorado in 1986.</dc:description>
+  <dc:description>Participants: Robert Matchett ; Veta Schairer.</dc:description>
+  <dc:description>Veta M. Schairer moved to the University Park area of Denver, Colorado in 1955 or 1956.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Veta Schairer shares her memories about the University Park area of Denver, Colorado, including details about defunct businesses in the neighborhood including a grocery store at E. Evans Avenue and S. Milwaukee Street, as well as a convenience store at the elementary school. She confirms that the University Park neighborhood was well established and was populated by professionals when she moved to the area in 1955 or 1956. Schairer also discusses public transportation and the public and private schools in University Park.</dc:description>
+  <dc:description>Gift of Barry Matchett, 1986</dc:description>
+  <dc:description>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=316 ||udpl-upoh-ma-00039-schairer-tl ||F784.D4 U558 1986 no.39</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item (sound tape cassette), , 1 audiotape cassette, , 6 minutes, 51 seconds, ,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0002.00012</dc:identifier>
+  <dc:identifier>codu:64983</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64976</identifier>
+    <datestamp>2013-02-02T00:02:04Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Ms. Elizabeth McBride</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>McBride, Elizabeth B.</dc:creator>
+  <dc:subject>McBride, Elizabeth B.</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Denver Ordnance Plant (Colo.)</dc:subject>
+  <dc:subject>Alumnae</dc:subject>
+  <dc:subject>Weapons industry</dc:subject>
+  <dc:subject>Coal trade</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Teachers</dc:subject>
+  <dc:subject>Employees</dc:subject>
+  <dc:description>Title supplied by cataloger.</dc:description>
+  <dc:description>Interview conducted at 1901 S. St. Paul Street, Denver, Colorado on May 10, 1986.</dc:description>
+  <dc:description>Participants: Stephen Crummer ; Elizabeth McBride.</dc:description>
+  <dc:description>Elizabeth B. McBride lived in the University Park area of Denver, Colorado, from 1939 to 1942 and later moved back to the neighborhood in 1965. McBride attended Grant Junior High School and South High School. She graduated from the University of Denver in 1929. She was a schoolteacher at Randall School, where she taught chemistry, biology, and general science. Her husband, Charles B. McBride, worked in the wholesale coal business. During World War II, McBride worked at the Denver Ordnance Plant in Jefferson County, Colo., as a manufacturing timekeeper and her husband also worked at the plant as a process engineer.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Elizabeth McBride talks about the University Park area of Denver, Colorado, when she lived in the neighborhood from 1939 to 1942. She discusses businesses in the area, local transportation, and hearing airplanes on training flights based at Lowry Air Force Base, Colorado. She also talks about her husband&apos;s coal business including the cost of heating a home during the winter and how she and her husband delivered coal to their neighbors.</dc:description>
+  <dc:description>Gift of Barry Matchett, 1986</dc:description>
+  <dc:description>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=622 ||udpl-upoh-ma-00032-mcbride-tlb ||F784.D4 U558 1986 no.32</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item (sound tape cassette), , 1 audiotape cassette, , 44 minutes, 11 seconds, ,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0002.00005</dc:identifier>
+  <dc:identifier>codu:64976</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64984</identifier>
+    <datestamp>2013-02-02T00:14:47Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History interview with Drs. Robert and Alberta Shattuck</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Shattuck, Alberta I.--(Alberta Iliff),--1909-2011</dc:creator>
+  <dc:subject>Shattuck, Robert C.,--1904-1996</dc:subject>
+  <dc:subject>Shattuck, Alberta I.--(Alberta Iliff)</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Boy Scouts of America.--Troop 5 (Denver, Colo.)</dc:subject>
+  <dc:subject>Alumnae</dc:subject>
+  <dc:subject>Alumni</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Physicians</dc:subject>
+  <dc:subject>Chemists</dc:subject>
+  <dc:description>Title supplied by cataloger.</dc:description>
+  <dc:description>Interview conducted at 6484 South Sycamore, Littleton, Colorado on April 30, 1986.</dc:description>
+  <dc:description>Participants: Robert Matchett ; Dr. Robert Shattuck ; Dr. Alberta Shattuck.</dc:description>
+  <dc:description>Dr. Robert C. Shattuck (1904-1996), a physician and surgeon, was born in the University Park area of Denver, Colorado, and lived in the neighborhood until 1934. He was a member of Boy Scout Troop 5, Denver, Colo. Shattuck attended University Park Elementary School and South High School, and graduated from the University of Denver. He attended medical school in Colorado and Pennsylvania, and opened a medical practice in Colorado. Shattuck&apos;s grandfather, Joseph Shattuck, was the first dean of the University of Denver. Shattuck&apos;s uncle, Herbert Alonzo Howe, was a professor of astronomy and a dean at the University of Denver who was instrumental in having the Chamberlin Observatory built. Shattuck was an honorary trustee at the University of Denver, and he wrote a book about University Park that was published by the University Park Methodist Church. He married Dr. Alberta Iliff in 1959.</dc:description>
+  <dc:description>Dr. Alberta Iliff Shattuck (1909-2011) was born in Denver, Colorado, the third child of William Seward Iliff and Alberta Gearhart Bloom Iliff, and lived in the University Park neighborhood until 1959. She attended the University Park Elementary School and graduated from the University of Denver in 1931 with an undergraduate degree in chemistry, and an M.S. in 1932. She received a Ph.D. from the University of Colorado in 1942, and married Dr. Robert C. Shattuck in 1959.</dc:description>
+  <dc:description>Names appear on cassette label as: Dr. Robert Shattuck and wife Mrs. Iliff-Shattuck [sic]</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Dr. Robert Shattuck and his wife, Dr. Alberta Shattuck share their memories of growing up in the University Park area of Denver, Colorado, providing details about the neighborhood. Robert Shattuck discusses transportation, including the tramway line and the C and S Railroad, working at the Diamond Joe Ranch as a field hand, and his classes and teachers at the University Park Elementary School. He shares an anecdote about his uncle, Herbert A. Howe, Professor of Astronomy at the University of Denver, and discusses the role that John Evans, Colorado&apos;s second Territorial Governor, played in the development of the University of Denver, known at the time as the Colorado Seminary. Robert Shattuck also relates details about his experiences as a member of Boy Scout Troop 5, Denver, Colorado, including the names of campsites the group used and trails where the troop hiked in the mountains of Colorado. Alberta Shattuck provides a history of the Iliff School of Theology, located in Denver adjacent to the University of Denver campus, which her grandmother established in memory of her first husband and Alberta&apos;s grandfather, John Wesley Iliff.</dc:description>
+  <dc:description>Gift of Barry Matchett, 1986</dc:description>
+  <dc:description>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=628 ||http://www.iliff.edu/research/archives/biosketches.htm#albertashattuck ||udpl-upoh-ma-00040-shattuck-tlb ||F784.D4 U558 1986 no.40</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:contributor>Shattuck, Robert C.,--1904-1996 __Interviewee (contributor)</dc:contributor>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item (sound tape cassette), , 1 audiotape cassette, , 54 minutes, 30 seconds, ,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0002.00013</dc:identifier>
+  <dc:identifier>codu:64984</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64974</identifier>
+    <datestamp>2013-02-02T00:16:52Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Arthur Krieger</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Krieger, Arthur E.,--1913-1998</dc:creator>
+  <dc:subject>Krieger, Arthur E.,--1913-1998</dc:subject>
+  <dc:subject>Boy Scouts of America.--Troop 5 (Denver, Colo.)</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Interstate 25</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Scout leaders</dc:subject>
+  <dc:description>Title supplied by cataloger.</dc:description>
+  <dc:description>Interview conducted at 2485 S. St. Paul Street, Denver, Colorado in 1986.</dc:description>
+  <dc:description>Participants: Unidentified interviewer ; Arthur Krieger.</dc:description>
+  <dc:description>Arthur E. Krieger (1913-1998) moved to the University Park area of Denver, Colorado in the 1930s. Krieger was a scoutmaster of Boy Scout Troop 5, Denver, Colorado.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Arthur Krieger provides general information about the University Park area of Denver, Colorado since moving to the area in the 1930s. He offers a critique on the design and construction of the Valley Highway (known as I-25, Denver&apos;s North-South Interstate Highway) in the 1950s and comments on the noise and pollution it brought to the area. Krieger also notes that he is a former scoutmaster for Boy Scout Troop 5, Denver, Colorado.</dc:description>
+  <dc:description>Gift of Barry Matchett, 1986</dc:description>
+  <dc:description>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=311 ||udpl-upoh-ma-00030-krieger-tl ||F784.D4 U558 1986 no.30</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item (sound tape cassette), , 1 audiotape cassette, , 11 minutes, 6 seconds, ,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0002.00003</dc:identifier>
+  <dc:identifier>codu:64974</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64989</identifier>
+    <datestamp>2013-02-02T00:27:00Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Mr. Owen Trout</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Trout, Owen B.,--1919-</dc:creator>
+  <dc:subject>Trout, Owen B.,--1919-</dc:subject>
+  <dc:subject>Colorado Military School (Denver, Colo.)</dc:subject>
+  <dc:subject>Transportation</dc:subject>
+  <dc:subject>Street-railroads</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>Interstate 25</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Title supplied by cataloger.</dc:description>
+  <dc:description>Interview conducted at 2151 South Fillmore Street, Denver, Colorado on April 20, 1986.</dc:description>
+  <dc:description>Participants: Bob Shanks ; Owen Trout, Jr.</dc:description>
+  <dc:description>Owen B. Trout, Jr. was born in 1919, when his parents were residents of the University Park area of Denver, Colorado and he grew up in the neighborhood. He attended the Colorado Military School and South High School. After living in Minnesota for a short time, he returned to live in University Park. He worked at the Rocky Mountain Arsenal. His father, Owen B. Trout, was a math professor and a registrar at the University of Denver.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Owen Trout, Jr. recounts details about the University Park area of Denver, Colorado, including the local schools, the influence of the University of Denver on the neighborhood, and how the construction of I-25 (Denver&apos;s North-South Interstate Highway) affected the neighborhood. Trout also discusses the prospect of the construction of a light rail line as a means of providing alternate transportation from the neighborhood to other parts of Denver, Colorado.</dc:description>
+  <dc:description>Gift of Barry Matchett, 1986</dc:description>
+  <dc:description>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=618 ||udpl-upoh-ma-00045-trout-tlb ||F784.D4 U558 1986 no.45</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item (sound tape cassette), , 1 audiotape cassette, , 41 minutes, 59 seconds, ,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0002.00018</dc:identifier>
+  <dc:identifier>codu:64989</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64987</identifier>
+    <datestamp>2013-02-02T00:32:27Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Pat Sullivan</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Sullivan, W. Patrick</dc:creator>
+  <dc:subject>Sullivan, W. Patrick</dc:subject>
+  <dc:subject>University Park Lumber Company (Denver, Colo.)</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Architects</dc:subject>
+  <dc:description>Title supplied by cataloger.</dc:description>
+  <dc:description>Interview conducted at 1847 S. Milwaukee St., Denver, Colorado in 1986.</dc:description>
+  <dc:description>Participants: Unidentified interviewer ; Patrick Sullivan.</dc:description>
+  <dc:description>W. Patrick Sullivan moved with his parents to the University Park area of Denver, Colorado in 1940. His father was one of the owners of University Park Lumber Company, and Sullivan later worked at his father&apos;s company as an assistant manager</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Pat Sullivan discusses details about the University Park area of Denver, Colorado and the changes that took place since he moved to the neighborhood in 1940. He talks about the local businesses including a gas station and butcher store, how he used the streetcar to go to football games at the University of Denver, playing softball and soccer with his friends in Observatory Park and the professions of the neighbors in the area.</dc:description>
+  <dc:description>Gift of Barry Matchett, 1986</dc:description>
+  <dc:description>udpl-upoh-ma-00043-sullivan-19860101-t1a.aif</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item (sound tape cassette), , 1 audiotape cassette, , 28 minutes, 21 seconds, ,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0002.00016</dc:identifier>
+  <dc:identifier>codu:64987</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64988</identifier>
+    <datestamp>2013-02-02T00:37:56Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Theresa and Elizabeth Taylor</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Taylor, Theresa S.</dc:creator>
+  <dc:subject>Taylor, Theresa S.,--1920-2006</dc:subject>
+  <dc:subject>Taylor, Elizabeth</dc:subject>
+  <dc:subject>University Park Parent-Teacher Association (Denver, Colo.)</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Title supplied by cataloger.</dc:description>
+  <dc:description>Interview conducted at 2265 South Clayton Street, Denver, Colorado in 1986.</dc:description>
+  <dc:description>Participants:Tammy Weissman ; Theresa Taylor ; Elizabeth Taylor.</dc:description>
+  <dc:description>Theresa S. Taylor (1920-2006) moved to the University Park area of Denver, Colorado, with her husband, attorney Edward G. Taylor, and two children, a boy and a girl, in July 1956. She was originally from Dallas, Texas, and lived in the Park Hill neighborhood of Denver, Colorado prior to moving to the University Park neighborhood. Taylor was active in the University Park Parent-Teacher Association, and she also organized a project to beautify the neighborhood.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Theresa Taylor and her daughter, Elizabeth Taylor, recount details about the University Park neighborhood including local churches, the proximity of schools and recreational facilities for children, and the diverse ethnicity of the individuals who live in the area.</dc:description>
+  <dc:description>Gift of Barry Matchett, 1986</dc:description>
+  <dc:description>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=610 ||udpl-upoh-ma-00044-taylor-tla ||F784.D4 U558 1986 no.44</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:contributor>Taylor, Elizabeth (contributor)</dc:contributor>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item (sound tape cassette), , 1 audiotape cassette, , 29 minutes, 37 seconds, ,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0002.00017</dc:identifier>
+  <dc:identifier>codu:64988</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64978</identifier>
+    <datestamp>2013-02-02T00:40:05Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Bishop Mote Presents a History of St. Mary&apos;s Church in Denver, Colorado</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Mote, James O.,--1922-2006</dc:creator>
+  <dc:subject>Mote, James O.,--1922-2006</dc:subject>
+  <dc:subject>St. Mary’s College of California</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Clergy</dc:subject>
+  <dc:description>Title supplied by cataloger.</dc:description>
+  <dc:description>Narration recorded at 2290 S. Clayton St., Denver, Colorado in 1986.</dc:description>
+  <dc:description>Participants: Narrator, Bishop James Mote.</dc:description>
+  <dc:description>Bishop James O. Mote (1922-2006) grew up in Indianapolis, Indiana, and was a Boy Scout, achieving Eagle status. He served as a chaplain&apos;s assistant in the Army during World War II, fought in the Battle of the Bulge, and was awarded a Bronze Star. He graduated from Canterbury College in Danville, Indiana in 1950 and from Nashotah House Seminary in Nashotah, Wisc. in 1951. He moved to Denver, Coloorado in 1951 and was ordained as an Episcopal priest in 1952. He joined St. Mary&apos;s Church at its present location at 2290 S. Clayton Street, and was a priest at the church for 40 years.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Bishop James Mote shares the history of St. Mary&apos;s Anglican Catholic Church, which moved to the University Park area of Denver, Colorado in the 1930s. St. Mary&apos;s Church withdrew from the Episcopal Church on November 28, 1976 under his direction and joined other parishes in the Diocese of the Holy Trinity, which later became known as the Anglican Catholic Church. Bishop Mote also comments on the expansion of Denver&apos;s city limits to the south and to the east since his arrival in 1951, and notes that the University Park neighborhood is now one of the more central locations in the metropolitan area.</dc:description>
+  <dc:description>Gift of Barry Matchett, 1986</dc:description>
+  <dc:description>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=314 ||udpl-upoh-ma-00034-mote-t1 ||F784.D4 U558 1986 no.34</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item (sound tape cassette), , 1 audiotape cassette, , 11 minutes, 35 seconds, ,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0002.00007</dc:identifier>
+  <dc:identifier>codu:64978</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64977</identifier>
+    <datestamp>2013-02-02T00:42:27Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Lon and Grace McCain</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>McCain, Grace C.</dc:creator>
+  <dc:subject>McCain, Grace C.</dc:subject>
+  <dc:subject>McCain, Lon E.</dc:subject>
+  <dc:subject>Howe, Herbert A.--(Herbert Alonzo),--1858-1926</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Title supplied by cataloger.</dc:description>
+  <dc:description>Interview conducted at 2201 S. Fillmore Street, Denver, Colorado on April 28, 1986.</dc:description>
+  <dc:description>Participants: Greg Matchett ; Lon McCain ; Grace McCain.</dc:description>
+  <dc:description>Lon E. and Grace C. McCain moved to the University Park area of Denver, Colorado in 1978.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Lon and Grace McCain discuss details about the University Park area of Denver, Colorado, including the effect that University of Denver has had on the neighborhood, the occupations of their neighbors, and recreational opportunities in University Park. They also provide background information on the neighborhood and its residents including John Wesley Iliff and Rufus Clark. The McCains give a brief history of their home, which was built in 1891 by Herbert Alonzo Howe, the University of Denver astronomy professor who was instrumental in building the Chamberlin Observatory.</dc:description>
+  <dc:description>Gift of Barry Matchett, 1986</dc:description>
+  <dc:description>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=313 ||udpl-upoh-ma-00033-mccain-tl ||F784.D4 U558 1986 no.33</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:contributor>McCain, Lon E. __Interviewee (contributor)</dc:contributor>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item (sound tape cassette), , 1 audiotape cassette, , 12 minutes, 41 seconds, ,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0002.00006</dc:identifier>
+  <dc:identifier>codu:64977</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64980</identifier>
+    <datestamp>2013-02-02T00:46:05Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Mr. and Mrs. Frank O&apos;Donnell</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>O&apos;Donnell, Mary A.</dc:creator>
+  <dc:subject>O&apos;Donnell, Frank R.</dc:subject>
+  <dc:subject>O&apos;Donnell, Mary A.</dc:subject>
+  <dc:subject>University Park Guild (Denver, Colo.)</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Title supplied by cataloger.</dc:description>
+  <dc:description>Interview conducted at 2236 South Milwaukee Street, Denver, Colorado in 1986.</dc:description>
+  <dc:description>Participants: Curtis Klinghammer ; Mary A. O&apos;Donnell, Frank O&apos;Donnell.</dc:description>
+  <dc:description>Frank R. O&apos;Donnell and his wife, Mary A. O&apos;Donnell moved into the University Park area of Denver, Colorado in the fall of 1945.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Mr. and Mrs. Frank O&apos;Donnell answer questions from Curtis Klinghammer during an interview in Denver, Colorado, in 1986. The O&apos;Donnells relate their memories of the University Park area of Denver, Colorado, saying that the neighborhood was like a friendly, small town when they moved there in the fall of 1945. They discuss the large number of farms in the area where people raised roosters, chickens, and other animals, noting that the rural atmosphere was accentuated by the lack of stop signs and paved roads. Mary O&apos;Donnell also notes that the University Park Guild provided social activities for the residents of University Park.</dc:description>
+  <dc:description>Gift of Barry Matchett, 1986</dc:description>
+  <dc:description>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=626 ||udpl-upoh-ma-00036-odonnell-tl ||F784.D4 U558 1986 no.36</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:contributor>O&apos;Donnell, Frank R. __Interviewee (contributor)</dc:contributor>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item (sound tape cassette), , 1 audiotape cassette, , 19 minutes, 17 seconds, ,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0002.00009</dc:identifier>
+  <dc:identifier>codu:64980</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64979</identifier>
+    <datestamp>2013-02-02T00:49:35Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Mrs. Mary Noonan</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Noonan, Mary A.</dc:creator>
+  <dc:subject>Noonan, James E.</dc:subject>
+  <dc:subject>Noonan, Mary A.,--1905-2001</dc:subject>
+  <dc:subject>University Park Elementary School (Denver, Colo.)</dc:subject>
+  <dc:subject>University Park Parent-Teacher Association (Denver, Colo.)</dc:subject>
+  <dc:subject>Stacey Technical Book Company</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Booksellers and bookselling</dc:subject>
+  <dc:description>Title supplied by cataloger.</dc:description>
+  <dc:description>Interview conducted at 3535 E. Iliff St., Denver, Colorado on May 29, 1986.</dc:description>
+  <dc:description>Participants: Unidentified female interviewer ; Mrs. Noonan.</dc:description>
+  <dc:description>Mary A. Noonan (1905-2001) moved to the University Park area of Denver, Colorado, with her husband Jim and their two children, a boy and a girl, in September 1940. Noonan was Secretary and President of the University Park Parent Teacher Association. She and her husband were proprietors of a bookstore in downtown Denver that specialized in medical and technical books.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Mrs. Noonan discusses changes that have taken place in the University Park area of Denver, Colorado, since her move to the area in 1940 including housing development and transportation services. Noonan mentions that her children, a boy and a girl, attended University Park Elementary School and that she was active in the University Park Parent Teacher Association, serving as the secretary and the president of the association.</dc:description>
+  <dc:description>Gift of Barry Matchett, 1986</dc:description>
+  <dc:description>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=324 ||udpl-upoh-ma-00035-noonan-tl ||F784.D4 U558 1986 no.35</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item (sound tape cassette), , 1 audiotape cassette, , 19 minutes, 15 seconds, ,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0002.00008</dc:identifier>
+  <dc:identifier>codu:64979</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64971</identifier>
+    <datestamp>2013-02-02T00:54:28Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Mrs. George Eylar</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Eylar, Mary H.</dc:creator>
+  <dc:subject>Eylar, Mary H.</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Title supplied by cataloger.</dc:description>
+  <dc:description>Interview conducted at 2261 South Columbine Street, Denver, Colorado in 1986.</dc:description>
+  <dc:description>Participants: Scottie Robinson ; Mary H. Eylar.</dc:description>
+  <dc:description>Mary Hardaway Eylar (Mrs. George E. Eylar) moved to the University Park area of Denver, Colorado with her parents and sister in 1936. Eylar later bought the house that she grew up in from her parents, Warren D. and Almira B. Hardaway. Eylar moved back into the house with her husband, George E. Eylar and their children in 1954.</dc:description>
+  <dc:description>Name appears on cassette label as: Mrs. Eylars [sic]</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Mrs. George Eylar relates her memories of the University Park area of Denver, Colorado, including the professions of her neighbors, local parks, childhood activities, local stores and businesses, and transportation. She also talks about the positive influence that the University of Denver has had on the neighborhood, stating that neighborhood residents attended events at the university including football and basketball games, plays, and astronomy classes.</dc:description>
+  <dc:description>Gift of Barry Matchett, 1986</dc:description>
+  <dc:description>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=321 ||udpl-upoh-ma-00015-eylars-tl ||F784.D4U558 1986 no.15</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item (sound tape cassette), , 1 audiotape cassette, , 26 minutes,18 seconds, ,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0001.00015</dc:identifier>
+  <dc:identifier>codu:64971</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64985</identifier>
+    <datestamp>2013-02-02T01:00:01Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Mrs. Leone Steen</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Steen, Leone E.</dc:creator>
+  <dc:subject>Steen, Leone E.,--1908-1994</dc:subject>
+  <dc:subject>Steen, William P.</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Iliff School of Theology</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Librarians</dc:subject>
+  <dc:subject>Photographers</dc:subject>
+  <dc:description>Title supplied by cataloger.</dc:description>
+  <dc:description>Interview conducted at 2284 S. Josephine Street, Denver, Colorado on May 17, 1986.</dc:description>
+  <dc:description>Participants: Arthur Trujillo ; Leone Steen.</dc:description>
+  <dc:description>Leone E. Steen (1908-1994) grew up in downtown Denver, Colorado. and attended the University of Denver, where she graduated with a degree in library science. She worked as a librarian in Alamosa, Colorado from 1936-1940. She married William P. &apos;&apos;Bill&apos;&apos; Steen, a public service employee, in 1940 and she worked in a public library in Billings, Mont., during World War II. Mr. and Mrs. Steen moved into Bill Steen&apos;s mother&apos;s home in the University Park area of Denver in 1946. Leone Steen worked in the Iliff School of Theology library in Denver for 16 years and Bill Steen opened the Birlauf and Steen photo studio at 401 Delaware St. in Denver. The Steens raised four children, three boys and a girl. Their children attended the University Park Elementary School and South High School. One of her children graduated from the University of Denver. Bill Steen died in November 1979.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Mrs. Leone Steen relates details about the University Park area of Denver, Colorado, and the changes that took place since she moved to the neighborhood in 1946. She discusses the local schools and churches, the gradual shift of her neighbors from being home owners to renters, the types of retail establishments that were located in University Park, and the recreational opportunities in the area.</dc:description>
+  <dc:description>Gift of Barry Matchett, 1986</dc:description>
+  <dc:description>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=330 ||udpl-upoh-ma-00041-steen-t1 ||F784.D4 U558 1986 no.41</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item (sound tape cassette), , 1 audiotape cassette, , 30 minutes, 5 seconds, ,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0002.00014</dc:identifier>
+  <dc:identifier>codu:64985</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64982</identifier>
+    <datestamp>2013-02-02T01:01:54Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Gaston Santi</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Santi, Gaston</dc:creator>
+  <dc:subject>Santi, Gaston</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Title supplied by cataloger.</dc:description>
+  <dc:description>Interview conducted at 2496 S. Clayton Street, Denver, Colorado on April 20, 1986.</dc:description>
+  <dc:description>Participants: Unidentified interviewer ; Gaston Santi.</dc:description>
+  <dc:description>Gaston Santi moved to the University Park area of Denver, Colorado in August 1949.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Gaston Santi answers questions from an unidentified male interviewer during an interview in Denver, Colorado on April 20, 1986. Santi discusses details about the University Park neighborhood of Denver since he moved to the area in 1949 including commercial and residential development, the effect of busing on the local schools, and the types of churches and schools in the area. He also discusses the changes in the types of transportation available to neighborhood residents.</dc:description>
+  <dc:description>Gift of Barry Matchett, 1986</dc:description>
+  <dc:description>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=315 ||udpl-upoh-ma-00038-santi-t1 ||F784.D4 U558 1986 no.38</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item (sound tape cassette), , 1 audiotape cassette, , 10 minutes, 5 seconds, ,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0002.00011</dc:identifier>
+  <dc:identifier>codu:64982</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64990</identifier>
+    <datestamp>2013-02-02T01:03:35Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>History of the University Park Elementary School</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Twining, Mary Beth</dc:creator>
+  <dc:subject>University Park Elementary School (Denver, Colo.)</dc:subject>
+  <dc:subject>University Park Parent-Teacher Association (Denver, Colo.)</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>School principals</dc:subject>
+  <dc:description>Title from cassette label</dc:description>
+  <dc:description>Participant: Mary Beth Twining, Narrator.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Mary Beth Twining provides a brief history of the University Park Elementary School in the University Park area of Denver, Colorado. She discusses details including the names of the individuals who were involved in the planning, design, and construction of the building as well as the costs of construction. Twining recounts short biographical sketches of some of the principals who worked at the school and she also relates information about the University Park Parent Teacher Association.</dc:description>
+  <dc:description>Gift of Barry Matchett, 1986</dc:description>
+  <dc:description>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=317 ||udpl-upoh-ma-00046-twining-tl ||F784.D4 U558 1986 no.46</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item (sound tape cassette), , 1 audiotape cassette, , 9 minutes, 8 seconds, ,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0002.00019</dc:identifier>
+  <dc:identifier>codu:64990</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64993</identifier>
+    <datestamp>2013-02-02T01:05:27Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Mrs. June Wilson</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Wilson, June M.</dc:creator>
+  <dc:subject>Wilson, June M.</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Alumnae</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Title supplied by cataloger.</dc:description>
+  <dc:description>Interview conducted at 2464 S. St. Paul Street, Denver, Colorado in 1986.</dc:description>
+  <dc:description>Participants: Robert Hickman, Boy Scouts of America, Troop 5, Denver, Colorado ; June Wilson.</dc:description>
+  <dc:description>June M. Wilson moved to the University Park area of Denver, Colorado in 1950. She attended the University of Denver. Wilson&apos;s husband was a coach and teacher at South High School in Denver.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>June Wilson relates general information about the development of the University Park area of Denver, Colorado, since her move to the neighborhood in 1950. She discusses the increase in residential and commercial development, the demographic changes in the neighborhood, and the professions of her neighbors.</dc:description>
+  <dc:description>Gift of Barry Matchett, 1986</dc:description>
+  <dc:description>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=319 ||udpl-upoh-ma-00049-wilson-tl ||F784.D4 U558 1986 no.49</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item (sound tape cassette), , 1 audiotape cassette, , 9 minutes, 54 seconds, ,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0002.00022</dc:identifier>
+  <dc:identifier>codu:64993</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64972</identifier>
+    <datestamp>2013-02-02T01:06:57Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Thelma Kauffman</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Kauffman, Thelma W.</dc:creator>
+  <dc:subject>Kauffman, Thelma W.,--1907-1993</dc:subject>
+  <dc:subject>Howe, Herbert A.--(Herbert Alonzo),--1858-1926</dc:subject>
+  <dc:subject>Chamberlin Observatory</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Title supplied by cataloger.</dc:description>
+  <dc:description>Interview conducted at 2495 S. St. Paul Street, Denver, Colorado in 1986.</dc:description>
+  <dc:description>Participants: Scottie Robinson ; Thelma Kauffman.</dc:description>
+  <dc:description>Thelma W. Kauffman (1907-1993) lived in the University Park area of Denver, Colorado.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Thelma Kauffman shares her memories of the University Park area of Denver, Colorado, including the professions of the residents in the area, local schools, and local churches. She also provides a brief history of Chamberlin Observatory and the house that was built for Herbert Alonzo Howe, the University of Denver astronomy professor and dean who founded the observatory.</dc:description>
+  <dc:description>Gift of Barry Matchett, 1986</dc:description>
+  <dc:description>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=308 ||udpl-upoh-ma-00028-kauffman-tl ||F784.D4 U558 1986 no.28</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item (sound tape cassette), , 1 audiotape cassette, , 7 minutes, 53 seconds, ,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0002.00001</dc:identifier>
+  <dc:identifier>codu:64972</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64975</identifier>
+    <datestamp>2013-02-02T01:08:39Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with John Lake</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Lake, John</dc:creator>
+  <dc:subject>Lake, John</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Varsity Eight Ball Club (Denver, Colo.)</dc:subject>
+  <dc:subject>Bloomsbury Bookstore (Denver, Colo.)</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Booksellers and bookselling</dc:subject>
+  <dc:description>Title supplied by cataloger.</dc:description>
+  <dc:description>Interview conducted at 2070 S. University Blvd., Denver, Colorado on June 3, 1986.</dc:description>
+  <dc:description>Participants: Barry Matchett, Boy Scouts of America, Troop 5, Denver, Colorado ; John Lake.</dc:description>
+  <dc:description>John Lake, a resident of the Capitol Hill neighborhood of Denver, Colorado, purchased the Varsity Eight Ball Club, a pool hall in the University Park area of Denver in 1977. Lake transformed the business into the Bloomsbury Bookstore, which he co-owned with his wife, Margaret.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>John Lake explains that he wanted to start a bookstore in the University Park area of Denver, Colorado, so he purchased the Varsity Eight Ball Club, a pool hall, in 1977. He discusses transforming the business into the Bloomsbury Bookstore over a four year period and he also talks about the types of books that were popular at the store. Lake also discusses the University of Denver&apos;s influence on businesses and the University Park neighborhood.</dc:description>
+  <dc:description>Gift of Barry Matchett, 1986</dc:description>
+  <dc:description>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=631 ||udpl-upoh-ma-00031-lake-t1 ||F784.D4 U558 1986 no.31</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item (sound tape cassette), , 1 audiotape cassette, , 8 minutes, 55 seconds, ,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0002.00004</dc:identifier>
+  <dc:identifier>codu:64975</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64994</identifier>
+    <datestamp>2013-02-02T01:10:26Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Jeanne Winder</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Winder, Jeanne W.</dc:creator>
+  <dc:subject>Winder, Jeanne W.</dc:subject>
+  <dc:subject>South Jackson Street Neighborhood Association (Denver, Colo.)</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Title supplied by cataloger.</dc:description>
+  <dc:description>Interview conducted at 2672 S. Jackson St., Denver, Colorado on June 6, 1986.</dc:description>
+  <dc:description>Participants: Unidentified interviewer ; Jeanne Winder.</dc:description>
+  <dc:description>Jeanne W. Winder moved to the University Park area of Denver, Colorado in 1957.</dc:description>
+  <dc:description>Name appears on cassette label as: Jean [sic] Winder.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Jeanne Winder, a resident of the University Park area of Denver, Colorado since 1957, talks about changes in the neighborhood. Winder recounts several stories including firefighters who hunted pheasants in the field near the firehouse on E. Yale Avenue and S. Colorado Blvd.; a S. Colorado Blvd. resident who kept horses and who often went riding on S. Colorado Blvd.; and the presence of two log cabins in the neighborhood. Winder also talks in depth about S. Jackson Street as well as the group of S. Jackson Street residents who fought against a proposed change to the zoning of the street.</dc:description>
+  <dc:description>Gift of Barry Matchett, 1986</dc:description>
+  <dc:description>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=320 ||udpl-upoh-ma-00050-winder-tl ||F784.D4 U558 1986 no.50</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item (sound tape cassette), , 1 audiotape cassette, , 9 minutes, 31 seconds, ,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0002.00023</dc:identifier>
+  <dc:identifier>codu:64994</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64981</identifier>
+    <datestamp>2013-02-02T01:21:38Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Elizabeth Richardson</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Richardson, Elizabeth H.</dc:creator>
+  <dc:subject>Richardson, Elizabeth H.</dc:subject>
+  <dc:subject>South Jackson Street Neighborhood Association (Denver, Colo.)</dc:subject>
+  <dc:subject>South Jackson Street Life and Times</dc:subject>
+  <dc:subject>School integration</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Title supplied by cataloger.</dc:description>
+  <dc:description>Interview conducted at 2400 S. Jackson Street, Denver, Colorado in 1986.</dc:description>
+  <dc:description>Participants: Unidentified female interviewer ; Elizabeth Richardson.</dc:description>
+  <dc:description>Elizabeth H. Richardson moved to the University Park area of Denver, Colorado in 1963. She was head of the South Jackson Street Neighborhood Association, and created a newsletter entitled The South Jackson Street Life and Times, which was published when there were important zoning issues that involved the neighborhood. Richardson ran for election as Colorado State Representative in 1976. Her husband, Robert, was a professor in the English Department at the University of Denver.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Elizabeth Richardson discusses details about the University Park area of Denver, Colorado, and the changes that took place since she moved to the neighborhood in 1963. She talks about the activities, interests, and professions of the neighborhood residents, political issues and zoning disputes, and neighborhood activities. She also discusses the local schools and the voluntary busing program to achieve school desegregation in the 1960s.</dc:description>
+  <dc:description>Gift of Barry Matchett, 1986</dc:description>
+  <dc:description>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=620 ||udpl-upoh-ma-00037-richardson-t1b ||F784.D4 U558 1986 no.37</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item (sound tape cassette), , 1 audiotape cassette, , 48 minutes, 41 seconds, ,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0002.00010</dc:identifier>
+  <dc:identifier>codu:64981</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64986</identifier>
+    <datestamp>2013-02-02T01:26:22Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Mr. and Mrs. T. E. Stratton</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Stratton, Thomas E.,--1914-1993</dc:creator>
+  <dc:subject>Stratton, Thomas E.,--1914-1993</dc:subject>
+  <dc:subject>Stratton, Clara M.,--1914-2008</dc:subject>
+  <dc:subject>Boy Scouts of America</dc:subject>
+  <dc:subject>Boy Scouts of America.--Troop 5 (Denver, Colo.)</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Scout leaders</dc:subject>
+  <dc:description>Title supplied by cataloger.</dc:description>
+  <dc:description>Interview conducted at 2601 South Milwaukee Street, Denver, Colorado on April 16, 1986.</dc:description>
+  <dc:description>Participants: Barry Matchett, Boy Scouts of America, Troop 5, Denver, Colorado ; Thomas E. and Clara M. Stratton.</dc:description>
+  <dc:description>Thomas E. (1914-1933) and Clara M. Stratton moved to the University Park area of Denver, Colorado with their children in June 1948. When they moved to the neighborhood, Thomas Stratton was a salesman for Garden Farm Dairy and he repaired antique clocks as a hobby. Stratton retired from The Denver Post, where he worked as a district advisor for 21 years. Thomas Stratton also was a scoutmaster for Boy Scouts of America, Troop 5, Denver from 1960 to 1962.</dc:description>
+  <dc:description>Name appears on cassette label as only: T.E. Statton.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Mr. and Mrs. T.E. Stratton discuss changes in the University Park neighborhood since moving there in 1948, including the growth of the University of Denver and the impact of busing on neighborhood schools. Thomas Stratton also recounts an incident that took place on October 12, 1958, during the time that he was Scoutmaster for Troop 5 in 1960-1962. Following a hike near Lake Isabelle, Colorado, a member of the troop named Dick Evans fell into a ravine, breaking a leg and his back. Members of Stratton&apos;s Boy Scout troop used their training to assist in Evans&apos; rescue. A report of the incident was published in Helen Orlob&apos;s book, Mountain Rescues. Stratton names many members of the troop from that time and some of their current occupations.</dc:description>
+  <dc:description>Gift of Barry Matchett, 1986</dc:description>
+  <dc:description>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=611 ||udpl-upoh-ma-00042-stratton-tla ||F784.D4 U558 1986 no.42</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:contributor>Stratton, Clara M.,--1914-2008 __Interviewee (contributor)</dc:contributor>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item (sound tape cassette), , 1 audiotape cassette, , 25 minutes, 41 seconds, ,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0002.00015</dc:identifier>
+  <dc:identifier>codu:64986</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64991</identifier>
+    <datestamp>2013-02-02T01:28:41Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Dr. R. Vickery</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Vickery, Richard Alexander</dc:creator>
+  <dc:subject>Vickery, Richard Alexander,--1939-</dc:subject>
+  <dc:subject>University Park Methodist Episcopal Church (Denver, Colo.)</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Clergy</dc:subject>
+  <dc:description>Title supplied by cataloger.</dc:description>
+  <dc:description>Interview conducted at 7755 E. Quincy, Denver, Colorado on May 22, 1986.</dc:description>
+  <dc:description>Participants: Judy Hickman ; Dr. Richard Vickery.</dc:description>
+  <dc:description>Dr. Richard Alexander Vickery moved to the University Park area of Denver, Colorado in 1977.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Dr. Richard Vickery, senior pastor at the University Park United Methodist Church, discusses the University Park area of Denver, Colorado including the changing demographics of the neighborhood and the University of Denver. Vickery also gives a brief history of the University Park United Methodist Church and talks about the community groups that meet at the church, including bridge clubs, Al-Anon and Big Brothers.</dc:description>
+  <dc:description>Gift of Barry Matchett, 1986</dc:description>
+  <dc:description>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=607 ||udpl-upoh-ma-00047-vickery-tl ||F784.D4 U558 1986 no.47</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item (sound tape cassette), , 1 audiotape cassette, , 12 minutes, 31 seconds, ,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0002.00020</dc:identifier>
+  <dc:identifier>codu:64991</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64973</identifier>
+    <datestamp>2013-02-02T01:31:35Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Fay Kessler</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Kessler, Fay L.,--1903-2002</dc:creator>
+  <dc:subject>Kessler, Fay L.,--1903-2002</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>University Park Elementary School (Denver, Colo.)</dc:subject>
+  <dc:subject>Alumnae</dc:subject>
+  <dc:subject>Victory gardens</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Teachers</dc:subject>
+  <dc:description>Title supplied by cataloger.</dc:description>
+  <dc:description>Interview conducted at 4164 S. Wheeling Way, Aurora, Colorado on April 28, 1986.</dc:description>
+  <dc:description>Participants: Robert Matchett ; Fay Kessler.</dc:description>
+  <dc:description>Fay L. Kessler (1903-2002) moved into the University Park area of Denver, Colorado in October 1940 and later moved to Aurora, Colorado. She graduated from the University of Denver and completed her teacher training at University Park Elementary School.</dc:description>
+  <dc:description>Name appears on cassette label as: Faye [sic] Kessler.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Fay Kessler discusses details about the University Park area of Denver, Colorado during the time she lived in the neighborhood including the types of businesses that were open in the area, the transportation systems, Observatory Park, and the occupations of the residents of University Park. Kessler also discusses World War II efforts in the neighborhood including removing iron lampposts along Warren Ave. to use for scrap metal and the practice of planting Victory gardens in the vacant lots on her block.</dc:description>
+  <dc:description>Gift of Barry Matchett, 1986</dc:description>
+  <dc:description>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=310 ||udpl-upoh-ma-00029-kessler-tl ||F784.D4 U558 1986 no.29</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item (sound tape cassette), , 1 audiotape cassette, , 15 minutes, 37 seconds, ,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0002.00002</dc:identifier>
+  <dc:identifier>codu:64973</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64992</identifier>
+    <datestamp>2013-02-02T01:33:22Z</datestamp>
+    <setSpec>codu_32556</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Walt Wendelin</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Wendelin, Walter H.</dc:creator>
+  <dc:subject>Wendelin, Walter H.</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Veterans</dc:subject>
+  <dc:subject>Mortgage loans</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Employees</dc:subject>
+  <dc:description>Title supplied by cataloger.</dc:description>
+  <dc:description>Interview conducted at 3895 E. Wesley Ave., Denver, Colorado, 1986.</dc:description>
+  <dc:description>Participants: Robert Hickman, Boy Scouts of America, Troop 5, Denver, Colorado ; Walt Wendelin.</dc:description>
+  <dc:description>Walter H. Wendelin (1908-1994) grew up in the Sloans Lake area of Denver, Colorado and moved to the University Park area of Denver in 1950. He managed buildings owned by the University of Denver in downtown Denver.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Walt Wendelin relates general information about the University Park area of Denver, Colorado, including transportation systems, businesses, churches and schools in the neighborhood. Wendelin also discusses the fact that the homes on his block were built in 1950 for servicemen returning from World War II, and he gives details on the prices and loan terms of these homes.</dc:description>
+  <dc:description>Gift of Barry Matchett, 1986</dc:description>
+  <dc:description>http://library.du.edu/about/collections/digitallibrary/playershell.cfm?MediaObjectID=318 ||udpl-upoh-ma-00048-wendelin-tl ||F784.D4 U558 1986 no.48</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>sound recording-nonmusical</dc:type>
+  <dc:format>1 item (sound tape cassette), , 1 audiotape cassette, , 9 minutes, 14 seconds, ,</dc:format>
+  <dc:format>Digitized other analog</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:identifier>M054.01.0002.00021</dc:identifier>
+  <dc:identifier>codu:64992</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Barry Matchett University Park Oral History Collection, Oral History Tapes</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

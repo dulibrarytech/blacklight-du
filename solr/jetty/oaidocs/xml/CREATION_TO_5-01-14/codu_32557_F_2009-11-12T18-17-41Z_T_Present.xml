@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T04:38:59Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37821</identifier>
+    <datestamp>2012-03-26T19:30:55Z</datestamp>
+    <setSpec>codu_32557</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Home of Harris and Leah Sheffel Kobey</dc:title>
+  <dc:title>Digitized Materials, Dorothy (Dokes) Kobey Berry Papers</dc:title>
+  <dc:creator>Harsham, Ted E.</dc:creator>
+  <dc:subject>Kobey family</dc:subject>
+  <dc:subject>Kobey, Harris,--1873-1932</dc:subject>
+  <dc:subject>Kobey, Leah Sheffel,--1874-1920</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Architecture, Domestic</dc:subject>
+  <dc:subject>Jewish families</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Aspen (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Exterior view of the house of Harris and Leah Sheffel Kobey, 200 West Main Street in Aspen, Colorado, circa 1915. The Victorian house has a tree in front and a fence around the house, and there is snow on the ground. The house was later completely destroyed by fire.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>circa 1915</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (digital image), 1953 x 1561 pixels, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:identifier>B100.03.0001.0003.00015</dc:identifier>
+  <dc:identifier>Kobey home in Aspen 1915</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37821</dc:identifier>
+  <dc:identifier>codu:37821</dc:identifier>
+  <dc:language>__eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37828</identifier>
+    <datestamp>2012-03-26T19:30:07Z</datestamp>
+    <setSpec>codu_32557</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Kobey Shoe and Clothing Store Exterior</dc:title>
+  <dc:title>Digitized Materials, Dorothy (Dokes) Kobey Berry Papers</dc:title>
+  <dc:creator>Harsham, Ted E.</dc:creator>
+  <dc:subject>Kobey Shoe and Clothing Company (Aspen, Colo.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Jewish merchants</dc:subject>
+  <dc:subject>Jewish men</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Aspen (Colo.)</dc:subject>
+  <dc:subject>Merchants</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Exterior view of the two story brick Kobey Shoe and Clothing Co. store in Aspen, Colorado. Two boys stand outside in the entranceway. A sign at the top of the building reads &quot;MEN&apos;S and BOYS OUTFITTERS.&quot; Another sign reads &quot;The KOBEY SHOE and CLOTHING CO.&quot; and a sign on the awning reads &quot;THE HOME OF THE BEST MADE WEARING APPA[REL]&quot; Clothing and other sales goods can be seen in the window displays.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>circa 1900</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (digital image), 929 x 1581 pixels, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:identifier>B100.03.0001.0003.00017</dc:identifier>
+  <dc:identifier>Kobey in Aspen</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37828</dc:identifier>
+  <dc:identifier>codu:37828</dc:identifier>
+  <dc:language>__eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37815</identifier>
+    <datestamp>2012-03-26T19:30:23Z</datestamp>
+    <setSpec>codu_32557</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sheffel Sisters</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Harsham, Ted E.</dc:creator>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jewish families</dc:subject>
+  <dc:subject>Sheffel family</dc:subject>
+  <dc:subject>Levy, Millie Sheffel</dc:subject>
+  <dc:subject>Washer, Jennie Sheffel</dc:subject>
+  <dc:subject>Greinetz, Rose Sheffel</dc:subject>
+  <dc:subject>Gottstein, Mary Sheffel</dc:subject>
+  <dc:subject>Schraiberg, Birdie Sheffel</dc:subject>
+  <dc:subject>Kobey, Leah Sheffel,--1874-1920</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Aspen (Colo.)</dc:subject>
+  <dc:description>The Sheffel sisters pose for a formal group portrait at the studio of Mrs. B.B. Chase in Denver, Colorado in October 1902. Back row: Millie (Mrs. Joseph Levy), Jennie (Mrs. Joseph Washer), Rose (Mrs. David Greinetz). Front row: Mary (Mrs. M. Joseph Gottstein), Birdie (Mrs. M. Schraiberg), and Leah (Mrs. Harris Kobey, mother of Dorothy Dokes Kobey Berry).</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>10/1902</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>1 item, (digital image), ,</dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:format>On matting below photograph: &quot;Mrs. B. B. Chase, 910 - 16th St., Denver, Colo.&quot; Typed caption by Ted Harsham, with information from Dorothy &apos;&apos;Dokes&apos;&apos; Kobey Berry: &quot;Sheffel Sisters - October 1902. Millie, Jennie, Rose, Mary, Birdie, Leah. Millie (Joseph Levy), Jennie (Joseph Washer), Rose (David Greinetz), Mary (M. Joseph Gottstein), Birdie (M. Schraiberg), Leah (Harris Kobey). Collection of and identification on the reverse by Dorothy &apos;&apos;Dokes&apos;&apos; Kobey Berry.&quot;</dc:format>
+  <dc:identifier>B100.03.0001.0003.00019</dc:identifier>
+  <dc:identifier>Sheffel sisters 1902 cropped w married names</dc:identifier>
+  <dc:identifier>codu:37815</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37826</identifier>
+    <datestamp>2012-06-16T02:09:24Z</datestamp>
+    <setSpec>codu_32557</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Children of Samuel A. and Mary Rachofsky Kobey</dc:title>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Dorothy (Dokes) Kobey Berry Papers, Digitized Materials</dc:relation>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:publisher>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:publisher>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:publisher>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 item, (digital image), 2924 x 2400 pixels, color</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">Digital images</dc:format>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Harsham, Ted E.</dc:creator>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The adult children of Samuel A. and Mary Rachofsky Kobey pose for a group portrait at a family reunion in Washington Park in Denver, Colorado. Back row, left to right: Benjamin Kobey, Dora Kobey Kay, and Isaac Kobey. Seated on a park bench, left to right: Rachel Kobey Shwayder, Mark Kobey, Betsy Kobey Rayor.</dc:description>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">__eng</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">codu:37826</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">Kobey siblings 1922 in Washington Park</dc:identifier>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kobey family</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kay, Dora Kobey,--1882-1946</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kobey, Benjamin R.,--1874-1946</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kobey, Isaac M.,--1884-1936</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kobey, Mark G.,--1864-</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Rayor, Betsy Kobey,--1862-1952</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Shwayder, Rachel Kobey,--1858-1938</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jews</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jewish families</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jewish women</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jewish men</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Colorado</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Denver (Colo.)</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Washington Park (Denver, Colo.)</dc:coverage>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://hdl.handle.net/10176/codu:37826</dc:identifier>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">(contributor)</dc:contributor>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">(contributor)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:type>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">isbn: </dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">issn: </dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37823</identifier>
+    <datestamp>2012-03-26T19:30:58Z</datestamp>
+    <setSpec>codu_32557</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Four Generations of Berrys</dc:title>
+  <dc:title>Digitized Materials, Dorothy (Dokes) Kobey Berry Papers</dc:title>
+  <dc:creator>Harsham, Ted E.</dc:creator>
+  <dc:subject>Berry, Dorothy Kobey,--1905-2009</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jewish men</dc:subject>
+  <dc:subject>Jewish boys</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Aspen (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Two informal photographs of Dorothy (Dokes) Kobey Berry and her children, grandchildren, and great grandson. In the upper photograph, Dokes poses with her children in front of the exterior of a house on July 22, 2000. Standing from left to right are Joan, Harold, Dokes, and Susan. The photograph was taken July 22, 2000. In the lower photograph, Dokes poses with one of her children, a grandchild, and a great grand-child in May 2000. From left to right are Mark (grandson), Dokes holding great-grandson Steven, and Harold (son).</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>2000</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (digital image), 1125 x 1321 pixels, color</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:identifier>B100.03.0001.0003.00011</dc:identifier>
+  <dc:identifier>Dokes and her children</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37823</dc:identifier>
+  <dc:identifier>codu:37823</dc:identifier>
+  <dc:language>__eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37814</identifier>
+    <datestamp>2012-03-26T19:29:59Z</datestamp>
+    <setSpec>codu_32557</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Dorothy &apos;&apos;Dokes&apos;&apos; Kobey Berry 97th Birthday</dc:title>
+  <dc:title>Photographs, Dorothy (Dokes) Kobey Berry Papers</dc:title>
+  <dc:creator>Galchinsky, Arlene</dc:creator>
+  <dc:subject>Berry, Dorothy Kobey,--1905-2009</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Social life and customs</dc:subject>
+  <dc:subject>Birthdays</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Aspen (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Dorothy (Dokes) Kobey Berry poses for an informal photograph in her home in Denver, Colorado on July 22, 2002, her 97th birthday.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>7/22/2002</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 5 x 3.5 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>B100.02.0001.0002.00002</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37814</dc:identifier>
+  <dc:identifier>codu:37814</dc:identifier>
+  <dc:language>__eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37812</identifier>
+    <datestamp>2012-03-26T19:30:25Z</datestamp>
+    <setSpec>codu_32557</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Kobey Shoe and Clothing Co.</dc:title>
+  <dc:title>Digitized Materials, Dorothy (Dokes) Kobey Berry Papers</dc:title>
+  <dc:creator>Harsham, Ted E.</dc:creator>
+  <dc:subject>Kobey family</dc:subject>
+  <dc:subject>Kobey, Albert L.,--1891-1951</dc:subject>
+  <dc:subject>Kobey, Henrietta Reiss,--1878-1921</dc:subject>
+  <dc:subject>Kobey, Mark G.,--1864-</dc:subject>
+  <dc:subject>Parsons, John</dc:subject>
+  <dc:subject>Van Loon, Homer</dc:subject>
+  <dc:subject>Kobey Shoe and Clothing Company (Aspen, Colo.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish men</dc:subject>
+  <dc:subject>Jewish merchants</dc:subject>
+  <dc:subject>Jewish families</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Aspen (Colo.)</dc:subject>
+  <dc:subject>Merchants</dc:subject>
+  <dc:subject>Clerks (Retail trade)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The interior of the Kobey Shoe and Clothing Company store in Aspen, Colorado. Five employees pose behind counters; from left to right are Henrietta (Hetty) Reiss Kobey, Mark Kobey, Albert L. Kobey, Homer Van Loon, and John Parsons. Stacks of boxes and glass cases holding sales goods can be seen in the long interior shot.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>circa 1918</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (digital image), 2924 x 2400 pixels, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:identifier>B100.03.0001.0003.00014</dc:identifier>
+  <dc:identifier>Inside of Kobey store Aspen</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37812</dc:identifier>
+  <dc:identifier>codu:37812</dc:identifier>
+  <dc:language>__eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37827</identifier>
+    <datestamp>2012-03-26T19:30:39Z</datestamp>
+    <setSpec>codu_32557</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Dokes Kobey Berry</dc:title>
+  <dc:title>Digitized Materials, Dorothy (Dokes) Kobey Berry Papers</dc:title>
+  <dc:creator>Harsham, Ted E.</dc:creator>
+  <dc:subject>Berry, Dorothy Kobey,--1905-2009</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Aspen (Colo.)</dc:subject>
+  <dc:description>&quot;Nat, With All My Love, Dokes&quot; is written on the original photograph.</dc:description>
+  <dc:description>Dorothy (Dokes) Kobey Berry poses for a formal portrait.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1928</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (digital image), 1017 x 1458 pixels, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:identifier>B100.03.0001.0003.00007</dc:identifier>
+  <dc:identifier>Dokes 1928</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37827</dc:identifier>
+  <dc:identifier>codu:37827</dc:identifier>
+  <dc:language>__eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37820</identifier>
+    <datestamp>2012-03-26T19:29:51Z</datestamp>
+    <setSpec>codu_32557</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Dorothy &apos;&apos;Dokes&apos;&apos; Kobey Berry 97th Birthday</dc:title>
+  <dc:title>Photographs, Dorothy (Dokes) Kobey Berry Papers</dc:title>
+  <dc:creator>Galchinsky, Arlene</dc:creator>
+  <dc:subject>Berry, Dorothy Kobey,--1905-2009</dc:subject>
+  <dc:subject>Volin, Roberta</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Social life and customs</dc:subject>
+  <dc:subject>Birthdays</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Aspen (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Dorothy (Dokes) Kobey Berry holds a sign stating: &quot;Happy Birthday Dokes Kobey Berry, 97 and Still driving.&quot; Roberta Volin holds the other end of the sign.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>7/22/2002</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 3.5 x 5 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>B100.02.0001.0002.00003</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37820</dc:identifier>
+  <dc:identifier>codu:37820</dc:identifier>
+  <dc:language>__eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37808</identifier>
+    <datestamp>2012-03-26T19:29:57Z</datestamp>
+    <setSpec>codu_32557</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Family of Harris and Leah Sheffel Kobey Hannah Shwayder Berry</dc:title>
+  <dc:title>Digitized Materials, Dorothy (Dokes) Kobey Berry Papers</dc:title>
+  <dc:creator>Harsham, Ted E.</dc:creator>
+  <dc:subject>Kobey family</dc:subject>
+  <dc:subject>Sheffel family</dc:subject>
+  <dc:subject>Kobey, Harris,--1873-1932</dc:subject>
+  <dc:subject>Kobey, Leah Sheffel,--1874-1920</dc:subject>
+  <dc:subject>Weiner, Rebecca Kobey,--1889-1996</dc:subject>
+  <dc:subject>Kobey, Philip,--1900-1982</dc:subject>
+  <dc:subject>Kobey, Leon,--1902-1982</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jewish families</dc:subject>
+  <dc:subject>Jewish girls</dc:subject>
+  <dc:subject>Jewish boys</dc:subject>
+  <dc:subject>Jewish men</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Aspen (Colo.)</dc:subject>
+  <dc:description>Typed caption by Ted Harsham, with identifying information from Dorothy &apos;&apos;Dokes&apos;&apos; Kobey Berry: &quot;Family of Harris and Leah Sheffel Kobey about 1903 in Aspen, Colorado. Standing: Leah, Harris holding Leon, housekeeper (?). Children in front: Philip, Rebecca. Gelatin silver print. 9.3 cm wide x 10 cm high, mounted on card 12.5 cm x 12.5 cm, photographer unknown. In the collection of Dorothy &apos;&apos;Dokes&apos;&apos; Kobey Berry, Denver, Colorado from the papers of her father, Harris Kobey. Handwritten on the back in the hand of Dokes Berry: &apos;Leah + Harris Kobey in Aspen. Philip, Leon + Rebecca, housekeeper on right. Scanned from the original, cropped, enlarged, enhanced, and captioned by Ted Harsham - July 16, 2002.&quot;</dc:description>
+  <dc:description>The Sheffel Kobey family poses for a group portrait in the yard of a house in Aspen, Colorado. Back row, left to right: Leah Sheffel Kobey, Harris Kobey (holding Leon), and the housekeeper. Philip and Rebecca Kobey stand in front.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>circa 1903</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (digital image), 2400 x 3000 pixels, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:identifier>B100.03.0001.0003.00003</dc:identifier>
+  <dc:identifier>022 Harris family 1903</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37808</dc:identifier>
+  <dc:identifier>codu:37808</dc:identifier>
+  <dc:language>__eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37824</identifier>
+    <datestamp>2012-03-26T19:30:44Z</datestamp>
+    <setSpec>codu_32557</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Ben Kobey</dc:title>
+  <dc:title>Digitized Materials, Dorothy (Dokes) Kobey Berry Papers</dc:title>
+  <dc:creator>Harsham, Ted E.</dc:creator>
+  <dc:subject>Kobey, Benjamin R.,--1874-1946</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish men</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Aspen (Colo.)</dc:subject>
+  <dc:description>&quot;Uncle Ben&quot; is written at the top of the original photograph.</dc:description>
+  <dc:description>Ben Kobey poses for a formal portrait.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>circa 1925</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (digital image), 1381 x 1931 pixels, color</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:identifier>B100.03.0001.0003.00006</dc:identifier>
+  <dc:identifier>Ben Kobey ca 1925</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37824</dc:identifier>
+  <dc:identifier>codu:37824</dc:identifier>
+  <dc:language>__eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37818</identifier>
+    <datestamp>2012-03-26T19:30:13Z</datestamp>
+    <setSpec>codu_32557</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>It Pays to Advertise - Aspen High Senior Class School Play Hannah Shwayder Berry</dc:title>
+  <dc:title>Digitized Materials, Dorothy (Dokes) Kobey Berry Papers</dc:title>
+  <dc:creator>Harsham, Ted E.</dc:creator>
+  <dc:subject>Kobey family</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Theater</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jewish men</dc:subject>
+  <dc:subject>Social life and customs</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Aspen (Colo.)</dc:subject>
+  <dc:subject>Actors</dc:subject>
+  <dc:subject>High school students</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Actors in the Aspen High School senior class play &quot;It Pays to Advertise&quot; pose for a group portrait at the Isis Theater in Aspen, Colorado on April 18, 1923. Among the players were Dorothy Kobey as Conessa de Beaurain, Silas Kobey as Ambrose Peale, and Nathan Kobey as Cyrus Martin.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>4/18/1923</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (digital image), 4800 x 6000 pixels, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:identifier>B100.03.0001.0003.00005</dc:identifier>
+  <dc:identifier>040 Aspen play 1923</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37818</dc:identifier>
+  <dc:identifier>codu:37818</dc:identifier>
+  <dc:language>__eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37811</identifier>
+    <datestamp>2012-03-26T19:30:02Z</datestamp>
+    <setSpec>codu_32557</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Kobey Kids as Graduates</dc:title>
+  <dc:title>Digitized Materials, Dorothy (Dokes) Kobey Berry Papers</dc:title>
+  <dc:creator>Harsham, Ted E.</dc:creator>
+  <dc:subject>Kobey family</dc:subject>
+  <dc:subject>Berry, Dorothy Kobey,--1905-2009</dc:subject>
+  <dc:subject>Kobey, Silas M.,--1904-1991</dc:subject>
+  <dc:subject>Kobey, Nathan Reiss,--1905-1974</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jewish men</dc:subject>
+  <dc:subject>Academic costume</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Aspen (Colo.)</dc:subject>
+  <dc:subject>High school students</dc:subject>
+  <dc:description>Written on the area around the photograph is &quot;At The Time of My Valedictory,&quot; &quot;Si&quot; and &quot;Na,&quot; &quot;1923,&quot; and &quot;The Kobey Kids as Graduates.&quot;</dc:description>
+  <dc:description>Silas, Dorothy, and Nathan Kobey (left to right) pose for a formal portrait in Aspen, Colorado in 1923. Dorothy, whose nickname was &quot;Dokes,&quot; is seated, and Silas and Nathan stand on either side. All three wear graduation caps and gowns. Dorothy and Silas Kobey were the children of Harris and Leah Sheffel Kobey. Nathan Kobey was the son of Benjamin and Hattie Reiss Kobey, as well as a cousin of Dorothy and Silas Kobey. Dorothy was the valedictorian of the 1923 graduating class of Aspen High School in Aspen, Colorado.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1923</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (digital image), 1663 x 1426 pixels, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:identifier>B100.03.0001.0003.00009</dc:identifier>
+  <dc:identifier>Dokes + bros grad2</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37811</dc:identifier>
+  <dc:identifier>codu:37811</dc:identifier>
+  <dc:language>__eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37809</identifier>
+    <datestamp>2012-03-26T19:30:50Z</datestamp>
+    <setSpec>codu_32557</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Aunt Hattie, Nathan, and Ruthie</dc:title>
+  <dc:title>Digitized Materials, Dorothy (Dokes) Kobey Berry Papers</dc:title>
+  <dc:creator>Harsham, Ted E.</dc:creator>
+  <dc:subject>Kobey family</dc:subject>
+  <dc:subject>Kobey, Henrietta Reiss,--1878-1921</dc:subject>
+  <dc:subject>Kobey, Nathan Reiss,--1905-1974</dc:subject>
+  <dc:subject>Carlson, Ruth Kobey,--1907-</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish families</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jewish girls</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Aspen (Colo.)</dc:subject>
+  <dc:description>On front of original photograph mount: &quot;Aunt Hattie, Nathan and Ruthie.&quot;</dc:description>
+  <dc:description>Henrietta Reiss Kobey and her children, Nathan and Ruth, pose for a formal portrait.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>circa 1914</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (digital image), 1598 x 1651 pixels, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:identifier>B100.03.0001.0003.00013</dc:identifier>
+  <dc:identifier>Hattie Nathan + Ruth Kobey</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37809</dc:identifier>
+  <dc:identifier>codu:37809</dc:identifier>
+  <dc:language>__eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37819</identifier>
+    <datestamp>2012-06-16T02:07:52Z</datestamp>
+    <setSpec>codu_32557</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Daughters of Harris and Leah Sheffel Kobey</dc:title>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Dorothy (Dokes) Kobey Berry Papers, Digitized Materials</dc:relation>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:publisher>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:publisher>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:publisher>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 item, (digital image), 2401 x 3001 pixels, color</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">Digital images</dc:format>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Harsham, Ted E.</dc:creator>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Formal portrait of the daughters of Harris and Leah Sheffel Kobey. The Kobey sisters are from left to right: Rebecca, 11 years old, Ruth, 5 months old and Dorothy, 5 years old.</dc:description>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">__eng</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">codu:37819</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">Dokes + 2 sisters 1910 8 x 10</dc:identifier>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kobey family</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Weiner, Rebecca Kobey,--1889-1996</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Berry, Dorothy Kobey,--1905-2009</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kobey, Ruth Sara,--1910-1986</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jews</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jewish girls</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jewish families</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Colorado</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Denver (Colo.)</dc:coverage>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://hdl.handle.net/10176/codu:37819</dc:identifier>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">(contributor)</dc:contributor>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">(contributor)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:type>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">isbn: </dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">issn: </dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37813</identifier>
+    <datestamp>2012-03-26T19:30:53Z</datestamp>
+    <setSpec>codu_32557</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Family of Harris and Leah Sheffel Kobey Hannah Shwayder Berry</dc:title>
+  <dc:title>Digitized Materials, Dorothy (Dokes) Kobey Berry Papers</dc:title>
+  <dc:creator>Harsham, Ted E.</dc:creator>
+  <dc:subject>Kobey family</dc:subject>
+  <dc:subject>Kobey, Harris,--1873-1932</dc:subject>
+  <dc:subject>Kobey, Leah Sheffel,--1874-1920</dc:subject>
+  <dc:subject>Weiner, Rebecca Kobey,--1889-1996</dc:subject>
+  <dc:subject>Kobey, Leon,--1902-1982</dc:subject>
+  <dc:subject>Kobey, Philip,--1900-1982</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish families</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jewish girls</dc:subject>
+  <dc:subject>Jewish men</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Aspen (Colo.)</dc:subject>
+  <dc:description>Typed caption by Ted Harsham, with identifying information from Dorothy &apos;&apos;Dokes&apos;&apos; Kobey Berry: &quot;Family of Harris and Leah Sheffel Kobey about 1903 in Aspen, Colorado. Standing: Leah, Harris holding Leon, housekeeper (?). Children in front: Philip, Rebecca. Gelatin silver print. 9.3 cm wide x 10 cm high, mounted on card 12.5 cm x 12.5 cm, photographer unknown. In the collection of Dorothy &apos;&apos;Dokes&apos;&apos; Kobey Berry, Denver, Colorado from the papers of her father, Harris Kobey. Handwritten on the back in the hand of Dokes Berry: &apos;Leah + Harris Kobey in Aspen. Philip, Leon + Rebecca, housekeeper on right. Scanned from the original, cropped, contrast enhanced, and captioned by Ted Harsham - July 16, 2002. Card borders cropped. Image is original size.&quot;</dc:description>
+  <dc:description>The Sheffel Kobey family poses for a group portrait in the yard of a house in Aspen, Colorado. Back row, left to right: Leah Sheffel Kobey, Harris Kobey (holding Leon), and the housekeeper. Philip and Rebecca Kobey stand in front.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>circa 1903</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (digital image), 2400 x 3000 pixels, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:identifier>B100.03.0001.0003.00004</dc:identifier>
+  <dc:identifier>022 Harris family 1903 large</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37813</dc:identifier>
+  <dc:identifier>codu:37813</dc:identifier>
+  <dc:language>__eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37830</identifier>
+    <datestamp>2012-03-26T19:30:16Z</datestamp>
+    <setSpec>codu_32557</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Harris and Leah Sheffel Kobey</dc:title>
+  <dc:title>Digitized Materials, Dorothy (Dokes) Kobey Berry Papers</dc:title>
+  <dc:creator>Harsham, Ted E.</dc:creator>
+  <dc:subject>Kobey family</dc:subject>
+  <dc:subject>Kobey, Harris,--1873-1932</dc:subject>
+  <dc:subject>Kobey, Leah Sheffel,--1874-1920</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jewish men</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Aspen (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Individual photographs of Harris Kobey and Leah Sheffel Kobey posing for formal portraits, possibly wedding photographs, circa 1899. Harris Kobey is dressed in a suit with a bow tie, and Leah Kobey wears a lace head scarf and flowers at her neckline.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>circa 1899</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (digital image), 2551 x 1951 pixels, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:identifier>B100.03.0001.0003.00012</dc:identifier>
+  <dc:identifier>Harris + Leah Kobey 1899 as scan</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37830</dc:identifier>
+  <dc:identifier>codu:37830</dc:identifier>
+  <dc:language>__eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37810</identifier>
+    <datestamp>2012-03-26T19:29:54Z</datestamp>
+    <setSpec>codu_32557</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sheffel Sisters</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Harsham, Ted E.</dc:creator>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jewish families</dc:subject>
+  <dc:subject>Sheffel family</dc:subject>
+  <dc:subject>Levy, Millie Sheffel</dc:subject>
+  <dc:subject>Washer, Jennie Sheffel</dc:subject>
+  <dc:subject>Greinetz, Rose Sheffel</dc:subject>
+  <dc:subject>Gottstein, Mary Sheffel</dc:subject>
+  <dc:subject>Schraiberg, Birdie Sheffel</dc:subject>
+  <dc:subject>Kobey, Leah Sheffel,--1874-1920</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Aspen (Colo.)</dc:subject>
+  <dc:description>The Sheffel sisters pose for a formal group portrait at the studio of Mrs. B.B. Chase in Denver, Colorado in October 1902. Back row: Millie (Mrs. Joseph Levy), Jennie (Mrs. Joseph Washer), Rose (Mrs. David Greinetz). Front row: Mary (Mrs. M. Joseph Gottstein), Birdie (Mrs. M. Schraiberg), and Leah (Mrs. Harris Kobey, mother of Dorothy Dokes Kobey Berry).</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>10/1902</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>1 item, (digital image), ,</dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:format>On matting below photograph: &quot;Mrs. B. B. Chase, 910 - 16th St., Denver, Colo.&quot; Typed caption by Ted Harsham, with information from Dorothy &apos;&apos;Dokes&apos;&apos; Kobey Berry: &quot;Sheffel Sisters - October 1902. Millie Levy, Jennie Washer, Rose Greinetz, Mary Gottstein, Birdie Schraiberg, Leah Sheffel. Identification on the reverse in the hand of Dorothy Kobey Berry.&quot;</dc:format>
+  <dc:identifier>B100.03.0001.0003.00018</dc:identifier>
+  <dc:identifier>Sheffel sisters 1900</dc:identifier>
+  <dc:identifier>codu:37810</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37825</identifier>
+    <datestamp>2012-03-26T19:30:10Z</datestamp>
+    <setSpec>codu_32557</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Dorothy &apos;&apos;Dokes&apos;&apos; Kobey Berry 97th Birthday</dc:title>
+  <dc:title>Photographs, Dorothy (Dokes) Kobey Berry Papers</dc:title>
+  <dc:creator>Galchinsky, Arlene</dc:creator>
+  <dc:subject>Berry, Dorothy Kobey,--1905-2009</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Social life and customs</dc:subject>
+  <dc:subject>Birthdays</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Aspen (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Dorothy (Dokes) Kobey Berry poses for an informal portrait in her home in Denver, Colorado on July 22, 2002, her 97th birthday.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>7/22/2002</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 3.5 x 5 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>B100.02.0001.0002.00004</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37825</dc:identifier>
+  <dc:identifier>codu:37825</dc:identifier>
+  <dc:language>__eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37822</identifier>
+    <datestamp>2012-03-26T19:30:05Z</datestamp>
+    <setSpec>codu_32557</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hannah Shwayder Berry Hannah Shwayder Berry</dc:title>
+  <dc:title>Digitized Materials, Dorothy (Dokes) Kobey Berry Papers</dc:title>
+  <dc:creator>Harsham, Ted E.</dc:creator>
+  <dc:subject>Berry, Hannah Shwayder,--1895-1954</dc:subject>
+  <dc:subject>Shwayder Family</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Typed caption by Ted Harsham, with information from Dorothy &apos;&apos;Dokes&apos;&apos; Kobey Berry: &quot;Hannah Shwayder Berry - about 1912 - Denver, Colorado. Original photograph in the collection of Dorothy &apos;&apos;Dokes&apos;&apos; Kobey Berry, Denver, Colorado.&quot;</dc:description>
+  <dc:description>Hannah Shwayder Berry poses for a formal portrait in Denver, Colorado.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>circa 1912</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (digital image), 4800 x 6000 pixels, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:identifier>B100.03.0001.0003.00001</dc:identifier>
+  <dc:identifier>006 Hannah Shwayder Berry</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37822</dc:identifier>
+  <dc:identifier>codu:37822</dc:identifier>
+  <dc:language>__eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37829</identifier>
+    <datestamp>2012-06-16T02:03:12Z</datestamp>
+    <setSpec>codu_32557</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Miriam Rachofsky Kobey and Grandchildren Hannah Shwayder Berry</dc:title>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Dorothy (Dokes) Kobey Berry Papers, Digitized Materials</dc:relation>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:publisher>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:publisher>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:publisher>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 item, (digital image), 3000 x 4200 pixels, color</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">Digital images</dc:format>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Harsham, Ted E.</dc:creator>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Miriam Rachofsky Kobey and her grandchildren (from left to right, Rebecca, Miriam holding Silas, Philip, and Leon) pose in front of an ivy-covered trellis in Aspen, Colorado. Immigrants Abraham and Miriam (Mary) Kobey began their life in Colorado in Central City. The devout couple became vegetarians for a time while living there because kosher meat transported from Denver often arrived spoiled. After they moved to Denver, Abraham worked as a rabbi and sofer, or scribe, and Miriam became a highly respected midwife, often performing her services free for poor women. The parents of the children are Harris and Leah Sheffel Kobey.</dc:description>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">__eng</dc:language>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">codu:37829</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">Miriam Kobey w kids</dc:identifier>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kobey family</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kobey, Miriam Rachofsky,--1840-1921</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kobey, Leon,--1902-1982</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kobey, Philip,--1900-1982</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Weiner, Rebecca Kobey,--1889-1996</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kobey, Silas M.,--1904-1991</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jews</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jewish girls</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jewish boys</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jewish women</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jewish families</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Colorado</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Aspen (Colo.)</dc:coverage>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://hdl.handle.net/10176/codu:37829</dc:identifier>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">(contributor)</dc:contributor>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">(contributor)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:type>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">isbn: </dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">issn: </dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37816</identifier>
+    <datestamp>2012-03-26T19:30:20Z</datestamp>
+    <setSpec>codu_32557</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>1923 High School Graduation</dc:title>
+  <dc:title>Digitized Materials, Dorothy (Dokes) Kobey Berry Papers</dc:title>
+  <dc:creator>Harsham, Ted E.</dc:creator>
+  <dc:subject>Kobey family</dc:subject>
+  <dc:subject>Berry, Dorothy Kobey,--1905-2009</dc:subject>
+  <dc:subject>Kobey, Nathan Reiss,--1905-1974</dc:subject>
+  <dc:subject>Kobey, Silas M.,--1904-1991</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jewish men</dc:subject>
+  <dc:subject>Academic costume</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Aspen (Colo.)</dc:subject>
+  <dc:subject>High school students</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Nathan, Dorothy, and Silas Kobey (left to right) pose for a formal portrait in Aspen, Colorado in 1923. All three wear graduation caps and gowns. Dorothy, whose nickname was &quot;Dokes,&quot; and Silas Kobey were the children of Harris and Leah Sheffel Kobey. Nathan Kobey was the son of Benjamin and Hattie Reiss Kobey, as well as a cousin of Dorothy and Silas Kobey. Dorothy was the valedictorian of the 1923 graduating class at Aspen High School in Aspen, Colorado.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1923</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (digital image), 1663 x 1426 pixels, color</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:identifier>B100.03.0001.0003.00010</dc:identifier>
+  <dc:identifier>Dokes + bros grad 1923</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37816</dc:identifier>
+  <dc:identifier>codu:37816</dc:identifier>
+  <dc:language>__eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

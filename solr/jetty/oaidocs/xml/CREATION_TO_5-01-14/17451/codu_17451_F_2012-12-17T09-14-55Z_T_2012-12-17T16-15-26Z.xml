@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T05:16:20Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64779</identifier>
+    <datestamp>2012-12-17T16:13:10Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Cancer Treatment at the AMC Cancer Research Center and Hospital</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>American Medical Center (Denver, Colo.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Treatment and prognosis</dc:subject>
+  <dc:subject>Patients</dc:subject>
+  <dc:subject>Cancer</dc:subject>
+  <dc:subject>Cancer treatment and research</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Spivak (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#463 AMC Cancer Research Center and Hospital&apos;&apos;.  On back of photograph: &apos;&apos;Cancer treatment AMC.&apos;&apos;</dc:description>
+  <dc:description>A female patient receiving treatment for cancer at the American Medical Center (AMC) Cancer Research Center and Hospital in Denver Colorado. AMC was located on the grounds of the former Jewish Consumptives&apos; Relief Society (JCRS). The JCRS was a sanatorium for tuberculosis patients that was founded in 1904 by a group of immigrant Jewish workingmen along with the support of several leading physicians and rabbis in Denver, Colorado. The sanatorium was located on West Colfax Avenue just outside of Denver. In the 1950s, the institution reincorporated as the American Medical Center and became one of the first dedicated cancer institutions in the nation.</dc:description>
+  <dc:description>Accession # 1271, Donated by AMC Cancer Research Center as part of the JCRS Records.</dc:description>
+  <dc:description>ph463</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1950-1970</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 10 x 8 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>B063.03.0036.00003</dc:identifier>
+  <dc:identifier>codu:64779</dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64524</identifier>
+    <datestamp>2012-12-17T16:13:17Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Group Portrait Taken at the Jewish Consumptives&apos; Relief Society</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Patients</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Edgewater (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Physicians</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#462 JCRS Patient Activities&apos;&apos;.   On back of photograph: &apos;&apos;#462 JCRS &apos;&apos;.</dc:description>
+  <dc:description>An unidentified group of people at the Jewish Consumptives&apos; Relief Society (JCRS). The JCRS was a sanatorium for tuberculosis patients that was founded in 1904 by a group of immigrant Jewish workingmen along with the support of several leading physicians and rabbis in Denver, Colorado.</dc:description>
+  <dc:description>Accession # 1271, Donated by AMC Cancer Research Center as part of the JCRS Records.</dc:description>
+  <dc:description>ph462</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1904-1920</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>B063.03.0011.00049</dc:identifier>
+  <dc:identifier>codu:64524</dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64537</identifier>
+    <datestamp>2012-12-17T16:13:19Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Dr. Charles Spivak of the Jewish Consumptives&apos; Relief Society</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Spivak, C. D.--(Charles D.),--1861-1927</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Jewish physicians</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Edgewater (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)--Sanatorium (Colo.)</dc:subject>
+  <dc:subject>Physicians</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#485 Dr. C.W. Spivak&apos;&apos;.   On back of photograph: &apos;&apos;Dr. Charles Spivak&apos;&apos;.</dc:description>
+  <dc:description>Portrait of Dr. Charles Spivak standing outside an unidentified building. Dr. Spivak was a founder of the Jewish Consumptives&apos; Relief Society (JCRS). The JCRS was a sanatorium for tuberculosis patients that was founded in 1904 by a group of immigrant Jewish workingmen along with the support of several leading physicians and rabbis in Denver, Colorado. Dr. Spivak also served as executive secretary from 1904 until his death in 1929.</dc:description>
+  <dc:description>Accession # 1271, Donated by AMC Cancer Research Center as part of the JCRS Records.</dc:description>
+  <dc:description>ph485</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1904-1927</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 1 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>B063.03.0011.00063</dc:identifier>
+  <dc:identifier>codu:64537</dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64776</identifier>
+    <datestamp>2012-12-17T16:13:26Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Female juvenile patients playing on the lawn at National Jewish Hospital for Consumptives</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>National Asthma Center (U.S.)</dc:subject>
+  <dc:subject>Children&apos;s Asthma Research Institute and Hospital (Denver, Colo.)</dc:subject>
+  <dc:subject>National Jewish Hospital and Research Center/National Asthma Center (U.S.)</dc:subject>
+  <dc:subject>Jewish National Home for Asthmatic Children in Denver</dc:subject>
+  <dc:subject>National Home for Jewish Children in Denver</dc:subject>
+  <dc:subject>Denver Sheltering Home for Jewish Children</dc:subject>
+  <dc:subject>Jewish children</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Medical centers</dc:subject>
+  <dc:subject>Group homes for children</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America, Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, page 78.</dc:description>
+  <dc:description>On back of photograph: &apos;&apos;#1141 NJH Pediatric Patients, 1907&apos;&apos;.  On envelope: &apos;&apos;Early Historical NJH pictures of Patients and campus&apos;&apos;.  Written on front of photograph: &apos;&apos;Our Little Wards.&apos;&apos;</dc:description>
+  <dc:description>Four girls in dresses sit on the lawn at National Jewish Hospital for Consumptives in Denver, Colorado. Three girls are playing with toys, while one is sewing. The National Jewish Hospital (NJH) worked to prevent tuberculosis by accepting children who seemed susceptible to the disease, while offering good nutrition and plenty of fresh air to keep them healthy. The hospital was founded in 1899.</dc:description>
+  <dc:description>Donated by the National Asthma Center.</dc:description>
+  <dc:description>ph1141</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1907</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 8 x 10 inches, sepia</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>B063.03.0035.00104</dc:identifier>
+  <dc:identifier>codu:64776</dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64781</identifier>
+    <datestamp>2012-12-17T16:13:29Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Cancer Treatment at the AMC Cancer Research Center and Hospital</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Trainor Photography</dc:creator>
+  <dc:subject>American Medical Center (Denver, Colo.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Treatment and prognosis</dc:subject>
+  <dc:subject>Patients</dc:subject>
+  <dc:subject>Cancer</dc:subject>
+  <dc:subject>Cancer treatment and research</dc:subject>
+  <dc:subject>Nurses</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Spivak (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#463 AMC Cancer Research Center and Hospital&apos;&apos;.  On back of photograph: &apos;&apos;#462 AMC  Cancer treatment AMC&apos;&apos;.</dc:description>
+  <dc:description>A female patient receiving treatment for cancer at the American Medical Center (AMC) Cancer Research Center and Hospital. Three nurses are surrounding the patient. AMC was located on the grounds of the former Jewish Consumptives&apos; Relief Society (JCRS). The JCRS was a sanatorium for tuberculosis patients that was founded in 1904 by a group of immigrant Jewish workingmen along with the support of several leading physicians and rabbis in Denver, Colorado. The sanatorium was located on West Colfax Avenue just outside of Denver. In the 1950s, the institution reincorporated as the American Medical Center and became one of the first dedicated cancer institutions in the nation.</dc:description>
+  <dc:description>Accession # 1271, Donated by AMC Cancer Research Center as part of the JCRS Records.</dc:description>
+  <dc:description>ph463</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1950-1970</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>B063.03.0036.00005</dc:identifier>
+  <dc:identifier>codu:64781</dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64705</identifier>
+    <datestamp>2012-12-17T16:13:36Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Bookbinding and Print Shop of the Jewish Consumptives&apos; Relief Society</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Mile High Photo Company (Denver, Colo.)</dc:creator>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.).--Printing &amp; Bindery</dc:subject>
+  <dc:subject>American Medical Center (Denver, Colo.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Men</dc:subject>
+  <dc:subject>Printing plants</dc:subject>
+  <dc:subject>Bookbinding</dc:subject>
+  <dc:subject>Women</dc:subject>
+  <dc:subject>Rehabilitation</dc:subject>
+  <dc:subject>Patients</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Interior views</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Edgewater (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Sanatorium (Colo.)</dc:subject>
+  <dc:subject>Spivak (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#458 JCRS Bookbinding and Print Shop&apos;&apos;. On back of photograph: &apos;&apos;#458 JCRS, This is part of the industrial rehabilitation department at the Sanatorium of the Jewish Consumptives&apos; Relief Society in Denver. Patients are taught bookbinding and printing. They are started on two hours work a day. This is gradually increased after careful surveys of their physical condition, to six hours a day. Their reaction serves as a measure of their resistance and a valuable guide to the necessary duration of sanatorium treatment. Their work has the psychological effect of relieving mental depression and creating confidence in the future.&apos;&apos;</dc:description>
+  <dc:description>Interior of the bookbinding and print shop room of the Jewish Consumptives&apos; Relief Society (JCRS). A large group of men and women are working on various tasks throughout the room. This room was part of the industrial rehabilitation department at the JCRS. The JCRS was a sanatorium for tuberculosis patients that was founded in 1904 by a group of immigrant Jewish workingmen along with the support of several leading physicians and rabbis in Denver, Colorado. The sanatorium was located on West Colfax Avenue just outside of Denver.</dc:description>
+  <dc:description>Accession # 1271, Donated by AMC Cancer Research Center as part of the JCRS Records.</dc:description>
+  <dc:description>ph458</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1920-1940</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>B063.03.0035.00032</dc:identifier>
+  <dc:identifier>codu:64705</dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64529</identifier>
+    <datestamp>2012-12-17T16:13:41Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Dr. Charles Spivak of the Jewish Consumptives&apos; Relief Society</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Spivak, C. D.--(Charles D.),--1861-1927</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Jewish physicians</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Sanatorium (Colo.)</dc:subject>
+  <dc:subject>Physicians</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, on page 80.</dc:description>
+  <dc:description>On envelope: &apos;&apos;#485 Dr. C.W. Spivak&apos;&apos;. On back of photograph: &apos;&apos;#485  Dr. C. W. Spivak  Denver  Oct 14 1928&apos;&apos;.</dc:description>
+  <dc:description>Formal head and shoulders portrait of Dr. Charles Spivak, dressed in a suit and tie.  Dr. Spivak was a founder of the Jewish Consumptives&apos; Relief Society (JCRS). The JCRS was a sanatorium for tuberculosis patients that was founded in 1904 by a group of immigrant Jewish workingmen along with the support of several leading physicians and rabbis in Denver, Colorado. Dr. Spivak served as executive secretary from 1904 until his death in 1927.</dc:description>
+  <dc:description>Accession # 1271, Donated by AMC Cancer Research Center as part of the JCRS Records.</dc:description>
+  <dc:description>ph485</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1925</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 6 x 4 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>B063.03.0011.00055</dc:identifier>
+  <dc:identifier>codu:64529</dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64476</identifier>
+    <datestamp>2012-12-17T16:13:44Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Dr. Allan Hurst Speaking to a Group</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Hurst, Allan,--1910-1989--Dr.</dc:subject>
+  <dc:subject>National Jewish Hospital (U.S.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#243 NJH, Dr. Allan Hurst&apos;&apos;.  On back of photograph: &apos;&apos;#243 National Jewish Hospital  Standing: Dr. Allan Hurst, Medical Director &apos;&apos;.</dc:description>
+  <dc:description>Dr. Allan Hurst, speaking to a group of unidentified people. Dr. Hurst was the Medical Director of National Jewish Hospital.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph243</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1940-1960</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 8 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>B063.03.0003.00095</dc:identifier>
+  <dc:identifier>codu:64476</dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64786</identifier>
+    <datestamp>2012-12-17T16:13:49Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Banquet for Auxiliaries of the Jewish Consumptives&apos; Relief Society and American Medical Center</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Mile High Photo Company (Denver, Colo.)</dc:creator>
+  <dc:subject>Schwartz, Henry</dc:subject>
+  <dc:subject>Schwartz, Henry, Mrs.</dc:subject>
+  <dc:subject>Friedland, Ben</dc:subject>
+  <dc:subject>Klein, William,--Mrs.</dc:subject>
+  <dc:subject>Klein, William</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>American Medical Center (Denver, Colo.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Charities</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Dinners and dining</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Event photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Spivak (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#478 JCRS Auxiliary&apos;&apos;.  On back of photograph: &apos;&apos;front row  Dr. and Mrs. Wm Klein  second table  white haired man Ben Friedland Sec&apos;y JCRS  next to him  Mr. and Mrs. Henry Schwartz  pres. of JCRS  JCRS - AMC Auxiliary  #478&apos;&apos;.</dc:description>
+  <dc:description>A dinner banquet for auxiliaries of the Jewish Consumptives&apos; Relief Society (JCRS). Pictured are Dr. and Mrs. William Klein and at the second table Ben Friedland with Mr. and Mrs. Henry Schwartz. The JCRS was a sanatorium for tuberculosis patients that was founded in 1904 by a group of immigrant Jewish workingmen along with the support of several leading physicians and rabbis in Denver, Colorado. The sanatorium was located on West Colfax Avenue just outside of Denver.</dc:description>
+  <dc:description>Accession # 1271, Donated by AMC Cancer Research Center as part of the JCRS Records.</dc:description>
+  <dc:description>ph478</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1950-1970</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>B063.03.0036.00010</dc:identifier>
+  <dc:identifier>codu:64786</dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64438</identifier>
+    <datestamp>2012-12-17T16:13:58Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>C.D. Spivak Administration Building at the Jewish Consumptives&apos; Relief Society</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>C. D. Spivak Adminsitration Building (Spivak, Colo.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Buildings</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Spivak (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#453 JCRS Buildings, #453 JCRS Physical Plant&apos;&apos;.  On back of photograph: &apos;&apos;#453  JCRS CD Spivak Administration Bldg&apos;&apos;.</dc:description>
+  <dc:description>Exterior of the C.D. Spivak Administration Building on the campus of the Jewish Consumptives&apos; Relief Society (JCRS). The JCRS was a sanatorium for tuberculosis patients that was founded in 1904 by a group of immigrant Jewish workingmen along with the support of several leading physicians and rabbis in Denver, Colorado. The sanatorium was located on West Colfax Avenue just outside of Denver.</dc:description>
+  <dc:description>Accession # 1271, Donated by AMC Cancer Research Center as part of the JCRS Records.</dc:description>
+  <dc:description>ph453</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1930-1960</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>2 item (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>B063.03.0003.00056</dc:identifier>
+  <dc:identifier>codu:64438</dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64790</identifier>
+    <datestamp>2012-12-17T16:14:06Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Picnic at Home of Mr. and Mrs. J.A. Sharoff during the Jewish Consumptives&apos; Relief Society&apos;s Conference</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Albert O. Corwin Commercial Photographs</dc:creator>
+  <dc:subject>Sharoff, J.A., Mrs.</dc:subject>
+  <dc:subject>Sharoff, J.A.</dc:subject>
+  <dc:subject>Klein, William</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>American Medical Center (Denver, Colo.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Charities</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Event photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Spivak (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#478 JCRS Auxiliary&apos;&apos;.  On back of photograph: &apos;&apos; Picture, Picnic held in yard of Mr. and Mrs. J.A. Sharoff during 1950 Conference in Denver.  How many Denverites can you identify, #478 JCRS - Auxiliary.&apos;&apos;</dc:description>
+  <dc:description>A picnic for auxiliaries of the Jewish Consumptives&apos; Relief Society (JCRS) that was held in the yard of Mr. and Mrs. J.A. Sharoff during the 1950 conference in Denver, Colorado. Dr. William Kline stands second from right in the back row.  The JCRS was a sanatorium for tuberculosis patients that was founded in 1904 by a group of immigrant Jewish workingmen along with the support of several leading physicians and rabbis in Denver, Colorado. The sanatorium was located on West Colfax Avenue just outside of Denver. In the 1950s, the institution reincorporated as the American Medical Center and became one of the first dedicated cancer institutions in the nation.</dc:description>
+  <dc:description>Accession # 1271, Donated by AMC Cancer Research Center as part of the JCRS Records.</dc:description>
+  <dc:description>ph478</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1950</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>B063.03.0036.00014</dc:identifier>
+  <dc:identifier>codu:64790</dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64708</identifier>
+    <datestamp>2012-12-17T16:14:16Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Dave Edman&apos;s Hobby Lobby Revue</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Edman, David</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>American Medical Center (Denver, Colo.)</dc:subject>
+  <dc:subject>Mary Harris Auditorium (Spivak, Colo.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Revues</dc:subject>
+  <dc:subject>Entertainers</dc:subject>
+  <dc:subject>Patients</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Event photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Spivak (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#459 JCRS Entertainment for Patients&apos;&apos;. On back of print: &apos;&apos;#459 JCRS  Dave Edman&apos;s Hobby Lobby Revue - a stage presentation of the famous radio program, which was appearing at a Denver theater - put on a special performance at the JCRS&apos;&apos;.</dc:description>
+  <dc:description>Dave Edman&apos;s Hobby Lobby Revue being performed for patients at the Jewish Consumptives&apos; Relief Society (JCRS). This Revue was a stage presentation of a radio program which was popular at the time. The JCRS was a sanatorium for tuberculosis patients that was founded in 1904 by a group of immigrant Jewish workingmen along with the support of several leading physicians and rabbis in Denver, Colorado. The sanatorium was located on West Colfax Avenue just outside of Denver.</dc:description>
+  <dc:description>Accession # 1271, Donated by AMC Cancer Research Center as part of the JCRS Records.</dc:description>
+  <dc:description>ph459</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1930-1950</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Halftone photomechanical prints</dc:format>
+  <dc:identifier>B063.03.0035.00036</dc:identifier>
+  <dc:identifier>codu:64708</dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64640</identifier>
+    <datestamp>2012-12-17T16:14:22Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Dr. Charles D. Spivak of the Jewish Consumptives&apos; Relief Society</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Spivak, C. D.--(Charles D.),--1861-1927</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>American Medical Center (Denver, Colo.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Edgewater (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Sanatorium (Colo.)</dc:subject>
+  <dc:subject>Physicians</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#485 Dr. C.W. Spivak&apos;&apos;. On back of photograph: &apos;&apos;Dr. Charles Spivak&apos;&apos;.</dc:description>
+  <dc:description>Dr. Charles D. Spivak standing on the front steps of a building while smoking a cigarette. Dr. Spivak was a founder of the Jewish Consumptives&apos; Relief Society (JCRS) and served as Medical Director and Superintendent until his death in 1927. The JCRS was a sanatorium for tuberculosis patients that was founded in 1904 by a group of immigrant Jewish workingmen along with the support of several leading physicians and rabbis in Denver, Colorado. It was located on West Colfax Avenue just outside Denver.</dc:description>
+  <dc:description>Accession # 1271, Donated by AMC Cancer Research Center as part of the JCRS Records.</dc:description>
+  <dc:description>ph485</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1915-1927</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 3 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>B063.03.0019.00052</dc:identifier>
+  <dc:identifier>codu:64640</dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64842</identifier>
+    <datestamp>2012-12-17T16:14:26Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Exterior of the First National Jewish Hospital Building</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>National Jewish Hospital (U.S.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America, Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, page 76.</dc:description>
+  <dc:description>On back of photograph: &quot;National Jewish Hospital, #1075, c. 1899-1902.&quot;  On envelope: &quot;#1075 NJH.&quot;</dc:description>
+  <dc:description>Exterior of the first building on the campus of National Jewish Hospital. This building was known as the Frances Jacobs Hospital and was founded in 1899. In 1907, the name of the hospital changed to the National Asthma Center. It later became the Children&apos;s Asthma Research Institute and Hospital, National Jewish Hospital/National Asthma Center (1978), and National Jewish Center for Immunology and Respiratory Medicine (1985).</dc:description>
+  <dc:description>Donated by the National Jewish Hospital.</dc:description>
+  <dc:description>ph1075</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1899-1902</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>B063.03.0036.00057</dc:identifier>
+  <dc:identifier>codu:64842</dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64572</identifier>
+    <datestamp>2012-12-17T16:14:32Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Poultry Farm at the Jewish Consumptives&apos; Relief Society</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Farms</dc:subject>
+  <dc:subject>Chickens</dc:subject>
+  <dc:subject>Poultry</dc:subject>
+  <dc:subject>Poultry farms</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Edgewater (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, page 84.</dc:description>
+  <dc:description>On back of photograph: &apos;&apos;JC.R.S Hospital  Poultry yard&apos;&apos;.   On envelope: &apos;&apos;#1091 JCRS postcards of campus c. 1922&apos;&apos;.</dc:description>
+  <dc:description>Poultry farm at the Jewish Consumptives&apos; Relief Society (JCRS).  A flock of chickens are gathered in front of a building which has &apos;&apos;JCRS Poultry-Farm&apos;&apos; painted on the outside. The JCRS featured its own dairy and poultry farm located on its campus. The JCRS was a sanatorium for tuberculosis patients that was founded in 1904 by a group of immigrant Jewish workingmen along with the support of several leading physicians and rabbis in Denver, Colorado. The sanatorium was located on West Colfax Avenue just outside of Denver.</dc:description>
+  <dc:description>Photograph was donated by Sarah Holcolm Florida.</dc:description>
+  <dc:description>ph1091</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1922</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 4 x 5 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>B063.03.0011.00101</dc:identifier>
+  <dc:identifier>codu:64572</dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64601</identifier>
+    <datestamp>2012-12-17T16:14:37Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Portrait of Dr. Freudenthal</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Freudenthal, Alfred,--Dr.</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>American Medical Center (Denver, Colo.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#404  Dr. Albert Freudenthal&apos;&apos;.   On back of photograph: &apos;&apos;#404  Dr. Alfred Freudenthal&apos;&apos;.</dc:description>
+  <dc:description>Copy photograph of a portrait of Dr. Alfred Freudenthal, who was the son of Rabbi Freudenthal.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph404</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1930-1960</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 4 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>B063.03.0019.00012</dc:identifier>
+  <dc:identifier>codu:64601</dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64585</identifier>
+    <datestamp>2012-12-17T16:14:45Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>JCRS Nurses</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Edgewater (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Sanatorium (Colo.)</dc:subject>
+  <dc:subject>Spivak (Colo.)</dc:subject>
+  <dc:subject>Nurses</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>On envelope: &quot;#1092 JCRS Patients and Nurses c. 1920&quot;. On back of photograph: &quot;Stepson &amp; Miller nurses at Halloween Party JCRS, #1092.&quot;</dc:description>
+  <dc:description>Two nurses dressed up for Halloween and possibly acting in a play.  One is reading the other&apos;s palm.</dc:description>
+  <dc:description>Photograph was donated by Sarah Holcolm Florida.</dc:description>
+  <dc:description>ph1092</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1920-1929</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 7 x 5 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>B063.03.0011.00115</dc:identifier>
+  <dc:identifier>codu:64585</dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64801</identifier>
+    <datestamp>2012-12-17T16:14:53Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Nurse Holding a Baby</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Rose Medical Center</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Nurses</dc:subject>
+  <dc:subject>Patients</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Children</dc:subject>
+  <dc:subject>Infants</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Nurses</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#569  1973 Allied Jewish Federation Campaign&apos;&apos;.</dc:description>
+  <dc:description>An unidentified nurse holding an infant up to a window for viewing by its mother.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph569</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1950-1973</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 10 x 8 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>B063.03.0036.00025</dc:identifier>
+  <dc:identifier>codu:64801</dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64428</identifier>
+    <datestamp>2012-12-17T16:15:04Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Early Construction at the Jewish Consumptives&apos; Relief Society</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Spivak, C. D.--(Charles D.),--1861-1927</dc:subject>
+  <dc:subject>Hillkowitz, Philip,--1873-1948</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Buildings</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Edgewater (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#453 JCRS Buildings, #453 JCRS Physical Plant&apos;&apos;.  On back of photograph: &apos;&apos;#453 Construction - original brick bldg  JCRS&apos;&apos;.</dc:description>
+  <dc:description>Construction of the original brick building at the Jewish Consumptives&apos; Relief Society (JCRS). Dr. C. D. Spivak sits far left and Dr. Philip Hillkowitz sits beside him.  The JCRS was a sanatorium for tuberculosis patients that was founded in 1904 by a group of immigrant Jewish workingmen along with the support of several leading physicians and rabbis in Denver, Colorado. The sanatorium was located on West Colfax Avenue just outside of Denver.</dc:description>
+  <dc:description>Accession # 1271, Donated by AMC Cancer Research Center as part of the JCRS Records.</dc:description>
+  <dc:description>ph453</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1904-1920</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 8 x 8 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>B063.03.0003.00046</dc:identifier>
+  <dc:identifier>codu:64428</dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64564</identifier>
+    <datestamp>2012-12-17T16:15:11Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Library of the Jewish Consumptives&apos; Relief Society</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Buildings</dc:subject>
+  <dc:subject>Patients</dc:subject>
+  <dc:subject>Libraries (Buildings)</dc:subject>
+  <dc:subject>Postcards</dc:subject>
+  <dc:subject>Interior views</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Spivak (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;# 804  JCRS postcard packet, c 1950&apos;&apos;. Printed on bottom of photograph: &apos;&apos;Library - with over 12,000 books.&apos;&apos;</dc:description>
+  <dc:description>Interior of the library at the Jewish Consumptives&apos; Relief Society (JCRS). This postcard is from a set of photographs of the JCRS. The JCRS was a sanatorium for tuberculosis patients that was founded in 1904 by a group of immigrant Jewish workingmen along with the support of several leading physicians and rabbis in Denver, Colorado.</dc:description>
+  <dc:description>Accession # 1271, Donated by AMC Cancer Research Center as part of the JCRS Records.</dc:description>
+  <dc:description>ph804</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1940-1960</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 4 x 5 inches,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>B063.03.0011.00098.00005</dc:identifier>
+  <dc:identifier>codu:64564</dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64632</identifier>
+    <datestamp>2012-12-17T16:15:14Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Dr. Arnold Shamaskin of the Jewish Consumptives&apos; Relief Society</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Shamaskin, Arnold</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>American Medical Center (Denver, Colo.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Spivak (Colo.)</dc:subject>
+  <dc:subject>Physicians</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#460 JCRS Staff&apos;&apos;. On back of photograph: &apos;&apos;Dr. Arnold Shamaskin Medical Director and Superintendent - JCRS  1938  #460 JCRS&apos;&apos;.</dc:description>
+  <dc:description>Dr. Arnold Shamaskin who served as Medical Director and Superintendent of the Jewish Consumptives&apos; Relief Society (JCRS). The JCRS was a sanatorium for tuberculosis patients that was founded in 1904 by a group of immigrant Jewish workingmen along with the support of several leading physicians and rabbis in Denver, Colorado. It was located on West Colfax Avenue just outside Denver.</dc:description>
+  <dc:description>Accession # 1271, Donated by AMC Cancer Research Center as part of the JCRS Records.</dc:description>
+  <dc:description>ph460</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1938</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 3 x 3 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Halftone photomechanical prints</dc:format>
+  <dc:identifier>B063.03.0019.00044</dc:identifier>
+  <dc:identifier>codu:64632</dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64788</identifier>
+    <datestamp>2012-12-17T16:15:24Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Banquet for Auxiliaries and Board Members of the Jewish Consumptives&apos; Relief Society and American Medical Center</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Chutkow, Sam</dc:subject>
+  <dc:subject>Chutkow, Sam,--Mrs.</dc:subject>
+  <dc:subject>Winocur, Esther--(Esther Ila)--1905-1988</dc:subject>
+  <dc:subject>Winocur, Charles--(Charles C.)--1905-1968</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>American Medical Center (Denver, Colo.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Charities</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Dinners and dining</dc:subject>
+  <dc:subject>Cancer treatment and research</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Event photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Spivak (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#478 JCRS Auxiliary&apos;&apos;.  On back of photograph: &apos;&apos;left to right  Mr. Sam Chutkow, Mrs. Sam Chutkow, Mr. Charles Winocur, pres AMC, Mrs. Charles Winocur #478  JCRS Auxiliary and Board Members&apos;&apos;.</dc:description>
+  <dc:description>A dinner banquet for auxiliaries of the Jewish Consumptives&apos; Relief Society (JCRS) and American Medical Center (AMC). Pictured are Mr. and Mrs. Sam Chutkow with Mr. and Mrs. Charles Winocur. AMC was located on the grounds of the former Jewish Consumptives&apos; Relief Society (JCRS). The JCRS was a sanatorium for tuberculosis patients that was founded in 1904 by a group of immigrant Jewish workingmen along with the support of several leading physicians and rabbis in Denver, Colorado. The sanatorium was located on West Colfax Avenue just outside of Denver. In the 1950s, the institution reincorporated as the American Medical Center and became one of the first dedicated cancer institutions in the nation.</dc:description>
+  <dc:description>Accession # 1271, Donated by AMC Cancer Research Center as part of the JCRS Records.</dc:description>
+  <dc:description>ph478</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1950-1970</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>B063.03.0036.00012</dc:identifier>
+  <dc:identifier>codu:64788</dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

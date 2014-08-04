@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T05:21:32Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59448</identifier>
+    <datestamp>2013-04-15T22:38:19Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Exterior of the May Company in Irwin, Colorado</dc:title>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:date>between 1881-1882</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:type>StillImage</dc:type>
+  <dc:format>1 item (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>On envelope: &apos;&apos;# 119 The May Co. Irwin, Colorado&apos;&apos;. On the front of photograph: &apos;&apos;Irwin Colo - 1879-1880&apos;&apos;.  Handwritten on back of photograph: &quot;#119 May Co Irwin, CO, 1879-80.&quot;</dc:description>
+  <dc:creator></dc:creator>
+  <dc:description>View down main street of Irwin, Colorado. Exterior of an early May Company wood building can be seen in the left of the photograph with a sign that reads: &apos;&apos;D. May &amp; Co. Square Dealing Clothing Room.&apos;&apos; David May immigrated to Colorado from Bavaria and started his first clothing store in Leadville in 1877. After 1877 David May opened branches of his store in Irwin (1881), Gunnison (1881), Aspen (Johnston &amp; Co. 1886), Glenwood Springs (Manhattan Store, 1887), and Denver (April 12, 1889). The May Company evolved into one of the largest department store chains in the United States.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, page 28.</dc:description>
+  <dc:description>Donated by May D and F.</dc:description>
+  <dc:description>ph119</dc:description>
+  <dc:language>Inscription is in English.</dc:language>
+  <dc:identifier>codu:59448</dc:identifier>
+  <dc:subject>May, David</dc:subject>
+  <dc:subject>D. May &amp; Co.</dc:subject>
+  <dc:subject>Jewish merchants</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59448</dc:identifier>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage>Irwin (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63900</identifier>
+    <datestamp>2013-04-15T22:42:33Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Colorado Springs Jewish Welfare Board Picnic</dc:title>
+  <dc:relation>Beck Archives Photograph Collection, Organizations</dc:relation>
+  <dc:date>between 1940-1949</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:type>StillImage</dc:type>
+  <dc:format>1 item (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Handwritten on back of photograph: &apos;&apos;Colorado Springs, Jewish Welfare Board, Donor Mrs. Faye Schayer, #402.&apos;&apos;</dc:description>
+  <dc:creator></dc:creator>
+  <dc:description>Several men in army and navy uniforms and women at a picnic hosted by the Colorado Springs Jewish Welfare Board.  Some men play volley ball in the background.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Donated by Mrs. Faye Schayer.</dc:description>
+  <dc:description>ph402</dc:description>
+  <dc:language>Inscription is in English.</dc:language>
+  <dc:identifier>codu:63900</dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:subject>National Jewish Welfare Board</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Organization</dc:subject>
+  <dc:subject>Military</dc:subject>
+  <dc:subject>Picnics</dc:subject>
+  <dc:subject>Photographic prints</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado Springs (Colo.)</dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63900</dc:identifier>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject>United States. Army</dc:subject>
+  <dc:subject>United States. Navy</dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63901</identifier>
+    <datestamp>2013-04-15T22:47:26Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Colorado Springs Jewish Welfare Board Picnic</dc:title>
+  <dc:relation>Beck Archives Photograph Collection, Organizations</dc:relation>
+  <dc:date>between 1940-1949</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:type>StillImage</dc:type>
+  <dc:format>1 item (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Handwritten on back of photograph: &apos;&apos;Colorado Springs, Jewish Welfare Board, Donor Mrs. Faye Schayer, #402.&apos;&apos;</dc:description>
+  <dc:creator></dc:creator>
+  <dc:description>Several men in army and navy uniforms and women at a picnic hosted by the Colorado Springs Jewish Welfare Board.  Some men play volley ball in the background.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Donated by Mrs. Faye Schayer.</dc:description>
+  <dc:description>ph402</dc:description>
+  <dc:language>Inscription is in English.</dc:language>
+  <dc:identifier>codu:63901</dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:subject>National Jewish Welfare Board</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Organization</dc:subject>
+  <dc:subject>Military</dc:subject>
+  <dc:subject>Picnics</dc:subject>
+  <dc:subject>Photographic prints</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado Springs (Colo.)</dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63901</dc:identifier>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject>United States. Army</dc:subject>
+  <dc:subject>United States. Navy</dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59482</identifier>
+    <datestamp>2013-04-18T17:20:11Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Central Electric</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1940-1960</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 11 x 14 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Front entrance of the Central Electric Company building with several cars in the parking lot. Sam Beck founded the Central Electric Supply Co. and was elected chairman.  Ira M. Beck succeeded his father as the president of the company in 1969.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph90</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0032.0001.00003</dc:identifier>
+  <dc:subject>Central Electric Supply Co.</dc:subject>
+  <dc:subject>Industries</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59482</dc:identifier>
+</dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

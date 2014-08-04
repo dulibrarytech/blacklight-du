@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T01:12:35Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38556</identifier>
+    <datestamp>2012-05-21T21:36:34Z</datestamp>
+    <setSpec>codu_38045</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hanya Holm Speaks to Students</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Knutson, Loyde</dc:creator>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Wessels, Frances</dc:subject>
+  <dc:subject>Wilcox, Martha</dc:subject>
+  <dc:subject>Heller, Batya</dc:subject>
+  <dc:subject>Raup, Florita</dc:subject>
+  <dc:subject>Metz, Louise</dc:subject>
+  <dc:subject>Palmer, Joan</dc:subject>
+  <dc:subject>Sears, Vera E.,--1912-2008</dc:subject>
+  <dc:subject>Kaeser, Millie</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado Springs (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Dancers</dc:subject>
+  <dc:subject>Choreographers</dc:subject>
+  <dc:subject>Dance teachers</dc:subject>
+  <dc:description>Dancer, choreographer and dance educator Hanya Holm lectures a group of students outdoors in Colorado Springs, Colorado. Students include: Frances Wessels, Martha Wilcox, Batya Heller, Florita Raup, Louise Metz, Joan Palmer, Vera Sears, and Millie Kaeser.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1943-1944</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>1 item, (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>Written on back of photographic print: &quot;Frances Wessels, Martha Wilcox, Batya H[illegible]ler, Florita Raup, Louise Metz, Joan Palmer, Vera Sears, Millie Kaeser. Hanya Holm in Colo Springs, 1943 or 1944.&quot; Stamped on back of photographic print: &quot;Photograph By Loyde Knutson, Colorado Springs.&quot; Written on front of folder: &quot;b&amp;w candid lecturing students incl. Martha Wilcox, Vera Sears. 1934 of 4 Knutson, Vera Sears (D).&quot;</dc:format>
+  <dc:identifier>D002.01.0002.0079.00005</dc:identifier>
+  <dc:identifier>codu:38556</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38552</identifier>
+    <datestamp>2012-05-21T21:43:33Z</datestamp>
+    <setSpec>codu_38045</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hanya Holm Company Performs Dance of Work and Play</dc:title>
+  <dc:title></dc:title>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Gentry, Eve</dc:subject>
+  <dc:subject>Kagan, Mimi</dc:subject>
+  <dc:subject>Roeder, Harriet</dc:subject>
+  <dc:subject>Bettis, Valerie</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Dancers</dc:subject>
+  <dc:description>Eve Gentry, Mimi Kagan, Harriet Roeder and Valerie Bettis (left to right), members of Hanya Holm&apos;s dance company, perform Holm&apos;s modern dance work &quot;Dance of Work and Play.&quot;</dc:description>
+  <dc:description></dc:description>
+  <dc:date>between 1937-1938</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>1 item, (photograph), 7 x 7 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>Stamped on back of photographic print: &quot;Library, Colorado Women&apos;s College.&quot; Written on back of photographic print: &quot;L to R - Eve entry, Mimi Kagan, Harriet Roeder?, Valerie Bettis? in &quot;Dance of Work and Play&quot; (Hanya Hlom). Nee Henrietta Greenhood. Participated in premier of Hanya Holm&apos;s &quot;Trend,&quot; 1937. Pic folder, Gentry, Eve.&quot; Written on front of folder: &quot;Action still w. Mimi Kagan, Harriet Roeder (?), Vallerie Bettis (?), &quot;Dance of Work and Play&quot; (Hanya Holm) n.d. (ca. 1937-8). no credit.&quot;</dc:format>
+  <dc:identifier>D001.02.0002.0051.00001</dc:identifier>
+  <dc:identifier>codu:38552</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38555</identifier>
+    <datestamp>2012-05-21T21:41:42Z</datestamp>
+    <setSpec>codu_38045</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hanya Holm and Her Company Perform They Too Are Exiles</dc:title>
+  <dc:title></dc:title>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Kloepper, Louise</dc:subject>
+  <dc:subject>Gentry, Eve</dc:subject>
+  <dc:subject>Locke, Linda</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Dancers</dc:subject>
+  <dc:subject>Choreographers</dc:subject>
+  <dc:description>Linda Locke, Eve Gentry, Louise Kloepper and Hanya Holm (left to right) perform a modern dance work choreographed by Holm, entitled &quot;They Too Are Exiles.&quot;</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1939</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>1 item, (photograph), 7 x 7 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>Stamped on back of photographic print: &quot;Library, Colorado Women&apos;s College.&quot; Written on back of photographic print: &quot;L to R - Linda Locke?, Eve Gentry, Louise Kloepper, Hanya Holm in &quot;They Too Are Exiles.&quot; Hanya Holm Choreography. Pic folder Holm, Hanya.&quot; Written on front of folder: &quot;action still, L to R: Linda Locke? Even Gentry, Louise Kloepper, H. HOlm, &quot;They Too Are Exiles&quot; (Holm), ca 1939, no credit.&quot;</dc:format>
+  <dc:identifier>D002.01.0002.0079.00004</dc:identifier>
+  <dc:identifier>codu:38555</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38551</identifier>
+    <datestamp>2012-05-21T21:43:47Z</datestamp>
+    <setSpec>codu_38045</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hanya Holm Performs Dance of Work and Play</dc:title>
+  <dc:title></dc:title>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Dancers</dc:subject>
+  <dc:subject>Choreographers</dc:subject>
+  <dc:description>Dancer and choreographer Hanya Holm performs a modern dance work she choreographed, &quot;Dance of Work and Play.&quot;</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1938</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>1 item, (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>Stamped on back of photographic print: &quot;Library, Colorado Women&apos;s College.&quot; Written on back of photographic print: &quot;Hanya Holm in &quot;Dance of Work and Play,&quot; Hanya Holm Choreography. Pic fold. Holm, Hanya.&quot; Written on front of folder: &quot;action still, &quot;Dance of Work and play,&quot; (Holm) ca. 1938 no credit.&quot;</dc:format>
+  <dc:identifier>D002.01.0002.0079.00002</dc:identifier>
+  <dc:identifier>codu:38551</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38047</identifier>
+    <datestamp>2012-05-21T21:44:08Z</datestamp>
+    <setSpec>codu_38045</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hanya Holm</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Samuels, Ralph</dc:creator>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Dancers</dc:subject>
+  <dc:subject>Choreographers</dc:subject>
+  <dc:subject>Dance teachers</dc:subject>
+  <dc:description>Hanya Holm, noted modern dance choreographer and educator, poses for a portrait.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Co</dc:publisher>
+  <dc:date>between 1931-1935</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>1 item, (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format>Photgraphic prints</dc:format>
+  <dc:format>Handwritten on front of photographic print: &quot;To Maxine Hanya Holm.&quot; Stamped on back of photographic print: &quot;Photograph by Ralph Samuels - New York. Written on back of photographic print: &quot;Gift of Maxine Munt 10/30/87.&quot; Written on front of folder: &quot;Studio Portrait, n.d. credit: Ralph Samuels, autographed.&quot;</dc:format>
+  <dc:identifier>D002.01.0002.0079.00001</dc:identifier>
+  <dc:identifier>codu:38047</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38554</identifier>
+    <datestamp>2012-05-21T21:43:12Z</datestamp>
+    <setSpec>codu_38045</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Louise Kloepper and Hanya Holm Perform Metropolitan Daily</dc:title>
+  <dc:title></dc:title>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Kloepper, Louise</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Dancers</dc:subject>
+  <dc:subject>Choreographers</dc:subject>
+  <dc:description>Louise Kloepper (Left) and Hanya Holm (right) perform &quot;Want Ad&quot; from &quot;Metropolitan Daily,&quot; a work choreographed by Hanya Holm. &quot;Metropolitan Daily,&quot; Holm&apos;s satiric look at newspapers, was the first modern dance work to be performed on television.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1938-1939</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>1 item, (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>Stamped on back of photographic print: &quot;Library, Colorado Women&apos;s College.&quot; Written on back of photographic print: &quot;L - R - Louise Kloepper, Hanya Holm, from &quot;MeTropoliTan Daily - Want Ad.&quot; 1938? This dance was the first one ever to be televised (CBS?). Pic folder Holm, Hanya.&quot; Written on front of folder: &quot;action still w. Louise Kloepper, &quot;Metropolitan Daily (Want Ad)&quot; (Holm) ca. 1938 no credit.&quot;</dc:format>
+  <dc:identifier>D002.01.0002.0079.00003</dc:identifier>
+  <dc:identifier>codu:38554</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

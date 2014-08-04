@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T05:01:48Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59264</identifier>
+    <datestamp>2012-04-02T17:32:58Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Sets in Order, Vol. 1 No. 7 (July, 1949)</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Bob Osgood (contributor)</dc:contributor>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sets in Order, Inc.</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">(contributor)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:publisher>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:type>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">English</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">33 pages</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes the monthly sections entitled &quot;On the Record&quot;, &quot;The Square of the Month&quot;, &quot;For the Caller: Behind the Mike&quot;, &quot;From the Floor&quot; (letters to the editor), and &quot;Southern California Square Dance Directory&quot;.  This edition also contains the articles &quot;The Youngsters are Dancin&apos;&quot;, &quot;The Teen-Age Picture&quot;, &quot;2nd Stampede&quot;, &quot;What&apos;s Cookin&apos; in Washington&quot;, &quot;Round the Outside Ring&quot;,  &quot;A Problem &amp; An Answer&quot;, and &quot;Let&apos;s Have a Party&quot;. </dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Square Dancing</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Square Dancing</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">codu:59264</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">isbn: </dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">issn: </dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://hdl.handle.net/10176/codu:59264</dc:identifier>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59508</identifier>
+    <datestamp>2012-04-02T17:10:37Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sets in Order, Vol. 1 No. 11 (November, 1949)</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California.  The articles in this edition include &quot;Miss Square Dancer&apos;s Wardrobe&quot;, &quot;Let&apos;s Have a Commencement&quot;,  &quot;What the Press Has to Say...Square Dancing, A Year Old, Makes Redlands a Good Town&quot;, &quot;On Getting Outfitted&quot;,   This edition also includes the monthly articles entitled &quot;On the Record&quot;, &quot;The Square of the Month&quot;, &quot;Round the Outside Ring&quot;,  and &quot;From the Floor&quot; (letters to the editor). This is the one year anniversary edition of Sets In Order.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor>Bob Osgood (contributor)</dc:contributor>
+  <dc:contributor>(contributor)</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>41 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:identifier>codu:59508</dc:identifier>
+  <dc:identifier>isbn: </dc:identifier>
+  <dc:identifier>issn: </dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Square Dancing</dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59499</identifier>
+    <datestamp>2012-03-29T21:07:46Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Square Dancing, Vol. 37 No. 12 (December, 1985)</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Bob Osgood (contributor)</dc:contributor>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sets in Order, Inc.</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">(contributor)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Sets in Order, Inc.</dc:publisher>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:type>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">English</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">128 pages</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes sections entitled &quot;As I See It&quot;, &quot;Vox Saltatoris: The Square Dancer Speaks Up&quot;, &quot;The Dancers Walkthru&quot;, &quot;Style Lab&quot;, &quot;Advanced Dancing&quot; and &quot;Interview - Q &amp; A.&quot; It also contains the articles &quot;A Great Association - to the Editor&quot;, &quot;Chuck Jones - Note Book&quot;, &quot;The Square Dance Hall of Fame&quot;, and  &quot;a Gathering of Callers.&quot; This is the final issue of Square Dance. </dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Square Dancing</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Sets in Order</dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">codu:59499</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">isbn: </dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">issn: </dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://hdl.handle.net/10176/codu:59499</dc:identifier>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59501</identifier>
+    <datestamp>2012-04-02T17:10:16Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Sets in Order, Vol. 1 No. 10 (October, 1949)</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Bob Osgood (contributor)</dc:contributor>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sets in Order, Inc.</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">(contributor)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Sets in Order, Inc. </dc:publisher>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:type>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">English</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">33 pages</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California.  This edition includes the articles entitled &quot;Just How Much Style&quot;, &quot;Cheating&apos;s Fun or Odd Couple? Oh!&quot;, &quot;Shall We Hash the Singing Calls?&quot;, &quot;The Yo-Yo Club&quot;,  This edition also includes the monthly articles entitled &quot;On the Record&quot;, &quot;The Square of the Month&quot;, &quot;For the Caller: Behind the Mike&quot;, &quot;Round the Outside Ring&quot; and &quot;From the Floor&quot; (letters to the editor). The article &quot;Just How Much Style&quot; is a featured article about finding a good dancing pace that works for specific clubs so that everyone enjoys the dances.  </dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Square Dancing</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Square Dancing</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">codu:59501</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">isbn: </dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">issn: </dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://hdl.handle.net/10176/codu:59501</dc:identifier>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

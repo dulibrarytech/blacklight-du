@@ -1,0 +1,2857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T01:12:31Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55020</identifier>
+    <datestamp>2012-03-26T18:14:04Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 75 (July 19, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 75. News coverage includes: West End retail sales are highest since the summer of 1930, and activities of Ostrover Society, Hebrew Educational Alliance, Council of Young Judaea, Justicia Rebekah Lodge No. 49, and Cheltenham Sweet Shoppe.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>7/19/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00026</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55020</dc:identifier>
+  <dc:identifier>codu:55020</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55075</identifier>
+    <datestamp>2012-03-26T18:11:58Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 25 (August 3, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 25. News coverage includes: petitions to ask Governor Ed C. Johnson to reduce the sentences of Harry Leopold, Milton Schechter, and Morey Teplow, and activities of Guldman Center, Twenty-Square Club, Kadimah Society, and Rude Center.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>8/3/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00025</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55075</dc:identifier>
+  <dc:identifier>codu:55075</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55062</identifier>
+    <datestamp>2012-03-26T18:11:55Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 59 (March 29, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 59. News coverage includes: Attorney Philip Hornbein&apos;s endorsement of Will W. Grant for mayor of Denver, and activities of Aleph Zadik Aleph, Hebrew Educational Alliance, Colfax Preschool, and Rude Center.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>3/29/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00011</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55062</dc:identifier>
+  <dc:identifier>codu:55062</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55007</identifier>
+    <datestamp>2012-03-26T18:12:05Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 60 (April 5, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 60. News coverage includes: delay in the paving and widening of the Golden Road (West Colfax Avenue west of Sheridan Boulevard), and activities of Boy Scout Troop #118, Hebrew Educational Alliance, Colfax Parent-Teacher Association, and the Pig&apos;n Whistle Park.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>4/5/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00012</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55007</dc:identifier>
+  <dc:identifier>codu:55007</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55030</identifier>
+    <datestamp>2012-03-26T18:14:51Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 46 (December 28, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 46. News coverage includes: date set for the paving and widening of Golden Highway from the county line west to Golden Hill Cemetery and the effect this will have on West End merchants, and activities of Hebrew Educational Alliance, Gigolo Club, and Guldman Center.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>12/28/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00042</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55030</dc:identifier>
+  <dc:identifier>codu:55030</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55069</identifier>
+    <datestamp>2012-03-26T18:10:56Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 77 (August 2, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 77. News coverage includes: an editorial emphasizing the urgent need for new street lighting along West Colfax Avenue, and activities of World Zionist Congress, Cheltenham Sweet Shoppe, Rude Center, and Ostrover Society.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>8/2/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00028</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55069</dc:identifier>
+  <dc:identifier>codu:55069</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55040</identifier>
+    <datestamp>2012-03-26T18:11:06Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 1 (February 16, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.,--1911-1978</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Inaugural issue. &quot;Truth and accuracy are the only masters The West End Press will have. It is not a newspaper designed to make much money. Rather it is intended to serve well a community that long has been without a publication it could call its own. These columns will never be closed to constructive thought on any side of a question. We desire to gather and to print all the news of life as it goes on in the homes, the schools, the stores, and on the streets of our community. Opinions will be reserved to the editorials; facts alone will appear in the news stories. We have no quarrel with any existing publication. Our claim to support is simply that we will present every week a vivid, interesting and truthful account of what happens on the West End. The support we expect is continued subscriptions, adverstising from our own merchants, and a generous response to our appeal for news and comment on timely topics&quot;--A Statement of Policy. News coverage includes: paving and widening of Colfax Avenue, and activities of the Lincoln Literary Society, Boy Scout Troop 4, the Gigolo Club, Dickinson Branch Library, Phi Sigma Delta, University of Denver, Denver Young Judaea, Rude Community Center, Guldman Center, and the Denver City Council.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2/16/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00001</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55040</dc:identifier>
+  <dc:identifier>codu:55040</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55066</identifier>
+    <datestamp>2012-03-26T18:10:29Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 2 (February 23, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 2. News coverage includes: a government-funded storm sewer for West Colfax, and activities of the P. D. Q. Girls, Star of Denver Lodge No. 112, the Utopian Club, and the Lake Junior High School Garden Club.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2/23/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00002</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55066</dc:identifier>
+  <dc:identifier>codu:55066</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55015</identifier>
+    <datestamp>2012-03-26T18:13:36Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 33 (September 28, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 33. News coverage includes: the dedication and cornerstone laying of the Spivak Educational Institute on Lowell Boulevard between West 14th and West Colfax Streets, and activities of Evening Vocational High School, Dickinson Brnach Library, Denver Chapter of Hadassah, Rude Center, and the Lake Junior High School P.T.A.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>9/28/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00033</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55015</dc:identifier>
+  <dc:identifier>codu:55015</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55026</identifier>
+    <datestamp>2012-03-26T18:12:37Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 72 (June 28, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 72. News coverage includes: Denver votes for Mizrachi candidate Rabbi Manuel Laderman and General Zionist candidate C. H. Kauvar to be considered as possible delegates to the World Zionist Congress, and activities of Hebrew Educational Alliance, Ostrover Society, Rude Park Community Center, and the Beth David Sisterhood of Hebrew Educational Alliance.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>6/28/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00022</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55026</dc:identifier>
+  <dc:identifier>codu:55026</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55028</identifier>
+    <datestamp>2012-03-26T18:12:40Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 27 (August 17, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 27. News coverage includes: an endorsement of Governor Ed C. Johnson in the Democratic primary, and activities of Councilman Harry Rosenthal, West End shoemakers, Aleph Zadik Aleph, West Denver Hebrew School, and Spivak Educational Institute.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>8/17/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00027</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55028</dc:identifier>
+  <dc:identifier>codu:55028</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55013</identifier>
+    <datestamp>2012-03-26T18:13:39Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 26 (August 10, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 26. News coverage includes: West Colfax Avenue from Federal Boulevard to Hooker Street being reopened for traffic, and activities of The Gigolos, Kadimah Society, Spivak Educational Institute, and West Denver Hebrew School.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>8/10/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00026</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55013</dc:identifier>
+  <dc:identifier>codu:55013</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55042</identifier>
+    <datestamp>2012-03-26T18:13:42Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 62 (April 19, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 62. News coverage includes: Ernest Morris endorses Will Grant for Denver mayor, and activities of Spivak Educational Institute, Aleph Zadik Aleph, Cheltenham P.-T. A., and the Denver ICOR Branch.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>4/19/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00014</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55042</dc:identifier>
+  <dc:identifier>codu:55042</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55024</identifier>
+    <datestamp>2012-03-26T18:12:11Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 40 (November 16, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 40. News coverage includes: Judge Otto Bock and Councilmen Harry Rosenthal and Sam West holding a town hall meeting for all West End residents, and activities of Hebrew Educational Alliance, Lake Junior High School, Strivers Club, Guldman Players, Dickinson Library, Rude Park Rangers, and the Mothers&apos; Club.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>11/16/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00037</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55024</dc:identifier>
+  <dc:identifier>codu:55024</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55048</identifier>
+    <datestamp>2012-03-26T18:14:55Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 61 (April 12, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 61. News coverage includes: United Health Appeal&apos;s campaign ends and surpasses its original goal, and West End Press officially endorses Will Grant for Denver mayor, and activities of Pig &apos;n Whistle Park, Community Chest, Junior National Fund Club, and National Home for Jewish Children Alumni Association.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>4/12/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00013</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55048</dc:identifier>
+  <dc:identifier>codu:55048</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55031</identifier>
+    <datestamp>2012-03-26T18:11:48Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 4 (March 9, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 4. News coverage includes: the paving and widening of West Colfax Avenue, and activities of Phi Sigma Delta, Guldman Community Center, Oneg Shabbos, Denver Council of Young Judaea, the Hebrew Educational Alliance, and the Lake Junior High School Camera Club.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>3/9/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00004</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55031</dc:identifier>
+  <dc:identifier>codu:55031</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55025</identifier>
+    <datestamp>2012-03-26T18:11:40Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 45 (December 21, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 45. News coverage includes: directors of the Star Loan Company acquitted on charges of conspiracy to commit embezzlement, and activities of Aleph Zadik Aleph, Cheltenham Parent-Teacher Association, Spivak Educational Institute, Council of Jewish Juniors, and Hebrew Educational Alliance.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>12/21/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00041</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55025</dc:identifier>
+  <dc:identifier>codu:55025</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55019</identifier>
+    <datestamp>2012-03-26T18:12:49Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 6 (March 23, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 6. News coverage includes: refusal to permit the installation of a 12,000-gallon gasoline tank at West Howard Place and Decatur Street, and activities of the New Mexico Construction Co., Aleph Zadik Aleph, the Hebrew Educational Alliance, the Lyceum, Rebekah Lodge No. 49, and Dickinson Library.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>3/23/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00006</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55019</dc:identifier>
+  <dc:identifier>codu:55019</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55029</identifier>
+    <datestamp>2012-03-26T18:13:55Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 21 (July 6, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 21. News coverage includes: a visit to Morey Taplow, Milton Schechter, and Harry Leopold, inmates at the state penitentiary in Canon City, and activities of Rude Center Press Club, Aleph Zadik Aleph, Hatikvah Circle, Guldman Community Center, and Dickinson Library.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>7/6/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00021</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55029</dc:identifier>
+  <dc:identifier>codu:55029</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55033</identifier>
+    <datestamp>2012-03-26T18:14:48Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 12 (May 4, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 12. News coverage includes: I. Rude&apos;s donation of 10 acres to the Rude Community Center, and activities of Guldman Community Center, Kadimah Society, Roses of Sharon, Justicia Rebekah Lodge No. 49, and Giants of the Young America League.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>5/4/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00012</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55033</dc:identifier>
+  <dc:identifier>codu:55033</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55009</identifier>
+    <datestamp>2012-03-26T18:12:54Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 3 (March 2, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 3. News coverage includes: B&apos;nai B&apos;rith citizenship drive, and activities of the Guldman Community Center, Rude Center, the Gradatim Club, Phi Delta Sigma, the Pretzels, and the Young Judaea Club.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>3/2/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00003</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55009</dc:identifier>
+  <dc:identifier>codu:55009</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55060</identifier>
+    <datestamp>2012-03-26T18:11:25Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 74 (July 12, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 74. News coverage includes: Dr. Julius H. Greenstone visits Denver to survey the Jewish educational facilities, and activities of Yas Achas Synagog, Hebrew Educational Alliance, Beth David Sisterhood, and Guldman Community Center.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>7/12/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00024</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55060</dc:identifier>
+  <dc:identifier>codu:55060</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55070</identifier>
+    <datestamp>2012-03-26T18:12:18Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 15 (May 25, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 15. News coverage includes: progress in the paving and widening of West Colfax Avenue, and activities of United Chevra Mishna, West End Symphony Orchestra, Denver Council of Young Judaea, and National Home for Jewish Children.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>5/25/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00015</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55070</dc:identifier>
+  <dc:identifier>codu:55070</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55022</identifier>
+    <datestamp>2012-03-26T18:13:58Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 32 (September 21, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 32. News coverage includes: plans to build a $35,000 movie theater on West Colfax Avenue between Newton and Utica Streets, and activities of Guldman Improvement League, Guldman Center, West Colfax Improvement Association, Cheltenham P.T.A., and the Leaderettes.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>9/21/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00032</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55022</dc:identifier>
+  <dc:identifier>codu:55022</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55016</identifier>
+    <datestamp>2012-03-26T18:12:01Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 20 (June 29, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 20. News coverage includes: the formation of the West Side Citizens&apos; League and Improvement Association, and activities of Rude Community Center, Guldman Community Center, Spotlights Club, and Las Estrellitas.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>6/29/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00020</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55016</dc:identifier>
+  <dc:identifier>codu:55016</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55059</identifier>
+    <datestamp>2012-03-26T18:10:51Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 49 (January 18, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 49. News coverage includes: West Colfax Democratic Club&apos;s endorsement of W. W. Grant for Denver mayor, and activities of the Woman&apos;s Club [sic], Spivak Educational Institute&apos;s official opening, Guldman Center&apos;s minstrel show, and International Workmen&apos;s Circle.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1/18/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00002</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55059</dc:identifier>
+  <dc:identifier>codu:55059</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55061</identifier>
+    <datestamp>2012-03-26T18:14:07Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 34 (October 5, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 34. News coverage includes: the West Colfax Improvement Association&apos;s campaign for street lights needing leadership, and activities of College of Jewish Studies, Council of Jewish Juniors, Colfax Parent-Teacher Association, Star of Denver Lodge No. 112, and the Leaderettes at Guldman Center.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>10/5/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00034</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55061</dc:identifier>
+  <dc:identifier>codu:55061</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55054</identifier>
+    <datestamp>2012-03-26T18:15:01Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 29 (August 31, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 29. News coverage includes: starting a campaign to have street lights installed on West Colfax Avenue, and activities of Rude Community Center, Guldman Center, Hebrew Educational Alliance, and the &quot;Gigolo&quot; Club.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>8/31/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00029</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55054</dc:identifier>
+  <dc:identifier>codu:55054</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55057</identifier>
+    <datestamp>2012-03-26T18:13:00Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 23 (July 20, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 23. News coverage includes: complaints against the building of a gas station at Colfax Avenue and Irving Street because of its nearness to Cheltenham School and potential dangers to students, and activities of Guldman Center, Star of Denver Lodge No. 112, Justicia Rebekah Lodge, and Rude Center Press Club.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>7/20/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00023</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55057</dc:identifier>
+  <dc:identifier>codu:55057</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55071</identifier>
+    <datestamp>2012-03-26T18:14:24Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 5 (March 16, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 5. News coverage includes: the paving and widening of West Colfax Ave, and activities of the Guldman Center, B&apos;nai B&apos;rith, and Dickinson Library.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>3/16/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00005</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55071</dc:identifier>
+  <dc:identifier>codu:55071</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55041</identifier>
+    <datestamp>2012-03-26T18:14:32Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 28 (August 24, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 28. News coverage includes: a celebration marking the official completion of the West Colfax Avenue paving and widening project, and activities of Hebrew Educational Alliance, West Colfax Young Democratic Club, Bickur Cholin Society, Hatikvah Circle, and Aleph Zadik Aleph.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>8/24/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00028</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55041</dc:identifier>
+  <dc:identifier>codu:55041</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55011</identifier>
+    <datestamp>2012-03-26T18:14:01Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 31 (September 14, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 31. News coverage includes: Precinct D-6, in the West End neighborhood, votes overwhelming for Edwin C. Johnson in the gubernatorial Democratic primary, and activities of Hebrew Educational Alliance, Denver Young Judaea, West End Colfax Improvement Association, and Dickinson Library.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>9/14/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00031</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55011</dc:identifier>
+  <dc:identifier>codu:55011</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55036</identifier>
+    <datestamp>2012-03-26T18:12:30Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 7 (March 30, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 7. News coverage includes: potential sale of the Hebrew Educational Alliance building at Colfax Avenue and Meade Street, and activities of Justicia Rebekah Lodge No. 49, Star of Denver Lodge No. 112, the Hebrew Educational Alliance, Guldman Community Center, and Dickinson Library.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>3/30/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00007</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55036</dc:identifier>
+  <dc:identifier>codu:55036</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55051</identifier>
+    <datestamp>2012-03-26T18:12:21Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 11 (April 27, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 11. News coverage includes: West End residents enlisted in the Civilian Conservation Corps, and activities of Denver Council of Young Judaea, Justicia Rebekah Lodge No. 49, B. M. H. Synagogue, Rude Community Center, Followers of Saul, Lake Junior High School, and Dickinson Library.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>4/27/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00011</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55051</dc:identifier>
+  <dc:identifier>codu:55051</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55004</identifier>
+    <datestamp>2012-03-26T18:12:34Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 24 (July 27, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 24. News coverage includes: plans for a celebration at Colfax Avenue and Quitman Street pending the completion of the West Colfax Avenue paving and widening project, and activities of Workmen&apos;s Circle, Beth David Sisterhood, Hebrew Educational Alliance Parent-Teacher Association, West End Democrats, and Aleph Zadik Aleph.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>7/27/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00024</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55004</dc:identifier>
+  <dc:identifier>codu:55004</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55049</identifier>
+    <datestamp>2012-03-26T18:12:27Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 73 (July 5, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 73. News coverage includes: Eddie Cantor speaks about looming anti-Semitism at a B&apos;nai B&apos;rith Grand Lodge convention in Los Angeles, and activities of J. O. Y. Girls, Hebrew Educational Alliance, Star of Denver Lodge No. 112, Justicia Rebekah Lodge No. 49, and Aleph Zadik Aleph.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>7/5/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00023</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55049</dc:identifier>
+  <dc:identifier>codu:55049</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55074</identifier>
+    <datestamp>2012-03-26T18:14:58Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 75 (July 19, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 75. News coverage includes: West End retail sales are highest since the summer of 1930, and activities of Ostrover Society, Hebrew Educational Alliance, Council of Young Judaea, Justicia Rebekah Lodge No. 49, and Cheltenham Sweet Shoppe.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>7/19/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00025</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55074</dc:identifier>
+  <dc:identifier>codu:55074</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55064</identifier>
+    <datestamp>2012-03-26T18:11:03Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 9 (April 13, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 9. News coverage includes: the United Health Appeal campaign, and activities of Guldman Community Center, the People&apos;s Tabernacle, the Lake Junior High School library, Boy Scouts Troop 4, and the Junior Jinx Club.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>4/13/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00009</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55064</dc:identifier>
+  <dc:identifier>codu:55064</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55005</identifier>
+    <datestamp>2012-03-26T18:14:42Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 54 (February 22, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 54. News coverage includes: the Yeshivath Torath Chaim Synagog Bazaar, and activities of West Colfax Democratic Club, College of Jewish Studies, Denver Council of Young Judaea, and West Colfax Townsend Club.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2/22/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00007</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55005</dc:identifier>
+  <dc:identifier>codu:55005</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55039</identifier>
+    <datestamp>2012-03-26T18:11:35Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 41 (November 23, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 41. News coverage includes: report of the West End Colfax Improvement Association program attended by 300 West End residents, which included talks by Judge Otto Bock, Councilman Harry Rosenthal, Senator A. B. Hirschfeld, and Samuel West, and activities of Aleph Zadik Aleph, J. U. G. Girls, Jewish National Fund, Townsend Old Age Pensioin Club, and Kadimah Club.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>11/23/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00038</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55039</dc:identifier>
+  <dc:identifier>codu:55039</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55046</identifier>
+    <datestamp>2012-03-26T18:11:18Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 13 (May 11, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 13. News coverage includes: Councilman Harry Rosenthal&apos;s movement to allow residents to apply for work without being registered on relief rolls, and activities of Guldman Community Center, B&apos;nai B&apos;rith, Star of Denver Lodge No. 112, Lind Menorah Chorus, the J. U. G. Girls, and the Business Girls&apos; League.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>5/11/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00013</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55046</dc:identifier>
+  <dc:identifier>codu:55046</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55006</identifier>
+    <datestamp>2012-03-26T18:14:20Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 64 (May 3, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 64. News coverage includes: The West End Press&apos;s endorsement of Harry Rosenthal for Denver District No. 2 Councilman, and activities of West Colfax Voters Club, Grant for Mayor Headquarters, Oneg Shabbos, Hebrew Educational Alliance, and Justicia Rebekah Lodge No. 49, International Order of Odd Fellows.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>5/3/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00016</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55006</dc:identifier>
+  <dc:identifier>codu:55006</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55032</identifier>
+    <datestamp>2012-03-26T18:14:14Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 57 (March 15, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 57. News coverage includes: West Colfax cleaners and tailors uniting to prevent the opening of a &quot;cut-throat competition&quot; store, and activities of the newly created Benjamin F. Stapleton for Mayor Club, College of Jewish Studies, Spivak Educational Institute, and Hebrew Educational Alliance.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>3/15/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00009</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55032</dc:identifier>
+  <dc:identifier>codu:55032</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55034</identifier>
+    <datestamp>2012-03-26T18:13:20Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 52 (February 8, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 52. News coverage includes: landscaping at Coopers and Sloans Lakes, and activities of Guldman Center, Hebrew Educational Alliance, Aleph Zadik Aleph, and the University of Denver law school.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2/8/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00005</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55034</dc:identifier>
+  <dc:identifier>codu:55034</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55056</identifier>
+    <datestamp>2012-03-26T18:13:24Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 14 (May 18, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 14. News coverage includes: slow progress in the paving and widening of West Colfax Avenue, and activities of National Home for Jewish Children, Denver Council of Young Judaea, Lind Menorah Chorus, Upper Colfax Hebrew School, and Guldman Community Center.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>5/18/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00014</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55056</dc:identifier>
+  <dc:identifier>codu:55056</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55027</identifier>
+    <datestamp>2012-03-26T18:14:39Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 17 (June 8, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 17. News coverage includes: removal of the stop-and-go signal standard, curbs, and gutters at Colfax Avenue and Federal Boulevard, and activities of West End grocers, Star of Denver Lodge No. 112, Hebrew Educational Alliance Parent-Teachers Association, Denver Lyceum Building, and Upper Colfax Hebrew School.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>6/8/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00017</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55027</dc:identifier>
+  <dc:identifier>codu:55027</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55043</identifier>
+    <datestamp>2012-03-26T18:15:04Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 48 (January 11, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 48. News coverage includes: Motorcycle Patrolman Ernest Ayers&apos; arrests, from January 1-10, 1935, of 62 speeding motorists on West Colfax between Federal and Sheridan, and activities of Cheltenham P. T. A., Hebrew Educational Alliance, Guldman Center&apos;s minstrel show, and College of Jewish Studies.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1/11/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00001</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55043</dc:identifier>
+  <dc:identifier>codu:55043</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55021</identifier>
+    <datestamp>2012-03-26T18:11:15Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 51 (February 1, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 51. News coverage includes: delay in beginning the Golden Road paving and widening project, and activities of the Community Chest, College of Jewish Studies, Hebrew Educational Alliance, and National Home Religious School Teachers.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2/1/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00004</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55021</dc:identifier>
+  <dc:identifier>codu:55021</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55010</identifier>
+    <datestamp>2012-03-26T18:12:15Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 78 (August 9, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 78. News coverage includes: Councilman Harry Rosenthal&apos;s response to an editorial about the need for adequate street lighting on West Colfax Avenue, and activities of West Denver Hebrew School Ladies Auxiliary, Rude Park Community Night, and Beth David Sisterhood.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>8/9/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00029</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55010</dc:identifier>
+  <dc:identifier>codu:55010</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55063</identifier>
+    <datestamp>2012-03-26T18:14:45Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 63 (April 26, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 63. News coverage includes: Mayoral candidate Benjamin F. Stapleton promising 25,000 city jobs if elected, and activities of Cheltenham Parent-Teachers&apos; Association, Justicia Rebekah Lodge No. 49, and the Bickur Cholim Society.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>4/26/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00015</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55063</dc:identifier>
+  <dc:identifier>codu:55063</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55012</identifier>
+    <datestamp>2012-03-26T18:11:09Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 16 (June 1, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 16. News coverage includes: removal of the stop-and-go signal standard at Colfax Avenue and Federal Boulevard, and activities of Denver Lyceum, Star of Denver Lodge No. 112, Justicia Rebekah Lodge, and the Americanization Committee of the B&apos;nai B&apos;rith Lodge.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>6/1/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00016</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55012</dc:identifier>
+  <dc:identifier>codu:55012</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55023</identifier>
+    <datestamp>2012-03-26T18:10:36Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 79 (August 16, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 79. News coverage includes: announcement of a program by H. Leivick at the Spivak Educational Institute, and Junior Hadassah, Guldman Center, Yad Achas Auxiliary, and the Hebrew Educational Alliance.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>8/16/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00030</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55023</dc:identifier>
+  <dc:identifier>codu:55023</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55058</identifier>
+    <datestamp>2012-03-26T18:14:10Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 70 (June 14, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 70. News coverage includes: construction of five new houses in the West End on Perry Street, Utica Street, and Tennyson Street, and activities of Mizrachi, Ladies Auxiliary of the Dr. Chaim Spivak Educational Institute, East High School, Trojans, Alumni of National Home for Jewish Children, and Zera Israel Auxiliary.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>6/14/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00020</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55058</dc:identifier>
+  <dc:identifier>codu:55058</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55052</identifier>
+    <datestamp>2012-03-26T18:10:32Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 8 (April 6, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 8. News coverage includes: the paving and widening of West Colfax Avenue, and activities of Guldman Community Center, Rude Community Center, the Hasefer Club, and the Nursery School Mothers&apos; Club.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>4/6/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00008</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55052</dc:identifier>
+  <dc:identifier>codu:55052</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55047</identifier>
+    <datestamp>2012-03-26T18:13:45Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 58 (March 22, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 58. News coverage includes: the organization of a United Health Appeal campaign to benefit the Jewish Consumptive Relief Society, Beth Israel Hospital, National Jewish Hospital, and Ex-Patients Tubercular Home, and activities of West Colfax Democratic Club, Hadassah, Rude Community Center, Mizrachi, Hebrew Educational Alliance, and Guldman Center.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>3/22/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00010</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55047</dc:identifier>
+  <dc:identifier>codu:55047</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55003</identifier>
+    <datestamp>2012-03-26T18:13:48Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 19 (June 22, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 19. News coverage includes: petitioning the governor to reduce the sentences of Harry Leopold, Milton Schechter, and Morey Teplow, Communists meeting at Zera Israel Synagog under false pretenses, and activities of Hebrew Educational Alliance, West End Symphony Orchestra, Guldman Community Center, and Dahlia Seniors.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>6/22/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00019</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55003</dc:identifier>
+  <dc:identifier>codu:55003</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55018</identifier>
+    <datestamp>2012-03-26T18:13:28Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 66 (May 10, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 66. News coverage includes: Will W. Grant&apos;s campaign rally at the Yeshivah Torath Chaim Synagog, and activities of Zionist District Organization, Hadassah, Mizrachi Organization, and Beth David Sisterhood.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>5/10/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00017</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55018</dc:identifier>
+  <dc:identifier>codu:55018</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55044</identifier>
+    <datestamp>2012-03-26T18:12:43Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 18 (June 15, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 18. News coverage includes: saving the Hebrew Educational Alliance building at West Colfax Avenue and Meade Street from foreclosure, and activities of Hebrew Educational Alliance, West End Press Club, Dahlia Seniors, and Dickinson Library.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>6/15/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00018</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55044</dc:identifier>
+  <dc:identifier>codu:55044</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55014</identifier>
+    <datestamp>2012-03-26T18:15:07Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 37 (October 26, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 37. News coverage includes: Ulysses Lyons&apos; destruction of the Torah at the Hebrew Educational Alliance, John C. Moody&apos;s resignation as director of Rude Community Center, and the opening of the Lake Grill at West Colfax and Lowell, and activities of Denver Council of Young Judaea, Dickinson Branch Library, Roses of Sharon, Guldman Center, and Hebrew Educational Alliance.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>10/26/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00036</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55014</dc:identifier>
+  <dc:identifier>codu:55014</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55037</identifier>
+    <datestamp>2012-03-26T18:11:29Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 53 (February 15, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 53. News coverage includes: the Yeshivath Torath Chaim Synagog Bazaar, and activities of Hebrew Educational Alliance, Dickinson Library, Council of Young Judaea, West Colfax Democratic Club, and Denver Open Forum.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2/15/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00006</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55037</dc:identifier>
+  <dc:identifier>codu:55037</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55045</identifier>
+    <datestamp>2012-03-26T18:13:51Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 22 (July 13, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 22. News coverage includes: the paving and widening of West Colfax Avenue, and activities of Guldman Community Center Symphony Orchestra, Ostrover Young Men&apos;s Benevolent Association, Y. T. C. Ladies Auxiliary, and Cheltenham School P.T.A.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>7/13/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00022</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55045</dc:identifier>
+  <dc:identifier>codu:55045</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55053</identifier>
+    <datestamp>2012-03-26T18:11:22Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 42 (November 30, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 42. News coverage includes: merchants&apos; protests against no-parking zones being created in front of stores, and activities of Bickur Sholim Society, Rainbow Council No. 14, Ladies&apos; Auxiliary, Roses of Sharon, Guldman Center Mothers&apos; Club, and Hebrew Educational Alliance.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>11/30/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00039</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55053</dc:identifier>
+  <dc:identifier>codu:55053</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55073</identifier>
+    <datestamp>2012-03-26T18:10:40Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 10 (April 20, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 10. News coverage includes: the temporary halt of storm sewer and paving on West Colfax Avenue, and activities of United Health Appeal, Guldman Center, the Hebrew Educational Alliance P.T.A., the Council of Jewish Women, the Gems of Zion, the Buds of Zion, and Justicia Rebekah Lodge No. 49.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>4/20/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00010</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55073</dc:identifier>
+  <dc:identifier>codu:55073</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55008</identifier>
+    <datestamp>2012-03-26T18:12:24Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 50 (January 25, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 50. News coverage includes: a solicitation asking for readers to submit written opinions on how best to create &quot;a strong and active improvement association,&quot; an announcement of the upcoming formal opening of the Dr. Chaim Spivak Educational Institute, and West End barbers&apos; satisfaction with a new law requiring barbershops to close at 6 p.m., and activities of the Dickinson Branch Library, College of Jewish Studies, Zera Israel Synagog, Hebrew Educational Alliance, and Beth David Sisterhood.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1/25/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00003</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55008</dc:identifier>
+  <dc:identifier>codu:55008</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55068</identifier>
+    <datestamp>2012-03-26T18:12:08Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 30 (September 7, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 30. News coverage includes: the formation of the West Colfax Improvement Association in order to campaign to have street lights installed on West Colfax Avenue, and activities of West Colfax Democratic Club, Hebrew Educational Alliance, Independent Order B&apos;nai B&apos;rith No. 2, National Tuberculosis Society, and Denver Parent-Teacher Association.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>9/7/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00030</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55068</dc:identifier>
+  <dc:identifier>codu:55068</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55035</identifier>
+    <datestamp>2012-03-26T18:10:43Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 67 (May 24, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 67. News coverage includes: election results (Harry Rosenthal re-elected as District No. 2 councilman, Benjamin Stapleton defeats Will Grant for Denver mayor), and activities of Denver Council of Young Judaea, Rude Park House Council, and Yad Achas Auxiliary.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>5/24/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00018</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55035</dc:identifier>
+  <dc:identifier>codu:55035</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55067</identifier>
+    <datestamp>2012-03-26T18:11:00Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 43 (December 7, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 43. News coverage includes: the three-day Hebrew Educational Alliance Bazaar, and activities of College of Jewish Studies, West Colfax Democratic Club, Aleph Zadik Aleph, Colfax Parent-Teacher Association, Denver District of the Zionist Organization of America, and Star of Denver Lodge, I.O.O.F.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>12/7/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00040</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55067</dc:identifier>
+  <dc:identifier>codu:55067</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55065</identifier>
+    <datestamp>2012-03-26T18:12:46Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 71 (June 21, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 71. News coverage includes: Frank Naiman announces his plan to request shorter prison terms for the three youths (Harry Leopold, Milton Schechter, Morey Teplow) who attacked him in 1934, and activities of Mizrachi, Hebrew Educational Alliance, Ladies Auxiliary of Zera Israel Synagog, and Guldman Community Center.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>6/21/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00021</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55065</dc:identifier>
+  <dc:identifier>codu:55065</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55055</identifier>
+    <datestamp>2012-03-26T18:11:12Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 76 (July 26, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 76. News coverage includes: Kneseth Israel Synagog president Benjamin Zinn&apos;s death in an automobile accident, and activities of Yeshivath Torath Chaim Synagog, Zera Abraham Synagog, Hebrew Educational Alliance, and Guldman Center Indian Hills Camp.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>7/26/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00027</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55055</dc:identifier>
+  <dc:identifier>codu:55055</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55038</identifier>
+    <datestamp>2012-03-26T18:13:06Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 80 (August 23, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Final issue (no. 80). News coverage includes: increased demand for new street lights on West Colfax Avenue and the announcement that Sylvia Kantrowitz won the Cheltenham Sweet Shoppe&apos;s Most Popular Girl on the West End Contest, and activities of Ostrover Synagog, the newly created Institute of Human Relations, Hebrew Educational Alliance, and Junior Hadassah. Includes image of Adolf Hitler speaking at an event in Rosenheim, Germany.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>8/23/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00031</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55038</dc:identifier>
+  <dc:identifier>codu:55038</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55072</identifier>
+    <datestamp>2012-03-26T18:10:47Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 36 (October 19, 1934)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 36. News coverage includes: proposed bus service over the West Colfax Avenue viaduct from Federal Boulevard to Broadway, and activities of College of Jewish Studies, Cheltenham Parent-Teacher Association, West Colfax Democratic Club, and the Hebrew Educational Alliance.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>10/19/1934</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0005.00035</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55072</dc:identifier>
+  <dc:identifier>codu:55072</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55050</identifier>
+    <datestamp>2012-03-26T18:13:12Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 69 (June 7, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 69. News coverage includes: reception at Kneseth Israel Synagog (West Conejos Place and Hooker Street) for twelve young Tel Aviv-born athletes touring the world by motorcycle, and activities of Mizrachi, Gallup Defense Committee, Council of Jewish Juniors, West Colfax Townsend Club, and Hebrew Educational Alliance.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>6/7/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00019</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55050</dc:identifier>
+  <dc:identifier>codu:55050</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55017</identifier>
+    <datestamp>2012-03-26T18:13:32Z</datestamp>
+    <setSpec>codu_32559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>West End Press, No. 55 (March 1, 1935)</dc:title>
+  <dc:title>Benjamin M. Blumberg Papers, Newspapers</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Blumberg, Benjamin M.,--1911-1978</dc:creator>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Political participation</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Community newspapers</dc:subject>
+  <dc:subject>Jewish newspapers</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Issue no. 55. News coverage includes: traffic safety zones&apos; effects on local merchants, and activities of Hebrew Educational Alliance, Gigolo Club, B. M. H. Synagog daily minyan, Belle G. Kauvar Fund for the Furtherance of Jewish Education, and the University of Denver all-girl debate team.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>3/1/1935</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (folded sheet), illustrations, portraits</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Newspapers</dc:format>
+  <dc:identifier>B121.02.0010.0006.00008</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55017</dc:identifier>
+  <dc:identifier>codu:55017</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

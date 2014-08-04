@@ -1,0 +1,1547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T05:25:11Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66617</identifier>
+    <datestamp>2013-05-10T23:29:41Z</datestamp>
+    <setSpec>codu_32554</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sanatorium, Volume 10, Numbers 3 &amp; 4 (July-September and October-December 1916)</dc:title>
+  <dc:title>Eleventh and Twelfth Annual Reports for the Years 1914-1915</dc:title>
+  <dc:creator>Jewish Consumptives&apos; Relief Society (U.S.)</dc:creator>
+  <dc:subject>Hillkowitz, Philip,--1873-1948</dc:subject>
+  <dc:subject>Spivak, C. D.--(Charles D.),--1861-1927</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Corporation reports</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Edgewater (Colo.)</dc:subject>
+  <dc:subject>Physicians</dc:subject>
+  <dc:description>Title and numbering supplied by archivist (cover missing).</dc:description>
+  <dc:description>Bound with 31 other reports.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Reports issued in combined form for the Jewish Consumptives&apos; Relief Society (JCRS) annual meetings on May 20, 1915 and April 23, 1916; Dr. Philip Hillkowitz was the Society&apos;s President, and C.D. Spivak the Secretary. The Secretary&apos;s report indicated that 2,451 patients were treated from September 8, 1904 to December 31, 1915. Includes summaries of expenditures, portraits of national officers, and a list of all subscribers and donors.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1916</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (booklet), , 319 pages : illustrations,</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>B002.05.0206.00002.00031</dc:identifier>
+  <dc:identifier>codu:66617</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Jewish Consumptives&apos; Relief Society Records, Publications</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66618</identifier>
+    <datestamp>2013-05-10T23:46:57Z</datestamp>
+    <setSpec>codu_32554</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sanatorium, Volume 6, Number 6? (December? 1912)</dc:title>
+  <dc:title>Ninth annual report</dc:title>
+  <dc:creator>Jewish Consumptives&apos; Relief Society (U.S.)</dc:creator>
+  <dc:subject>Hillkowitz, Philip,--1873-1948</dc:subject>
+  <dc:subject>Spivak, C. D.--(Charles D.),--1861-1927</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Corporation reports</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Edgewater (Colo.)</dc:subject>
+  <dc:subject>Physicians</dc:subject>
+  <dc:description>Title and numbering supplied by archivist (cover missing).</dc:description>
+  <dc:description>Bound with 31 other reports.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Report of the Jewish Consumptives&apos; Relief Society (JCRS) annual meeting on November 10-12, 1912, and its operations and finances for the period beginning January 1, 1911, and ending December 31, 1911; Dr. Philip Hillkowitz was the Society&apos;s President, and C.D. Spivak was the Secretary. The Secretary&apos;s report indicates that 269 patients were treated in 1911, and includes data about patients treated from 1904-1911. Includes images of the facility, statistical data about the patients (including age, occupation, and duration of disease), and a list of all donors.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1912</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (booklet), , 195 pages : illustrations,</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>B002.05.0206.00002.00015</dc:identifier>
+  <dc:identifier>codu:66618</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Jewish Consumptives&apos; Relief Society Records, Publications</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66619</identifier>
+    <datestamp>2013-05-10T23:48:04Z</datestamp>
+    <setSpec>codu_32554</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sanatorium, Volume 3, Number 4 (July-August 1909)</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Jewish Consumptives&apos; Relief Society (U.S.)</dc:creator>
+  <dc:subject>Hillkowitz, Philip,--1873-1948</dc:subject>
+  <dc:subject>Spivak, C. D.--(Charles D.),--1861-1927</dc:subject>
+  <dc:subject>Yehoash--d. 1927</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Corporation reports</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Edgewater (Colo.)</dc:subject>
+  <dc:subject>Physicians</dc:subject>
+  <dc:description>Title from cover.</dc:description>
+  <dc:description>Bound with 34 other reports.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Report from the Jewish Consumptives&apos; Relief Society (JCRS) for July-August 1909 ; Dr. Philip Hillkowitz was the Society&apos;s President, and C.D. Spivak the Secretary. Includes an article about the need for separate Orthodox Jewish institutions, a description of Yehoash&apos;s appearance at the Chicago Hebrew Institute in May 1909, and a list of subscriptions and donors.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1909</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (booklet), , 30 pages : illustrations,</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>B002.05.0206.00002.00001</dc:identifier>
+  <dc:identifier>codu:66619</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Jewish Consumptives&apos; Relief Society Records, Publications</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66620</identifier>
+    <datestamp>2013-05-10T23:49:09Z</datestamp>
+    <setSpec>codu_32554</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sanatorium, Volume 9, Number 6 (September-December 1915)</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Jewish Consumptives&apos; Relief Society (U.S.)</dc:creator>
+  <dc:subject>Hillkowitz, Philip,--1873-1948</dc:subject>
+  <dc:subject>Spivak, C. D.--(Charles D.),--1861-1927</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Corporation reports</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Edgewater (Colo.)</dc:subject>
+  <dc:subject>Physicians</dc:subject>
+  <dc:description>Title from cover.</dc:description>
+  <dc:description>Bound with 31 other reports.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Report from the Jewish Consumptives&apos; Relief Society (JCRS) for September-December 1915 ; Dr. Philip Hillkowitz was the Society&apos;s President, and C.D. Spivak the Secretary. Includes portraits of donors and a list of contributors.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1915</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (booklet), , 31 pages : illustrations,</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>B002.05.0206.00002.00028</dc:identifier>
+  <dc:identifier>codu:66620</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Jewish Consumptives&apos; Relief Society Records, Publications</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66621</identifier>
+    <datestamp>2013-05-10T23:50:11Z</datestamp>
+    <setSpec>codu_32554</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sanatorium, Volume 6, Number 2 (March-April 1912)</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Jewish Consumptives&apos; Relief Society (U.S.)</dc:creator>
+  <dc:subject>Hillkowitz, Philip,--1873-1948</dc:subject>
+  <dc:subject>Spivak, C. D.--(Charles D.),--1861-1927</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Corporation reports</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Edgewater (Colo.)</dc:subject>
+  <dc:subject>Physicians</dc:subject>
+  <dc:description>Title from cover.</dc:description>
+  <dc:description>Bound with 31 other reports.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Report from the Jewish Consumptives&apos; Relief Society (JCRS) for March-April 1912 ; Dr. Philip Hillkowitz was the Society&apos;s President, and C.D. Spivak the Secretary. Includes a summary of the Southwestern Conference on Tuberculosis (Waco, Texas, April 16, 1912), a list of Jewish institutions for the care and treatment of tuberculosis, correspondence, and a financial report for February 1912.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1912</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (booklet), , 32 pages : illustrations,</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>B002.05.0206.00002.00012</dc:identifier>
+  <dc:identifier>codu:66621</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Jewish Consumptives&apos; Relief Society Records, Publications</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66622</identifier>
+    <datestamp>2013-05-10T23:51:07Z</datestamp>
+    <setSpec>codu_32554</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sanatorium, Volume 9, Numbers 4-5 (July-August 1915)</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Jewish Consumptives&apos; Relief Society (U.S.)</dc:creator>
+  <dc:subject>Hillkowitz, Philip,--1873-1948</dc:subject>
+  <dc:subject>Spivak, C. D.--(Charles D.),--1861-1927</dc:subject>
+  <dc:subject>Katz, Ignatz,--1861-1915</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Corporation reports</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Edgewater (Colo.)</dc:subject>
+  <dc:subject>Physicians</dc:subject>
+  <dc:description>Title from cover.</dc:description>
+  <dc:description>Bound with 31 other reports.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Report from the Jewish Consumptives&apos; Relief Society (JCRS) for July-August 1915 ; Dr. Philip Hillkowitz was the Society&apos;s President, and C.D. Spivak the Secretary. Includes several articles about Jewish autopsies and port-mortem examinations, a memorial for Ignatz Katz, and a list of contributions. Also includes portraits of Ignatz Katz, Dr. Adolph Hershkovitz, and Jacob N. Cown.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1915</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (booklet), , 31 pages : illustrations,</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>B002.05.0206.00002.00027</dc:identifier>
+  <dc:identifier>codu:66622</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Jewish Consumptives&apos; Relief Society Records, Publications</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66623</identifier>
+    <datestamp>2013-05-10T23:51:55Z</datestamp>
+    <setSpec>codu_32554</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sanatorium, Volume 4, Number 1 (January-February, 1910)</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Jewish Consumptives&apos; Relief Society (U.S.)</dc:creator>
+  <dc:subject>Hillkowitz, Philip,--1873-1948</dc:subject>
+  <dc:subject>Spivak, C. D.--(Charles D.),--1861-1927</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Corporation reports</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Edgewater (Colo.)</dc:subject>
+  <dc:subject>Physicians</dc:subject>
+  <dc:description>Title from cover.</dc:description>
+  <dc:description>Bound with 34 other reports.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Report from the Jewish Consumptives&apos; Relief Society (JCRS) for January-February 1910 ; Dr. Philip Hillkowitz was the Society&apos;s President, and C.D. Spivak the Secretary. Includes two essays on immigrant consumptives, an article about tuberculosis education, and news from the Society and auxiliaries.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1910</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (booklet), , 30 pages : illustrations,</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>B002.05.0206.00002.00004</dc:identifier>
+  <dc:identifier>codu:66623</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Jewish Consumptives&apos; Relief Society Records, Publications</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66624</identifier>
+    <datestamp>2013-05-11T00:04:31Z</datestamp>
+    <setSpec>codu_32554</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sanatorium, Volume 7, Numbers 4 &amp; 5 (July-October 1913)</dc:title>
+  <dc:title>Ninth Annual Report for the Year 1912</dc:title>
+  <dc:creator>Jewish Consumptives&apos; Relief Society (U.S.)</dc:creator>
+  <dc:subject>Hillkowitz, Philip,--1873-1948</dc:subject>
+  <dc:subject>Spivak, C. D.--(Charles D.),--1861-1927</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Corporation reports</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Edgewater (Colo.)</dc:subject>
+  <dc:subject>Physicians</dc:subject>
+  <dc:description>Title and numbering supplied by archivist (cover missing).</dc:description>
+  <dc:description>Bound with 31 other reports.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Report of the Jewish Consumptives&apos; Relief Society (JCRS) annual meeting on April 27, 1913, and its operations and finances for the period beginning January 1, 1912, and ending December 31, 1912; Dr. Philip Hillkowitz was the Society&apos;s President, and C.D. Spivak was the Secretary. The Secretary&apos;s report indicates that 218 patients were treated in 1912. Includes images of the facility, statistical data about the patients (including age, occupation, and duration of disease), and a list of all donors. Includes photographs of National Jewish Consumptives&apos; Relief Society (JCRS) officers, Ladies&apos; Auxiliary officers, and &apos;&apos;The Three Fat Men of the Sanatorium.&apos;&apos;</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1913</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (booklet), , 191 pages : illustrations,</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>B002.05.0206.00002.00019</dc:identifier>
+  <dc:identifier>codu:66624</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Jewish Consumptives&apos; Relief Society Records, Publications</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66625</identifier>
+    <datestamp>2013-05-11T00:28:02Z</datestamp>
+    <setSpec>codu_32554</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sanatorium, Volume 8, Numbers 4-5  (September-December 1914)</dc:title>
+  <dc:title>Tenth Annual Report of the Jewish Consumptives&apos; Relief Society</dc:title>
+  <dc:creator>Jewish Consumptives&apos; Relief Society (U.S.)</dc:creator>
+  <dc:subject>Hillkowitz, Philip,--1873-1948</dc:subject>
+  <dc:subject>Spivak, C. D.--(Charles D.),--1861-1927</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Corporation reports</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Edgewater (Colo.)</dc:subject>
+  <dc:subject>Physicians</dc:subject>
+  <dc:description>Title supplied by archivist (cover missing).</dc:description>
+  <dc:description>Bound with 31 other reports.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Report of the Jewish Consumptives&apos; Relief Society (JCRS) annual meeting on October 11, 1914, and its operations and finances for the period beginning January 1, 1913, and ending December 31, 1913; Dr. Philip Hillkowitz was the Society&apos;s President, and C.D. Spivak was the Secretary. The Secretary&apos;s report indicated that 291 patients were treated in 1913. Includes statistical data about the patients (including age, occupation, and duration of disease), images of Ladies&apos; Auxiliary officers, and a list of all donors from 1904-1913.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1914</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (booklet), , 233 pages : illustrations,</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>B002.05.0206.00002.00024</dc:identifier>
+  <dc:identifier>codu:66625</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Jewish Consumptives&apos; Relief Society Records, Publications</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66254</identifier>
+    <datestamp>2013-05-11T00:28:33Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Flier Listing Strike Demands</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>fliers (printed matter)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Flier listing students&apos; strike demands.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (flier), Good, , 8.5 x 14 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0004.0018.00004</dc:identifier>
+  <dc:identifier>codu:66254</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66204</identifier>
+    <datestamp>2013-05-11T00:28:46Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Flier Condeming Nixon</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>Vietnam War, 1961-1975</dc:subject>
+  <dc:subject>fliers (printed matter)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Flier declaring &apos;&apos;Tsar Nixon has done it -- Commanded an invasion of Cambodia. Against the war, Kent State action&apos;&apos;. Issued by Rocky Mountain Liberation Band.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>5/1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (flier), Fair, photocopy, 8.5 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0004.0011.00012</dc:identifier>
+  <dc:identifier>codu:66204</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66297</identifier>
+    <datestamp>2013-05-11T00:28:54Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter to Chip Berlet, Editor of The Clarion</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>Correspondence</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Draft of letter to Chip Berlet, Editor of The Clarion, asking for a position as Assistant to the Editor. Letter is not signed, but from context, assumed from Tom Feldman.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>6/29/1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (letter), Good, ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Letters</dc:format>
+  <dc:identifier>U219.03.0004.0024.00002</dc:identifier>
+  <dc:identifier>codu:66297</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66018</identifier>
+    <datestamp>2013-05-11T00:29:05Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Chronology of National Guard on Campus</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Colorado.--Army National Guard</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Unattributed chronology of National Guard on Campus, beginning with the morning and ending at 6:02 pm with the dismantling of Woodstock West.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>5/1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (typescript), Fair, dark beige paper, tears and wrinkles, 8-1/2 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Typescripts</dc:format>
+  <dc:identifier>U219.03.0003.0001.00002</dc:identifier>
+  <dc:identifier>codu:66018</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66114</identifier>
+    <datestamp>2013-05-11T00:29:16Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Memorandum to Concerned Colleagues from George W. Shaphers, Jr.</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Shepherd, George W.</dc:subject>
+  <dc:subject>University of Denver.--Graduate School of International Studies</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>Memorandums</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Memorandum from George W. Shepherd, Jr. of GSIS. He discusses Kent State, the problem of too many blacks being sent to Vietnam, and how to deal with campus protests without resorting to violence. He states that in general, campuses where protests were met with understanding and sympathy there was no violence. Hardline responses were not effective.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>5/18/1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (document), Good, photocopy, 8.5 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0003.0017.00006</dc:identifier>
+  <dc:identifier>codu:66114</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66194</identifier>
+    <datestamp>2013-05-11T00:29:23Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>A Joint Treaty of Peace</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>fliers (printed matter)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>A joint treaty of peace between the people of the United States, South Vietnam and North Vietnam, presented by the Colorado Peace Coalition.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>5/1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (document), Good, , 8.5 x 14 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0004.0011.00002</dc:identifier>
+  <dc:identifier>codu:66194</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66054</identifier>
+    <datestamp>2013-05-11T00:29:29Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Memorandum: Optional Wearing of Cap and Gown</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Shubert, Moras L.</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>Memorandums</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Memorandum stating that wearing caps and gowns at graduation was optional and indicating that two alternative funds were available for students to contribute their cap and gown money.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>5/25/1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (document), Good, , 8-1/2 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0003.0007.00004</dc:identifier>
+  <dc:identifier>codu:66054</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66270</identifier>
+    <datestamp>2013-05-11T00:29:35Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Notice Signed by Students</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>Memorandums</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Notice signed by students who attended classes during the strike and discussed the &apos;&apos;issues at hand&apos;&apos;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (document), Good, , 8.5 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0004.0019.00005</dc:identifier>
+  <dc:identifier>codu:66270</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66083</identifier>
+    <datestamp>2013-05-11T00:29:42Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Faculty Statement</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>Faculty</dc:subject>
+  <dc:subject>Memorandums</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Faculty Statement on Chancellor Mitchell&apos;s lack of academic orientation. They lament the lack of communication between Mitchell and the University community, and his lack of responsiveness to the students. They ask for Mitchell&apos;s resignation. [There is no indication whether this was ever presented to the general faculty for approval]</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>5/13/1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (statement), Good, , 8.5 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0003.0012.00002</dc:identifier>
+  <dc:identifier>codu:66083</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66247</identifier>
+    <datestamp>2013-05-11T00:29:47Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Flier for Peace Picnic</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>fliers (printed matter)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Flier reads: &apos;&apos;Concerned About Your Future?&apos;&apos;</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>5/14/1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (flier), Good, , 8.5 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0004.0016.00003</dc:identifier>
+  <dc:identifier>codu:66247</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66051</identifier>
+    <datestamp>2013-05-11T00:29:53Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>June 1970 Baccalaureate Service and Commencement Ceremony</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Miller, Wilbur C.</dc:creator>
+  <dc:subject>Miller, Wilbur C.</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>Memorandums</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Memorandum on June commencement and procedures and costs for caps and gowns.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>5/8/1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (document), Good, , 8-1/2 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0003.0007.00001</dc:identifier>
+  <dc:identifier>codu:66051</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66251</identifier>
+    <datestamp>2013-05-11T00:29:58Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Flier Encouraging War Dissent</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>fliers (printed matter)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Flier on what individuals can do to show their disapproval for the war in Southeast Asia, asking: &apos;&apos;What Can One Person Do?&apos;&apos;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (flier), Good, , 8.5 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0004.0018.00001</dc:identifier>
+  <dc:identifier>codu:66251</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66271</identifier>
+    <datestamp>2013-05-11T00:30:04Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Resolution Supporting a Fee for Scholarships for Diverse Students</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>Memorandums</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Resolution supporting a fee for scholarships for diverse students.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (document), Good, , 8.5 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0004.0019.00006</dc:identifier>
+  <dc:identifier>codu:66271</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66285</identifier>
+    <datestamp>2013-05-11T00:30:39Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Evolution: Conservative to Moderate</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Virden, David</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>Writings</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>A paper for Comparative Revolutions class describing the author&apos;s journey from a conservative background to Woodstock West.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>6/2/1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (document), Good, , 8.5 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0004.0021.00004</dc:identifier>
+  <dc:identifier>codu:66285</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66134</identifier>
+    <datestamp>2013-05-11T00:30:44Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>List for Transmittal of History Questionnaire</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver.--Dept. of History</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>Memorandums</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>List of the survey by the Department of History showing which departments and schools received copies.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (document), Good, , 8.5 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0003.0018.00012</dc:identifier>
+  <dc:identifier>codu:66134</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66047</identifier>
+    <datestamp>2013-05-11T00:31:00Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Notes on Possible Press Release on Support for Mitchell</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Mitchell, Maurice B.</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>Press releases</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Notes on possible press release on support for Mitchell.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (notes), Good, , 8-1/2 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Notes</dc:format>
+  <dc:identifier>U219.03.0003.0005.00008</dc:identifier>
+  <dc:identifier>codu:66047</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66166</identifier>
+    <datestamp>2013-05-11T00:31:09Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Press Release from Harry Poindexter</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Poindexter, Harry</dc:creator>
+  <dc:subject>Poindexter, Harry</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>Press releases</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Press release signed by Harry Poindexter, President of AUSA, other AUSA officers and the editors of the Clarion and Student Free Press, condemning American actions in Cambodia and Indo-China.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>5/1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (statement), Good, , 8.5 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0004.0005.00011</dc:identifier>
+  <dc:identifier>codu:66166</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66161</identifier>
+    <datestamp>2013-05-11T00:31:14Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>AUSA Call for a Rally</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Poindexter, Harry</dc:creator>
+  <dc:subject>Poindexter, Harry</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student government</dc:subject>
+  <dc:subject>Memorandums</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Call for a student rally on Friday morning supporting the student strike, emphasizing the Cambodian and Kent State situations. Signed by Harry Poindexter, AUSA President.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>5/1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (document), Good, , 8.5 x 6 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0004.0005.00006</dc:identifier>
+  <dc:identifier>codu:66161</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66173</identifier>
+    <datestamp>2013-05-11T00:31:19Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Notice of Change of Graduate Student Association Meeting</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>Memorandums</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Notice that the graduate student meeting will be held at Boettcher Auditorium.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>5/15/1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (document), Good, , 8.5 x 6 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0004.0006.00004</dc:identifier>
+  <dc:identifier>codu:66173</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66159</identifier>
+    <datestamp>2013-05-11T00:31:24Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Student Senate Meeting Minutes</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student government</dc:subject>
+  <dc:subject>Minutes</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Unofficial minutes of the Student Senate meeting of May 5, 1970. Call for a strike approved. These minutes were written up on July 21, 1970 by Ann Cardenas, former AUSA Senate Secretary.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>5/5/1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (document), Good, , 8.5 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0004.0005.00004</dc:identifier>
+  <dc:identifier>codu:66159</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66224</identifier>
+    <datestamp>2013-05-11T00:31:32Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Flier for Rally Demanding U.S. Withdrawal</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>fliers (printed matter)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Flier demanding U.S. withdrawal from Southeast Asia at the Federal Center at 19th and Stout.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>5/9/1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (flier), Good, , 8.5 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0004.0013.00006</dc:identifier>
+  <dc:identifier>codu:66224</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66139</identifier>
+    <datestamp>2013-05-11T00:49:56Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Responses to History Department Questionnaire from Arts and Sciences</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver.--Dept. of History</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>Questionnaires</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Responses to History Department Questionnaire from Arts and Sciences.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (document), Good, , 8.5 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0003.0019.00001</dc:identifier>
+  <dc:identifier>codu:66139</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66238</identifier>
+    <datestamp>2013-05-11T00:50:07Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Flier Declaring: &apos;&apos;A Utopian Experiment&apos;&apos;</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>fliers (printed matter)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Flier in the form of a letter to the students about the utopian idea and stating that if the alternative of reforming Woodstock West in the stadium, they should accept it. Signed by &apos;&apos;Well-wishers from the community&apos;&apos;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>5/12/1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (flier), Good, , 8.5 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0004.0014.00005</dc:identifier>
+  <dc:identifier>codu:66238</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66091</identifier>
+    <datestamp>2013-05-11T00:50:13Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Draft Resolution on University Governance</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>Faculty</dc:subject>
+  <dc:subject>Memorandums</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Draft resolution calling for a restructuring of the University Senate.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>5/15/1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (document), Good, , 8.5 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0003.0013.00005</dc:identifier>
+  <dc:identifier>codu:66091</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66101</identifier>
+    <datestamp>2013-05-11T00:50:19Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver College of Arts and Sciences Form for Election of Grading Options</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>Forms, blanks, etc.</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>College of Arts and Sciences form for students wanting to accept a pass/fail option for the classes taken during Woodstock West.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (document), Good, , 8.5 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0003.0014.00003</dc:identifier>
+  <dc:identifier>codu:66101</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66153</identifier>
+    <datestamp>2013-05-11T00:50:25Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Revised Municipal Code of the City and County of Denver Ord. 346, Series 1968</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Memorandums</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Revised Municipal Code of the City and County of Denver Ord. 346, Series 1968. Sets out unlawfulness of disturbing the peace of schools, including universities.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1968</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (document), Good, , 8.5 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0004.0004.00001</dc:identifier>
+  <dc:identifier>codu:66153</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66125</identifier>
+    <datestamp>2013-05-11T00:50:30Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Preamble and Resolution</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>Memorandums</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Preamble and Resolution by the faculty that the university should stay open and an inquiry should look into producing a statement on &apos;&apos;A Foreign Policy for the 1970s&apos;&apos;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (document), Good, , 8.5 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0003.0018.00003</dc:identifier>
+  <dc:identifier>codu:66125</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66151</identifier>
+    <datestamp>2013-05-11T00:50:48Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Statement of the Black Student Alliance</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>Memorandums</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Statement of the Black Student Alliance that they share the concern for people in Cambodia and Indochina, but point out all the incidents of black students being killed and harassed without support from &apos;&apos;radicals&apos;&apos; on campuses. They are not opposed to the principles on which the strike is based. They do not support the strike because the majority of the strikers are white and have &apos;&apos;proven that their interests are for white people, not all people&apos;&apos;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (statement), Good, , 8.5 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0004.0003.00004</dc:identifier>
+  <dc:identifier>codu:66151</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66065</identifier>
+    <datestamp>2013-05-11T00:51:29Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Writings on University Openness</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Porter, R. Russell (Robert Russell)</dc:creator>
+  <dc:subject>Porter, R. Russell--(Robert Russell),--1908-1986</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>Faculty</dc:subject>
+  <dc:subject>Writings</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Statement written by Russell Porter on what he sees as an attempt to undermine the openness of universities to the entire spectrum of political, social and cultural thought.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (statement), Fair, Photocopy, 8-1/2 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0003.0009.00006</dc:identifier>
+  <dc:identifier>codu:66065</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66165</identifier>
+    <datestamp>2013-05-11T00:51:39Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Statement of President Nixon by Henry Poindexter</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Poindexter, Harry</dc:creator>
+  <dc:subject>Poindexter, Harry</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>fliers (printed matter)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Statement signed by Harry Poindexter, President of AUSA, discussing the announcements and actions of President Nixon in connection with the war in Southeast Asia.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>5/6/1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (statement), Good, , 8.5 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0004.0005.00010</dc:identifier>
+  <dc:identifier>codu:66165</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66143</identifier>
+    <datestamp>2013-05-11T00:51:44Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Memorandum to Bruce Gardner, Department of Psychology from Chancellor Maurice B. Mitchell</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Mitchell, Maurice B.,--1915-1996</dc:creator>
+  <dc:subject>Mitchell, Maurice B.</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>Memorandums</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Memorandum to Bruce Gardner, Department of Psychology from Chancellor Maurice B. Mitchell. Mitchell says he will not comment on the survey circulating, but does not feel it is professional or unbiased and suggests that it will be an embarrassment to the department.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>5/26/1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (document), Fair, photocopy of onionskin copy, 8.5 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0004.0002.00002</dc:identifier>
+  <dc:identifier>codu:66143</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66207</identifier>
+    <datestamp>2013-05-11T00:51:56Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Flier for Demonstration Against Use of Napalm</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>Vietnam War, 1961-1975</dc:subject>
+  <dc:subject>fliers (printed matter)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Flier for demonstration of the effects of napalm at University of Denver on Friday, April 30th.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>4/1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (flier), Good, , 8.5 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0004.0011.00015</dc:identifier>
+  <dc:identifier>codu:66207</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66169</identifier>
+    <datestamp>2013-05-11T00:52:07Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Statement by President of AUSA Harry Poindexter</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Poindexter, Harry</dc:creator>
+  <dc:subject>Poindexter, Harry</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>Memorandums</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Statement by Harry Poindexter, President of AUSA, on what happened and not to blame Mitchell entirely for the events, how the community of students, faculty and administration have a chance to work on solving issues.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>5/20/1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (statement), Good, , 8.5 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0004.0005.00014</dc:identifier>
+  <dc:identifier>codu:66169</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66325</identifier>
+    <datestamp>2013-05-11T00:52:13Z</datestamp>
+    <setSpec>codu_65263</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Rap Sheet</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Student unrest</dc:subject>
+  <dc:subject>Publications</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Rap sheet featuring thoughts on the social contract.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (document), Good, , 8.5 x 11 inches</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:identifier>U219.03.0005.0007.00001</dc:identifier>
+  <dc:identifier>codu:66325</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Student Protests Collection, Woodstock West</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

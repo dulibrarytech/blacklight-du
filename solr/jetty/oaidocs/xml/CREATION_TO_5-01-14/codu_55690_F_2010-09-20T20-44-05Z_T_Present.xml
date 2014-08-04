@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T01:05:23Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55689</identifier>
+    <datestamp>2012-08-22T18:56:39Z</datestamp>
+    <setSpec>codu_55690</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Alumna A. Helen Anderson</dc:title>
+  <dc:title></dc:title>
+  <dc:subject>Education</dc:subject>
+  <dc:subject>School integration</dc:subject>
+  <dc:subject>Busing for school integration</dc:subject>
+  <dc:subject>Anderson, A. Helen, 1891-1975</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Educators</dc:subject>
+  <dc:description>B.A., 1914; M.A., 1931</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1930-1950</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>1 item (photograph), 4 x 5 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>Handwritten on back: &apos;&apos;A. Helen Anderson&apos;&apos; Stamped on back: &apos;&apos;give Credit Line Stoffel Studio&apos;&apos;</dc:format>
+  <dc:identifier>U201.02.0002.0023.00002</dc:identifier>
+  <dc:identifier>codu:55689</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

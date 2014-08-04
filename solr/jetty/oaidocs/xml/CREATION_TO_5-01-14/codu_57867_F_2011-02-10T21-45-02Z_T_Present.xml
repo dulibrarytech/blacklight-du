@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T01:12:39Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_57868</identifier>
+    <datestamp>2012-03-26T18:29:39Z</datestamp>
+    <setSpec>codu_57867</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Cleo Wallace</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Abdoo Studio--Photography studio</dc:creator>
+  <dc:subject>Education</dc:subject>
+  <dc:subject>Cleo Wallace, 1914-1985</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Educators</dc:subject>
+  <dc:description>Sepia print of Cleo Wallace.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1947-1985</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>1 item (photograph), 4.5 x 6.5 inches, sepia</dc:format>
+  <dc:format>Photographic print</dc:format>
+  <dc:identifier>M073.01.0001.0003.00001</dc:identifier>
+  <dc:identifier>codu:57868</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

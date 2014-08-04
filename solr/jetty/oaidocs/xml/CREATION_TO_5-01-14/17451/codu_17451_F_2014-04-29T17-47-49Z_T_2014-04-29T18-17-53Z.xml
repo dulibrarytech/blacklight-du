@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T05:30:26Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_67997</identifier>
+    <datestamp>2014-04-29T17:59:01Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Report from Washington. Government by guideline </dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981.</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Sound</dc:type>
+  <dc:date>1965-07-22</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>Sound</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 audiotape reel (4 minutes, 51 seconds) : analog, 7 1/2 ips, 2 tracks, mono. ; 4 inches</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>1 sound file in 2 formats : digital, wav (77,050,032 bytes) and mp3 (2,038,875 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-274.wav.</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) delivers his weekly radio address, Report from Washington, on July 22, 1965. Sen. Dominick discusses topics including the growth of the federal government and the federal budget. He also proposes new guidelines for the federal government, including: living within its income, being responsive to the needs of the people and refraining from encroachment upon the proper roles of state and local governments.</dc:description>
+  <dc:description>Analog audio recordings.</dc:description>
+  <dc:description>1 item (sound tape reel)</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Federal budget</dc:subject>
+  <dc:subject>Federal government</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Public affairs radio programs</dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Radio commentaries</dc:subject>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>M085.10.0198.00111</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.274</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:67997</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

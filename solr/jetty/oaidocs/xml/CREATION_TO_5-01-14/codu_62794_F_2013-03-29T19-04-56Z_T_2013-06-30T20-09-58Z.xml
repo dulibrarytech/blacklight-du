@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T05:32:15Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66609</identifier>
+    <datestamp>2013-05-06T21:00:36Z</datestamp>
+    <setSpec>codu_62799</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Cortisol in middle childhood : associations with genetic polymorphisms and early environmental risk</dc:title>
+  <dc:creator>Pikovsky, Irena Y.</dc:creator>
+  <dc:contributor>Watamura, Sarah E.</dc:contributor>
+  <dc:contributor>Pennington, Bruce</dc:contributor>
+  <dc:contributor>Dmitrieva, Julia</dc:contributor>
+  <dc:contributor>Psychology</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>Aug. 2012</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>thesis</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>iv, 100 p. : ill.</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>Early life stress is known to have an enduring impact on individuals’ health
+trajectories, however, some show greater resiliency to early life stress than others. The
+exploration of candidate genes and gene-environment interactions may be one promising
+window on risk versus resilience trajectories. However, prior work involving three
+polymorphisms (COMT Val158Met, MAOA-LPR, and 5-HTTLPR) has yielded well
+publicized but inconsistently replicated associations with mental health. Part of this
+inconsistency may be due to the limited exploration of mechanistic explanations for how
+these gene-environment interactions lead to variations in health. Thus, this dissertation
+examines gene-gene and gene-environment interactions in predicting basal cortisol at age
+eight (assayed from a single blood sample). Data for this project comes from 813 families
+participating in the Avon Longitudinal Study of Parents and Children (ALSPAC). Early environmental risk is characterized by three well-documented factors (maternal
+depression, maternal stress exposure, and child stress exposure) compiled across the
+developmentally salient 0-6 year age range. Contrary to expectation, genetic risk was not
+related to children’s basal cortisol in middle childhood, and neither were the tested geneenvironment
+interactions. Most measures of environmental risk were also unrelated to
+children’s cortisol, however maternal stress exposure when the child was 48-61 months
+old was related to higher basal cortisol. Analyses and discussion describe patterns of environmental risk exposure across early childhood in an effort to better characterize risk
+trajectories in this sample. Although the current findings do not support HPA axis
+dysregulation as a mechanism by which gene-environment interactions impact health,
+methodological limitations likely contributed to these null findings. Future studies should
+continue to explore such mechanistic explanations in order to create effective
+interventions for children at high risk for stress related disease.</dc:description>
+  <dc:description>Copy is available with a DU login: https://digitaldu.coalliance.org/fedora/repository/codu:66609</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>Hydrocortisone</dc:subject>
+  <dc:subject>Genotype-environment interaction</dc:subject>
+  <dc:subject>Developmental psychology</dc:subject>
+  <dc:subject>Genetic polymorphisms</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Dissertations, Academic</dc:subject>
+  <dc:identifier>codu:66609</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:rights>Access to this ETD is restricted to members of the DU community. Other users may submit an ILL request.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:66609</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66602</identifier>
+    <datestamp>2013-05-06T21:05:26Z</datestamp>
+    <setSpec>codu_62799</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Ice age child</dc:title>
+  <dc:creator>Burns, Logan</dc:creator>
+  <dc:contributor>Ramke, Bin, 1947-</dc:contributor>
+  <dc:contributor>Pessin, Sara</dc:contributor>
+  <dc:contributor>Arts and Humanities</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date></dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>thesis</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 electronic resource (iii, 72 p.)</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>The creative section of my dissertation reflects the learning process. With specific interests in cognitive development and language learning, this collection of poems, titled Ice Age Child, serves as a mode of inquiry into the developing mind.</dc:description>
+  <dc:description>Copy is available with a DU login: https://digitaldu.coalliance.org/fedora/repository/codu:66602</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>Religion</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Dissertations, Academic</dc:subject>
+  <dc:identifier>codu:66602</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:rights>Access to this ETD is restricted to members of the DU community. Other users may submit an ILL request.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:66602</dc:identifier>
+  <dc:contributor>Sikelianos, Eleni</dc:contributor>
+  <dc:contributor>Saterstrom, Selah, 1974-</dc:contributor>
+  <dc:subject>Poetry</dc:subject>
+  <dc:contributor>English</dc:contributor>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66603</identifier>
+    <datestamp>2013-05-06T21:09:22Z</datestamp>
+    <setSpec>codu_62799</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>From California, on</dc:title>
+  <dc:creator>Denrow, Jennifer</dc:creator>
+  <dc:contributor>Sikelianos, Eleni</dc:contributor>
+  <dc:contributor>Pap, Jennifer</dc:contributor>
+  <dc:contributor>Kiteley, Brian</dc:contributor>
+  <dc:contributor>Arts and Humanities</dc:contributor>
+  <dc:contributor>English</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>May 2012</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>thesis</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>iii, 86 p.</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>This manuscript is an effort to determine the world and how we are to each other. It is also an effort to come into meaning. How imagination is part of that. The escape here has to do with the inability to make things mean—it feels like if I try hard enough there can be a resolution via the imagination. But sometimes when we make things they overcome us. It’s difficult to know the appropriate boundary for imagination—at what point it moves from an attempt to decipher the world into a construction of the reality of the world. I can’t ever tell the difference but I continue to try. Some of what went into this manuscript has is the thinking about neuroscience (neurotheology). My interest in perceptions of reality and what can be obtained from a negotiation of those perceptions leads itself easily into research of the brain: What information is available to us though the technological investigation of brain and what can be determined from research regarding how consciousness is discussed physiologically. Much of the current research in the neuroscience community is occupied with the placement and location of consciousness and self. My own interest within these considerations is centered in the nature of self, place and imagination, and how the correspondence between these given fields of activity allow us to make decisions about what we understand as the world and ultimately how we determine it.</dc:description>
+  <dc:description>Copy is available with a DU login: https://digitaldu.coalliance.org/fedora/repository/codu:66603</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>American literature</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Dissertations, Academic</dc:subject>
+  <dc:identifier>codu:66603</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:rights>Access to this ETD is restricted to members of the DU community. Other users may submit an ILL request.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:66603</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66604</identifier>
+    <datestamp>2013-05-06T21:12:16Z</datestamp>
+    <setSpec>codu_62799</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>P. sphinx teen</dc:title>
+  <dc:creator>Dickinson, Joan</dc:creator>
+  <dc:contributor>Hunt, Laird</dc:contributor>
+  <dc:contributor>Kiteley, Brian</dc:contributor>
+  <dc:contributor>Chevillot, Frederique</dc:contributor>
+  <dc:contributor>Hunt, Laird</dc:contributor>
+  <dc:contributor>Arts and Humanities</dc:contributor>
+  <dc:contributor>English</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>June 2012</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>thesis</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>v, 274 p. : ill.</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>P. sphinx teen is a novel and creative dissertation that can be classified as 
+a descent narrative, or katabasis, employing various literary forms–––poems, short prose, essays, 
+journal entries, interviews, and illustrations –––to tell one story: the death, from pneumonia, of 
+my mother’s 15-year-old sister. Within the narrative, suggestions of origins are made as a way to 
+affix the idea of a descent through generations and time. However, those origins are quickly set 
+aside allowing the story to branch like a tree–––itself the shape of a simultaneous katabatic and 
+anabatic narrative.
+The originating story took place in Detroit, Michigan between 1935 and 1939, and is framed by others: Sigmund Freud’s collection of antiquities and its escape from Vienna in late 1938; the making of Charlotte Salomon’s opus Life? or Theatre?; Anais Nin’s simultaneous marriages; Walter Benjamin’s radio program called Enlightenment for Children. Motifs and characters are interchangeable passes for voices both distinct and indistinct. The author, at times, takes the form of an “I” lifting the life of her lineage to view and, with the suspicion of reincarnation, changing place with the main character, Patricia, who is, simultaneously, one and many. In researching the family story in relationship to historical events and figures associated with 
+those events, I discovered an irregularity in record keeping that lead me to question whether my 
+aunt had, in fact, died from pneumonia or something less natural.  Because the pertinent family 
+members were dead, I turned, first, to a medical chart that my grandmother kept as she tended to 
+her sick daughter constructing a series of horary astrological charts that were then interpreted by 
+four paranormal industrialists with astonishing results.
+P. sphinx teen attempts to manifest the lawless nature of grief as a thumbing of one’s nose at 
+those who would have it otherwise or who would make of mourning something compact and manageable. 
+It is a book of many voices, ghost-driven, and made equally uncanny by human ineptitude, 
+wickedness, and grace.
+
+
+
+
+
+
+
+</dc:description>
+  <dc:description>Copy is available with a DU login: https://digitaldu.coalliance.org/fedora/repository/codu:66604</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>Ghost stories</dc:subject>
+  <dc:subject>Grief</dc:subject>
+  <dc:subject>Youth and death</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Dissertations, Academic</dc:subject>
+  <dc:identifier>codu:66604</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:rights>Access to this ETD is restricted to members of the DU community. Other users may submit an ILL request.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:66604</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66605</identifier>
+    <datestamp>2013-05-06T21:16:23Z</datestamp>
+    <setSpec>codu_62799</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>My education</dc:title>
+  <dc:creator>Gardiner, Christine</dc:creator>
+  <dc:contributor>Sikelianos, Eleni</dc:contributor>
+  <dc:contributor>Pap, Jennifer</dc:contributor>
+  <dc:contributor>Ramke, Bin, 1947-</dc:contributor>
+  <dc:contributor>Kiteley, Brian</dc:contributor>
+  <dc:contributor>Arts and Humanities</dc:contributor>
+  <dc:contributor>English</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>August 2012</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>thesis</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>iv, 169 p.</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>My dissertation is entitled “My Education.” It is a poetic meditation on the nature
+of knowledge. The manuscript is a triptych, each section of which corresponds to a
+common source of knowledge.
+The first chapter is a collection of poems entitled As Seen On TV. The poems
+borrow conceptual metaphors and visual gestures from television programs in order to
+investigate the values that produced them and norms that are produced by them. The
+poems are concerned with mimesis: the troubled relationship between art and life.
+Organized as a day spent in front the television, the book opens with the morning news,
+and ends with late night reruns and static. These poems are about the passage of time, the
+female body, and the violence of its rapid obsolescence.
+The second chapter, “Boy Friends,” is an alphabetical primer on romance. The
+alphabet contains the units of literacy, of knowledge. It is an organizational method. The
+alphabet book is a didactic form; it teaches the order of things. In this work, the speaker
+lists the men in her life alphabetically, describing her affairs and thwarted love interests,
+beginning with Adam and ending with Zachary. The twenty-six lineated poems are
+followed by a prose addendum entitled &quot;Roll Call,&quot; in which the speaker tries to list every
+boy she ever met and explain what has become of him since she knew him. Many of the
+names from “Boy Friends” recur here, and a sense of narrative develops and acts as a
+bridge into the final chapter.
+The third section, “Confessional Poetry,” is a collection of prose essays modeled
+after the Roman Catholic Sacrament of Penance. In this work, I confess a sin to
+correspond to each on the Ten Commandments. This numeric organization (1-10) mirrors
+the alphabetical organization (A-Z) of “Boyfriends.” This is a work of spiritual
+accounting. In it, I tally the wrongs I have done to see how it all adds up. Unfortunately I
+am not very good at math. I do not know the final answer. I do know that each of these
+stories is an act of contrition.</dc:description>
+  <dc:description>Copy is available with a DU login: https://digitaldu.coalliance.org/fedora/repository/codu:66604</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>Penance, Poetry</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>American poetry</dc:subject>
+  <dc:subject>Television programs</dc:subject>
+  <dc:subject>Interpersonal relations</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Dissertations, Academic</dc:subject>
+  <dc:identifier>codu:66605</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:rights>Access to this ETD is restricted to members of the DU community. Other users may submit an ILL request. </dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:66605</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66608</identifier>
+    <datestamp>2013-05-06T21:31:23Z</datestamp>
+    <setSpec>codu_62799</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Exploring a debriefing intervention : a mixed methods study of a clinical staff intervention</dc:title>
+  <dc:creator>Matera, Dawn R.</dc:creator>
+  <dc:contributor>Ohman, Kathleen</dc:contributor>
+  <dc:contributor>Green, Kathy</dc:contributor>
+  <dc:contributor>Nicotera, Nicole</dc:contributor>
+  <dc:contributor>Social Work</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>July 2012</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>thesis</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>viii, 168 p.</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>In the last twenty years, researchers, theorists, and clinicians have begun to identify the personal toll on clinicians who work with traumatized clients. Mental health professionals may experience disruptions in their cognitive schema due to their clinical experiences. Clinicians may also struggle with depression, cynicism, alienation from friends and colleagues and an array of psychological and physical symptoms. While researchers have begun to explore how vicarious trauma manifests with clinical staff, there remains a need to identify interventions that are effective in mitigating vicarious trauma, burnout, and intent to leave.
+The purpose of this mixed methods study was to investigate the relationship between levels of debriefing interventions and vicarious trauma, burnout, and intent to leave. To that end, a convergent parallel mixed methods design was used to analyze quantitative and qualitative data. The convergent parallel design is a triangulation design where data were collected concurrently using quantitative and qualitative methods. The results of this study addressed whether the debrief intervention is a viable intervention associated with rates of vicarious trauma, intent to leave, and burnout for mental health clinicians who work with children and adolescents with histories of trauma.</dc:description>
+  <dc:description>Copy is available with a DU login: https://digitaldu.coalliance.org/fedora/repository/codu:66608</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>Burnout</dc:subject>
+  <dc:subject>Psychological debriefing</dc:subject>
+  <dc:subject>Mental health personnel</dc:subject>
+  <dc:subject>Vicarious trauma</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Dissertations, Academic</dc:subject>
+  <dc:identifier>codu:66608</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:rights>Access to this ETD is restricted to members of the DU community. Other users may submit an ILL request.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:66608</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66610</identifier>
+    <datestamp>2013-05-06T21:35:29Z</datestamp>
+    <setSpec>codu_62799</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>The week</dc:title>
+  <dc:creator>Ruocco, Joanna</dc:creator>
+  <dc:contributor>Kiteley, Brian</dc:contributor>
+  <dc:contributor>Urquhart, Robert</dc:contributor>
+  <dc:contributor>Hunt, Laird</dc:contributor>
+  <dc:contributor>Ramke, Bin, 1947-</dc:contributor>
+  <dc:contributor>Arts and Humanities</dc:contributor>
+  <dc:contributor>English</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>Nov. 2012</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>thesis</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>iv, 144 p.</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>THE WEEK is a collection of short stories. These stories engage the
+politicized (if not overly political) question of what it means to be human and to be in
+relation to other humans in the world. Some of the stories are quite compressed; I
+attempt to create effects in these pieces through subtraction, ellipsis, parataxis, and
+surprise. Other stories are more sustained, producing voices that address the reader
+directly or voices that follow the involutions of a thought, dwelling on minute details
+of consciousness; these pieces play with conventional short story elements (character,
+plot, rising action, falling action, etc.), although they often “fizzle” or turn sharply to
+unsettle reader expectation. I have found that it is very difficult to be human. That
+being human is a problem is both the premise and the conclusion of this book.</dc:description>
+  <dc:description>Copy is available with a DU login:https://digitaldu.coalliance.org/fedora/repository/codu:66610</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>American literature</dc:subject>
+  <dc:subject>Fiction</dc:subject>
+  <dc:subject>Short stories</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Dissertations, Academic</dc:subject>
+  <dc:identifier>codu:66610</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:rights>Access to this ETD is restricted to members of the DU community. Other users may submit an ILL request.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:66610</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66611</identifier>
+    <datestamp>2013-05-06T21:38:52Z</datestamp>
+    <setSpec>codu_62799</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>The effect of power and colonialism on religion and secularization : expanding Taylor&apos;s A secular age</dc:title>
+  <dc:creator>Yuhas, Stephanie</dc:creator>
+  <dc:contributor>Vial, Ted</dc:contributor>
+  <dc:contributor>Clemmer-Smith, Richard</dc:contributor>
+  <dc:contributor>Seeburger, Frank</dc:contributor>
+  <dc:contributor>Religious &amp; Theological Studies</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>Aug. 2012</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>thesis</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>iv, 274 p.</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>Drawing on Charles Taylor’s historical analysis in A Secular Age, this dissertation
+reveals connections between the process of Euro-Western secularization and its roots in
+the universalizing project of Christianity. This work asserts that religion, a term often
+identified with Christianity, developed in conjunction with secularization and concludes
+that these theoretical constructs influenced international legal principles which
+marginalized indigenous cultures that did not conform to its tenets. Not only did
+Christianity and the secular arise from the same roots, but both were shaped by
+colonialism.This paper provides a detailed overview of the development of international
+law as a colonial project that combined theological and secular interpretations of natural
+law and the law of nations creating a vehicle for land acquisition and resource extraction
+by examining the writings of Francisco de Vitoria, Hugo Grotius and John Locke. In
+order to trace the effects of flows of power from religious authority to state authority, this
+paper examines the views of Michel Foucault and Talal Asad on power, agency, identity
+and freedom through the lens of religion and the secular. This project focuses on the
+Native American experience to demonstrate the interface between Christian missionizing,
+the imposition of discipline and civilization and the current American legal system that
+asserts a separation of church and state.</dc:description>
+  <dc:description>Copyright is available with a DU login: https://digitaldu.coalliance.org/fedora/repository/codu:66611</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Religion, History</dc:subject>
+  <dc:subject>Secularization</dc:subject>
+  <dc:subject>Freedom of religion</dc:subject>
+  <dc:subject>International law</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Asad, Talal</dc:subject>
+  <dc:subject>Taylor, Charles, 1931-</dc:subject>
+  <dc:subject>Foucault, Michel, 1926-1984</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Dissertations, Academic</dc:subject>
+  <dc:identifier>codu:66611</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:rights>Access to this ETD is restricted to members of the DU community. Other users may submit an ILL request.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:66611</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

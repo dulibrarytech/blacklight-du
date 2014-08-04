@@ -1,0 +1,3919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T01:05:30Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62354</identifier>
+    <datestamp>2012-09-04T19:44:17Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hand-Embroidered Silk Handkerchief</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Handkerchiefs</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Clothing and dress</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Purple and white pansies with green leaves embroidered on the entire border of a square silk chiffon handkerchief. A small flower design is embroidered throughout the center of the handkerchief.This handkerchief was handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (handkerchief), 30 x 31 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62354</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Personal Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62352</identifier>
+    <datestamp>2012-09-02T06:39:31Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Fuchsia Day Hat</dc:title>
+  <dc:creator>G Howard Hodge</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hats</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Clothing and dress</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description>Interior label reads: &apos;&apos;Seven-Eleven Fifth Avenue; G Howard Hodge; New York&apos;&apos;</dc:description>
+  <dc:description>This is a small circular, wire-brimmed fuchsia day hat with ribbon trimming the brim and forming an attached bow. White, light blue, medium blue and pink dyed feathers are glued to the front brim. The veil is a large open square weave of pink tulle with flocking dyed pink and is geometrically arranged on the tulle. The inside center back of the hat has black monofilament tulle with four bobby pins used to secure the hat to the wearer&apos;s head. Interior label reads: &apos;&apos;Seven-Eleven Fifth Avenue; G Howard Hodge; New York&apos;&apos;. Originally belonged to Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>circa 1962</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (hat), 5 x 21 x 27 centimeters</dc:format>
+  <dc:format>Clothing and Dress</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62352</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Personal Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62353</identifier>
+    <datestamp>2012-09-02T18:57:10Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Beige Straw Hat with Velvet Ribbon and Tulle</dc:title>
+  <dc:creator>May Shoe &amp; Clothing Co. (Denver, Colo.)</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hats</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Clothing and dress</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject>May Shoe &amp; Clothing Co. (Denver, Colo.)</dc:subject>
+  <dc:subject>May Department Stores Company</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description>Interior labels read: &apos;&apos;22; M.S.ca.&apos;&apos; and &apos;&apos;The May Co; Denver&apos;&apos;</dc:description>
+  <dc:description>A woman&apos;s large brimmed, wire-framed straw hat trimmed with black velvet ribbon at the base of the crown and at the edge and center of the brim. Four square cuts of black organdy are steamed into floral shapes and mounted across the front of the hat. The hat is lined with black grosgrain ribbon inside and two attached interior labels read: &apos;&apos;22; M.S.ca.&apos;&apos; and &apos;&apos;The May Co; Denver&apos;&apos;.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1920-1940</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (hat), 7 x 35 x 31 centimeters</dc:format>
+  <dc:format>Clothing and Dress</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62353</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Personal Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62412</identifier>
+    <datestamp>2012-09-07T03:34:22Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Beige Circular Doily</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A crocheted beige circular doily with an upraised center in a flower design. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 7 x 7 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62412</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62364</identifier>
+    <datestamp>2012-09-16T04:39:55Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Double Horse Head Lapel Pin</dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1950-1960</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format>1 item (pin), 1 x 5 x 4 centimeters </dc:format>
+  <dc:format>Jewelry</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>A double horse head lapel pin with black, red and crystal rhinestones inset into the eyes and mane. Originally belonged to Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewelry</dc:subject>
+  <dc:subject>Clothing and dress</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Personal Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:62364</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:62364</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62400</identifier>
+    <datestamp>2012-09-06T02:11:09Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Tan Linen Circular Doily</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A tan linen circular doily with crochet work around border. Handmade by Anna F.Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 25 x 25 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62400</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62362</identifier>
+    <datestamp>2012-09-04T20:37:46Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Deer Lapel Pins</dc:title>
+  <dc:creator></dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Jewelry</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Clothing and dress</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Two matching lapel pins shaped like deer heads with rhinestone insets. Originally belonged to Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1950-1960</dc:date>
+  <dc:type></dc:type>
+  <dc:format>2 items (pins), 2 x 3 x 3 centimeters</dc:format>
+  <dc:format>Jewelry</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62362</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Personal Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62375</identifier>
+    <datestamp>2012-09-05T02:28:49Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Ivory Linen Tablecloth</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Embroidery</dc:subject>
+  <dc:subject>Tablecloths</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Ivory linen tablecloth with blue and ivory hand-embroidered flowers and leaves on top center. The tablecloth was handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (tablecloth), 210 x 204 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62375</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62393</identifier>
+    <datestamp>2012-09-06T01:22:17Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>White Tablerunner with Raised Embroidery and Cutwork</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Embroidery</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A white linen tablerunner with white raised embroidered flowers and circular cutwork on top center. The edges are scalloped and finished with white embroidery. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (tablerunner), 131 x 65 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62393</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62370</identifier>
+    <datestamp>2012-09-05T01:04:52Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Bakelite Nail Buffer</dc:title>
+  <dc:creator></dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Toilet Sets (dresser sets)</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A nail buffer part of a six-piece toilet set. The buffer is decorated with a black border with pink flowers and green leaves painted on it. Originally belonged to Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1910-1950</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (nail buffer), 3 x 3 x 14 centimeters</dc:format>
+  <dc:format>House furnishings</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62370</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62389</identifier>
+    <datestamp>2012-09-06T00:41:37Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Tan Linen Tablerunner</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A plain weave linen tablerunner with crocheted flowers on the long sides and crocheted leaf and pinwheel patterns on the smaller sides. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (tablerunner), 132 x 44 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62389</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62373</identifier>
+    <datestamp>2012-09-16T04:43:56Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>White Cotton Bengaline Sleeve Cuff</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format>2 item (sleeve cuff), 24 x 10 centimeters</dc:format>
+  <dc:format>Clothing and Dress</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>White cotton Bengaline sleeve cuff consisting of small circular cutwork. The edges have a scalloped finish using stem and satin stitches. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Embroidery</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Fashion</dc:subject>
+  <dc:subject>Clothing and dress</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Personal Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:62373</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:62373</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62406</identifier>
+    <datestamp>2012-09-07T03:04:17Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Tan Circular Crocheted Doily</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A tan circular cotton crocheted doily with pinwheel center motif surrounded by leaf patterns on the outside. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 33 x 33 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62406</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62382</identifier>
+    <datestamp>2012-09-05T22:25:06Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Beige Circular Doily with Yellow Border</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Embroidery</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>An off-white cotton twill doily with yellow embroidered border. There is a yellow and red floral motif with green leaves painted on material. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 11 x 11 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62382</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62356</identifier>
+    <datestamp>2012-09-02T20:51:10Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Pyraline Jewelry Box</dc:title>
+  <dc:creator>DuPont Pyraline U.S.A.</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject>DuPont Pyraline U.S.A.</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description>Stamped on bottom of box: &apos;&apos;DuPont Pyraline U.S.A.&apos;&apos;</dc:description>
+  <dc:description>A jewelry box composed of Mother-of-Pearl Pyraline. Originally belonged to Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>circa 1930</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (jewelry box), 4 x 13 x 9 centimeters</dc:format>
+  <dc:format>House furnishings</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62356</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62401</identifier>
+    <datestamp>2012-09-06T02:16:08Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Tan Linen Circular Doily</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A tan linen circular doily with crochet work around border. Handmade by Anna F.Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 25 x 25 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62401</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62360</identifier>
+    <datestamp>2012-09-04T20:24:02Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Bow Shaped Lapel Pin with Rhinestones</dc:title>
+  <dc:creator></dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewelry</dc:subject>
+  <dc:subject>Clothing and dress</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A bow shaped lapel pin with a large blue simulated topaz in the center with a pink and crystal rhinestone inset. Originally belonged to Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1920-1960</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (pin), 3 x 8 x 11 centimeters</dc:format>
+  <dc:format>Jewelry</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62360</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Personal Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62348</identifier>
+    <datestamp>2012-09-02T05:14:38Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Navy Blue Plastic Hat with Plaid Polyester Ribbon</dc:title>
+  <dc:creator>House of Milgrim (Firm)</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hats</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Clothing and dress</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description>Interior label reads: &apos;&apos;Milgrim&apos;&apos;</dc:description>
+  <dc:description>A navy blue circular plastic &apos;&apos;straw&apos;&apos; hat that was meant to be worn on the back of the crown of the head. Four plaid taffeta bows in blue, navy, red and yellow surround three-quarters of the brim. The inside of the hat has plum colored grosgrain ribbon and black plasticized &apos;&apos;horsehair&apos;&apos; for pinning the hat to the head. The interior label reads: &apos;&apos;Milgrim.&apos;&apos;</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>circa 1960</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (hat), 6 x 28 x 23 centimeters</dc:format>
+  <dc:format>Clothing and Dress</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62348</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Personal Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62383</identifier>
+    <datestamp>2012-09-05T22:45:18Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>White Cotton Doily with Needlepoint</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Embroidery</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A white cotton bureau doily with light blue and aqua needlepoint around the entire perimeter. The needlepoint consists of cross, blanket and chain stitches with blue crocheting around the hem. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 28 x 20 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62383</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62392</identifier>
+    <datestamp>2012-09-06T01:17:16Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>White Cotton Bureau Runner with Embroidered Flowers</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Embroidery</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A white rib weave cotton bureau runner with embroidered flowers in two shades each of purple, pink, green, blue and gray, bordered in a blue outline. Lace is hand stitched around the edges of the runner. Handmade by Anna F.Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (bureau runner), 108 x 43 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62392</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62380</identifier>
+    <datestamp>2012-09-05T03:26:01Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Embroidered Doily</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Embroidery</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A small white cotton doily with embroidered pink, yellow, blue and purple flowers bordered in a blue outline. There is a border of lace around the entire perimeter of the doily. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 36 x 26 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62380</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62424</identifier>
+    <datestamp>2012-09-07T23:18:42Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Photo Pin of an Unidentified Woman</dc:title>
+  <dc:creator></dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Jewelry</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Gold-toned photograph pin of an unidentified woman.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1900-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (photo pin), 1 x 3 x 3 centimeters</dc:format>
+  <dc:format>Jewelry</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62424</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Personal Memorabilia</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62415</identifier>
+    <datestamp>2012-09-07T03:50:11Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Beige Circular Doily</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A crocheted beige circular doily with an upraised center in a flower design. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 7 x 7 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62415</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62350</identifier>
+    <datestamp>2012-09-02T06:02:12Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Brown Felt Hat with Silk Ribbon and Bow</dc:title>
+  <dc:creator>Kate Ferretti Denver</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hats</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Clothing and dress</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description>Interior labels read: &apos;&apos;Kate Ferretti Denver&apos;&apos; and &apos;&apos;fur felt body by Mallory&apos;&apos;</dc:description>
+  <dc:description>A caramel brown felt sailor hat with a circular wire brim. On the outside of the brim, there is a brown velvet ribbon, and the front has a small brown velvet bow. The inside of the hat is stamped with a white crest with a lion; inside and around the crest reads: &apos;&apos;fur felt body by Mallory&apos;&apos;. Inside the brim is brown grosgrain ribbon with a label affixed reading: &apos;&apos;Kate Ferretti Denver&apos;&apos;.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>circa 1950</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (hat), 7 x 21 x 22 centimeters</dc:format>
+  <dc:format>Clothing and Dress</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62350</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Personal Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62396</identifier>
+    <datestamp>2012-09-06T01:41:06Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Tan Linen Circular Doily</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A tan linen circular doily with crochet work around border. Handmade by Anna F.Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 20 x 20 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62396</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62367</identifier>
+    <datestamp>2012-09-05T00:57:55Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Bakelite Button Hook</dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1910-1950</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format>1 item (button hook), 1 x 3 x 18 centimeters </dc:format>
+  <dc:format>House furnishings</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>A button hook part of a six-piece toilet set. The button hook&apos;s handle is decorated with a black, gold and green design and was used to fasten the button closures of shoes. Originally belonged to Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Toilet Sets (dresser sets)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:62367</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:62367</dc:identifier>
+  <dc:subject>Jewish women</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62404</identifier>
+    <datestamp>2012-09-07T02:47:18Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Tan Circular Crocheted Doily</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A tan circular cotton crocheted doily with pinwheel center motif surrounded by leaf patterns on the outside. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 27 x 27 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62404</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62408</identifier>
+    <datestamp>2012-09-07T03:15:01Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Tan Circular Crocheted Doily</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A tan circular cotton crocheted doily with pinwheel center motif surrounded by leaf patterns on the outside. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 23 x 23 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62408</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62390</identifier>
+    <datestamp>2012-09-06T00:47:41Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Beige Linen Tablerunner with Crocheted Leaves and Pinwheels</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A beige plain weave linen tablerunner with crocheted flowers on the long sides and crocheted leaf and pinwheel patterns on the smaller sides. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (tablerunner), 95 x 40 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62390</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62391</identifier>
+    <datestamp>2012-09-06T01:07:24Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Beige Linen Tablerunner with Crocheted Pinwheels</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A beige plain weave linen tablerunner with crocheted cotton flower border lace on the long sides and crocheted pinwheels on the shorter sides. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (tablerunner), 131 x 46 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62391</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62378</identifier>
+    <datestamp>2012-09-05T03:05:14Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Embroidered Doily</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Embroidery</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A small white cotton doily with embroidered pink, yellow, blue and purple flowers bordered in a blue outline. There is a border of lace around the entire perimeter of the doily. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 36 x 26 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62378</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62399</identifier>
+    <datestamp>2012-09-06T02:02:31Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Tan Linen Circular Doily</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A tan linen circular doily with crochet work around border. Handmade by Anna F.Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 20 x 20 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62399</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62388</identifier>
+    <datestamp>2012-09-06T00:31:43Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Cotton Pillowcase with Yellow Embroidery</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Embroidery</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Ivory cotton pillowcase with mouth of pillowcase scalloped and finished with yellow flowers hand-embroidered on top side (see also the coverlet, bedrunner and additional pillowcase). Handmade by Anna F.Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (pillowcase), 84 x 57 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62388</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62394</identifier>
+    <datestamp>2012-09-06T01:30:42Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Tan Muslin Doily with Crocheting</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A tan muslin doily with ten crocheted squares attached to it. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 45 x 31 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62394</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62402</identifier>
+    <datestamp>2012-09-06T02:22:50Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Tan Linen Circular Doily</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A tan linen circular doily with crochet work around border. Handmade by Anna F.Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 25 x 25 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62402</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62363</identifier>
+    <datestamp>2012-09-16T04:38:35Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Rearing Horse Lapel Pin</dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1950-1960</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format>1 item (pin), 1 x 5 x 3 centimeters </dc:format>
+  <dc:format>Jewelry</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Lapel pin shaped like a rearing horse with rhinestones inset into the eyes, hooves, body and mane. Originally belonged to Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewelry</dc:subject>
+  <dc:subject>Clothing and dress</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Personal Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:62363</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:62363</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62409</identifier>
+    <datestamp>2012-09-07T03:19:06Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>X-Shaped Doily</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>An x-shaped ornamental doily consisting of a square muslin center with cotton crocheted patterns hand stitched to all four sides. Handmade by Anna F.Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 23 x 23 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62409</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62405</identifier>
+    <datestamp>2012-09-07T02:58:18Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Tan Circular Crocheted Doily</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A tan circular cotton crocheted doily with pinwheel center motif surrounded by leaf patterns on the outside. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 28 x 28 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62405</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62385</identifier>
+    <datestamp>2012-09-05T23:32:41Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>White Cotton Doily with Needlepoint</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Embroidery</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A white cotton bureau doily with light blue and aqua needlepoint around the entire perimeter. The needlepoint consists of cross, blanket and chain stitches with blue crocheting around the hem. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 40 x 28 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62385</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62416</identifier>
+    <datestamp>2012-09-07T03:54:11Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>White Cotton and Cutwork Tablerunner</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A tablerunner made from fine white basket weave cotton with tatting and cutwork. A three-ply fine cotton thread is tatted into a floral scalloped motif. The two ends come to point so that the entire piece is shaped like a hexagon. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (tablerunner), 98 x 32 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62416</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62411</identifier>
+    <datestamp>2012-09-07T03:29:22Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Beige Circular Doily</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A crocheted beige circular doily with an upraised center in a flower design. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 7 x 7 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62411</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62368</identifier>
+    <datestamp>2012-09-05T00:59:11Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Bakelite Cuticle Tool</dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1910-1950</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format>1 item (cuticle tool), 1 x 3 x 12 centimeters</dc:format>
+  <dc:format>House furnishings</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>A cuticle tool part of a six-piece toilet set. The tool is decorated with a black design, which has mostly been rubbed off. Originally belonged to Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Toilet Sets (dresser sets)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:62368</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:62368</dc:identifier>
+  <dc:subject>Jewish women</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62425</identifier>
+    <datestamp>2012-09-07T23:31:24Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>School Graduation Autograph Album</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Autograph albums</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description>Handwritten in front cover: &apos;&apos;Graduate of P.S. 62, 1908 8B&apos;&apos;</dc:description>
+  <dc:description>Autograph album containing a list of students in the 1908 graduating class of P.S. 62 in New York and blank leaves where classmates of Anna Ginsberg have written sentiments and signatures. Inside the front cover of the book, handwritten in black ink is: &apos;&apos;Graduate of P.S. 62, 1908 8B&apos;&apos; and a list of all of the students in the class. The front cover is a print of four birds on a branch with foliage in the background, encased in plastic. The side and back cover are made from a crimson velvet that has a floral theme reverse dyed or bleached on the fabric. Originally belonged to Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>1908</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>1 item (autograph album), 2 x 17 x 12 centimeters</dc:format>
+  <dc:format>Diaries</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62425</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Personal Memorabilia</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62398</identifier>
+    <datestamp>2012-09-06T01:58:29Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Tan Linen Circular Doily</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A tan linen circular doily with crochet work around border. Handmade by Anna F.Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 20 x 20 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62398</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62359</identifier>
+    <datestamp>2012-09-04T20:10:49Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Black Plasticized &apos;&apos;Straw&apos;&apos; Hat with Gray and Black Plaid Ribbon</dc:title>
+  <dc:creator></dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Hats</dc:subject>
+  <dc:subject>Clothing and dress</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A black plasticized &apos;&apos;straw&apos;&apos; hat with black mesh and plaid box. The mesh is used ornamentally with steamed flat loops that are around three-quarters of the hat. Gray and black plaid plasticized ribbon is formed with stiff tulle in tucks to form bows around the brim of the hat.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1920-1940</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (hat), 8 x 30 x 34 centimeters</dc:format>
+  <dc:format>Clothing and Dress</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62359</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Personal Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62374</identifier>
+    <datestamp>2012-09-05T02:14:21Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Cotton Coverlet with Embroidered Butterfly Design</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Embroidery</dc:subject>
+  <dc:subject>Coverlets</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>White cotton single-sized bed coverlet with cutouts at upper left and right hand side for headboard. Pink, purple and blue flowers are embroidered on the coverlet. A blue border is also embroidered with butterflies. The coverlet is part of an embroidered bedroom linen set. It was handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (coverlet), 192 x 88 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62374</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62369</identifier>
+    <datestamp>2012-09-05T00:53:56Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Bakelite Pill Box</dc:title>
+  <dc:creator></dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Toilet Sets (dresser sets)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A pill box part of a six-piece toilet set. The box is decorated with a black border with pink flowers painted on it. Originally belonged to Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1910-1950</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (pill box), 3 x 4 x 4 centimeters</dc:format>
+  <dc:format>House furnishings</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62369</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62407</identifier>
+    <datestamp>2012-09-07T03:10:04Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Tan Circular Crocheted Doily</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format>1 item (doily), 24 x 24 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>A tan circular cotton crocheted doily with pinwheel center motif surrounded by leaf patterns on the outside. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:62407</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:62407</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62365</identifier>
+    <datestamp>2012-09-16T04:41:27Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Turtle Lapel Pin</dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1950-1960</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format>1 item (pin), 1 x 4 x 3 centimeters </dc:format>
+  <dc:format>Jewelry</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Turtle shaped lapel pin with rhinestone inset to form the shell. Originally belonged to Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewelry</dc:subject>
+  <dc:subject>Clothing and dress</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Personal Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:62365</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:62365</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62420</identifier>
+    <datestamp>2012-09-07T23:00:05Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>White Doily in Shape of a Star</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format>1 item (doily), 12 x 12 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>A white hand-tatted doily made from hand-twisted three-ply cotton. It has a circular center with nine points on the outside forming a star shape. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Embroidery</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:62420</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:62420</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62422</identifier>
+    <datestamp>2012-09-07T23:05:58Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Morris Hayutin Photo Pin</dc:title>
+  <dc:creator></dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Jewelry</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Morris S.,--1889-1974</dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Black and white photograph of Morris Hayutin that has been mounted onto a silver lapel pin. Originally belonged to Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1920-1930</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (photo pin), 1 x 3 x 3 centimeters</dc:format>
+  <dc:format>Jewelry</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62422</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Personal Memorabilia</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62371</identifier>
+    <datestamp>2012-09-05T01:14:46Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Bakelite Hand Mirror</dc:title>
+  <dc:creator></dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Toilet Sets (dresser sets)</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A hand mirror part of a six-piece toilet set. The mirror is decorated with a black border with pink flowers and green leaves painted on it. Originally belonged to Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1910-1950</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (hand mirror), 1 x 26 x 16 centimeters</dc:format>
+  <dc:format>House furnishings</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62371</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62372</identifier>
+    <datestamp>2012-09-05T01:23:01Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Bakelite Hair Brush</dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1910-1950</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format>1 item (jewelry box), 4 x 8 x 16 centimeters</dc:format>
+  <dc:format>House furnishings</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>A hair brush part of a six-piece toilet set. The brush is decorated with a black border with pink flowers and green leaves painted on it. Originally belonged to Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Toilet Sets (dresser sets)</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:62372</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:62372</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62377</identifier>
+    <datestamp>2012-09-05T02:54:40Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Crocheted Doily</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Embroidery</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A crotched doily made from a circle of beige cotton fabric with a turned under hem and ten intricately crotched circular floral motifs sewn onto the fabric with back stitches of cotton embroidery floss. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 51 x 51 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62377</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62384</identifier>
+    <datestamp>2012-09-05T22:49:37Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>White Cotton Doily with Needlepoint</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Embroidery</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A white cotton bureau doily with light blue and aqua needlepoint around the entire perimeter. The needlepoint consists of cross, blanket and chain stitches with blue crocheting around the hem. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 28 x 20 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62384</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62376</identifier>
+    <datestamp>2012-09-05T02:41:39Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Ivory Linen Tablerunner</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Embroidery</dc:subject>
+  <dc:subject>Tablecloths</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Ivory linen tablerunner with blue and ivory hand embroidered flowers and leaves on top center. This tablerunner was handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (tablerunner), 208 x 80 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62376</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62358</identifier>
+    <datestamp>2012-09-04T20:01:05Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Black Felt Hat with Feathers</dc:title>
+  <dc:creator></dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Hats</dc:subject>
+  <dc:subject>Clothing and dress</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>This is a formal hat that consists of a black tri-cornered felt form covered with white, pastel blue, pink and green feathers that are glued into place. A layer of tulle covers the hat and additional tulle is gathered at center back.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>circa 1958</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (hat), 13 x 27 x  26 centimeters</dc:format>
+  <dc:format>Clothing and Dress</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62358</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Personal Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62361</identifier>
+    <datestamp>2012-09-04T20:33:41Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Cat Lapel Pin</dc:title>
+  <dc:creator></dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewelry</dc:subject>
+  <dc:subject>Clothing and dress</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A cat shaped lapel pin with a circular mother-of-pearl body and pearl eyes. Originally belonged to Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1950-1960</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (pin), 2 x 3 x 5 centimeters</dc:format>
+  <dc:format>Jewelry</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62361</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Personal Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62414</identifier>
+    <datestamp>2012-09-07T03:45:59Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Beige Circular Doily</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A crocheted beige circular doily with an upraised center in a flower design. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 7 x 7 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62414</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62351</identifier>
+    <datestamp>2012-09-02T19:44:43Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Black Hat with Black Satin Bow</dc:title>
+  <dc:creator>House of Milgrim (Firm)</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hats</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Clothing and dress</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description>Interior labels read: &apos;&apos;Kay&apos;s modes millinery; 614 16th St.; Denver, COLO&apos;&apos; and &apos;&apos;Milgrim&apos;&apos;</dc:description>
+  <dc:description>A small black &apos;&apos;manmade straw&apos;&apos; woman&apos;s hat with satin ribbon trimming the edge and large bows featured in the back. The &apos;&apos;party tulle&apos;&apos; is decorated with multi-colored pieces of pipe cleaner. The hatpin is a bulb shaped tip of gray cotton knit. Inside the hat are two white labels that read: &apos;&apos;Kay&apos;s modes millinery; 614 16th St.; Denver, COLO&apos;&apos; and &apos;&apos;Milgrim&apos;&apos;.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>circa 1951</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (hat), 7 x 20 x 43 centimeters</dc:format>
+  <dc:format>Clothing and Dress</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62351</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Personal Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62381</identifier>
+    <datestamp>2012-09-05T22:14:36Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oval White Cotton Doily</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>An oval shaped white cotton doily. The crocheted pinwheel pattern in the center was created by using the eyelet stitch. Several rows of varying and open styles of crochet give the doily a delicate look. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 29 x 21 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62381</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62386</identifier>
+    <datestamp>2012-09-06T00:09:38Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Cotton Coverlet with Yellow Embroidery</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Embroidery</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Ivory cotton coverlet with top and lower edges scalloped and finished with yellow flowers embroidered on top front (see also the matching embroidered pillow cases and bedrunner). Handmade by Anna F.Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (coverlet), 222 x 203 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62386</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62421</identifier>
+    <datestamp>2012-09-07T22:59:01Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>White Doily in Shape of a Star</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A white hand-tatted doily made from hand-twisted three-ply cotton. It has a circular center with nine points on the outside forming a star shape. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 12 x 12 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62421</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62423</identifier>
+    <datestamp>2012-09-07T23:11:44Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Photo Pin of an Unidentified Woman</dc:title>
+  <dc:creator></dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Jewelry</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Gold-toned photograph pin of an unidentified woman. Originally belonged to Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1900-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (photo pin), 1 x 3 x 3 centimeters</dc:format>
+  <dc:format>Jewelry</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62423</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Personal Memorabilia</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62379</identifier>
+    <datestamp>2012-09-05T03:10:18Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Embroidered Doily</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Embroidery</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A small white cotton doily with embroidered pink, yellow, blue and purple flowers bordered in a blue outline. There is a border of lace around the entire perimeter of the doily. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 36 x 26 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62379</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62366</identifier>
+    <datestamp>2012-09-16T04:42:23Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Fan Shaped Rhinestone Earrings</dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1950-1960</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format>2 items (earrings), 1 x 5 x 6 centimeters</dc:format>
+  <dc:format>Jewelry</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>A pair of fan shaped earrings with simulated blue topaz and crystal rhinestone insets. Originally belonged to Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jewelry</dc:subject>
+  <dc:subject>Clothing and dress</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Personal Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:62366</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:62366</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62410</identifier>
+    <datestamp>2012-09-07T03:24:48Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>X-Shaped Doily</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>An x-shaped ornamental doily consisting of a square muslin center with cotton crocheted patterns hand stitched to all four sides. Handmade by Anna F.Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 23 x 23 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62410</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62349</identifier>
+    <datestamp>2012-09-02T05:37:40Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Purple Velvet Hat</dc:title>
+  <dc:creator>Kate Ferretti Denver</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hats</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Clothing and dress</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description>Label inside hat: &apos;&apos;Kate Ferretti Denver&apos;&apos;</dc:description>
+  <dc:description>The hat features a circular center with petal shapes going outward. The entire outside of the hat is purple velvet that is wired at the edge and has been manipulated into a shape referred to as &apos;&apos;wired wings&apos;&apos;. The inside has light blue taffeta over buckram and a light blue grosgrain ribbon hat band. The interior label reads: &apos;&apos;Kate Ferretti Denver&apos;&apos;. From the top view, the hat is meant to resemble a daisy.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>circa 1956</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (hat), 8 x 26 x 23 centimeters</dc:format>
+  <dc:format>Clothing and Dress</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62349</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Personal Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62413</identifier>
+    <datestamp>2012-09-07T03:37:58Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Beige Circular Doily</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A crocheted beige circular doily with an upraised center in a flower design. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 7 x 7 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62413</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62387</identifier>
+    <datestamp>2012-09-06T00:27:23Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Cotton Pillowcase with Yellow Embroidery</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Embroidery</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Ivory cotton pillowcase with mouth of pillowcase scalloped and finished with yellow flowers hand-embroidered on top side (see also the coverlet, bedrunner and additional pillowcase). Handmade by Anna F.Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (pillowcase), 84 x 57 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62387</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62395</identifier>
+    <datestamp>2012-09-06T01:36:16Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Tan Linen Rectangular Doily</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A tan linen doily with sixteen cotton crocheted squares on border of linen. Handmade by Anna F.Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (doily), 54 x 49 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62395</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62355</identifier>
+    <datestamp>2012-11-26T22:59:43Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>White Cotton Bengaline Collar</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format>1 item (collar), 36 x 32 centimeters</dc:format>
+  <dc:format>Clothing and Dress</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>White cotton Bengaline collar consisting of small circular cutwork. The edges have a scalloped finish using stem and satin stitches. Handmade by Anna F. Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Embroidery</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Clothing and dress</dc:subject>
+  <dc:subject>Fashion</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Personal Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:62355</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:62355</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62397</identifier>
+    <datestamp>2012-11-26T23:31:00Z</datestamp>
+    <setSpec>codu_62309</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Tan Linen Circular Doily</dc:title>
+  <dc:creator>Hayutin, Anna Ginsberg,--1893-1973</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1912-1920</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format>1 item (doily), 20 x 20 centimeters</dc:format>
+  <dc:format>Textile fabrics</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>A tan linen circular doily with crochet work around border. Handmade by Anna F.Ginsberg Hayutin.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Doilies</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Household linens</dc:subject>
+  <dc:subject>Crocheting</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Hayutin, Anna Ginsberg,--1893-1973</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation>Anna Ginsberg Hayutin Textiles and Other Material, Household Accessories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:62397</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:62397</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

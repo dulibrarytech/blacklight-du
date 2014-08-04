@@ -1,0 +1,1421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T05:01:31Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37340</identifier>
+    <datestamp>2012-03-27T16:52:30Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Elizabeth Waters</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Waters, Elizabeth Hannah,--1910-1993</dc:subject>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>New Mexico</dc:subject>
+  <dc:subject>Dancers</dc:subject>
+  <dc:description>Handwritten on back mount: &quot;Elizabeth W. [Waters] New Mexico 1948&quot;. Signature on front: &quot;Marshall Brooks.&quot;</dc:description>
+  <dc:description>Elizabeth Waters performs a interpretive dance, &quot;Shifting Landscapes of New Mexico,&quot; about the Americian Southwest outdoors in New Mexico.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1948</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>D025.04.0001.0006.00002</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37340</dc:identifier>
+  <dc:identifier>codu:37340</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37355</identifier>
+    <datestamp>2012-03-27T16:51:23Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Carolyn Durand Brooks</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Brooks, Carolyn Durand,--1908-1999</dc:subject>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Dancers</dc:subject>
+  <dc:description>Handwritten on back of photograph: &quot;Carolyn at Dorset 1939? 1940? Carolyn Durand Brooks circa 1939 photo by Marshall Brooks.&quot;</dc:description>
+  <dc:description>Carolyn Durand Brooks, formerly Carolyn Durand, dances in a field in Dorset, Vermont.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>circa 1939</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>D025.04.0001.0005.00008</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37355</dc:identifier>
+  <dc:identifier>codu:37355</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37364</identifier>
+    <datestamp>2012-03-27T16:50:56Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hanya Holm</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Choreographers</dc:subject>
+  <dc:description>Handwritten on slide mount: &quot;Hanya #96, July 1959.&quot;</dc:description>
+  <dc:description>Hanya Holm poses for a portrait.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1959</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>D025.04.0001.0007.00011</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37364</dc:identifier>
+  <dc:identifier>codu:37364</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37362</identifier>
+    <datestamp>2012-03-27T16:50:48Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hanya Holm</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:subject>Choreographers</dc:subject>
+  <dc:description>Handwritten on slide mount: &quot; Hanya airport #267, June 1971 (Lucy).&quot;</dc:description>
+  <dc:description>Hanya Holm walks out of an airport gate.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1971</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>D025.04.0001.0007.00025</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37362</dc:identifier>
+  <dc:identifier>codu:37362</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37352</identifier>
+    <datestamp>2012-03-27T16:53:00Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Planning Session for Orpheus and Eurydice</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Costa, Mary</dc:subject>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Meetings</dc:subject>
+  <dc:subject>Planning</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:subject>Canada</dc:subject>
+  <dc:subject>Choreographers</dc:subject>
+  <dc:description>Handwrting on back: &quot;Photo by Marshall Brooks Orpheus and Eurydice Vancouver, Canada 1959 Mary Costa far right Hanya Holm end Center&quot;.</dc:description>
+  <dc:description>Hanya Holm (end center) and Mary Costa (far right) attend a planning session for the production of &quot;Orpheus and Eurydice&quot; in Vancouver, British Columbia, Canada.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1959</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>D025.04.0001.0007.00006</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37352</dc:identifier>
+  <dc:identifier>codu:37352</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37365</identifier>
+    <datestamp>2012-03-27T16:50:53Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Freidann Parker</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Parker, Freidann</dc:subject>
+  <dc:subject>Red Rocks Park (Colo.)</dc:subject>
+  <dc:subject>Red Rocks Amphitheater (Colo.)</dc:subject>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Dancers</dc:subject>
+  <dc:description>Handwritten on back of mount: &quot;Red Rocks circa 1950 Friedann [sic] Parker photo by Marshall Brooks.&quot;</dc:description>
+  <dc:description>Freidann Parker poses at Red Rocks Amphitheater in Red Rocks Park in Morrison, Colorado.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>circa 1950</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>D025.04.0001.0007.00001</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37365</dc:identifier>
+  <dc:identifier>codu:37365</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37346</identifier>
+    <datestamp>2012-03-27T16:52:19Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Vera Sears Dances</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Sears, Vera E.,--1912-2008</dc:subject>
+  <dc:subject>Lamont School of Music--Dance Department</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver</dc:subject>
+  <dc:subject>Dancers</dc:subject>
+  <dc:description>Vera Sears dances at the Lamont School of Music in Denver, Colorado.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1951</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>1 item, (photograph), 18.5 x 14 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>Signed on photograph: &quot;Marshall Brooks 1951&quot; Handwritten on back: &quot;Vera Sears at Lamont School of Denver&quot; Handwritten on Mount: &quot;Vera Sears Lamont School of Music photo by Marshall Brooks circa 1950 n.b. signed and dated on print 1951.&quot;</dc:format>
+  <dc:identifier>D025.04.0001.0008.00007</dc:identifier>
+  <dc:identifier>codu:37346</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37376</identifier>
+    <datestamp>2012-03-27T16:51:36Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hanya Holm</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:subject>Canada</dc:subject>
+  <dc:description>Handwritten on slide mount: &quot;Hanya and ? #92 Vancouver (Lucy) 1959.&quot;</dc:description>
+  <dc:description>Hanya Holm stands besides a man on a beach in Vancouver, British Columbia, Canada.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1959</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>D025.04.0001.0007.00007</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37376</dc:identifier>
+  <dc:identifier>codu:37376</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37357</identifier>
+    <datestamp>2012-03-27T16:52:08Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Carolyn Durand Brooks and Hanya Holm</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Brooks, Carolyn Durand,--1908-1999</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:description>Handwritten on slide mount: &quot;Carolyn and Hanya Holm #112 Oct. 1959 (Lucy).&quot;</dc:description>
+  <dc:description>Carolyn Durand Brooks and Hanya Holm stand outside an airport terminal.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1959</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>D025.04.0001.0007.00019</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37357</dc:identifier>
+  <dc:identifier>codu:37357</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37350</identifier>
+    <datestamp>2012-03-27T16:52:55Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Woman Dances</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Action shots</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Woman dances outdoors.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>circa 1950</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>D025.04.0001.0008.00006</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37350</dc:identifier>
+  <dc:identifier>codu:37350</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37341</identifier>
+    <datestamp>2012-03-27T16:51:12Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hanya Holm</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:subject>Choreographers</dc:subject>
+  <dc:description>Handwritten on slide mount: &quot;Hanya #246 1/30 2.8, 8/22/68, Hanya (Lucy).&quot;</dc:description>
+  <dc:description>Hanya Holm sits on a chair and bends over to adjust her shoe strap.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1968</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>D025.04.0001.0007.00024</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37341</dc:identifier>
+  <dc:identifier>codu:37341</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37375</identifier>
+    <datestamp>2012-03-27T16:50:45Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Performance of Orpheus and Eurydice</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Orpheus (Greek mythology)</dc:subject>
+  <dc:subject>Eurydice (Greek mythology)</dc:subject>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:subject>Canada</dc:subject>
+  <dc:subject>Choreographers</dc:subject>
+  <dc:description>Handwritten on slide mount: &quot;Orpheus and Eurydice Vancouver, Hanya Holm choreg #101, July 1959 (Lucy).&quot;</dc:description>
+  <dc:description>Dancers perform on the set of &quot;Orpheus and Eurydice,&quot; choreographed by Hanya Holm, in Vancouver, British Columbia, Canada.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1959</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>D025.04.0001.0007.00018</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37375</dc:identifier>
+  <dc:identifier>codu:37375</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37356</identifier>
+    <datestamp>2012-03-27T16:52:27Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Elizabeth Waters</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Waters, Elizabeth Hannah,--1910-1993</dc:subject>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>New Mexico</dc:subject>
+  <dc:subject>Dancers</dc:subject>
+  <dc:description>Handwritten on back of photograph: &quot;Elizabeth W. Waters, New Mexico 1948.&quot; Signature on front: &quot;Marshall Brooks.&quot;</dc:description>
+  <dc:description>Elizabeth Waters performs a interpretive dance, &quot;Shifting Landscapes of New Mexico,&quot; about the American Southwest outdoors in New Mexico.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1948</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>D025.04.0001.0006.00003</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37356</dc:identifier>
+  <dc:identifier>codu:37356</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37358</identifier>
+    <datestamp>2012-03-27T16:52:25Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Valerie Bettis and Harriet Roeder Perform Dance Sonata</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Bettis, Valerie</dc:subject>
+  <dc:subject>Roeder, Harriet</dc:subject>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Dancers</dc:subject>
+  <dc:description>Handwritten on back of mount: &quot;Photo by Marshall Brooks circa 1935.&quot;</dc:description>
+  <dc:description>Valerie Bettis and Harriet Roeder perform &quot;Dance Sonata,&quot; choreographed by Hanya Holm. Bettis and Roeder were part of the Hanya Holm Dance Company.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1935</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>D025.04.0001.0005.00003</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37358</dc:identifier>
+  <dc:identifier>codu:37358</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37354</identifier>
+    <datestamp>2012-03-27T16:51:44Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hanya Holm</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:description>Handwritten on slide mount: &quot;Hanya #98 (Lucy).&quot;</dc:description>
+  <dc:description>Hanya Holm hula hoops outdoors.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1959</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>D025.04.0001.0007.00013</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37354</dc:identifier>
+  <dc:identifier>codu:37354</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37369</identifier>
+    <datestamp>2012-03-27T16:51:47Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hanya Holm</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Mountains</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Handwritten on back of photograph: &quot;Copy Hanya Holm, Camping Colo. 194-?&quot;</dc:description>
+  <dc:description>Hanya Holm stands next to aspen trees in the mountains in Colorado.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1940-1949</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>D025.04.0001.0006.00001</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37369</dc:identifier>
+  <dc:identifier>codu:37369</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37366</identifier>
+    <datestamp>2012-03-27T16:51:18Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Mary Costa</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Costa, Mary</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:subject>Canada</dc:subject>
+  <dc:description>Handwritten on back of slide: &quot;Mary Costa (R) as Eurydice, Vancouver #93, Marshall Photo, 7/1959 (Lucy) Hanya choreg Orpheus and Eurydice.&quot;</dc:description>
+  <dc:description>Mary Costa and an unidentified woman pose with a member of the Royal Canadian Mounted Police on a street in Vancouver, British Columbia, Canada.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1959</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>D025.04.0001.0007.00008</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37366</dc:identifier>
+  <dc:identifier>codu:37366</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37347</identifier>
+    <datestamp>2012-03-27T16:52:05Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Freidann Parker</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Parker, Freidann</dc:subject>
+  <dc:subject>Red Rocks Park (Colo.)</dc:subject>
+  <dc:subject>Red Rocks Amphitheater (Colo.)</dc:subject>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Dancers</dc:subject>
+  <dc:description>Handwritten on back of print: &quot;Freidann Parker against backdrop of Red Rocks Amph. ca 1950 photo by Marshall Brooks&quot;.</dc:description>
+  <dc:description>Freidann Parker poses at Red Rocks Amphitheater in Red Rocks Park in Morrison, Colorado.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>circa 1950</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>D025.04.0001.0007.00002</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37347</dc:identifier>
+  <dc:identifier>codu:37347</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37337</identifier>
+    <datestamp>2012-03-27T16:51:39Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hanya Holm</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:description>Handwritten on slide mount: &quot; Hanya 7/59 #97, (Lucy).&quot;</dc:description>
+  <dc:description>Hanya Holm hula hoops outdoors.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1959</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>D025.04.0001.0007.00012</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37337</dc:identifier>
+  <dc:identifier>codu:37337</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37377</identifier>
+    <datestamp>2012-03-27T16:51:04Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hanya Holm</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:description>Handwritten on slide mount: Hanya #111 Oct. 1959 (Lucy).&quot;</dc:description>
+  <dc:description>Hanya Holm stands outside an airport terminal.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1959</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>D025.04.0001.0007.00016</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37377</dc:identifier>
+  <dc:identifier>codu:37377</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37372</identifier>
+    <datestamp>2012-03-27T16:52:22Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sonia Savig</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Dancers</dc:subject>
+  <dc:description>Handwritten on back: &quot;Dec 1954 Sonia Savig photo by Marshall Brooks.&quot;</dc:description>
+  <dc:description>Sonia Savig dances indoors.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1954</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograpgh), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>D025.04.0001.0007.00005</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37372</dc:identifier>
+  <dc:identifier>codu:37372</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37343</identifier>
+    <datestamp>2012-03-27T16:52:48Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Young Girls Dance In Class</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Brooks, Marshall, 1907-1985</dc:creator>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Girls</dc:subject>
+  <dc:subject>Children</dc:subject>
+  <dc:subject>Sears, Vera E.,--1912-2008</dc:subject>
+  <dc:subject>Lamont School of Music</dc:subject>
+  <dc:subject>Children&apos;s Dance Theatre (Denver, Colo.)</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Students</dc:subject>
+  <dc:subject>Dancers</dc:subject>
+  <dc:description>A group of young girls dance while Vera Sears plays a drum and instructs a class at the Children&apos;s Dance Theatre in the Lamont School of Music in Denver, Colorado. Lucy Brooks (left), daughter of Carolyn Durand Brooks and Marshall Brooks, and Melissa Weller (right) are pictured.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1952</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>1 item, (photograph), 6.5 x 9.5 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>Handwriting on back: &quot;Photo by Marshall Brooks Lamont School of Music Vera Sears with Drum Lucy Brooks L fron Melissa Weller R front.&quot;</dc:format>
+  <dc:identifier>D025.04.0001.0007.00004</dc:identifier>
+  <dc:identifier>codu:37343</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37339</identifier>
+    <datestamp>2012-03-27T16:51:52Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Mary Costa</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Costa, Mary</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:subject>Canada</dc:subject>
+  <dc:description>Handwritten on slide mount: &quot;Mary Costa (L) Orpheus and Eurydice, Vancouver #94 July 1959 (Lucy).&quot;</dc:description>
+  <dc:description>Mary Costa and an unidentified woman pose with a member of the Royal Canadian Mounted Police on a street in Vancouver, British Columbia, Canada.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1959</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>D025.04.0001.0007.00009</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37339</dc:identifier>
+  <dc:identifier>codu:37339</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37345</identifier>
+    <datestamp>2012-03-27T16:51:55Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hanya Holm</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Colorado College</dc:subject>
+  <dc:subject>Graduation (School)</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Choreographers</dc:subject>
+  <dc:description>Handwritten on slide mount: &quot; Hanya CC doctorate #114 June 1960 (Lucy).&quot;</dc:description>
+  <dc:description>Hanya Holm, wearing a cap and gown after receiving her honorary doctorate from Colorado College, Colorado waves as she exits a building.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1960</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>D025.04.0001.0007.00020</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37345</dc:identifier>
+  <dc:identifier>codu:37345</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37374</identifier>
+    <datestamp>2012-03-27T16:51:57Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hanya Holm</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Choreographers</dc:subject>
+  <dc:description>Handwritten on back of image: &quot;Hanya Holm circa 1935 photo by Marshall Brooks.&quot;</dc:description>
+  <dc:description>Hanya Holm poses for a portrait.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>circa 1935</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>D025.04.0001.0005.00001</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37374</dc:identifier>
+  <dc:identifier>codu:37374</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37359</identifier>
+    <datestamp>2012-03-27T16:52:00Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hanya Holm</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:description>Handwritten on slide mount: &quot; Hanya #100 July 1959 (Lucy).&quot;</dc:description>
+  <dc:description>Hanya Holm, in formal evening dress, stands next to a man indoors.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1959</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>D025.04.0001.0007.00015</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37359</dc:identifier>
+  <dc:identifier>codu:37359</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37373</identifier>
+    <datestamp>2012-03-27T16:52:03Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Carolyn Durand Brooks</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Brooks, Carolyn Durand,--1908-1999</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Dancers</dc:subject>
+  <dc:description>Carolyn Durand Brooks, formerly Carolyn Durand, dances in a field in Dorset, Vermont.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1939</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>1 item, (photograph), 4.5 x 6.5 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>Handwritten on back of photograph: &quot;Carolyn Durand Brooks 1930&apos;s, circa 1939 photo by Marshall Brooks.&quot;</dc:format>
+  <dc:identifier>D025.04.0001.0005.00007</dc:identifier>
+  <dc:identifier>codu:37373</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37348</identifier>
+    <datestamp>2012-03-27T16:51:33Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hanya Holm Dance Company Performs Dance of Work and Play</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Brooks, Carolyn Durand,--1908-1999</dc:subject>
+  <dc:subject>Hauser, Nancy Mason</dc:subject>
+  <dc:subject>Gentry, Eve</dc:subject>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Dance companies</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Dancers</dc:subject>
+  <dc:description>Handwritten on back of photograph: &quot;unident, unident, unident, unident, Nancy Hauser, Henrietta Greenhood (Eve Gentry Brooks), Carolyn Durand, (Brooks) Hanya Holm&apos;s group Dance of Work and Play photo by Marshall Brooks.&quot;</dc:description>
+  <dc:description>Carolyn Durand (later Carolyn Durand Brooks), Henrietta Greenhood (professionally known as Eve Brooks), and Nancy Hauser (left to right, front row) perform &quot;Dance of Work and Play,&quot; choreographed by Hanya Holm, at Bennington College in Bennington, Vermont. Durand, Hauser, and Brooks were all members of the Hanya Holm Dance Company. Back row and center middle dancers unidentified.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1937</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>D025.04.0001.0005.00005</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37348</dc:identifier>
+  <dc:identifier>codu:37348</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37353</identifier>
+    <datestamp>2012-03-27T16:51:31Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Mary Costa</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Costa, Mary</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:subject>Canada</dc:subject>
+  <dc:description>Handwritten on slide mount: &quot;Hanya&apos;s choreg Orpheus and Eurydice, Vancouver #95, July 1959 (Lucy).&quot;</dc:description>
+  <dc:description>Mary Costa walks with a woman and a man in a street in Vancouver, British Columbia, Canada.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1959</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>D025.04.0001.0007.00010</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37353</dc:identifier>
+  <dc:identifier>codu:37353</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37349</identifier>
+    <datestamp>2012-03-27T16:50:42Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hanya Holm and Vera Sears</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Sears, Vera E.,--1912-2008</dc:subject>
+  <dc:subject>Colorado Ballet</dc:subject>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Choreographers</dc:subject>
+  <dc:subject>Teachers</dc:subject>
+  <dc:description>Handwritten on back of photograph: &quot;Sept 79 Vera Sears and Hanya Holm Dance Library.&quot; Stamped on back of photograph: &quot;Sep 79 made by Kodak.&quot;</dc:description>
+  <dc:description>Vera Sears and Hanya Holm stand outside of the Colorado Ballet Center in Denver, Colorado.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1979</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>D025.04.0001.0009.00004</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37349</dc:identifier>
+  <dc:identifier>codu:37349</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55692</identifier>
+    <datestamp>2012-03-27T16:53:57Z</datestamp>
+    <setSpec>codu_55691</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Maurice B. Mitchell</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Bachrach, Fabian, 1917-</dc:creator>
+  <dc:subject>Universities and Colleges</dc:subject>
+  <dc:subject>Mitchell, Maurice B., 1915-1996</dc:subject>
+  <dc:subject>University of Denver. Chancellor&apos;s Office</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Chancellors</dc:subject>
+  <dc:description>Maurice B. Mitchell, Chancellor of University of Denver.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>11/1966</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>1 item, (photograph), Good Condition, 8 x 10 inches, on photographic paper, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>&apos;&apos;Maurice B. Mitchell,&apos;&apos; &apos;&apos;Nov 1966&apos;&apos;</dc:format>
+  <dc:identifier>M028.06.0013.0010.00001</dc:identifier>
+  <dc:identifier>codu:55692</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37371</identifier>
+    <datestamp>2012-03-27T16:52:57Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Group Poses Outside Colorado Ballet Center</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Sears, Vera E.,--1912-2008</dc:subject>
+  <dc:subject>Parker, Freidann</dc:subject>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Covillo, Lillian--1921-</dc:subject>
+  <dc:subject>Sears, Vera E.,--1912-2008</dc:subject>
+  <dc:subject>Colorado Ballet</dc:subject>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Dancers</dc:subject>
+  <dc:subject>Choreographers</dc:subject>
+  <dc:subject>Teachers</dc:subject>
+  <dc:description>Handwritten on back of photograph: &quot;Sept 79 left to right 1. Vera Sears 3. Hanya Holm 2. Freidann Parker 4. and Lil Covillo.&quot; Stamped on back of photograph: &quot;Sept 79 made by Kodak.&quot;</dc:description>
+  <dc:description>Vera Sears, Freidann Parker, Hanya Holm and Lillian Covillo stand outside of the Colorado Ballet Center in Denver, Colorado.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1979</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>D025.04.0001.0009.00003</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37371</dc:identifier>
+  <dc:identifier>codu:37371</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37370</identifier>
+    <datestamp>2012-03-27T16:53:03Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hanya Holm</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:description>Handwritten on slide mount: &quot; Hanya 1462 #190 8/1963 (Lucy).&quot;</dc:description>
+  <dc:description>Hanya Holm sits outside in a chair.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1963</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>D025.04.0001.0007.00023</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37370</dc:identifier>
+  <dc:identifier>codu:37370</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37342</identifier>
+    <datestamp>2012-03-27T16:52:11Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hanya Holm</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Colorado College</dc:subject>
+  <dc:subject>Graduation (School)</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Choreographers</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Hanya Holm stands outdoors in a cap and gown after receiving her honorary doctorate from Colorado College, Colorado.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1960</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>D025.04.0001.0007.00022</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37342</dc:identifier>
+  <dc:identifier>codu:37342</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37380</identifier>
+    <datestamp>2012-03-27T16:50:50Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Marshall Brooks and Hanya Holm</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Brooks, Marshall,--1907-1985</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:description>Handwritten on back of photograph: &quot;Hanya Holm and Marshall Brooks early 1960&apos;s at Brooks&apos; house.&quot;</dc:description>
+  <dc:description>Marshall Brooks and Hanya Holm sit together in the Brooks&apos; backyard in Denver, Colorado. Hanya Holm (left) looks at Brooks using a pepper shaker, while Brooks (right) uses tongs to look at Holm.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1960-1965</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>D025.04.0001.0009.00001</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37380</dc:identifier>
+  <dc:identifier>codu:37380</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37368</identifier>
+    <datestamp>2012-03-27T16:51:49Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hanya Holm</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Colorado College</dc:subject>
+  <dc:subject>Graduation (School)</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Choreographers</dc:subject>
+  <dc:description>Handwritten on slide mount: &quot;Hanya CC #115 June 1960 (Lucy).&quot;</dc:description>
+  <dc:description>Hanya Holm poses outside with a group of people after receiving her honorary doctorate from Colorado College, Colorado.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1960</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>D025.04.0001.0007.00021</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37368</dc:identifier>
+  <dc:identifier>codu:37368</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37360</identifier>
+    <datestamp>2012-03-27T16:51:01Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Performance of Orpheus and Eurydice</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Orpheus (Greek mythology)</dc:subject>
+  <dc:subject>Eurydice (Greek mythology)</dc:subject>
+  <dc:subject>Theater</dc:subject>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:subject>Canada</dc:subject>
+  <dc:subject>Choreographers</dc:subject>
+  <dc:description>Handwritten on slide mount: &quot;Orpheus and Eurydice, Vancouver, Hanya choreg &quot;102, July 1959 (Lucy).&quot;</dc:description>
+  <dc:description>Dancers perform on the set of &quot;Orpheus and Eurydice,&quot; choreographed by Hanya Holm, in Vancouver, British Columbia, Canada.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1959</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>D025.04.0001.0007.00017</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37360</dc:identifier>
+  <dc:identifier>codu:37360</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37361</identifier>
+    <datestamp>2012-03-27T16:51:06Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Two Young Girls Stretch at the Lamont School of Music</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Lamont School of Music--Dance Department</dc:subject>
+  <dc:subject>Children&apos;s Dance Theatre (Denver, Colo.)</dc:subject>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Girls</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Handwritten on back of mount. &quot;Lamont School of Music photo by Marshall Brooks ca. 1950.&quot;</dc:description>
+  <dc:description>Two girls stretch on a dance barre in the Children&apos;s Dance Theatre at the Lamont School of Music in Denver, Colorado.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1950</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>D025.04.0001.0008.00005</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37361</dc:identifier>
+  <dc:identifier>codu:37361</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37338</identifier>
+    <datestamp>2012-03-27T16:51:10Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hanya Holm</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:description>Handwritten on slide mount: &quot;Hanya #99 July &apos; 59 Lucy.&quot;</dc:description>
+  <dc:description>Hanya Holm hula hoops outdoors.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1959</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>D025.04.0001.0007.00014</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37338</dc:identifier>
+  <dc:identifier>codu:37338</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37367</identifier>
+    <datestamp>2012-03-27T16:50:58Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hanya Holm</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Mountains</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Handwritten on back: &quot;Hanya Holm Colorado Mountains photo by Marshall Brooks circa 1950.&quot;</dc:description>
+  <dc:description>Hanya Holm stands in the middle of a Colorado mountain landscape.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>circa 1950</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>D025.04.0001.0007.00003</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37367</dc:identifier>
+  <dc:identifier>codu:37367</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37378</identifier>
+    <datestamp>2012-03-27T16:51:41Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Modern Dance Group Performs</dc:title>
+  <dc:title></dc:title>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Dance companies</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:description>Modern dancers perform on stage.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1950-1965</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>1 item, (photograph), 6.5 inches x 4.5 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>Printed partial map on back of photograph. Indicates Fine Arts Center and Monument Creek.</dc:format>
+  <dc:identifier>D025.04.0001.0007.00026</dc:identifier>
+  <dc:identifier>codu:37378</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37379</identifier>
+    <datestamp>2012-03-27T16:52:14Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hanya Holm Dance Company Performs Dance of Work and Play</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Brooks, Carolyn Durand,--1908-1999</dc:subject>
+  <dc:subject>Gentry, Eve</dc:subject>
+  <dc:subject>Hauser, Nancy Mason</dc:subject>
+  <dc:subject>Dance companies</dc:subject>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Dancers</dc:subject>
+  <dc:description>Handwritten on back of photograph: &quot;Hanya Holm&apos;s Group Dance of work and play photo by Marshall Brooks.&quot; Handwritten on mount: Back Left Fr unident Carolyn Durand unident Nancy Hauser unident Henrietta Greenwood (Eve Gentry Brooks).&quot; Handwritten on card taped to mount: &quot;Performance of Dance Work and Play, choeographed by Holm, Bennington College. (photograph by Marshall Brooks, 1937).&quot;</dc:description>
+  <dc:description>Carolyn Durand (later Carolyn Durand Brooks, second from left), Nancy Hauser (front, center), and Henrietta Greenhood (professionally known as Eve Brooks, front row, far right) perform &quot;Dance of Work and Play,&quot; choreographed by Hanya Holm, at Bennington College in Bennington, Vermont. Durand, Hauser, and Brooks were all members of the Hanya Holm Dance Company. Other dancers unidentified.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1937</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>D025.04.0001.0005.00004</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37379</dc:identifier>
+  <dc:identifier>codu:37379</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37344</identifier>
+    <datestamp>2012-03-27T16:52:17Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Valerie Bettis and Harriet Roeder Perform Dance Sonata</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Bettis, Valerie</dc:subject>
+  <dc:subject>Roeder, Harriet</dc:subject>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Dancers</dc:subject>
+  <dc:description>Handwritten on back of photograph: &quot;Photo by Marshall Brooks circa 1935.&quot;</dc:description>
+  <dc:description>Valerie Bettis and Harriet Roeder perform &quot;Dance Sonata,&quot; choreographed by Hanya Holm. Bettis and Roeder were part of the Hanya Holm Dance Company.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>circa 1935</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>D025.04.0001.0005.00002</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37344</dc:identifier>
+  <dc:identifier>codu:37344</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37351</identifier>
+    <datestamp>2012-03-27T16:52:40Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hanya Holm</dc:title>
+  <dc:title>Photographs, Marshall Brooks Papers</dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Holm, Hanya</dc:subject>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:subject>Choreographers</dc:subject>
+  <dc:description>Handwrittten on back of photograph: &quot;Hanya&quot; Stamped on back of photograph: &quot;Kodachrome Print Made by Kodak Sept.68A.&quot;</dc:description>
+  <dc:description>Hanya Holm sits on a chair and bends over to adjust her shoe strap.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1968</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), ,</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>D025.04.0001.0009.00002</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37351</dc:identifier>
+  <dc:identifier>codu:37351</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37363</identifier>
+    <datestamp>2012-03-27T16:52:34Z</datestamp>
+    <setSpec>codu_37065</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Carolyn Durand Brooks</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Brooks, Marshall,--1907-1985</dc:creator>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Modern dance</dc:subject>
+  <dc:subject>Brooks, Carolyn Durand,--1908-1999</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Dorset (Vt.)</dc:subject>
+  <dc:subject>Dancers</dc:subject>
+  <dc:description>Carolyn Durand Brooks, formerly Carolyn Durand, dances in a field in Dorset, Vermont.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1939</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>1 item, (photograph), 2 x 2 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>Handwritten on back of photograph: &quot;Dorset Vermont Carolyn Durand Brooks circa 1939.&quot;</dc:format>
+  <dc:identifier>D025.04.0001.0005.00006</dc:identifier>
+  <dc:identifier>codu:37363</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

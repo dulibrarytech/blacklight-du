@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T05:26:00Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66003</identifier>
+    <datestamp>2013-08-23T13:57:25Z</datestamp>
+    <setSpec>codu_32562</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Business Administration Building (University Park Campus) - Construction</dc:title>
+  <dc:relation>University of Denver Historical Photograph Collection, Photographs, Subject Files</dc:relation>
+  <dc:date>1967-1968</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:type>StillImage</dc:type>
+  <dc:format>1 item (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Stamped on back of photographic print: &apos;&apos;University of Denver Archives. University of Denver Photo By: Richard W. Purdie.&apos;&apos; Written on back of photographic print: &apos;&apos;Const. of GCB/Biz Ad, late 1960&apos;s.&apos;&apos;</dc:description>
+  <dc:creator>Purdie, Richard W.</dc:creator>
+  <dc:description>Exterior view of the University of Denver&apos;s Business Administration Building on the University Park Campus in Denver, Colorado. The General Classroom Building is in the background.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:language>&quot;text&quot;&gt;English</dc:language>
+  <dc:identifier>U201.01.0015.0026.00002</dc:identifier>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Built environment</dc:subject>
+  <dc:subject>College buildings</dc:subject>
+  <dc:subject>College campuses</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:66003</dc:identifier>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_57862</identifier>
+    <datestamp>2013-08-31T21:24:01Z</datestamp>
+    <setSpec>codu_57861</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Ruth Underhill</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Marbeck, Margaret G.</dc:creator>
+  <dc:subject>Education</dc:subject>
+  <dc:subject>Anthropology</dc:subject>
+  <dc:subject>Ruth Underhill, 1884-1984</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Educators</dc:subject>
+  <dc:description>Portrait of Ruth Underhill wearing bead necklace.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1949-1952</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>1 item (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format>Photographic print</dc:format>
+  <dc:format>Written on back: &quot;Ruth Underhill,&quot; &quot;Please give credit to Margaret G. Marbeck Photographer&quot;</dc:format>
+  <dc:identifier>M060.02.0014.0007.00001</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:57862</dc:identifier>
+  <dc:identifier>codu:57862</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63748</identifier>
+    <datestamp>2013-09-17T22:09:18Z</datestamp>
+    <setSpec>codu_63642</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Editorial Staff - Kynewisbok, Vol. II</dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>StillImage</dc:type>
+  <dc:date>1899</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver </dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format>1 item (photograph)</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Photograph from the 1900 Kynewisbok published by the Junior Class at the University of Denver in Denver Colorado.  Pictured in the photograph from left to right is H. Orlena Beggs, Charles F. Carnine, Nanaruth Taggart, Lida Burkhard and E.N. Edgerton.  This image is found in the University of Denver Kynewisbok yearbook, volume 2 page 6 for the academic year 1899-1900.  </dc:description>
+  <dc:description>Title comes from the caption of the picture found in the 1900 Kynewisbok published by the Junior Class at the University of Denver in Denver Colorado.  </dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>College students</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver, Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Yearbooks </dc:subject>
+  <dc:relation>Kynewisbok</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>LD1568.D43kv.2-1900_p6_1</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance. </dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63748</dc:identifier>
+  <dc:subject>Universities and colleges</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64774</identifier>
+    <datestamp>2013-09-26T21:28:14Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Nurse taking patient&apos;s temperature on the porch of National Jewish Hospital for Consumptives</dc:title>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:date>1907</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:type>StillImage</dc:type>
+  <dc:format>1 item (photograph), 8 x 10 inches, sepia</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:description>On back of photograph: &apos;&apos;#1141 NJH First Building, 1907   Phallas Photo Labs Inc. Chicago/Denver/Milwaukee  Approval Print  client National Jewish Hospital   Invoice &apos;&apos; 64068  Date: 8-19-98  tech Data  3-116/93/16.5/5  w/Frame  Nurse taking patient&apos;s temperature at NJH, 1907&apos;&apos;.  On envelope: &apos;&apos;Early Historical NJH pictures of Patients and campus&apos;&apos;.</dc:description>
+  <dc:creator></dc:creator>
+  <dc:description>Several male patients are lying in beds on the porch at National Jewish Hospital, Denver, Colo. experiencing open-air treatment. A uniformed nurse takes one patient&apos;s temperature and pulse rate. The hospital was founded in 1899 as the National Jewish Hospital for Consumptives. </dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America, Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, page 76.</dc:description>
+  <dc:description>Donated by the National Jewish Hospital.</dc:description>
+  <dc:description>ph1141</dc:description>
+  <dc:language></dc:language>
+  <dc:identifier>B063.03.0035.00102</dc:identifier>
+  <dc:subject>National Jewish Hospital for Consumptives (U.S.)</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Medical centers</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colfax Avenue (Denver, Colo.)</dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:64774</dc:identifier>
+  <dc:contributor></dc:contributor>
+  <dc:creator>Phallas Photo Labs, Inc.</dc:creator>
+  <dc:contributor>National Jewish Hospital for Consumptives (U.S.)</dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_60062</identifier>
+    <datestamp>2013-10-17T23:06:43Z</datestamp>
+    <setSpec>codu_32561</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>From Peddlers to Merchant Princes: Early Colorado Jewish Entrepreneurs</dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor>Abrams, Jeanne E., 1951-</dc:contributor>
+  <dc:contributor>Pettit, Steven</dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:contributor>Rocky Mountain Jewish Historical Society</dc:contributor>
+  <dc:type>MovingImage</dc:type>
+  <dc:date>2006</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 item, (videodisc), 36 minutes, 35 seconds</dc:format>
+  <dc:format>Digital video recordings</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>4 3/4 inches</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Jews played a central role in the development of Colorado through their contributions to economic life and development. Denver&apos;s first mercantile store was opened by Jewish citizen Fred Salomon in 1859. Before long, stores run by Jewish merchants and their family members in search of work and wealth flourished on the main streets of most Colorado towns including, Denver, Central City, Leadville, Trinidad, and Fairplay. This film focuses on the lives of a number of early merchants, including some who founded national and regional empires: the Shwayder Brothers, who opened what become the world renowned Samsonite Luggage Company, David May, founder of the May Company department stores, Leopold Guldman, proprietor of the Leadville and later Denver&apos;s Golden Eagle Store, the city&apos;s first popular priced department store, and A.B. Hirschfeld who started the Hirschfeld Press in 1907.</dc:description>
+  <dc:description>Program made possible through the generous support of The Raphael Levy Memorial Foundation, The Mizel Family Foundation, Milt Morris, and The Charles &amp; Faye Schayer Endowment Fund.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Stores, Retail</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Fairplay (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Central City (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Leadville (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Trinidad (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject>Salomon, Fred Zadek</dc:subject>
+  <dc:subject>Shwayder Family</dc:subject>
+  <dc:subject>May, David</dc:subject>
+  <dc:subject>Hirschfeld Press</dc:subject>
+  <dc:subject>Shwayder Bros. Inc.</dc:subject>
+  <dc:subject>Samsonite Corporation</dc:subject>
+  <dc:subject>May Department Stores Company</dc:subject>
+  <dc:subject>Golden Eagle Dry Goods Company</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation>Rocky Mountain Jewish Historical Society Records, Publications</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B230.03.0012.00009</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>c2006, Rocky Mountain Jewish Historical Society.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:60062</dc:identifier>
+  <dc:subject>Hirschfeld, A. B.</dc:subject>
+  <dc:subject>Guldman, Leopold Henry, 1852-1936</dc:subject>
+  <dc:contributor>Starwest Productions</dc:contributor>
+  <dc:contributor>University of Denver. Center for Judaic Studies</dc:contributor>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_60090</identifier>
+    <datestamp>2013-10-17T23:39:17Z</datestamp>
+    <setSpec>codu_32561</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Blazing the Trail: An Early History of Denver’s Jewish Community</dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:contributor>Center for Judaic Studies (Beck Archives)</dc:contributor>
+  <dc:contributor>Rocky Mountain Jewish Historical Society</dc:contributor>
+  <dc:type>MovingImage</dc:type>
+  <dc:date>2009</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 item, (videodisc), 39 minutes, 59 seconds</dc:format>
+  <dc:format>Digital video recordings</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>4 3/4 inches</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Brief description of several early Jewish leaders of commerce, philanthropy, religion, and community as well as several Jewish lawyers, doctors, merchants, and politicians in Colorado.</dc:description>
+  <dc:description>Title from title screen.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish men</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Stores, Retail</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Trinidad (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Auraria (Denver, Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Leadville (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Aspen (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado Springs (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Cripple Creek (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Pueblo (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject>Salomon, Fred Zadek</dc:subject>
+  <dc:subject>Rothgerber, Ira</dc:subject>
+  <dc:subject>Morris, Percy Strouse</dc:subject>
+  <dc:subject>Alter, Noah A.</dc:subject>
+  <dc:subject>Rosenbaum, Charles</dc:subject>
+  <dc:subject>Sterling, Harry</dc:subject>
+  <dc:subject>May, David</dc:subject>
+  <dc:subject>Guggenheim, Meyer</dc:subject>
+  <dc:subject>Guggenheim, Simon</dc:subject>
+  <dc:subject>Londoner, Wolfe</dc:subject>
+  <dc:subject>Londoner, Julius</dc:subject>
+  <dc:subject>Plonsky, Henry</dc:subject>
+  <dc:subject>B&apos;nai B&apos;rith. Denver Lodge No. 171 (Denver, Colo.)</dc:subject>
+  <dc:subject>Salomon Brothers</dc:subject>
+  <dc:subject>Hebrew Ladies&apos; Benevolent Society (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver Ladies&apos; Relief Society.</dc:subject>
+  <dc:subject>National Jewish Hospital (U.S.)</dc:subject>
+  <dc:subject>Jewish Burial Society</dc:subject>
+  <dc:subject>C. M. Schayer Store</dc:subject>
+  <dc:subject>Temple Emanuel (Denver, Colo.)</dc:subject>
+  <dc:subject>Golden Eagle Dry Goods Company</dc:subject>
+  <dc:subject>May Department Stores Company</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Documentary films</dc:subject>
+  <dc:relation>Rocky Mountain Jewish Historical Society Records, Publications</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:60090</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>c. 2009, Rocky Mountain Jewish Historical Society.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:60090</dc:identifier>
+  <dc:contributor>Pettit, Steven</dc:contributor>
+  <dc:contributor>Abrams, Jeanne E., 1951-</dc:contributor>
+  <dc:contributor>Starwest Productions</dc:contributor>
+  <dc:contributor>University of Denver. Center for Judaic Studies</dc:contributor>
+  <dc:subject>Synagogues</dc:subject>
+  <dc:subject>Charities</dc:subject>
+  <dc:subject>Guldman, Leopold Henry, 1852-1936</dc:subject>
+  <dc:subject>Beth HaMedrosh Hagodol (Denver, Colo.)</dc:subject>
+  <dc:subject>Biographical films</dc:subject>
+  <dc:subject>Mayer, Leopold, 1839-</dc:subject>
+  <dc:subject>Jacobs, Abraham, 1834-</dc:subject>
+  <dc:subject>Jacobs, Frances Wisebart, 1843-1892</dc:subject>
+  <dc:subject>Anfenger, Louis, 1842-1900</dc:subject>
+  <dc:subject>Hornbein, Marjorie, 1913-2006</dc:subject>
+  <dc:subject>Anfenger, Milton L. (Milton Louis), 1874-1952</dc:subject>
+  <dc:subject>Friedman, William S., 1868-1944</dc:subject>
+  <dc:subject>Hornbein, Philip, 1915-1987</dc:subject>
+  <dc:subject>Schayer, Charles M., 1837-1907</dc:subject>
+  <dc:subject>Schayer, Ricka Saft (Fredricka), 1847-1921</dc:subject>
+  <dc:subject>Schayer, Charles M., 1913-1997</dc:subject>
+  <dc:subject>Elsner, John</dc:subject>
+  <dc:subject>Elsner, Lena</dc:subject>
+  <dc:subject>Kline, David</dc:subject>
+  <dc:subject>Morris, Ernest</dc:subject>
+  <dc:subject>Appel, Walter</dc:subject>
+  <dc:subject>Shwayder, Solomon, 1876-1931</dc:subject>
+  <dc:subject>Quiat, Simon, 1887-1981</dc:subject>
+  <dc:subject>Quiat, Ira Louis, 1891-1967</dc:subject>
+  <dc:subject>Mears, Otto, 1840-1931</dc:subject>
+  <dc:subject>Kauvar, C. E. Hillel (Charles Eliezer Hillel), 1879-1971</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66954</identifier>
+    <datestamp>2013-10-23T23:36:23Z</datestamp>
+    <setSpec>codu_44519</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Field Notes: 1st Expedition Summer 1921 Piedra Parada and 2nd Expedition Summer 1922</dc:title>
+  <dc:creator>Renaud, E. B. (Etienne Bernardeau), b. 1880</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:date>1921-1922</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format></dc:format>
+  <dc:format></dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:description>Good condition. 11 x 9 x 3 centimeters.</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Two-ring notebook of &apos;&apos;1st Expedition Summer 1921 Piedra Parada and 2nd Expedition Summer 1922.&apos;&apos;  The notebook contains field notes of the expeditions together with photographs of the sites and participants.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Archaeological museums and collections</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Renaud, E. B. (Etienne Bernardeau), b. 1880</dc:subject>
+  <dc:subject>University of Denver. Department of Anthropology</dc:subject>
+  <dc:subject>Research notes</dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>M015.02.0001.0026.00001</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright is held by the creator. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:66954</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

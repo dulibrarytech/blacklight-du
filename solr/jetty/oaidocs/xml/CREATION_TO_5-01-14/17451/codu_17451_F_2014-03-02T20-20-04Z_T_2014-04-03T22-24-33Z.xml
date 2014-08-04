@@ -1,0 +1,2877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T05:28:05Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55342</identifier>
+    <datestamp>2014-03-04T18:32:46Z</datestamp>
+    <setSpec>codu_55341</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Chancellor Henry Augustus Buchtel</dc:title>
+  <dc:type>StillImage</dc:type>
+  <dc:type></dc:type>
+  <dc:date>between 1899-1921</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>English</dc:language>
+  <dc:format>1 item, (photograph), 4.5 x 6.75 inches, sepia</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Handwritten on front of photograph: &quot;Very sincerely, Henry A. Buchtel AB 68.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Chancellor Henry Augustus Buchtel poses for a formal portrait, seated in an armchair.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Buchtel, Henry Augustus</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject>College presidents</dc:subject>
+  <dc:relation>University of Denver Historical Photograph Collection</dc:relation>
+  <dc:identifier>M048.06.0005.0001.00002</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55342</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55330</identifier>
+    <datestamp>2014-03-05T01:55:09Z</datestamp>
+    <setSpec>codu_32562</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver University Hall Cornerstone Laying</dc:title>
+  <dc:type>StillImage</dc:type>
+  <dc:type></dc:type>
+  <dc:date>4/3/1890</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>English</dc:language>
+  <dc:format>1 item, (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description>A crowd watches as a group of individuals lays the cornerstone for University of Denver (DU) University Hall in South Denver, Colorado.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Built environment</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Ceremonies</dc:subject>
+  <dc:subject>University of Denver. University Hall (Denver, Colo.)</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Event photographs</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject>College administrators</dc:subject>
+  <dc:subject>Spectators</dc:subject>
+  <dc:subject>Audiences</dc:subject>
+  <dc:relation>University of Denver Historical Photograph Collection</dc:relation>
+  <dc:identifier>U201.03.0011.0006.00001</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:55330</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>U201.03.0011.0006.00001</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58104</identifier>
+    <datestamp>2014-03-07T19:28:05Z</datestamp>
+    <setSpec>codu_67604</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Administrator Mabel Rilling</dc:title>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Women</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Recreation</dc:subject>
+  <dc:subject>Rilling, Mabel</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College administrators</dc:subject>
+  <dc:subject>College teachers</dc:subject>
+  <dc:description>University of Denver (DU) Director of Physical Education for Women Mabel Rilling poses for a formal portrait.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1909-1925</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>1 item (photograph), 6.5 x 8.5 inches, black and white</dc:format>
+  <dc:format>Halftone photomechanical prints</dc:format>
+  <dc:identifier>M195.01.0001.0001.00001.00001</dc:identifier>
+  <dc:identifier>codu:58104</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_67601</identifier>
+    <datestamp>2014-03-10T19:43:17Z</datestamp>
+    <setSpec>codu_67599</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Caller&apos;s Breakfast at Bud Brown&apos;s Barn</dc:title>
+  <dc:creator>Western Studio</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>StillImage</dc:type>
+  <dc:date>2/5/1949</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format></dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Group portrait of a square dance caller&apos;s breakfast at Bud Brown&apos;s Barn during a square dance festival in Phoenix, Arizona.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Square dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:67601</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_67600</identifier>
+    <datestamp>2014-03-10T19:43:32Z</datestamp>
+    <setSpec>codu_67599</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Festival Committee Group Portrait</dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>StillImage</dc:type>
+  <dc:date>10/16/1948</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format></dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Inscription on back of photograph: &quot;Festival Committee. October 16, 1948 - Festival. 140408.&quot; Jimmy Clossin in front row, eighth from right. Elizabeth Clossin in back row, seventh from right.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Square dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Clossin, Elizabeth</dc:subject>
+  <dc:subject>Clossin, Jimmy</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:67600</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66725</identifier>
+    <datestamp>2014-03-26T17:26:54Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>For the record. Small business &amp; imports </dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Sound</dc:type>
+  <dc:date>11/28/1967</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>sound</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 sound recording, 4 minutes, 28 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) answers questions from Colorado constituents during a segment of his For the record radio program on November 27, 1967 in Washington, D.C. Sen. Dominick discusses the appointment of a Colorado man to a small business industry advisory committee. This committee will advise the United States Senate Select Committee on Small Business, of which Dominick is a member, on issues of importance to the small business community. Dominick also discusses his efforts to impose quotas on livestock imports to the United States.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (71,052,084 bytes) and mp3 (1,879,899 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-293.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>International Trade</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:relation> Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:66725</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:66725</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.293</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66724</identifier>
+    <datestamp>2014-03-26T17:27:06Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Christmas message</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Best wishes</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) extends his best wishes for the holiday season to his Colorado constituents on December 15, 1967. Sen. Dominick notes that there are many servicemen away from home this year and expresses his desire for a peaceful world where U.S. servicemen can be home for the holiday season.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (17,275,908 bytes) and mp3 (457,527 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-292.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>12/15/1967</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 1 minutes, 5 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66724</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.292</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66723</identifier>
+    <datestamp>2014-03-26T17:27:11Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>H. Lee Sturgeon, E J Patrick, KHVI i.e. KAVI Rocky Ford</dc:title>
+  <dc:creator>Sturgeon, H. Lee</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Tuition tax credits</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>H. Lee Sturgeon, a civic leader from Rocky Ford, Colorado, reports on a speech given the previous night by Senator Peter H. Dominick (R-Colo.). During an interview on KAVI Radio on July 6, 1967, Sturgeon reviews the topics that the senator addressed including tuition tax credits for higher education, the Republican-proposed Human Investment Act, which would provide funding for on-the-job training, the Job Corps, revenue sharing programs and decentralization of government, the national debt and the devaluation of the dollar, and whether the senator would support tax increases versus reductions in government spending. Sturgeon relates Sen. Dominick&apos;s opinion on whether the Vietnam War is being waged successfully as well as the military strategies he would use to hasten the end of the war.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (400,561,518 bytes) and mp3 (10,597,065 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-290.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>7/6/1967</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 25 minutes, 13 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66723</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.290</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66721</identifier>
+    <datestamp>2014-03-26T17:27:21Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>For the record. Effectiveness of UN</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>United Nations</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) answers questions from Colorado constituents during a segment of his For the record radio program on August 8, 1967 in Washington, D.C. Sen. Dominick discusses his views of the effectiveness of the United Nations (UN) as a peacekeeping organization, especially as it relates to the Middle East War. He suggests that the United States should re-evaluate its stance towards the U.N. with the possibility of using the organization as an instrument for United States foreign policy. He also discusses the recent riots in some of the Midwestern and Eastern cities in the U.S., including his views on using the National Guard to control civil unrest.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (74,547,414 bytes) and mp3 (1,972,242 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-288.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>8/8/1967</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 4 minutes, 41 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66721</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.288</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66720</identifier>
+    <datestamp>2014-03-26T17:27:26Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>For the record. Obscene lit</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Obscenity (Law)</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) answers questions from Colorado constituents during a segment of his For the record radio program on October 31, 1967 in Washington, D.C. Sen. Dominick discusses the difficulty of regulating advertising for obscene literature that is sent through the mail because of the constitutional guarantee of freedom of speech and the definition of obscenity. He also comments about establishing home rule and voting representation in Congress for the District of Columbia as well as the increase in air traffic at the airport in Denver, Colorado.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (67,374,666 bytes) and mp3 (1,782,875 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-287.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>10/31/1967</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 4 minutes, 14 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66720</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.287</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>United States</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66719</identifier>
+    <datestamp>2014-03-26T17:27:31Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>For the record. Airports</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Aviation</dc:subject>
+  <dc:subject>Social security</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) answers questions from Colorado constituents during a segment of his For the record radio program on October 10, 1967 in Washington, D.C. Sen. Dominick explains that a rise in the number of sonic booms in Denver, Colorado are not part of a planned program of tests for a supersonic transport, and says that the U. S. Air Force may have to change aircraft flight patterns over the city to avoid accidentally breaking the sound barrier. He also discusses a proposed increase in Social Security benefits, which he stresses will have to be offset by a tax increase.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (76,043,124 bytes) and mp3 (2,012,178 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-286.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>10/10/1967</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 4 minutes, 47 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66719</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.286</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66718</identifier>
+    <datestamp>2014-03-26T17:27:36Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>For the record. Vietnam bombing, gun bill</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Vietnam War, 1961-1975</dc:subject>
+  <dc:subject>Gun control</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) answers questions from Colorado constituents during a segment of his For the record radio program on August 23, 1967 in Washington, D.C. Sen. Dominick discusses concerns that the bombing of targets near the North Vietnamese-Chinese border by the U.S. military will anger the Chinese government. Dominick says that he believes that only the movement of U.S. ground troops into North Vietnam would be seen as an act of aggression by the Chinese. He also states that he disagrees with the restrictive aspects of recently proposed federal firearms legislation, saying that these gun control bills will not effectively control crime.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (64,833,750 bytes) and mp3 (1,715,328 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-285.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>8/23/1967</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 4 minutes, 4 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66718</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.285</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers, Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66717</identifier>
+    <datestamp>2014-03-26T17:27:41Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>For the record. E-W trade, Colo River basin</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Colorado River Watershed (Colo.-Mexico)</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) answers questions from Colorado constituents during a segment of his For the record radio program on September 11, 1967 in Washington, D.C. Sen. Dominick agrees with a constituent who is dissatisfied that some United States allies are engaged in trade with communist countries who support the government of North Vietnam, and says that U. S. foreign aid will be withheld from countries who trade with the North Vietnamese. Dominick also discusses the topic of water supply in Colorado, including the rejection of plans for developing the Colorado River Basin in favor of building the Central Arizona Project. He discusses his bill to establish a pilot weather modification program to improve water supply in the Colorado River Basin.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (74,003,922 bytes) and mp3 (1,958,235 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-284.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>9/12/1967</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 4 minutes, 39 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66717</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.284</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66716</identifier>
+    <datestamp>2014-03-26T17:27:46Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Report from Washington. Military procurement part #1 </dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Sound</dc:type>
+  <dc:date>9/27/1967</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>sound</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 sound recording, 5 minutes, 4 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) delivers his weekly radio address, Report from Washington, on Sept. 27, 1967. Sen. Dominick discusses U.S. Army procurement practices, exemplified by a cost plus incentives R&amp;D contract awarded to the Nortronics division of Northrup Aviation, a large defense contractor, over a lower fixed price bid from Customs [sic] Packaging Company, a small business in Aurora, Colo.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (80,475,864 bytes) and mp3 (2,129,390 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-283.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Armed Forces, procurement</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>United States</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:relation> Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:66716</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:66716</dc:identifier>
+  <dc:identifier> F781.2.D66 S68 no.283</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66715</identifier>
+    <datestamp>2014-03-26T17:27:51Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>For the record. Trade</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Political campaigns</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) answers questions from Colorado constituents during a segment of his For the record radio program on November 16, 1967 in Washington, D.C. Sen. Dominick explains his position on U.S. trade with communist nations, which he says should be increased only if these countries make political concessions such as improving freedom of the press and the cessation of arms sales to the Middle East. He also discusses his opposition to a bill that would allow candidates for political office to use taxpayer funds to subsidize their campaigns.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (73,660,146 bytes) and mp3 (1,949,093 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-282.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>10/17/1967</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 4 minutes, 38 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66715</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.282</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66714</identifier>
+    <datestamp>2014-03-26T17:27:56Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Dominick report. ICC agrees to depositions</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Railroads</dc:subject>
+  <dc:subject>Train discontinuance</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Interstate Commerce Commission</dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>An unidentified announcer delivers the Dominick report, a weekly radio address summarizing news events for Colorado residents, on April 17, 1968 in Washington, D.C. The announcer discusses efforts by Senators Peter H. Dominick (R-Colo.) and Gordon L. Allott (R-Colo.) and Representative Donald G. Brotzman (R-Colo.) to force the Interstate Commerce Commission (ICC) to hold public hearings in Colorado on recent passenger train discontinuances that would negatively impact the state. He reads a telegram from Dominick, Allott and Brotzman to the Attorney General of Colorado announcing the precedent breaking decision of the ICC to allow the Colorado Public Utilities Commission to take depositions from Coloradoans on this issue.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (75,537,108 bytes) and mp3 (1,998,574 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-281.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>4/18/1968</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1sound recording, 4 minutes, 45 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66714</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.281</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>United States</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66713</identifier>
+    <datestamp>2014-03-26T17:28:01Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Dominick report. Florissant fossil beds</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Fossils--Colorado</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>An unidentified announcer delivers the Dominick report, a weekly radio address summarizing news events for Colorado residents, on May 6, 1968 in Washington, D.C. The announcer reads a letter from Senator Peter H. Dominick (R-Colo.) to Senator Alan H. Bible (D-Nev.) regarding the Florissant Fossil Beds in Colorado, in which he requests hearings on the resolution (H.R. 5605) to establish the beds as a national monument. The announcer also discusses a bill co-sponsored by Dominick and Senator Jacob K. Javits (R-NY) that would establish a corporation to provide funds for industrial development and technical assistance to developing countries. He also announces the authorization of a study by the U.S. Army Corps of Engineers meant to increase water supply to the San Luis Valley. The study is the result of a resolution made to the Senate Public Works Committee by Senators Dominick and Gordon R. Allott (R-Colo.).</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (80,544,720 bytes) and mp3 (2,130,962 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-280.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>5/3/1968</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 5 minutes, 4 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66713</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.280</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66712</identifier>
+    <datestamp>2014-03-26T17:28:06Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>For the record. Trains &amp; travel </dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Sound</dc:type>
+  <dc:date>1/29/1968</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>sound</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 sound recording, 4 minutes, 15 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) answers questions from Colorado constituents during a segment of his For the record radio program on January 29, 1968 in Washington, D.C. Sen. Dominick discusses recent attempts by the executive branch to achieve a balance of payments with Western Europe by assessing taxes on U.S. citizens traveling overseas. His opinion is that Congress will try to regulate tourist travel through customs duties and passport fees. Dominick also talks about recent passenger train discontinuances on unprofitable lines caused by the withdrawal of railway post office cars and notes that there will be public hearings before the Interstate Commerce Commission on the issue.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (67,725,556 bytes) and mp3 (1,792,128 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-99.wav. </dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Travel</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:relation> Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:66712</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.99</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:66712</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66711</identifier>
+    <datestamp>2014-03-26T17:28:11Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Report to Colorado. Washington riots</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Riots</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) delivers a radio address, Report to Colorado, on the aftermath of the riots in Washington, D.C. on April 11, 1968. Sen. Dominick discusses his tour of the city as a member of the Senate District of Columbia Committee, reporting the types of stores that were looted, the number of fires that had been set, as well as the number and types of arrests that had been made during the riots. Dominick also gives his opinion on the reasons for the looting as well as his conclusions about the looters.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav ((78,876,914 bytes) and mp3 (2,087,259 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-98.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>4/11/1968</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 4 minutes, 58 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66711</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.98</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66710</identifier>
+    <datestamp>2014-03-26T17:28:16Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>For the record. Gov&apos;t i.e. Government spending &amp; airports </dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Sound</dc:type>
+  <dc:date>8/6/1967</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>sound</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 sound recording, 4 minutes, 44 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) answers questions from Colorado constituents during a segment of his For the record radio program on September 5, 1967, in Washington, D.C. Sen. Dominick answers questions about government spending and air traffic congestion. He suggests that the Federal Aviation Administration (FAA) should adopt stronger air traffic control measures as well as install automatic locaters in planes in order to track them in case of an accident. He also recommends increasing weather reporting stations to assist aviation.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (75,138,308 bytes) and mp3 (1,988,334 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-97.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Government spending policy</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:66710</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.97</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:66710</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66709</identifier>
+    <datestamp>2014-03-26T17:28:21Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>For the record. Educ. i.e. Education</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Electronic Simulsense Theatre Company</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) answers questions from Colorado constituents during a segment of his For the record radio program on November 21, 1967 in Washington, D.C. Sen. Dominick discusses the importance of providing national funds to help schools near federal installations such as those in Colorado Springs, Colorado. In response to a question about the October 1967 Vietnam War protests and the March on the Pentagon, Dominick reiterates the rights of Americans to disagree, yet he expresses concern over the problems and unrest that a demonstration can create.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (80,956,674 bytes) and mp3 (2,142,117 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-96.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>11/22/1967</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 5 minutes, 5 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66709</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.96</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66708</identifier>
+    <datestamp>2014-03-26T17:28:26Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>For the record. Export Import Bank</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Floods</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) answers questions from Colorado constituents during a segment of his For the record radio program on August 29, 1967 in Washington, D.C. Sen. Dominick discusses the United States Senate&apos;s recent rejection of the financing of an automobile plant in the Soviet Union by the Export-Import Bank, stating that opposition to the proposal was caused by concerns that the plant could be easily converted to manufacturing armaments as well as the lack of political concessions imposed on the Soviet Union. Dominick also discusses flood control dams in Colorado, including Chatfield Dam along the South Platte River and the Bear Creek Dam near Mt. Carbon.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (72,880,128 bytes) and mp3 (1,928,174 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-95.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>8/29/1967</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 4 minutes, 35 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66708</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.95</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66707</identifier>
+    <datestamp>2014-03-26T17:28:31Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Report from Washington. I-70</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Interstate 70</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) delivers his weekly radio address, Report from Washington, on May 20, 1968. Sen. Dominick announces the decision to use the Vail Pass Route instead of the Red Buffalo Pass Route to build I-70 to the Western Slope of Colorado. He praises the Secretary of Agriculture, Orville L. Freeman, on this decision that will save money, insure preservation of wilderness resources, and speed the construction of the highway.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (78,833,894 bytes) and mp3 (2,085,979 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-94.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>5/20/1968</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 4 minutes, 57 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66707</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.94</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66706</identifier>
+    <datestamp>2014-03-26T17:28:36Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>For the record. Foreign trade, farm prices</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>International Trade</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) answers questions from Colorado constituents during a segment of his For the record radio program on March 21, 1968 in Washington, D.C. Sen. Dominick responds to questions about foreign trade. He states that U.S. trade with communist counties should be increased only for political advantage with the result of bolstering the U.S. economy, promoting improved press access to all countries, and forcing the Soviets to cease selling arms to the Middle East. Dominick suggests that we can use trade agreements to improve relations with the Soviet Union. Answering another question, Dominick notes that wool growers are experiencing economic conditions similar to those of the Depression because of the low parity pricing for wool.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (72,502,524 bytes) and mp3 (1,918,482 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-93.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>3/18/1968</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 4 minutes. 34 seconds.</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66706</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.93</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66704</identifier>
+    <datestamp>2014-03-26T17:28:46Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Dominick report. Washington report</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Riots</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>An unidentified announcer delivers the Dominick report, a weekly radio address summarizing news events for Colorado residents, on April 25, 1968 in Washington, D.C. The announcer relates the views of Senator Peter H. Dominick (R-Colo.) on a number of issues including the initiation of peace talks on the Vietnam War, the destructive riots in Washington, D.C. following the assassination of Martin Luther King Jr., and the national fiscal crisis caused by the government&apos;s failure to establish spending priorities and collect foreign debts to the United States. He also talks about Dominick&apos;s work on the Senate Select Committee on Small Business in helping small businesses adopt new technologies.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (80,492,778 bytes) and mp3 (2,129,865 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-91.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>4/25/1968</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 5 minutes, 4 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66704</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.91</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66703</identifier>
+    <datestamp>2014-03-26T17:28:51Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>For the record. Civil rights</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Civil rights</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) answers questions from Colorado constituents during a segment of his For the record radio program on March 6, 1968, in Washington, D.C. Sen. Dominick discusses the main provisions of the pending civil rights legislation, including protections for civil rights workers and federal enforcement of laws banning discrimination in housing based on race, religion and national origin. He notes that most congressional debate centered on including a federal fair housing proposal (Title VIII or the Fair Housing Act) in the final bill.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (75,700,464 bytes) and mp3 (2,003,145 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-90.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>5/6/1968</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1sound recording, 4 minutes, 46 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66703</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.90</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66702</identifier>
+    <datestamp>2014-03-26T17:28:56Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>For the record. Economic disaster</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Economics</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo) answers questions from Colorado constituents during a segment of his For the record radio program on May 14, 1968, in Washington, D.C. He reacts to the recent announcement by the Chairman of the Federal Reserve Board that the United States is in a fiscal crisis, and says the reasons for the crisis include inflation, high interest rates and high prices. He discusses a proposed surcharge tax as a remedy to offset inflation, which he would support if accompanied by cuts in expenditures.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (77,061,364 bytes) and mp3 (2,039,168 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-89.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>5/14/1968</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 4 minutes, 51 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66702</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.89</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66701</identifier>
+    <datestamp>2014-03-26T17:29:01Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>For the record. Middle East, and Cuban refugees</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>International relations</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) delivers his weekly radio address, Report from Washington, on July 26, 1967. Sen. Dominick discusses topics including the Middle East crisis, Felipe Rivera (a Cuban refugee who threatened to bomb the Cuban Pavilion at Expo 67) and Cuban refugees in general.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (88,914,680 bytes) and mp3 (2,352,768 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-88.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>7/19/1967</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 5 minutes, 36 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66701</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.88</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66700</identifier>
+    <datestamp>2014-03-26T17:29:06Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>For the record. Congo, Headstart</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>International relations</dc:subject>
+  <dc:subject>Head Start programs</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) answers questions from Colorado constituents during a segment of his For the record radio program on September 18, 1967 in Washington, D.C. Sen. Dominick discusses a letter he sent to President Lyndon B. Johnson protesting the executive order that caused the deployment of U.S. military personnel and aircraft to the Democratic Republic of the Congo, saying that he has requested their immediate withdrawal. He also reviews the reasons behind his efforts to move the Head Start Program to the United States Department of Education, and briefly discusses the production of sandwich coins due to a silver shortage.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (64,874,748 bytes) and mp3 (1,716,791 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-87.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>9/18/1967</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 audio recording, 4 minutes, 5 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66700</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.87</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66699</identifier>
+    <datestamp>2014-03-26T17:29:12Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Report from Washington. Operation Gasbuggy</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Sound</dc:type>
+  <dc:date>2/23/1966</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>sound</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 sound recording,6 minutes, 20 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) delivers his weekly radio address, Report from Washington, on Feb. 23, 1966. Sen. Dominick discusses topics including a recent nuclear test explosion jointly conducted in New Mexico by the AEC and El Paso Natural Gas as part of the Plowshare program, additional tests to be conducted in Colorado, and the potential for peaceful nuclear applications in oil, gas and oil shale recovery.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (100,574,442 bytes) and mp3 (2,661,248 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-86.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Energy policy</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:relation> Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:66699</dc:identifier>
+  <dc:identifier> F781.2.D66 S68 no.86</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:66699</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66698</identifier>
+    <datestamp>2014-03-26T17:29:17Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>KLZ TV interview with Bob Gray</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Bob [Core/Kohr/Coor?] questions Senator Peter H. Dominick (R-Colo.) for the Congressional reports program on October 10, 1967. Sen. Dominick addresses topics including the proposed Central Arizona Project, water rights in adjoining states, appropriations bills, formulas for federal aid to impacted areas, interstate highways, passenger train discontinuances and advocates for the requirement of air crash locator beacons.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (218,296,560 bytes) and mp3 (5,775,488 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-85.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>10/10/1967</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 13 minutes, 44 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66698</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.85</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66697</identifier>
+    <datestamp>2014-03-26T17:29:23Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Bolshevik revolution</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Communism</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.), Senator Clifford P. Hansen (R-Wyo.) and Reader&apos;s Digest senior editor Eugene Lyons discuss the Soviet Union on the 50th anniversary of the world communist movement. They talk about a variety of topics including the United States-Soviet nuclear arms race, trade between the U.S. and the Soviet Union and the balance between the Soviet Union&apos;s military and domestic expenditures.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (88,427,750 bytes) and mp3 (2,339,785 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-84.wav</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>11/7/1967</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 5 minutes, 34 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66697</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.84</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Russia</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66696</identifier>
+    <datestamp>2014-03-26T17:29:28Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>For the record. Highway funds, import quota</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>International Trade</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) answers questions from Colorado constituents during a segment of his For the record radio program on October 24, 1967 in Washington, D.C. Sen. Dominick explains that Senator Everett M. Dirksen&apos;s (R-Ill.) efforts to attach an import quota measure to a Social Security benefits bill was an attempt to protect the measure from a presidential veto. He also responds to a question about a proposed freeze of federal highway program funds, explaining that a freeze would only slow the pace of needed highway work rather than ease the federal budget crisis.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (63,117,246 bytes) and mp3 (1,670,345 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-83.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>10/24/1967</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 3 minutes, 58 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66696</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.83</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66695</identifier>
+    <datestamp>2014-03-26T17:29:33Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>For the record. Foreign debts surtax</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>International relations</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) answers questions from Colorado constituents during a segment of his For the record radio program on March 25, 1968 in Washington, D.C. Sen. Dominick discusses foreign debt to the United States, naming several countries that are overdue in their debt payments. He also states his opposition to exchanging gold for United States currency held by delinquent debtor nations until they become current in their payments. Dominick outlines reductions in federal expenditures that he would make in addition to the 10 percent tax surcharge proposed by the Nixon Administration.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (76,137,320 bytes) and mp3 (2,014,665 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-82.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>3/28/1968</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 4 minutes, 47 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66695</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.82</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66694</identifier>
+    <datestamp>2014-03-26T17:29:38Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>For the record. FOBS &amp; farmers </dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Sound</dc:type>
+  <dc:date>10/17/1967</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>sound</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 sound recording, 4 minutes,12 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) answers questions from Colorado constituents during a segment of his For the record radio program on October 17, 1967, in Washington, D.C. Sen. Dominick reponds to a question about the Soviet Union&apos;s Fractional Orbital Bombardment System (FOBS), explaining how the intercontinental ballistic missile system works. He discusses whether the system violates international nuclear treaties as well as his concern that an anti-missile defense system will not be developed quickly enough. He also answers a question about his comments that economic conditions for Colorado wool growers are worse now than during the Depression because of the low parity pricing for wool.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (66,930,646 bytes) and mp3 (1,771,099 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-81.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Farms</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:66694</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.81</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:66694</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66693</identifier>
+    <datestamp>2014-03-26T17:29:43Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>For the record. Budget</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Budgets</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) answers questions from Colorado constituents during a segment of his For the record radio program on May 8, 1968 in Washington, D.C. Sen. Dominick discusses how cuts in the federal budget will impact ongoing projects in Colorado, such as the Frying Pan-Arkansas water reclamation project. He also answers a question about acquiring land around the fossil beds in Florissant, Colorado in order to create a national monument.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (65,344,448 bytes) and mp3 (1,729,225 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-80.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>5/8/1968</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 4 minutes, 6 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66693</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.80</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66692</identifier>
+    <datestamp>2014-03-26T17:29:48Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Report from Washington. Foreign Service Corps</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>International relations</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) delivers his weekly radio address, Report from Washington, on June 28, [1968?]. Sen. Dominick discusses failed proposals for a foreign service academy similar to the U.S. military service academies. He calls for the creation of a Foreign Service Corps, and federal aid to students preparing for foreign service careers at existing U.S. universities.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (76,505,856 bytes) and mp3 (2,024,174 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-78.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>06/28/1968</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 4 minutes, 49 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66692</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.78</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66691</identifier>
+    <datestamp>2014-03-26T17:29:53Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>For the record. Meaning of Dodd censure, poverty in Washington, D.C.</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Poverty</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) answers questions from Colorado constituents during a segment of his For the record radio program on August 15, 1967 in Washington, D. C. Sen. Dominick discusses the censure of Senator Thomas J. Dodd (D-Conn.), who was accused of taking political contributions and using them for personal gain. He also discusses some reasons for poverty in Washington, D.C. and relates his efforts to alleviate this problem.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (76,206,174 bytes) and mp3 (2,016,128 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-77.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>8/10/1967</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 4 minutes, 48 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66691</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.77</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Paper. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66690</identifier>
+    <datestamp>2014-03-26T17:29:58Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Capitol Hill today, WRC radio. Statement on McGovern-Hatfield amendment</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Vietnam War, 1961-1975</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) makes a brief statement expressing why he opposes the McGovern-Hatfield Amendment, which would cut off funds for the Vietnam War as well as set a date for complete troop withdrawal from Vietnam.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (10,063,872 bytes) and mp3 (266,368 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-57.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>6/15/1971</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 38 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66690</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.57</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66689</identifier>
+    <datestamp>2014-03-26T17:30:03Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Report from Washington. Medicare</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Medicare</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Congressman Peter H. Dominick (R-Colo.) delivers his weekly radio address, Report from Washington in late May 1962. Rep. Dominick discusses the topic of providing health care for senior citizens, stating that the debate in Congress centers on how a medical assistance program will be structured and financed. Dominick reviews elements of the 1960 Kerr-Mills Act as well as the current proposal called the King-Anderson Bill, comparing covered medical costs and funding for each plan.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (85,293,924 bytes) and mp3 (2,256,585 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-54.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>5/26/1962</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 5 minutes, 22 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66689</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.54</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66688</identifier>
+    <datestamp>2014-03-26T17:30:09Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Report from Washington. Allied support to South Vietnam</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Vietnam War, 1961-1975</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) delivers his weekly radio address, Report from Washington, on June 10, 1965. Sen. Dominick discusses topics including communist aggression in Vietnam and criticism against the U.S. He gives his support to the United States&apos; presence in Vietnam, and enumerates many countries that are currently supporting the South Vietnamese government.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (76,908,288 bytes) and mp3 (2,034,779 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-53.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>6/10/1965</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 4 minutes, 50 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66688</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.53</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66687</identifier>
+    <datestamp>2014-03-26T17:30:13Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Report from Washington. Trade with communist bloc nations</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>International Trade</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) delivers his weekly radio address, Report from Washington, on May 27, 1965. Sen. Dominick discusses his views regarding a proposed expansion of trade with communist countries. Dominick supports a no concession, no trade policy. In other words, the United States should make sure that communist bloc countries make political concessions in return for relaxed restrictions on trade of strategic and non-strategic goods.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (76,406,784 bytes) and mp3 (2,021,431 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-52.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>5/27/1965</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 4 minutes, 48 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66687</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.52</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66686</identifier>
+    <datestamp>2014-03-26T17:30:18Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Report from Washington. Fish flour </dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Sound</dc:type>
+  <dc:date>8/18/1966</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>sound</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 sound recording, 5 minutes, 3 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Congressman Peter H. Dominick (R-Colo.) delivers his weekly radio address, Report from Washington, on August 18, 1962. Rep. Dominick discusses testimony on a bill before the U.S. House Subcommittee on Health and Safety which would overturn a food safety ruling of the Food and Drug Administration. A company that manufactures flour made from whole fish wants Dominick&apos;s committee to approve the bill, which would allow use of the chemically treated flour in numerous bakery products.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (80,409,848 bytes) and mp3 (2,127,671 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-51.wav. </dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Department of Agriculture</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>United States</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:relation> Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:66686</dc:identifier>
+  <dc:identifier> F781.2.D66 S68 no.51</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:66686</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66685</identifier>
+    <datestamp>2014-03-26T17:30:23Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Report from Washington. Council for a Livable World</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Nuclear disarmament</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) delivers his weekly radio address, Report from Washington, on July 2, 1964. Sen. Dominick discusses the Council for a Livable World, including its mission of promoting nuclear disarmament and its financial support for various members of Congress.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (81,039,360 bytes) and mp3 (2,144,128 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-50.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>7/2/1964</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 5 minutes, 6 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66685</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.50</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66684</identifier>
+    <datestamp>2014-03-26T17:30:27Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Report from Washington. Foreign aid</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Foreign Aid program</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) delivers his weekly radio address, Report from Washington, on February 4, 1966. Sen. Dominick discusses the reasons for his opposition to President Lyndon B. Johnson&apos;s recent request to Congress for a 5 year authorization of the government&apos;s foreign aid program. He also suggests alternatives to President Johnson&apos;s request, which he says would allow Congress to fulfill its constitutional reponsibilities in overseeing government spending.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (76,320,768 bytes) and mp3 (2,019,237 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-49.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>2/4/1966</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 4 minutes, 48 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66684</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.49</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66683</identifier>
+    <datestamp>2014-03-26T17:30:31Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Brief report. United States-Soviet joint lunar landing</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Outer space</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) delivers his radio address, a Brief report, in 1963. In the portion of the recording that can be heard, Sen. Dominick discusses President John F. Kennedy&apos;s proposal to cooperate with the Soviet Union in a joint lunar landing. He says the proposal raises many questions including whether this indicates a change in U.S. policy toward the Soviet Union, how the effort will affect NASA&apos;s space projects and budget, and whether the cooperative program will strengthen or weaken our national security.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (88,043,750 bytes) and mp3 (2,329,984 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-33.progA.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>2/1965</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:type>sound</dc:type>
+  <dc:format>1 sound recording, 5 minutes, 32 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:identifier>codu:66683</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.33.1</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Peter H. Dominick Papers.  Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66682</identifier>
+    <datestamp>2014-03-26T17:30:36Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Report from Washington. Future Homemakers of America week </dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Sound</dc:type>
+  <dc:date>3/24/1966</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>sound</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 sound recording, 4 minutes, 38 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) delivers his weekly radio address, Report from Washington, on March 24, 1966. Sen. Dominick announces the date of National Future Homemakers of America Week, March 27- April 2, 1966. He explains that the 600,000 members of the Future Homemakers of America (FHA) organization are girls enrolled in home economics courses in junior and senior high school. He also discusses the goals, history and organizational structure of the FHA.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (73,580,814 bytes) and mp3 (1,947,008 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-46.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Economics</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:relation> Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:66682</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.46</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:66682</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66681</identifier>
+    <datestamp>2014-03-26T17:30:40Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Report from Washington. Signs of inflation</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Sound</dc:type>
+  <dc:date>12/2/1965</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>sound</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 sound recording, 4 minutes, 37 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) delivers his weekly radio address, Report from Washington, on December 2, 1965. Sen. Dominick says that the most important question facing the economy is whether the current prosperity can continue indefinitely. He also states his concern about current fiscal policies. He discusses signs of inflation including increases in prices for food, commodities, and industrial and consumer goods as well as an increase in overall cost of living expenses. Other topics include expansion of the federal government and the gold standard.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (73,543,674 bytes) and mp3 (1,945,728 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-38.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Economics</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:66681</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.38</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:66681</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66680</identifier>
+    <datestamp>2014-03-26T17:30:44Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Capitol cloakroom. Senator Peter H. Dominick interview </dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Sound</dc:type>
+  <dc:date>2/28/1963</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>sound</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 sound recording, 24 minutes, 35 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) answers questions from CBS news correspondents Roger Mudd, Paul Niven, and Wells Church during the 747th edition of the radio program, Capitol cloakroom, on February 28, 1963 in Washington, D.C. Sen. Dominick discusses his views on topics including daylight savings time, contributing factors to his successful election to the United States Senate, U. S. concessions during negotiations of the Nuclear Test Ban Treaty, United States foreign policy, Republican presidential nominees for the upcoming election, the financing of Medicare through Social Security taxes and federal versus state civil rights legislation. He also discusses tax policy, outlining numerous government programs that he would eliminate or change in order to allow a tax cut.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (390,543,588 bytes) and mp3 (10,332,288 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-34.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:relation> Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:66680</dc:identifier>
+  <dc:identifier> F781.2.D66 S68 no.34</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:66680</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66678</identifier>
+    <datestamp>2014-03-26T17:30:48Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Vietnam War interview </dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Sound</dc:type>
+  <dc:date>1965</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>sound</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 sound recording, 5 minutes, 43 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) answers questions about the Vietnam War posed by an interviewer named [Karl/Carl?]. Sen. Dominick discusses Nixon&apos;s proposal to continuously bomb Vietcong supply lines and staging areas, rumors of the existence of secret negotiations to end the war, whether Congress should investigate the conduct of the war and if there is bipartisan Congressional support for the administration&apos;s strike for strike policy.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (90,833,126 bytes) and mp3 (2,403,675 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-33.progB.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Vietnam War, 1961-1975</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings </dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography </dc:subject>
+  <dc:subject>Digital images </dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:relation> Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:66678</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.33.2</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:66678</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66677</identifier>
+    <datestamp>2014-03-26T17:30:53Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Peter H. Dominick speech, Fort Collins (motel convention), Foreign policy &amp; new frontiers legislative program</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Sound</dc:type>
+  <dc:date>9/27/1963</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>sound</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 sound recording, 42 minutes, 54 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) delivers a speech to attendees of the Motel Association meeting in Fort Collins, Colo. on Sept. 27, 1963. Sen. Dominick discusses the recently passed Nuclear Test Ban Treaty. He reports that there are a large number of pieces of legislation before Congress on topics including civil rights, taxes, and foreign aid, and explains why it will be difficult to pass these bills before the end of the session. Dominick also discusses the federal budget, saying that decreases in government spending must accompany any tax cuts in order to avoid raising the national debt limit, curb inflation and stabilize the dollar.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (681,111,810 bytes) and mp3 (38,063,305 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-32.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>International relations</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings </dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography </dc:subject>
+  <dc:subject>Digital images </dc:subject>
+  <dc:subject>Photographs </dc:subject>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:66677</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.32</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:66677</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66676</identifier>
+    <datestamp>2014-03-26T17:30:58Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Editors day at CSU </dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Sound</dc:type>
+  <dc:date>10/6/1962</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>sound</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 audio recording, 1 hr., 30 minutes, 37 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Congressman Peter H. Dominick (R-Colo.) participates in Editors&apos; Day, a political forum sponsored by the League of Women Voters of Fort Collins, Colo., at Colorado State University on Sat., Oct. 6, 1962. The forum was held to acquaint Colorado voters with the Colorado gubernatorial candidates, incumbent Gov. Stephen L. R. McNichols (D) and Attorney John A. Love (R), and the U. S. Senatorial candidates, Rep. Dominick and incumbent Sen. John A. Carroll (D). Each candidate gives a 12 minute speech and answers audience questions covering topics including the growth of Colorado&apos;s budget and economy, spending on higher education in Colorado, excessive taxation at the state level, the negative impact of a centralized government on free enterprise and individual liberties, reductions in federal income taxes and decreases in government spending, increasing government efficiency, U.S. foreign policy, whether the candidate would accept or reject the support of the John Birch Society, Colorado highway construction, workmen&apos;s compensation benefits in Colorado, civil rights and communist military buildup in Cuba.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (1,438,783,488 bytes) and mp3 (38,063,305 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-30.wav. </dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings </dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images </dc:subject>
+  <dc:subject>Photographs </dc:subject>
+  <dc:relation> Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:66676</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.30</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:66676</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66675</identifier>
+    <datestamp>2014-03-26T17:31:03Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Ladies of the press. Sen. Dominick</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Sound</dc:type>
+  <dc:date>12/1/1963</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>sound</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 audio recording, 27 minutes, 24 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Following a winter driving safety public service announcement, Senator Peter H. Dominick (R-Colo.) answers questions from moderator Clifford Evans, syndicated columnist Inez C. Robb, and Associated Press Women&apos;s Editor Joy Miller during a segment of WOR&apos;s radio program, Ladies of the press, on December 1, 1963 in New York, N.Y. Sen. Dominick discusses topics including the transfer of power to President Lyndon B. Johnson following President John F. Kennedy&apos;s assassination, the timing for passage of tax and civil rights legislation, reasons for the 88th Congress&apos; lack of accomplishments, civil rights demonstrations, Congressional support for civil rights legislation, the ability of President Johnson to achieve compromise legislation, summit meetings with the Soviet Union and Cuba, women running for elective office, eliminating Communism in Cuba and his views on the Kennedy presidency. Dominick also discusses possible candidates for the presidency in the 1964 election, whether the end of the Cold War will trigger an economic depression, and the effect Kennedy&apos;s assassination may have on the activities of hate groups.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (435,019,776 bytes) and mp3 (11,508,608 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Press</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography </dc:subject>
+  <dc:subject>Digital images </dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:relation> Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:66675</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:66675</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.28</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T05:18:00Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_60039</identifier>
+    <datestamp>2013-01-08T21:56:01Z</datestamp>
+    <setSpec>codu_59132</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Ann Marie Blessin</dc:title>
+  <dc:creator></dc:creator>
+  <dc:creator>Blessin, Ann Marie</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:contributor>Brown, Joan C. (Joan Cooper)</dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Sound</dc:type>
+  <dc:date>2006</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 item (sound tape cassette), 56 minutes, 22 seconds</dc:format>
+  <dc:format>Analog audio recordings</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description> Ann Marie Blessin recounts her early years growing up in Scotland and Canada. By the age of 13, Blessin was teaching dance, and was certified to teach Highland dancing as well as tap dancing. Blessin&apos;s grandmother wanted her to pursue a career as a nurse so she enrolled in nursing school, but never finished the degree. She talks about teaching tap dancing for the Linkletter/Tauten Dance Studio in Arizona and then in Denver, Colorado. Blessin discusses her involvement in sacred dance that began in 1969. Blessin was involved both with the church and with dancing so in 1969 choir director, Lee Fiser, of the Park Hill Methodist Church asked her to choreograph Benjamin Britton&apos;s, &quot;Ceremony of Carols&quot;, which his group was presenting. That was the beginning of Blessin&apos;s lifetime involvement in sacred dance. She devised interpretive movements for her sacred dance that she would formulate from listening to the music and words. Blessin says in moving to the music, working with the rhythms the dance comes from the feelings and thoughts inside, from the creative process. She involved others, dancing at churches and gatherings. Ann Marie Blessin talks about meeting Connie Fisher, a founding mother of sacred dance, in 1970. Fisher led sacred dance troupes, The Jubilate Dancers and The Celebrants, which Blessin joined. The groups toured and presented workshops all over the Denver Metro Area. Blessin and others formed the Rocky Mountain Sacred Dance Guild in the 1970s. The National Sacred Dance Guild did exist at that time but was headquartered in the East with little communication with the West. Blessin discusses enrolling at the Colorado Women&apos;s College in 1976 where she studied dance, dance therapy, anatomy and kinesiology. She studied folk dance with Rita Berger. After graduating she worked for 16 years with the elderly in nursing homes and hospitals. She was interested in gerontology and aging so she worked with Edith Sherman at the University of Denver. Blessin ends the interview by discussing in detail her continued involvement with the Sacred Dance Guild and sacred dance. </dc:description>
+  <dc:description>Interview conducted in two sessions: May 8, 2006 and June 30, 2006.</dc:description>
+  <dc:description>Ann Marie Blessin was born in Edinburgh, Scotland. She learned Highland dancing early in life. Her family moved to Canada when she was ten. She married and lived in Belgium, Canada, and Arizona before settling in Denver, Colorado. She raised two children. Blessin is a member of the National Sacred Dance Guild, serving as its president from 1993 through 1996. She continued to work with the Rocky Mountain Chapter of the Sacred Dance Guild. She taught sacred dance at the Iliff School of Theology.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject>Religious dance</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Canada</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Scotland</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage> 
+ <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject>Blessin, Ann Marie</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Colorado Women&apos;s College</dc:subject>
+  <dc:subject>Sacred Dance Guild</dc:subject>
+  <dc:subject>Iliff School of Theology</dc:subject>
+  <dc:subject>Sacred Dance Guild. Rocky Mountain Chapter</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject>Audiocassettes</dc:subject>
+  <dc:relation>Carson-Brierly Dance Library &apos;Living Legends of Dance&apos; Oral Histories</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:60039</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:60039</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59351</identifier>
+    <datestamp>2013-01-15T22:28:48Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Harry Richman Behind Bar at R and S Buffet</dc:title>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:date>between 1925-1930</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:type>StillImage</dc:type>
+  <dc:format>1 item (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Handwritten on envelope: &apos;&apos;#496 Richman Family&apos;&apos;.  On back of photograph: &apos;&apos;R and S Buffet 18th and Arapahoe 1925-30  Harry Richman behind bar   donor Margaret Richman Piehl  #496&apos;&apos;.</dc:description>
+  <dc:creator></dc:creator>
+  <dc:description>Interior of R and S Buffet at 18th and Arapahoe in Denver, Colorado. Harry Richman is standing behind the bar and an unidentified man is having a drink.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Donated by Margaret Richman Piehl.</dc:description>
+  <dc:description>ph496</dc:description>
+  <dc:language></dc:language>
+  <dc:identifier>codu:59351</dc:identifier>
+  <dc:subject>Richman, Harry Carl</dc:subject>
+  <dc:subject>R and S Buffet</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Bars (Drinking establishments)</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Interior views</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59351</dc:identifier>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59316</identifier>
+    <datestamp>2013-01-15T22:30:41Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Becky, Margaret and Harry Richman in Candy Store</dc:title>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:date>circa 1912</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:type>StillImage</dc:type>
+  <dc:format>1 item (photograph), 4 x 5 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Handwritten on envelope: &apos;&apos;#496 Richman Family&apos;&apos;.  On back of photograph: &apos;&apos;Mrs. Becky Richman with Margaret and Harry Richman in candy store and Ice Cream Parlor under the viaduct, c 1912  donor Margaret Richman Piehl  #496&apos;&apos;.</dc:description>
+  <dc:creator></dc:creator>
+  <dc:description>Becky, Margaret, and Harry Richman standing behind the counter in their candy store and ice cream parlor. Margaret Richman became Margaret Richman Piehl.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Donated by Margaret Richman Piehl.</dc:description>
+  <dc:description>ph496</dc:description>
+  <dc:language></dc:language>
+  <dc:identifier>codu:59316</dc:identifier>
+  <dc:subject>Richman, Harry Carl</dc:subject>
+  <dc:subject>Richman, Becky</dc:subject>
+  <dc:subject>Piehl, Margaret Richman,--1911-1986</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish merchants</dc:subject>
+  <dc:subject>Ice cream parlors</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Interior views</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject>Merchants</dc:subject>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59316</dc:identifier>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

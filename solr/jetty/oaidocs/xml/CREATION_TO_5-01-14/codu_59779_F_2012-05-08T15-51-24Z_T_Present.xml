@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T04:45:23Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59780</identifier>
+    <datestamp>2012-09-10T22:32:08Z</datestamp>
+    <setSpec>codu_59779</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Buttercream Colored Taffeta Skirt </dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:date>circa 1885</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver </dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format>1 item (skirt)</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>A two-piece taffeta skirt and bodice. Skirt consisting of a buttercream colored taffeta overskirt with underskirt. The jacquard print has vertical stripes of left and right facing flowers with stems that run the length of the fabric. The lower edge of the overskirt has tabs that come to points. The tabs are trimmed with buttercream colored piping and lined with taffeta that matches the skirt. The purpose of the tabs is to add weight to the points and made them less likely to flip or flutter. The petticoat, or underskirt, is very fine off-white cotton and has an elaborate ruffle attached to the bottom. Originally belonged to Frances Wisebart Jacobs.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Clothing and dress</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Jacobs, Frances Wisebart,--1843-1892</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Women&apos;s clothing</dc:subject>
+  <dc:relation>Frances Wisebart Jacobs Clothing and Other Material, Material Culture</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:59780</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance. </dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59780</dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59783</identifier>
+    <datestamp>2012-09-10T22:14:32Z</datestamp>
+    <setSpec>codu_59779</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Ivory and Black Cotton Overlay for Dress</dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:date>Between 1909-1913</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver </dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format>1 item (overlay for dress)</dc:format>
+  <dc:format>Clothing and Dress</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>The dress is made of ivory cotton and black organdy. The edges of the sleeves and collar have a thin black organdy lining. The bottom hem is black organdy. There is an eyelet pattern along the bodice and bottom of the dress. Eighty-three metal buttons covered by black organdy fabric are featured on the dress. Ten vertically laid buttons adorn the front part of the bodice and thirteen buttons are vertically laid below the waist to the bottom of the dress. Each side of the dress contains two sets of fiteen buttons starting at mid-thigh and moving towards the hem. Originally belonged to Frances Wisebart Jacobs.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Women&apos;s Clothing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Jacobs, Frances Wisebart,--1843-1892</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Women&apos;s clothing</dc:subject>
+  <dc:relation>Frances Wisebart Jacobs Clothing and Other Material, Material Culture</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:59783</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59783</dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59782</identifier>
+    <datestamp>2012-09-10T22:27:14Z</datestamp>
+    <setSpec>codu_59779</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Ivory Silk Underlay for Dress</dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:date>circa 1890</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver </dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format>1 item (underlay for dress)</dc:format>
+  <dc:format>Clothing and Dress</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>An ivory silk dress used as an underlay for the ivory and black dress. The dress is sleeveless with a V-cut neck and a fitted bodice. The bodice is off-white silk lined with a natural (not bleached or dyed) colored cotton. The skirt is a butter cream colored silk and lined in a light weight muslin. The skirt has two large eleven inch rows of rouching (pleats that are attached at both ends), which add fullness to an overdress. Additionally, there is one small ruffle at the bottom. The fitted bodice and skirt are from two different garments. The back is held together by nine hooks-and-eyes in the center back. Originally belonged to Frances Wisebart Jacobs.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Clothing and dress</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Jacobs, Frances Wisebart,--1843-1892</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Women&apos;s clothing</dc:subject>
+  <dc:relation>Frances Wisebart Jacobs Clothing and Other Material, Material Culture</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:59782</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59782</dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59784</identifier>
+    <datestamp>2012-09-10T22:42:20Z</datestamp>
+    <setSpec>codu_59779</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Green Velvet &quot;Opera&quot; Coat</dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:date>circa 1924</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver </dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format>1 item (coat)</dc:format>
+  <dc:format>Clothing and Dress</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>A green velvet &apos;&apos;Opera&apos;&apos; coat with ivory silk lining. The back of the coat is cut fuller than the front and has a pleated lower edge. The coat has sailor style collar and tri-pleated lapels. There are seven matching velvet covered buttons on upper center of the sleeves (four on left and three on right). There are buttons covered in matching green velvet on the cuffs. The coat closes with a knotted strip of green velvet forming a loop that goes around a matching velvet covered button. A green velvet shaped flower with knotted strips of green velvet forming a floral center is next to the loop. Inside the coat is one pocket on the right side at waist level that is made from a rectangle of silk and is heavily pleated. Originally belonged to Frances Wisebart Jacobs.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Clothing and dress</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Jacobs, Frances Wisebart,--1843-1892</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Women&apos;s clothing</dc:subject>
+  <dc:relation>Frances Wisebart Jacobs Clothing and Other Material, Material Culture</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:59784</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59784</dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59781</identifier>
+    <datestamp>2012-09-10T23:45:55Z</datestamp>
+    <setSpec>codu_59779</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Buttercream Colored Taffeta Bodice</dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:date>circa 1885</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format>1 item (bodice)</dc:format>
+  <dc:format>Clothing and Dress</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>A two-piece taffeta skirt and bodice. The bodice is made from buttercream colored taffeta matching the skirt. However, the sleeves are made from a like colored fabric, but not of the same jacquard (woven print). The bodice is slightly V-necked and closes front-center. Two layers of lace (matches the lace used in the skirt) trim the neck, the cuffs, the bottom of the bodice and the gussets on the sleeves. The center back bodice has four metal hoops for attaching the skirt and four finished holes for attaching the bustle-pad. Originally belonged to Frances Wisebart Jacobs.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Clothing and dress</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Jacobs, Frances Wisebart,--1843-1892</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Women&apos;s clothing</dc:subject>
+  <dc:relation>Frances Wisebart Jacobs Clothing and Other Material, Material Culture</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:59781</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance. </dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59781</dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

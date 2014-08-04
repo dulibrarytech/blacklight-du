@@ -1,0 +1,2783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T05:06:26Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59468</identifier>
+    <datestamp>2012-07-03T16:17:25Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Azriel Stein Stands at the Counter of Pencol Drug Store</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>10/1/1951</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, page 56.</dc:description>
+  <dc:description>On envelope: &apos;&apos;#580 Azriel Stein, druggist, 1951&apos;&apos;. Notes on back of photograph: &apos;&apos;Azriel Stein &apos;&apos;Sandwich Man&apos;&apos; Co. Druggist, Oct 51 in his drugstore Pencol Drugs #580&apos;&apos;.</dc:description>
+  <dc:description>Azriel Stein stands behind the counter at his drugstore, Pencol Drug, which was located at Pennsylvania Street and Colfax Avenue in Denver, Colorado.</dc:description>
+  <dc:description>Donated by Irene Miller Stein.</dc:description>
+  <dc:description>ph580</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0009.00032</dc:identifier>
+  <dc:subject>Stein, Azriel,--1896-1976</dc:subject>
+  <dc:subject>Pencol Drugs</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Pharmacists</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59468</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59437</identifier>
+    <datestamp>2012-07-03T16:17:26Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Gordon Sign Company</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1905</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 7 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, page 49.</dc:description>
+  <dc:description>On envelope: &apos;&apos;#1030 Gordon Sign Co.&apos;&apos; On back of photo: &apos;&apos;Early Gordon Sign Co. #1030.&apos;&apos;</dc:description>
+  <dc:description>Three unidentified men stand in front of the Gordon Sign Company. Harry Gordon migrated from Lithuania to New York before settling in Denver, where he founded the Gordon Sign Company.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph1030</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0009.00064</dc:identifier>
+  <dc:subject>Gordon Sign Company</dc:subject>
+  <dc:subject>Stores, Retail</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Businesspeople</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59437</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_60005</identifier>
+    <datestamp>2012-07-03T16:17:29Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Rachofsky&apos;s New York Store in Central City, Colorado</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1890</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 3 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, page 118.</dc:description>
+  <dc:description>On back of photograph: &quot;Kobey store in Black Hawk.&quot;</dc:description>
+  <dc:description>Exterior of Abraham Rachofsky&apos;s New York Store in Central City, Colorado. The store originally was owned by pioneer Abraham Rittmaster and then was purchased by his nephew Abraham Rachofsky who became one of the city&apos;s most important businessmen.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph353</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language>Inscription written in English.</dc:language>
+  <dc:identifier>B063.01.0017.00050</dc:identifier>
+  <dc:subject>Rachofsky, Abraham</dc:subject>
+  <dc:subject>Rachofsky&apos;s New York Store</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish merchants</dc:subject>
+  <dc:subject>Stores, Retail</dc:subject>
+  <dc:subject>Family-owned business enterprises</dc:subject>
+  <dc:subject>Jewish businesspeople--Colorado</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Central City (Colo.)</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:60005</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_60001</identifier>
+    <datestamp>2012-07-03T16:17:45Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Exterior of C.M. Schayer Store</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1880-1890</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 10 x 8 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, page 19.</dc:description>
+  <dc:description>On envelope: &apos;&apos;# 114 Charles Schayer Store. See oversize on museum display&apos;&apos;. On back of the photograph: &apos;&apos;Charles Schayer, an Jewish German immigrant arrived in Denver 1865. The 4th generation of Schayer&apos;s still resides in Denver, Schayer Store, #114.&apos;&apos; Printed on the bottom of the photograph: &quot;C.M. Schayer, wholesale dealer in liquors, wines and cigars, 409 Blake Street, Denver, Col.&quot;</dc:description>
+  <dc:description>Exterior of the C.M. Schayer Store owned by Charles M. Schayer, with a sign posted at the top of the building. Eight unidentified men and children stand in front and on a balcony. The store was located at 409 Blake Street in Denver, Colorado. Schayer arrived in Denver by covered wagon in 1865.</dc:description>
+  <dc:description>Donated by Mr. Charles Schayer, Jr. in 1977.</dc:description>
+  <dc:description>ph114</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language>Inscription is in English.</dc:language>
+  <dc:identifier>B063.01.0001.00008</dc:identifier>
+  <dc:subject>Schayer, Charles M.,--1837-1907</dc:subject>
+  <dc:subject>C. M. Schayer Store</dc:subject>
+  <dc:subject>Jewish merchants</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Liquor Stores</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Merchants</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:60001</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59341</identifier>
+    <datestamp>2012-07-03T16:17:46Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Arthur M. Oberfelder&apos;s Concert Series Program Cover</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1951-1952</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 7 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#717 Oberfelder program books&apos;&apos;.</dc:description>
+  <dc:description>Cover of the Arthur M. Oberfelder&apos;s Super Deluxe Concert Series featuring Margaret Truman, at the Denver Auditorium.  Pioneer impresario Arthur Oberfelder organized a concert series that lasted until his death in 1954.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph717</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0009.00042</dc:identifier>
+  <dc:subject>Truman, Margaret</dc:subject>
+  <dc:subject>Concerts</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59341</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59328</identifier>
+    <datestamp>2012-07-03T16:17:59Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Interior view of Friedman&apos;s Store, Brighton, Colorado</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1930-1940</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>On envelope: &apos;&apos;#672 Friedman Store, Brighton, Co, ca 1930s&apos;&apos;. Notes on back of photograph: &apos;&apos;#Friedman Store Brighton, Co, 1930s #672&apos;&apos;.</dc:description>
+  <dc:description>Interior of Friedman&apos;s Store in Brighton, Colo., with a woman, two boys and one man standing with produce on the right side and glass cases on the left.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph672</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0009.00040</dc:identifier>
+  <dc:subject>Friedman Store</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish merchants</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Interior views</dc:subject>
+  <dc:subject>Brighton (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59328</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59360</identifier>
+    <datestamp>2012-07-03T16:17:39Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Early Waldman Cafe</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1907-1920</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 4 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>On Envelope, &apos;&apos;#1079 Waldman Family.&apos;&apos; On photograph: &apos;&apos;An early Waldman Cafe (15th or 16th &amp; Broadway), #1079.&apos;&apos;</dc:description>
+  <dc:description>Waldman&apos;s Cafe in winter with five unidentified men either on the roof or standing near a car parked in front. The shop next door says, &apos;&apos;[illegible] Car Co. Paige Detroit.&apos;&apos;</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph1079</dc:description>
+  <dc:creator>Goldman, Jack J.</dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0017.00043</dc:identifier>
+  <dc:subject>Dave Waldman&apos;s Restaurant</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Merchants</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59360</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37780</identifier>
+    <datestamp>2012-07-03T16:17:24Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Cook&apos;s Baths Baseball Team</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1912</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>2 item (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title handwritten on back of photograph.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, page 49.</dc:description>
+  <dc:description>On envelope: &apos;&apos;#55 Cook&apos;s Baths Baseball Team, c 1912&apos;&apos; Handwritten on the front of the photograph: &apos;&apos;1912 Cook&apos;s Bath House Baseball Team, Sam Kantowitz [sic] coach.&apos;&apos; Handwritten on the back of the photograph: &apos;&apos;Cook&apos;s Baths Baseball Team, c.1912. Coach Sam Kantowitz [sic], Donated by Charlene Sachter, Mr. Louis Cook.&apos;&apos; Handwritten on the back of another copy of the photograph: &apos;&apos;#55, Cook&apos;s Baths&apos; Baseball team, donor Louis Cook; 1. Al Fishman; 2. Dave Cook; 3. Harry Gibbons; 4. Max Sedalnick (Shep); 5. [unidentified team member]; 6. Sam Kay; 7. Judi Goldberg; 8. Sam Waitz; 9. Louie Spector; 10. Max Gelfond; 11. Abe Pringle; 12. Louis Cook.&apos;&apos;</dc:description>
+  <dc:description>Members of the 1912 Cook&apos;s Baths Baseball Team line up in front of a brick building.  Left to right: Al Fishman, Dave Cook, Harry Gibbons, Max Sedalnick (Shep), [unidentified team member], Sam Kay [Sam Kantowitz, coach], Judi Goldberg, Sam Waitz, Louie Spector, Max Gelfond, Abe Pringle, and Louis Cook. Team members are wearing uniforms that display the word &apos;&apos;Cooks&apos;&apos; on their shirts.</dc:description>
+  <dc:description>Copies donated by Louis Cook and by Charlene Cook Sachter, who retained an original photograph.</dc:description>
+  <dc:description>ph55</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language>Inscription is in English.</dc:language>
+  <dc:identifier>B063.02.0002.00001</dc:identifier>
+  <dc:subject>Cook, Dave</dc:subject>
+  <dc:subject>Cook, Louis,--1895-1981</dc:subject>
+  <dc:subject>Fishman, Al</dc:subject>
+  <dc:subject>Gibbons, Harry</dc:subject>
+  <dc:subject>Kantrowitz, Sam</dc:subject>
+  <dc:subject>Kay, Sam</dc:subject>
+  <dc:subject>Gelfond, Max</dc:subject>
+  <dc:subject>Goldberg, Dudi</dc:subject>
+  <dc:subject>Pringle, Abe</dc:subject>
+  <dc:subject>Sedalnick, Max</dc:subject>
+  <dc:subject>Spector, Louie</dc:subject>
+  <dc:subject>Waitz, Sam</dc:subject>
+  <dc:subject>Cook’s Russian Baths (Denver, Colo.)</dc:subject>
+  <dc:subject>Cook&apos;s Baths Baseball Team</dc:subject>
+  <dc:subject>Baseball teams</dc:subject>
+  <dc:subject>Jewish athletes</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Manners and customs</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Baseball coaches</dc:subject>
+  <dc:subject>Baseball players</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Community</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37780</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59190</identifier>
+    <datestamp>2012-07-03T16:17:12Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Arthur Lang Stands in Front of his Father&apos;s Store</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1919</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 8 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, page 51.</dc:description>
+  <dc:description>On back of photograph: &apos;#67, Arthur Lang, circa 1919, 2115 Larimer St.  Donor Julia Brown&apos;&apos;</dc:description>
+  <dc:description>Arthur Lang is shown here wearing a white shirt, tie, and cap standing in front of the A. Lang Dry Goods Store located at 2115 Larimer Street in Denver.</dc:description>
+  <dc:description>Photograph was donated by Mrs. Julie Brown in February of 1977.</dc:description>
+  <dc:description>ph067</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language>Inscription is in English.</dc:language>
+  <dc:identifier>B063.01.0001.00001</dc:identifier>
+  <dc:subject>Lang, Arthur</dc:subject>
+  <dc:subject>A. Lang Dry Goods Store</dc:subject>
+  <dc:subject>Jewish merchants</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Front views</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Merchants</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59190</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59389</identifier>
+    <datestamp>2012-07-03T16:18:03Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Ed Koplin at the Carolyn Edward Gallery</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1990-1996</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 4 x 6 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title taken from envelope.</dc:description>
+  <dc:description>On envelope: &apos;&apos;#1125 Ed Koplin at Carolyn Edward Gallery.&apos;&apos; On photograph: &apos;&apos;Ed Koplin, velcro wall.&apos;&apos;</dc:description>
+  <dc:description>Ed Koplin stands in the Carolyn Edward Gallery holding a picture near a velcro wall.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph1125</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0009.00090</dc:identifier>
+  <dc:subject>Koplin, Edward</dc:subject>
+  <dc:subject>Carolyn Edward Gallery</dc:subject>
+  <dc:subject>Art</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59389</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37778</identifier>
+    <datestamp>2012-07-03T16:17:27Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Residents of the National Home for Jewish Children in Sunday School Class</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>6/1942</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 4 x 5 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#388 Residents of Nat. Home for Jewish Children&apos;&apos; and &apos;&apos;Jewish Sheltering Home 1910-1950s&apos;&apos;.  On back of photograph: &apos;&apos;#388  Teac  Abe Kershstein Head of Sunday School.  1942  Before this some kids were bused to BMH and some to Temple Emanuel. After a serious bus accident the Home decided to have their own Sunday School.  Quiz in the Sunday School Class  6/42.&apos;&apos;</dc:description>
+  <dc:description>Teacher Abe Kirschstein stands behind Sunday School students seated at desks at the National Home for Jewish Children in Denver located in Denver, Colorado. From 1928-1952, the home was called the National Home for Jewish Children in Denver.</dc:description>
+  <dc:description>Donated by the National Asthma Center.</dc:description>
+  <dc:description>ph388</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.03.0011.00074</dc:identifier>
+  <dc:subject>Kerschstein, Abraham</dc:subject>
+  <dc:subject>National Home for Jewish Children in Denver</dc:subject>
+  <dc:subject>Jewish children</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Group homes for children</dc:subject>
+  <dc:subject>Children</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Interior views</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>Sunday school teachers</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37778</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59415</identifier>
+    <datestamp>2012-07-03T16:17:11Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Gregori Mogilner Making a Mattress</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1909</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>2 item (photograph), 4 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#417 Gregori Mogilner Mattress Factory, Denver 1909 copy- slightly dif.&apos;&apos;  On back of one photograph: &apos;&apos;Gregori (Harry) Mogilner, Abe&apos;s father, making mattresses in Denver factory 1909. In 1925 he moved to Colorado Springs and bought mattress factory from Max Mogilner, a cousin. #417.&apos;&apos;  On back of one photograph: &apos;&apos;Gregori (Harry) Mogilner, working in a Denver mattress factory, 1909. In 1925 moved to Colorado Springs &amp; bought mattress factory from cousin Max Mogilner, #417.&apos;&apos;</dc:description>
+  <dc:description>Gregori (Harry) Mogilner stitching a mattress in his factory during the early 20th century.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph417</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0017.00016</dc:identifier>
+  <dc:subject>Mogilner, Gregori (Harry)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Mattress industry</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59415</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59322</identifier>
+    <datestamp>2012-07-03T16:17:19Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Unidentified Mining Equipment</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1920-1940</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 4 x 6 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#392 Phillip Raguland [sic]&apos;&apos;.  On back of photograph: &apos;&apos;c Philip J. Raguland [sic] W.A. Bondurant  #392&apos;&apos;.</dc:description>
+  <dc:description>Two unidentified pieces of mining equipment. These machines were probably owned and operated by the Saratoga Mines Company.</dc:description>
+  <dc:description>Donated by Celia Fischel in 1979.</dc:description>
+  <dc:description>ph392</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0009.00019</dc:identifier>
+  <dc:subject>Ragooland, Philip J.</dc:subject>
+  <dc:subject>Saratoga Mines Company</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Mineral industries</dc:subject>
+  <dc:subject>Mines and mineral resources</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59322</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59432</identifier>
+    <datestamp>2012-07-03T16:17:15Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Hale &amp; Perry Paint</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1950-1960</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>On envelope: &apos;&apos;#1040 Hale and Perry Paint Co.&apos;&apos; On back of photograph: &apos;&apos;Owned by Greenclay.&apos;&apos;</dc:description>
+  <dc:description>Exterior view of Hale &amp; Perry Paint at 1181 Stout Street, Denver, Colorado.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph1040</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0009.00074</dc:identifier>
+  <dc:subject>Hale &amp; Perry Paint</dc:subject>
+  <dc:subject>Stores, Retail</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59432</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59458</identifier>
+    <datestamp>2012-07-03T16:17:14Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Bernstein&apos;s Dry Goods Store in Walsenburg, Colorado</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1890</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5  x 7 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;# 149 Bernstein&apos;s Store, Walsenberg [sic], Co c. 1890&apos;&apos;. On back of photograph: &apos;&apos;Bernstein&apos;s Store, Walsenberg [sic] Colo. 1889-1890 approx. Moritz Bernstein standing with hand on counter  Donor Mr. Morton Stark  #149&apos;&apos;.</dc:description>
+  <dc:description>Interior of Moritz Bernstein&apos;s Dry Goods Store in Walsenburg, Colorado. The owner, Moritz Bernstein, stands with his hand on the counter to the right.</dc:description>
+  <dc:description>Donated by Morton Stark.</dc:description>
+  <dc:description>ph149</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language>Inscription is in English.</dc:language>
+  <dc:identifier>B063.01.0001.00013</dc:identifier>
+  <dc:subject>Bernstein, Moritz,--1866-1918</dc:subject>
+  <dc:subject>Bernstein&apos;s Dry Goods Store</dc:subject>
+  <dc:subject>Jewish merchants</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Walsenburg (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Merchants</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59458</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59418</identifier>
+    <datestamp>2012-07-03T16:17:51Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Ed Koplin at the Carolyn Edward Gallery</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1990-1996</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 4 x 6 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title taken from envelope.</dc:description>
+  <dc:description>On envelope: &apos;&apos;#1125 Ed Koplin at Carolyn Edward Gallery.&apos;&apos; On photograph: &apos;&apos;Ed Koplin.&apos;&apos;</dc:description>
+  <dc:description>Ed Koplin stands in the Carolyn Edward Gallery behind a desk.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph1125</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0009.00089</dc:identifier>
+  <dc:subject>Koplin, Edward</dc:subject>
+  <dc:subject>Carolyn Edward Gallery</dc:subject>
+  <dc:subject>Art</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59418</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59463</identifier>
+    <datestamp>2012-07-03T16:17:17Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Isadore Hershkowitz in Uncle Sam&apos;s Bar and Grill</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1935</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 8 x 10 inches,</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &quot;197 Herskowitz in Uncle Sam&apos;s Bar and Grill, 1935.&quot;  Handwritten on the front of the photograph: &apos;&apos;Isadore Hershkowitz.&quot;  Handwritten on back of photograph: &quot;1935- 1860 Curtis St.- &apos;Uncle Sam&apos;s Bar and Grill,&apos; MMJ 14, Isadore Hershkowitz in picture!, He is now 92- &amp; of sound mind!, He lives in the Allied Council Apts. at 11 So. Adams St., #196 (197?), Return to Belle Marcus, Center for Judaic Studies, University of Denver, Denver Co 80208.&quot;</dc:description>
+  <dc:description>Isadore Herskowitz is standing behind the bar at Uncle Sam&apos;s Bar and Grill at 1860 Curtis St., Denver, Colorado.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph196 (ph197)</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language>Inscription is in English.</dc:language>
+  <dc:identifier>B063.01.0001.00022</dc:identifier>
+  <dc:subject>Hershkowitz, Isadore</dc:subject>
+  <dc:subject>Uncle Sam&apos;s Bar and Grill</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Interior views</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59463</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_60012</identifier>
+    <datestamp>2012-07-03T16:17:29Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Sandy Vinnick Stands by the Trivoli Building</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1995-2005</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 4 x 6 inches, color</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>On envelope: &apos;&apos;#1065 Lillian and Sam Marchick  Sam and Ben Marchick.&apos;&apos;</dc:description>
+  <dc:description>Sandy Vinnick, granddaughter of Sam Marchick, stands outside the Trivoli Building in Cheyenne, Wyoming near two plaques: one tells the history of the building and the other identifies the building. The Trivoli Building was owned by Sam Marchick and housed his clothing store.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph1065</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language>Inscription is in English.</dc:language>
+  <dc:identifier>B063.01.0009.00084</dc:identifier>
+  <dc:subject>Vinnick, Sandy</dc:subject>
+  <dc:subject>Marchick Store</dc:subject>
+  <dc:subject>Stores, Retail</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:60012</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59472</identifier>
+    <datestamp>2012-07-03T16:17:50Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Interior of Phil Brown&apos;s Kosher Butcher Shop</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1921</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>2 items (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>On envelope: &quot; # 70  Phil Brown&apos;s Kosher Butcher Shop, C 1921.&quot; Handwritten on the back of on photograph: &quot;#70, Phil Brown Kosher, Butcher Shop, circa 1921, Phil Brown behind counter, Mrs. Julia Brown.&quot;  Handwritten on the back of the other photograph: &quot;printers instruction, #70, Phil Brown&apos;s Kosher meat [crossed out] Butcher Ship, 1921, #70, Salimans - Bar &amp; Grill [crossed out].&quot;</dc:description>
+  <dc:description>Phil Brown in white apron and hat, stands behind meat counter, with a customer in front of the counter. Bare light bulbs, stools in front of the counter and saw hanging on back wall are part of the interior. Phil Brown was a kosher butcher in Denver.</dc:description>
+  <dc:description>Donated by Mrs. Phil Brown.</dc:description>
+  <dc:description>ph070</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0009.00091</dc:identifier>
+  <dc:subject>Brown, Phil</dc:subject>
+  <dc:subject>Phil Brown&apos;s Kosher Butcher Shop</dc:subject>
+  <dc:subject>Jewish merchants</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Interior views</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Merchants</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59472</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_60009</identifier>
+    <datestamp>2012-07-03T16:17:39Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Winter Weiss New Year</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1930</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item photograph, 10 x 8 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>On envelope: &quot;#786 Winter - Weiss Co, c. 1930  Advertising.&quot; Handwritten on back of photograph: &apos;&apos;Winter Weiss #786, New Year.&quot;</dc:description>
+  <dc:description>Two women on an Indian motorcycle with a side car.  One woman on the motorcycle the other atop a milk jug on the sidecar. The photo was taken at Madison Square Gardens in New York. Winter-Weiss, a Denver company, became a defense contractor during World War II.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph786</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language>Inscription is in English.</dc:language>
+  <dc:identifier>B063.01.0001.00045</dc:identifier>
+  <dc:subject>Winter-Weiss Company</dc:subject>
+  <dc:subject>Women</dc:subject>
+  <dc:subject>Motorcyclists</dc:subject>
+  <dc:subject>Snapshots</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>New York (N.Y.)</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:60009</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59407</identifier>
+    <datestamp>2012-07-03T16:17:12Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>The Kortz Jewelry Co.</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1950-1960</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 7 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>On envelope: &apos;&apos;#1046 Kortz Jewelry.&apos;&apos;</dc:description>
+  <dc:description>View of the front of The Kortz Jewelry Co. in Denver, Colorado. Harry Kortz founded the jewelry in 1892.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph1046</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0009.00080</dc:identifier>
+  <dc:subject>The Kortz Jewelry Co.</dc:subject>
+  <dc:subject>Stores, Retail</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59407</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59492</identifier>
+    <datestamp>2012-07-03T16:17:34Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Collage of Greeley Businesses</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1900-1920</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 10 x 14 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on the back of the photograph: &apos;&apos;#56 Greeley Colorado Businesses; A. Winograd, Poultry; Samuel Pinsky, Coal, Hay and Feed; Montifiore J. Moses Real Estate and Insurance, In Creede, Later in Greeley, Donated by: Mrs. Eleanor Judd.&apos;&apos;</dc:description>
+  <dc:description>Three photographs of Greeley, Colorado businesses. The upper left photograph shows an exterior view of Abe Winograd&apos;s poultry business. Painted on the building is &apos;&apos;Poultry wanted at all times&apos;&apos; and pictures of a hen and a rooster. The photograph below shows an exterior view Samuel Pinsky&apos;s Coal, Hay, and Feed business. Samuel Pinsky is seated in the driver&apos;s seat of a wagon loaded with coal. Main photograph, two men sit in the interior of Montifiore J. Moses&apos; Real Estate and Insurance Co. The business was originally in Creede, Colorado and then in Greeley, Colorado.</dc:description>
+  <dc:description>Donated by Eleanor Winograd</dc:description>
+  <dc:description>ph56</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0031.0008.00001</dc:identifier>
+  <dc:subject>Winograd, Abraham</dc:subject>
+  <dc:subject>Pinsky, Samuel</dc:subject>
+  <dc:subject>Winograd Poultry</dc:subject>
+  <dc:subject>Montifiore J. Moses&apos; real Estate and Insurance Co.</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Social life and customs</dc:subject>
+  <dc:subject>Jewish men</dc:subject>
+  <dc:subject>Poultry farms</dc:subject>
+  <dc:subject>Peddlers and peddling</dc:subject>
+  <dc:subject>Real estate business</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Greeley (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Chicken breeders</dc:subject>
+  <dc:subject>Peddlers and peddling</dc:subject>
+  <dc:subject>Real estate agents</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59492</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59399</identifier>
+    <datestamp>2012-07-03T16:18:02Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Interior of Pencol Drug</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1950-1965</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, page 56.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#582  Interior of Pencol Drug owned by Azriel Stein&apos;&apos;. On back of photograph: &apos;&apos;#582 Interior of Pencol Drug owned by Azriel Stein&apos;&apos;.</dc:description>
+  <dc:description>Interior of Pencol Drug with unidentified employees and customers. The store was located at Pennsylvania Street and Colfax Avenue in Denver, Colorado, and owned by Azriel Stein.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph582</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0009.00035</dc:identifier>
+  <dc:subject>Stein, Azriel,--1896-1976</dc:subject>
+  <dc:subject>Pencol Drugs</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Pharmacists</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59399</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59345</identifier>
+    <datestamp>2012-07-03T16:17:40Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Interior of Chicago Hide, Fur and Wool Company with Unidentified Employees</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1917</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#556 Chicago Hide, Fur and Wool Co, c 1917 Douglas, Wy.&apos;&apos;</dc:description>
+  <dc:description>Interior of Chicago Hide, Fur and Wool Company in Douglas, Wyoming. Unidentified workers are in various poses throughout the room.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph556</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0009.00029</dc:identifier>
+  <dc:subject>Chicago Hide, Fur and Wool Company</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish merchants</dc:subject>
+  <dc:subject>Fur workers</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Interior views</dc:subject>
+  <dc:subject>Douglas (Wyo.)</dc:subject>
+  <dc:subject>Wyoming</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59345</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_57319</identifier>
+    <datestamp>2012-07-03T16:18:00Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Pajama Party for Patients of the Jewish Consumptives&apos; Relief Society</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1928</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 3 x 4 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on front of photograph: &apos;&apos;A pajama party, on sun porch, My wheel chair, Old Bldg.&apos;&apos;  Handwritten on envelope: &apos;&apos;#429 JCRS 1929s.&apos;&apos; On back of photograph: &apos;&apos;JCRS, I made the paper hats, for this occasion, c 1928, from album of Bertha &apos;Mickey&apos; Marks, donor Mrs. Ruth Cluff, #429.&apos;&apos;</dc:description>
+  <dc:description>Unidentified female patients enjoy a pajama party at the Jewish Consumptives&apos; Relief Society (JCRS). The JCRS was a sanatorium for tuberculosis patients that was founded in 1904 by a group of immigrant Jewish workingmen along with the support of several leading physicians and rabbis in Denver, Colorado. It was located on West Colfax Avenue just outside Denver.</dc:description>
+  <dc:description>Donated by Ruth Cluff.</dc:description>
+  <dc:description>ph429</dc:description>
+  <dc:creator>Marks, Mickey--(Bertha),--1927-1997</dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.03.0019.00061</dc:identifier>
+  <dc:subject>Marks, Mickey--(Bertha)</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>American Medical Center (Denver, Colo.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Women</dc:subject>
+  <dc:subject>Patients</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)--Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Sanatorium (Colo.)</dc:subject>
+  <dc:subject>Spivak (Colo.)</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:57319</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59391</identifier>
+    <datestamp>2012-07-03T16:17:38Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Ed Green standing in Green&apos;s Dry Goods Store, Antonito, Colo.</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1915</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in, &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; By Dr. Jeanne Abrams on page 113.</dc:description>
+  <dc:description>On back of photograph: #969 Green Store Antonito, Co c. 1915&apos;&apos;.  On envelope: &apos;&apos;#969 Edward Green Store Antonito, Co., c. 1915&apos;&apos;.</dc:description>
+  <dc:description>Ed Green stands at the right of the store wearing a hat and three-piece suit. One customer and four salesman pose in front of the counters and stacks of dry goods. Green&apos;s Dry Goods Store was located in Antonito, Colorado.</dc:description>
+  <dc:description>Donated by Seymour Green.</dc:description>
+  <dc:description>ph969</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0009.00053</dc:identifier>
+  <dc:subject>Green, Edward</dc:subject>
+  <dc:subject>Green&apos;s Dry Goods Store (Antonito, Colo.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish men</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Stores, Retail</dc:subject>
+  <dc:subject>Dry-goods</dc:subject>
+  <dc:subject>Grocery trade</dc:subject>
+  <dc:subject>Family-owned business enterprises</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Interior views</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Antonito (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Businesspeople</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59391</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59444</identifier>
+    <datestamp>2012-07-03T16:17:14Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Exterior of Orlinsky Grocery Store</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1908-1912</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>2 item (photograph), 4 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &quot;#306 Orlinsky Grocery.&quot;  Handwritten notes on back of photograph: &quot;#306 Orlinsky Grocery&quot; and &quot;Orlinsky Grocery, corner 8th &amp; Mariposa.&quot;</dc:description>
+  <dc:description>Exterior of Orlinsky&apos;s Cash Grocery and Meat Market. There is a large Quaker Oats advertisement on the side of the building and three people are standing between two trees in front of the entrance. The grocery store was at 8th and Mariposa in Denver, Colorado.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph306</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0017.00004</dc:identifier>
+  <dc:subject>Orlinsky&apos;s Cash Grocery and Meat Market</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jewish merchants</dc:subject>
+  <dc:subject>Grocery trade</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Merchants</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59444</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59748</identifier>
+    <datestamp>2012-07-03T16:17:09Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Portrait of Tillye Shulman (Levy) at Age Two</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1887</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 7 x 5 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, on page 89.</dc:description>
+  <dc:description>On envelope: &apos;&apos;#87 Tillye Levy, 2, Central City 1897&apos;&apos;. On note inside envelope: &apos;&apos;Tillye Shulman (Levy) aged 2 Central City, 1897  Donor Mrs. Tillye Levy&apos;&apos;.</dc:description>
+  <dc:description>Tillye Shulman Levy, shown here at age two at the Shulman family home in Central City in 1897, became one of Denver&apos;s most active Jewish volunteers in the area of social welfare.</dc:description>
+  <dc:description>Donated by Mrs. Tillye Levy.</dc:description>
+  <dc:description>87</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.08.0016.00013</dc:identifier>
+  <dc:subject>Levy, Tillye Shulman,--1895-1984</dc:subject>
+  <dc:subject>Shulman family</dc:subject>
+  <dc:subject>Levy family</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish girls</dc:subject>
+  <dc:subject>Social life and customs</dc:subject>
+  <dc:subject>Jewish children</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Central City (Colo.)</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Individuals</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59748</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59397</identifier>
+    <datestamp>2012-07-03T16:17:54Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Philip J. Ragooland and Governor Shoup</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1920-1940</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 4 x 6 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#392 Phillip Raguland [sic]&apos;&apos;.  On back of photograph: &apos;&apos;Philip J. Raguland [sic] and Governor Shoup 1920s-1930s  donor Mrs. Celia Fischel c/o Rosenthal-Ackerman Millincey   #392&apos;&apos;.</dc:description>
+  <dc:description>Philip J. Ragooland poses with Governor Shoup in front of an unidentified building.</dc:description>
+  <dc:description>Donated by Celia Fischel in 1979.</dc:description>
+  <dc:description>ph392</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0009.00023</dc:identifier>
+  <dc:subject>Ragooland, Philip J.</dc:subject>
+  <dc:subject>Shoup, Oliver H.</dc:subject>
+  <dc:subject>Saratoga Mines Company</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Mineral industries</dc:subject>
+  <dc:subject>Mines and mineral resources</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59397</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59302</identifier>
+    <datestamp>2012-07-03T16:18:02Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Morris and Harry Berry Delivering Groceries in the 1913 Blizzard</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1913</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 4 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#426 Morris and Harry Berry delivering groceries - 1913 Blizzard.&apos;&apos;  On back of photograph: &apos;&apos;Morris Berry on horse. Harry Berry on sled. Delivering groceries during blizzard of 1913 #426.&apos;&apos;</dc:description>
+  <dc:description>Morris and Harry Berry deliver groceries by horse-drawn sled during the 1913 blizzard in Denver, Colorado. Morris Berry later married Hannah Shwayder.</dc:description>
+  <dc:description>Donated by Joseph Lemberg.</dc:description>
+  <dc:description>ph426</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0017.00018</dc:identifier>
+  <dc:subject>Berry, Harry</dc:subject>
+  <dc:subject>Berry, Morris</dc:subject>
+  <dc:subject>Berry, Hannah Shwayder,--1895-1954</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish merchants</dc:subject>
+  <dc:subject>Grocery trade</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Merchants</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59302</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_57301</identifier>
+    <datestamp>2012-07-03T16:17:48Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Dr. Emanuel Friedman</dc:title>
+  <dc:title>Title from envelope: __Portrait of Dr. Emanuel Friedman</dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1908</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>2 item (photograph), 8 x 5 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#54 Dr. Emmanuel Friedman Info inside.&apos;&apos;  On back of photograph: &apos;&apos; #54 Dr. Emmanuel Friedman, Denver pediatrician donated by Mrs. Max Grimes.&apos;&apos;</dc:description>
+  <dc:description>Portrait of Dr. Emanuel Friedman, a pediatrician in Denver, Colorado.</dc:description>
+  <dc:description>Donated by Faye Schayer.</dc:description>
+  <dc:description>ph54</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.03.0003.00005</dc:identifier>
+  <dc:subject>Friedman, Emanuel--Dr.</dc:subject>
+  <dc:subject>National Jewish Hospital (U.S.)</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Gross Medical College</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish physicians</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Offices</dc:subject>
+  <dc:subject>Medical offices</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Pediatricians</dc:subject>
+  <dc:subject>Physicians</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:57301</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_57336</identifier>
+    <datestamp>2012-07-03T16:17:37Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>William Goldblatt and Family</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1914</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>This is a copy of the original photograph.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, page 45.</dc:description>
+  <dc:description>Handwritten on back of photograph: &apos;&apos;Denver Newton St. 1914, William and Helen Goldblatt, Ruth and Marvin Goldblatt children.&apos;&apos;</dc:description>
+  <dc:description>William Goldblatt and his family stand on the porch of their home at 1473 Newton Street in Denver, Colorado. Goldblatt followed an unusual profession for a Denver Jewish citizen when he became a local fireman. Later, he became a Denver police officer and wore badge number one. He is pictured here in police uniform with his wife, Helen, and children Ruth and Marvin.</dc:description>
+  <dc:description>Donated by Helene Hoffman.</dc:description>
+  <dc:description>1051</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.05.0038.00001</dc:identifier>
+  <dc:subject>Goldblatt family</dc:subject>
+  <dc:subject>Goldblatt, William</dc:subject>
+  <dc:subject>Goldblatt, Helen</dc:subject>
+  <dc:subject>Goldblatt, Ruth</dc:subject>
+  <dc:subject>Goldblatt, Marvin</dc:subject>
+  <dc:subject>Jewish families</dc:subject>
+  <dc:subject>Jewish men</dc:subject>
+  <dc:subject>Social life and customs</dc:subject>
+  <dc:subject>Dwellings</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Fire fighters</dc:subject>
+  <dc:subject>Police</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Families and Groups</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:57336</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59278</identifier>
+    <datestamp>2012-07-03T16:17:42Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Jake Lederman and Harsh Lederman Delivering Milk</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>3/1911</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 8 x 8 inches,</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Halftone photomechanical prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &quot;#391 Jake Lederman c. 1910.&quot;  Handwritten notes on back of photograph: &quot;From the City of Lakewood Calendar 1980, Jake Lederman #391.&quot;  There is also a typed caption taped to the back of the photograph which reads: &quot;Jake Lederman helps his father deliver milk in downtown Denver, March, 1911. Their Green Mountain Dairy was located at the southwest corner of West 1st Avenue and Wadsworth Boulevard on land bought from the George Devinny family. (Photo courtesy of Jake Lederman).&quot;</dc:description>
+  <dc:description>Jake Lederman helps his father Harsh Lederman deliver milk by horse drawn carriage, in downtown Denver, Colorado in March, 1911. Their Green Mountain Dairy was located at the southwest corner of West 1st Avenue and Wadsworth Boulevard on land bought from the George Devinny family. This is a page from the 1980 City of Lakewood Calendar.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph391</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language>Inscription is in English.</dc:language>
+  <dc:identifier>B063.01.0001.00028</dc:identifier>
+  <dc:subject>Lederman, Jake</dc:subject>
+  <dc:subject>Lederman, Harsh</dc:subject>
+  <dc:subject>Green Mountain Dairy</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59278</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59412</identifier>
+    <datestamp>2012-07-03T16:17:41Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Entrance of Saratoga Mine in Gilpin County, Colorado</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1920-1940</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 4 x 6 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#392 Phillip Raguland [sic]&apos;&apos;.  On back of photograph: &apos;&apos;c Philip J. Raguland [sic]  Saratoga Mine  #392&apos;&apos;.</dc:description>
+  <dc:description>Entrance of the Saratoga Mine in Gilpin County, Colorado. This mine was owned and operated by the Saratoga Mines Company.</dc:description>
+  <dc:description>Donated by Celia Fischel in 1979.</dc:description>
+  <dc:description>ph392</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0009.00018</dc:identifier>
+  <dc:subject>Ragooland, Philip J.</dc:subject>
+  <dc:subject>Saratoga Mines Company</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Mineral industries</dc:subject>
+  <dc:subject>Mines and mineral resources</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59412</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37770</identifier>
+    <datestamp>2012-07-03T16:17:49Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Label Ginsburg Standing in His Ginsburg&apos;s Grocery Store</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1925</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>2 items (2 photographs), 5  x 7 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, page 43.</dc:description>
+  <dc:description>Handwritten on envelope: &quot;# 207 Label Ginsburg, in grocery store, c 1925 info inside check copy&quot;. Typewritten tag located inside original envelope: &quot;Label Ginsberg In his grocery store Denver, C. 1925&quot;. Handwritten notes on back of photograph: &quot;Approximately 1925 #207 MMJ 15 8/78 Mr. Louis Ginsburg (Verben) 14th at Grove St. Husband of Mollie Ginsburg. Father of :Rose Greenblatt (Mrs. Isadore Greenblatt 1576 Osceola) Dr. Hyman Ginsburg 3124 Van Ness Fresno, Calif 98704 Joe Ginsburg, Acct. 955 Eudora 80222 Picture sent in by: Faye Langer (Mrs. William Lauger) Mr. and Mrs. William Lauger 418 Swain Court Stockton, Calif 95207 5 5/16 x 3 5/8 Religion Cut Phillips Fri 9&quot;.</dc:description>
+  <dc:description>Label Ginsburg is standing in front of Ginsburg&apos;s grocery counter wearing a suit and bowler hat. Canned and dry goods are displayed on the shelves as well as a large sign for Hills Brothers Coffee. The store was located at 1401 Grove St., Denver, Colorado in Denver&apos;s Westside Colfax Jewish community. When a sign painter made a mistake and spelled the Ginsberg surname with a &quot;u&quot; instead of an &quot;e,&quot; Label changed the family name to Ginsburg.</dc:description>
+  <dc:description>Donated by Dorothea Langer in September of 1978.</dc:description>
+  <dc:description>ph207</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language>Inscription is in English.</dc:language>
+  <dc:identifier>B063.01.0001.00040</dc:identifier>
+  <dc:subject>Ginsburg, Label</dc:subject>
+  <dc:subject>Ginsburg&apos;s (Denver, Colo.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish merchants</dc:subject>
+  <dc:subject>Stores, Retail</dc:subject>
+  <dc:subject>Family-owned business enterprises</dc:subject>
+  <dc:subject>Grocery trade</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Interior views</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Grocers</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37770</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59314</identifier>
+    <datestamp>2012-07-03T16:17:10Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Gordon Sign Company</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1910-1920</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>On envelope: &apos;&apos;#1030 Gordon Sign Co.&apos;&apos; On back of photograph: &apos;&apos;Interior Gordon Sign Co., #1030, small child - Leo Gordon, second from right - Harry Gordon.&apos;&apos;</dc:description>
+  <dc:description>Interior view of the Gordon Sign Company with men and boys at work. Third from the left is Leo Gordon and man seated second from the right is Harry Gordon. The others are unidentified. Harry Gordon migrated from Lithuania to New York before settling in Denver.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph1030</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0009.00062</dc:identifier>
+  <dc:subject>Gordon Sign Company</dc:subject>
+  <dc:subject>Signs and signboards</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Businesspeople</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59314</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_60066</identifier>
+    <datestamp>2012-07-03T16:17:20Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Patients Undergoing Heliotherapy at the Jewish Consumptives&apos; Relief Society</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1920-1940</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 4 x 6 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, page 83.</dc:description>
+  <dc:description>On envelope: &apos;&apos;#462 JCRS Patient Activities.&apos;&apos; On back of photograph: &apos;&apos;JCRS TB Patients undergoing Heliotherapy, 1920s.&apos;&apos;</dc:description>
+  <dc:description>Unidentified tuberculosis patients undergoing heliotherapy at the Main Medical Building of the Jewish Consumptives&apos; Relief Society (JCRS). Fresh air and sunshine were popular treatments for tuberculosis and patients were encouraged to spend time outside. The JCRS was a sanatorium for tuberculosis patients that was founded in 1904 by a group of immigrant Jewish workingmen along with the support of several leading physicians and rabbis in Denver, Colorado. The sanatorium was located on West Colfax Avenue just outside of Denver.</dc:description>
+  <dc:description>Accession # 1271, Donated by AMC Cancer Research Center as part of the JCRS Records.</dc:description>
+  <dc:description>ph462</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language>Inscription is in English.</dc:language>
+  <dc:identifier>B063.03.0011.00121</dc:identifier>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Main Medical Building (Sanatorium, Colo.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Patients</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Sun-baths</dc:subject>
+  <dc:subject>Therapeutics, Cutaneous and external</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Edgewater (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Sanatorium (Colo.)</dc:subject>
+  <dc:subject>Spivak (Colo.)</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:60066</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59342</identifier>
+    <datestamp>2012-07-03T16:17:55Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Marchick Store</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1910-1920</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>On envelope: &apos;&apos;#1065 Lillian and Sam Marchick  Sam and Ben Marchick.&apos;&apos; On back of photograph: &apos;&apos;Cheyenne, Wyoming Sam Marchick and Sons store, Sandy Viniks maternal grandfather, Same Marchick on left, his son Ben in center.&apos;&apos; On back of second photograph, #1065, Sam Marchick, Joe Marchick, Marchick &amp; Son, Cheyenne.&apos;&apos;</dc:description>
+  <dc:description>Store owner Sam Marchick, left, his son in center, and an unidentified man and woman at right, in Marchick&apos;s Cheyenne, Wyoming store. A sign in back of large trunk reads &quot;Shoe sale - pick em out.&quot; Another sign that is displayed between the two Marchick men, states, &quot;Sale on pants.&quot; Samuel Marchick and his wife, Lillie (Rice), were born in Ostrovo, Poland. Sam Marchick came to the United States in 1904 and sent for his wife and children: Joseph, Benjamin, Jacob, Mary, Arline and Faye. The family operated a new and used clothing store and a pawn shop, and lived above the store.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph1065</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0001.00054</dc:identifier>
+  <dc:subject>Marchick, Sam</dc:subject>
+  <dc:subject>Marchick Store</dc:subject>
+  <dc:subject>Stores, Retail</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Jewish merchants</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Cheyenne</dc:subject>
+  <dc:subject>Wyoming</dc:subject>
+  <dc:subject>Merchants</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59342</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_57297</identifier>
+    <datestamp>2012-07-03T16:17:13Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Israel and Rebecca Kortz</dc:title>
+  <dc:title>Title from envelope: __Portrait of Israel and Rebecca Kortz</dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1900</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 4 x 3 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Full-length portrait of Israel Kortz in his suit and bowler hat and Rebecca Kortz in a dress and hat. She holds a parasol. The Kortz family originated in Brest Litovsk, Russia, and arrived in Denver, Colorado around 1885. The Kortz family and their descendants contributed to the development of Denver and its Jewish community.</dc:description>
+  <dc:description>Copy was donated by the Kortz Family for A Colorado Jewish Family Album.</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.05.0021.00002</dc:identifier>
+  <dc:subject>Kortz, Israel</dc:subject>
+  <dc:subject>Kortz, Rebecca</dc:subject>
+  <dc:subject>Jewish men</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Peddlers and peddling</dc:subject>
+  <dc:subject>Coopers and cooperage</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Families and Groups</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:57297</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59353</identifier>
+    <datestamp>2012-07-03T16:17:41Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Arnold Sky Working Inside Sky Drug</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1950-1960</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 4 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &quot;#342 Chugwater - Sky  Family.&quot;  Handwritten on back of photograph: &quot;Arnold Sky in Sky Drugs, c 1950&apos;s 1952,  #342.&quot;</dc:description>
+  <dc:description>Arnold Sky making medicine inside Sky Drug. The store was owned and operated by the Sky family at 507 W. 27th Street in Cheyenne, Wyoming.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph342</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0017.00007</dc:identifier>
+  <dc:subject>Sky, Arnold</dc:subject>
+  <dc:subject>Sky Drug</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish merchants</dc:subject>
+  <dc:subject>Drugstores</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Interior views</dc:subject>
+  <dc:subject>Cheyenne</dc:subject>
+  <dc:subject>Wyoming</dc:subject>
+  <dc:subject>Merchants</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59353</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59455</identifier>
+    <datestamp>2012-07-03T16:17:58Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Advertising Card for Ben Wisebart, Clothier</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1876</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>2 item (advertising card), 5 x 3 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Postcards</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, page 12.</dc:description>
+  <dc:description>On envelope: &apos;&apos;#232 Ben Wisebart, Clothier  Advertising card, not photo, but do treat as graphic&apos;&apos;.</dc:description>
+  <dc:description>Advertising card that reads &quot;Ben Wisebart Wide Awake Clothier, 366 Larimer St., Denver, Colorado.&quot; Wisebart was elected mayor of Central City, Colo. in 1876. His sister was Frances Wisebart Jacobs. This photograph of the card was taken circa 1978.</dc:description>
+  <dc:description>Donated by Milton Morris.</dc:description>
+  <dc:description>ph232</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0009.00011</dc:identifier>
+  <dc:subject>Wisebart, Benjamin</dc:subject>
+  <dc:subject>Ben Wisebart, Wide Awake Clothiers</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish merchants</dc:subject>
+  <dc:subject>Stores, Retail</dc:subject>
+  <dc:subject>Business cards</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Business cards</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59455</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59294</identifier>
+    <datestamp>2012-07-03T16:17:19Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>David Stein</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1929</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 3 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>On envelope: &apos;&apos;#1126 Billie (Lillian) Stein Collection  collection B192.&apos;&apos; On photograph: &apos;&apos;David Stein, #1126 Billie Stein.&apos;&apos;</dc:description>
+  <dc:description>David Stein stands in the doorway of his tailoring shop.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph1126</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0017.00046</dc:identifier>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59294</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59377</identifier>
+    <datestamp>2012-07-03T16:17:52Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Clara and Louis Sky in Front of Sky Drug</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1935-1940</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 4 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#342 Chugwater - Sky  Family.&apos;&apos;  On back of photograph: &apos;&apos;Clara and Louis Sky in front of Sky Drug c. late 1930&apos;s  507 W. 27th St  Cheyenne Wyoming  #342&apos;&apos;.</dc:description>
+  <dc:description>Clara and Louis Sky stand in front of Sky Drug store. There are advertisements on the front of the building for Dr. Pepper and Cleo Cola. The store was owned and operated by the Sky family at 507 W. 27th Street in Cheyenne, Wyoming.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph342</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0017.00006</dc:identifier>
+  <dc:subject>Sky, Clara</dc:subject>
+  <dc:subject>Sky, Louis</dc:subject>
+  <dc:subject>Sky Drug</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish merchants</dc:subject>
+  <dc:subject>Drugstores</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Cheyenne</dc:subject>
+  <dc:subject>Wyoming</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59377</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59320</identifier>
+    <datestamp>2012-07-03T16:17:34Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Kay&apos;s Jewelers</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1950-1960</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>On envelope: &apos;&apos;#1031 Kay&apos;s Jewelers.&apos;&apos; On back of photograph: &apos;&apos;Kay&apos;s Jewelers Ben Kortz, #1031.&apos;&apos;</dc:description>
+  <dc:description>Exterior view of Kay&apos;s Jewelers. Signage says, &apos;&apos;Kay&apos;s Credit Jewelers,&apos;&apos; &apos;&apos;Eyes examined glasses on credit,&apos;&apos; &apos;&apos;Watch repairing,&apos;&apos; &apos;&apos;Diamonds on credit,&apos;&apos; and &apos;&apos;Silverware.&apos;&apos; Address on the door is 1617. In 1916, Sol and Edmund Kaufmann opened the first Kay Jewelers in the corner of their father&apos;s furniture store.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph1031</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0009.00065</dc:identifier>
+  <dc:subject>Kay&apos;s Jewelers</dc:subject>
+  <dc:subject>Stores, Retail</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59320</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37779</identifier>
+    <datestamp>2012-07-03T16:17:22Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Etta Miller Robinson</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1890-1900</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 6 x 4 inches, Black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title from back of photograph.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, on page 107.</dc:description>
+  <dc:description>On back of photograph: &apos;&apos;Etta Miller Robinson.&apos;&apos; Printed on front of card: &apos;&apos;Nast, new gallery cor. 16th &amp; Curtis Sts. Denver, Colo.&apos;&apos;</dc:description>
+  <dc:description>Formal portrait of Etta Miller Robinson who wears a flowered full-length dress with lace at the collar and cuffs, and a sash at the waist. &quot;Etta Miller Robinson&quot; is handwritten in pen on the back of the photograph. Robinson was married to Louis Robinson and was the mother of Samuel Robinson of Robinson Dairy.</dc:description>
+  <dc:description>Original photograph donated by Irene Miller Stein, sister of Etta Miller Robinson.</dc:description>
+  <dc:description>ph1053</dc:description>
+  <dc:creator>Nast Studio</dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.08.0039.00007</dc:identifier>
+  <dc:subject>Robinson, Etta Miller,---1900</dc:subject>
+  <dc:subject>Robinson Dairy (Denver, Colo.)</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Social life and customs</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Individuals</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37779</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59288</identifier>
+    <datestamp>2012-07-03T16:17:09Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Exterior of Groussman&apos;s Store</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>6/27/1982</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 4 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#558 RMJHS Historic Denver Tour Roll II 6-27-82.&apos;&apos;  On back of photograph: &apos;&apos;6/27/82  II 10A-11  Groussmans.&apos;&apos;</dc:description>
+  <dc:description>Exterior of Groussman&apos;s store in Denver, Colorado. The store is situated at the end of the sidewalk in the center of the photograph and is a red brick building with a striped awning.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph558</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0017.00024</dc:identifier>
+  <dc:subject>Groussman, Albert--1861-1925</dc:subject>
+  <dc:subject>Groussman, Bella Sobol--1869-1966</dc:subject>
+  <dc:subject>Groussman&apos;s Store</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish merchants</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59288</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_60002</identifier>
+    <datestamp>2012-07-03T16:17:17Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>The Wisconsin Cleaning &amp; Processing Works</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1914</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 3 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photocopies</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Sam Korngold and his sister-in-law Golda Mobovitch Meir stand in front of his store the Wisconsin Cleaning and Processing Works in Denver.  Many signs relating prices and services in the store&apos;s windows.</dc:description>
+  <dc:description></dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0017.00047</dc:identifier>
+  <dc:subject>Korngold, Samuel</dc:subject>
+  <dc:subject>Meir, Golda,--1898-1978</dc:subject>
+  <dc:subject>Wisconsin Cleaning and Processing Works</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Merchants</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:60002</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59348</identifier>
+    <datestamp>2012-07-03T16:17:24Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Manager and Louis Isaacs of Isaacs&apos; Hardware Store in Leadville</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1914</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 8 x 5 inches,</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &quot;165 Mgr and Louis Isaacs of Isaacs hardware store in Leadville.&quot;  Handwritten on back of photograph: &quot;#165, L to R Mike Philips (father of Ilena Nelson), manager of Hyman Isaacs&apos; Hardware store in Leadville, with Louis Isaacs around 4th and Harrison, c. 1914.&quot;</dc:description>
+  <dc:description>Mike Philips, the manager of Hyman Isaacs&apos; Hardware store poses for a photograph with Louis Isaacs, Leadville, Colorado.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph165</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language>Inscription is in English.</dc:language>
+  <dc:identifier>B063.01.0001.00020</dc:identifier>
+  <dc:subject>Isaacs, Louis</dc:subject>
+  <dc:subject>Philips, Mike</dc:subject>
+  <dc:subject>Hyman Isaac&apos;s Hardware Store</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish merchants</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Leadville (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59348</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59354</identifier>
+    <datestamp>2012-07-03T16:17:18Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Robinson Farm Climax Dairy</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1906</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 9 x 11 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photocopies</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, page 32.</dc:description>
+  <dc:description>On envelope: &apos;&apos;#2021 Robinson Dairy.&apos;&apos; On photograph: &apos;&apos;Morris Robinson (right) at the Robinson Farm Climax Dairy, c. 1906, Courtesy: Robinson Dairy Inc., Sponsor: Robinson Dairy Inc.&apos;&apos;</dc:description>
+  <dc:description>Page 31 from &apos;&apos;A Colorado Jewish Family Album: 1859-1992&apos;&apos; with a photograph of Morris Robinson at Robinson Farm Climax Dairy.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph2021</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0001.00057</dc:identifier>
+  <dc:subject>Robinson Dairy (Denver, Colo.)</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Dairy farmers</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59354</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_57284</identifier>
+    <datestamp>2012-07-03T16:17:31Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Picnic at the National Home for Jewish Children at Denver</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1931</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#388 Residents of Nat. Home for Jewish Children&apos;&apos; and &apos;&apos;Jewish Sheltering Home 1910-1950s&apos;&apos;.  On back of photograph: &apos;&apos;#388  Picnic Supper Out-of-Doors  National Home for Jewish Children at Denver  1931  L - Bertha Katzson, rear  L-R  __ __ __ Doris Greenstein  __  Reuben Levine  picnic supper out-of-doors  &apos;&apos;.</dc:description>
+  <dc:description>A group of children sit on an outside deck at the National Home for Jewish Children. Each child has a plate of food and an unidentified woman serves them. Most of the children are unidentified, however, Bertha Katzson, Doris Greenstein and Reuben Levine are part of the group. The children are in the care of the National Home for Jewish Children at Denver in Denver, Colorado. Later, the home became part of the National Jewish Hospital.</dc:description>
+  <dc:description>Donated by the National Asthma Center.</dc:description>
+  <dc:description>ph388</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.03.0011.00089</dc:identifier>
+  <dc:subject>Greenstein, Doris</dc:subject>
+  <dc:subject>Katzson, Bertha</dc:subject>
+  <dc:subject>Levine, Reuben</dc:subject>
+  <dc:subject>National Home for Jewish Children in Denver</dc:subject>
+  <dc:subject>Jewish children</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Group homes for children</dc:subject>
+  <dc:subject>Rehabilitation</dc:subject>
+  <dc:subject>Children</dc:subject>
+  <dc:subject>Girls</dc:subject>
+  <dc:subject>Boys</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Event photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:57284</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59744</identifier>
+    <datestamp>2012-07-03T16:17:35Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Hornbein Family Portrait</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1925</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, page 23.</dc:description>
+  <dc:description>On back of photograph: &apos;&apos;Philip and Flora (Anfenger) Hornbein Philip Jr. and Marjorie, 1923 California trip.&apos;&apos;</dc:description>
+  <dc:description>Flora and Philip Hornbein stand in front of a false scenic coastline backdrop with their children, Marjorie and Philip Jr., mounted on a cardboard donkey in front of them. Photograph was taken on a trip to San Francisco, California in 1923. Philip Hornbein was a Colorado trial lawyer, a leader in the fight against the Ku Klux Klan, and chairman of Colorado&apos;s Democratic Party during the presidency of Franklin D. Roosevelt.</dc:description>
+  <dc:description>Donated by Ann Hornbein.</dc:description>
+  <dc:description>ph1052</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.05.0013.00024</dc:identifier>
+  <dc:subject>Hornbein Family</dc:subject>
+  <dc:subject>Hornbein, Flora Anfenger,--1888-1964</dc:subject>
+  <dc:subject>Hornbein, Philip,--1879-1962</dc:subject>
+  <dc:subject>Hornbein, Philip,--1915-1987</dc:subject>
+  <dc:subject>Hornbein, Marjorie,--1913-2006</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish families</dc:subject>
+  <dc:subject>Social life and customs</dc:subject>
+  <dc:subject>Vacations</dc:subject>
+  <dc:subject>Jewish lawyers</dc:subject>
+  <dc:subject>Jewish statesmen</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Lawyers</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Families and Groups</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59744</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59375</identifier>
+    <datestamp>2012-07-03T16:17:32Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Max Mosko&apos;s Motel</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1950-1960</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>On envelope: &apos;&apos;#1039 Mosko&apos;s Motel.&apos;&apos;</dc:description>
+  <dc:description>Signage outside Max Mosko&apos;s Motel in Denver, Colorado. Max Mosko was the brother of Ruth Mosko Handler, creator of the Barbie doll.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph1039</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0009.00073</dc:identifier>
+  <dc:subject>Max Mosko&apos;s Motel</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59375</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_57332</identifier>
+    <datestamp>2012-07-03T16:17:36Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Exterior of Hebrew Education Alliance</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1978</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Courtesy of Charles McNamara.</dc:description>
+  <dc:description>Photograph was mislaid and was replaced by another print.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, page 68.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>The Hebrew Educational Alliance&apos;s original building at West Colfax and Meade Street. It was founded in 1932 and became the largest congregation on Denver&apos;s west side. The Hebrew Educational Alliance was created as a result of the &apos;&apos;alliance&apos;&apos; between the Beth David Hebrew School Sisterhood and Brotherhood, and the Denver Hebrew Institute. On October 25, 1932, Rabbi Manuel Laderman arrived in Denver to serve as the first Rabbi of the Hebrew Educational Alliance. The combined synagogue and Hebrew School was organized along Orthodox lines. When the Alliance moved into another building, the original building became the Golden West Nursing Home.</dc:description>
+  <dc:description>Donated by the photographer, Dr. Charles Mcnamara.</dc:description>
+  <dc:description>ph222</dc:description>
+  <dc:creator>McNamara, Charles</dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.06.0014.00004</dc:identifier>
+  <dc:subject>Laderman, Manuel,--1909-1989</dc:subject>
+  <dc:subject>Hebrew Educational Alliance (Denver, Colo.)</dc:subject>
+  <dc:subject>Jewish religious schools</dc:subject>
+  <dc:subject>Orthodox Judaism</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Religious Life</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:57332</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59310</identifier>
+    <datestamp>2012-07-03T16:17:32Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Exterior of the Lutz Overall Factory</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1905-1910</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 4 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, page 42.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#416 Lutz Overall Factory, Leon Obodov, mgr.&apos;&apos;  On back of photograph: &apos;&apos;Lutz Overall Factory on Larimer St. Leon Obodov, 8th from left, was manager c. 1905-1910. The Lutz&apos;s employed many immigrant Jews during the early years of the century. #416.&apos;&apos;</dc:description>
+  <dc:description>Exterior of the Lutz Overall Factory on Larimer Street in Denver, Colorado. There is a large group of employees standing in front of the factory. Leon Obodov (8th from left) was manager at the time. The factory employed many immigrant Jews during the early part of the 20th century.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph416</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0017.00015</dc:identifier>
+  <dc:subject>Obodov, Leon</dc:subject>
+  <dc:subject>Lutz Overall Factory</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Clothing trade</dc:subject>
+  <dc:subject>Clothing factories</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59310</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59395</identifier>
+    <datestamp>2012-07-03T16:17:50Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Employees Working Inside Stein&apos;s Store</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1913-1914</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 8 x 10 inches,</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photocopies</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &quot;# 386 Stein family of Pueblo, 1900-1960  info inside.&quot; Photocopy of handwritten note inside original envelope: &quot;Taken in Pueblo, Colorado between 1913 and 1914. Max Stein arrived in Pueblo in 1898 (he is the man on the right) after serving as a mounted policeman, he began peddling fruit and vegetables from a wagon. About 1910 he opened a retail grocery store at 1156 4th St., Pueblo. The business is still in the same location but has expanded to become a wholesale food company. Marvin Stein, the present owner, is a third-generation Stein.&quot;  Handwritten note on back of photocopy: &quot;L to R Minnie Stein, WC &apos;&apos;Bill&apos;&apos; Ohlman, Albert Stein, Max Stein, Louis Brown  Taken Prior to Late 1934.&quot;  Handwritten on back of photographic copy: &quot;Stein&apos;s Market, 115 E 4th, Pueblo, Co. c1918, #386.&quot;</dc:description>
+  <dc:description>From left to right: Minnie Stein, WC &apos;&apos;Bill&apos;&apos; Ohlman, Albert Stein, Max Stein, and Louis Brown (Max Stein and Louise Brown identities may be swapped) working inside Stein&apos;s Store at 115 E 4th, Pueblo, Colorado. Max Stein owned and operated this store, which primarily sold grocery items, in Pueblo, Colorado.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph386</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language>Inscription is in English.</dc:language>
+  <dc:identifier>B063.01.0001.00026</dc:identifier>
+  <dc:subject>Stein, Max</dc:subject>
+  <dc:subject>Stein Retail Store</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Interior views</dc:subject>
+  <dc:subject>Pueblo (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59395</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59287</identifier>
+    <datestamp>2012-07-03T16:18:01Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Interior of Colorado Electric Wiring Company</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1900</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, page 50.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;# 134 Borwick - Colo Electric Co B-9&apos;&apos;.  On the back of photograph: &apos;&apos;Colorado Electric Wiring Co. 515 18th St. circa 1900  L to R. Bessie Borwick (sister of Benjamin Borwick, Prop.  3/15  458-4661c  4  #134&apos;&apos;.</dc:description>
+  <dc:description>The c. 1900 photograph reveals the interior of the Colorado Electric Wiring Company with proprietor Benjamin Borwick standing with his sister Bessie.</dc:description>
+  <dc:description>Donated by Mrs. Ben Brockla in 1977.</dc:description>
+  <dc:description>ph134</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0009.00004</dc:identifier>
+  <dc:subject>Borwick, Benjamin</dc:subject>
+  <dc:subject>Borwick, Bessie</dc:subject>
+  <dc:subject>Colorado Electric Wiring Company</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Interior views</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59287</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59419</identifier>
+    <datestamp>2012-07-03T16:17:57Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Bernstein&apos;s Dry Goods Store</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1890-1905</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 8 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, page 124.</dc:description>
+  <dc:description>On envelope: &apos;&apos;# 148 Bernstein in front of his store, c 1890&apos;s&apos;&apos;. On back of photograph: &apos;&apos;# 148 Bernstein, Moritz, of Walsenberg [sic]. Store may be in different location other than Walsenberg [sic], as there were stores in Trinidad, Pueblo &amp; Colo. Springs. Bernstein standing with hands in pocket. Donor Mr. Morten Stark circa 1890-1905&apos;&apos;.</dc:description>
+  <dc:description>Moritz Bernstein, third from left, dressed in a suit, stands with hands in pockets. Customers near him stand in front of Bernstein&apos;s Dry Goods Store in Walsenburg, Colorado.</dc:description>
+  <dc:description>Donated by Morton Stark in 1977.</dc:description>
+  <dc:description>ph148</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language>Inscription in English.</dc:language>
+  <dc:identifier>B063.01.0001.00012</dc:identifier>
+  <dc:subject>Bernstein, Moritz,--1866-1918</dc:subject>
+  <dc:subject>Bernstein&apos;s Dry Goods Store</dc:subject>
+  <dc:subject>Jewish merchants</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Walsenburg (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Merchants</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59419</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59325</identifier>
+    <datestamp>2012-07-03T16:17:44Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Max Cook Sporting Goods</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1924-1932</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 7 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>On envelope: &apos;&apos;#1034 Cooks Sporting Goods.&apos;&apos; On back of photograph: &apos;&apos;Max, Julian &amp; Harold Cook, #1034.&apos;&apos;</dc:description>
+  <dc:description>Exterior of Max Cook Sporting Goods with neon signage. In 1924, Dave and Max Cook went into the sporting goods business, operating the first major sports store in Colorado.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph1034</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0009.00068</dc:identifier>
+  <dc:subject>Max Cook Sporting Goods</dc:subject>
+  <dc:subject>Stores, Retail</dc:subject>
+  <dc:subject>Jewish merchants</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Merchants</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59325</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37766</identifier>
+    <datestamp>2012-07-03T16:17:30Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Dr. Charles Spivak Seated at His Desk</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1923</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>2 item (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, on page 85.</dc:description>
+  <dc:description>Handwritten on back of photograph: &apos;&apos;Dr. Charles Spivak at his desk, c. 1923.&apos;&apos;  Handwritten on back of duplicate photograph: &apos;&apos;Dr. Spivak at his desk c.1920.&apos;&apos;</dc:description>
+  <dc:description>Dr. Charles Spivak sits at his desk with a copy of the Denver Jewish News opened in front of him and a telephone on an extension frame behind him. The JCRS was a sanatorium for tuberculosis patients that was founded in 1904 by a group of immigrant Jewish working men along with the support of several leading physicians, including Dr. Spivak, and rabbis in Denver, Colorado. It was located on West Colfax Avenue just outside of Denver.</dc:description>
+  <dc:description>Donated by AMC Cancer Research Center (JCRS).</dc:description>
+  <dc:description>ph1080</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.03.0036.00046</dc:identifier>
+  <dc:subject>Spivak, C. D.--(Charles D.),--1861-1927</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Jewish physicians</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Edgewater (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Sanatorium (Colo.)</dc:subject>
+  <dc:subject>Physicians</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37766</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59446</identifier>
+    <datestamp>2012-07-03T16:17:27Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Display Shelf Inside Pencol Drug</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1950-1965</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#582  Interior of Pencol Drug owned by Azriel Stein&apos;&apos;. On back of photograph: &apos;&apos;#582 Interior of Pencol Drug&apos;&apos;.</dc:description>
+  <dc:description>Display shelf with perfumes for sale, inside Pencol Drug. The store was located at Pennsylvania Street and Colfax Avenue in Denver, Colorado and, owned by Azriel Stein.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph582</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0009.00036</dc:identifier>
+  <dc:subject>Stein, Azriel,--1896-1976</dc:subject>
+  <dc:subject>Pencol Drugs</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Pharmacists</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59446</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38549</identifier>
+    <datestamp>2012-07-03T16:17:55Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Patients Undergoing Heliotherapy at the Jewish Consumptives&apos; Relief Society</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1920-1940</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, page 83.</dc:description>
+  <dc:description>On envelope: &apos;&apos;#462 JCRS Patient Activities.&apos;&apos; On back of photograph: &apos;&apos;JCRS TB Patients undergoing Heliotherapy, 1930s.&apos;&apos;</dc:description>
+  <dc:description>Patients lay in beds pushed out on the porches of the New York Building of the Jewish Consumptives&apos; Relief Society for sun heliotherapy treatment for tuberculosis. The JCRS was a sanatorium for tuberculosis patients that was founded in 1904 by a group of immigrant Jewish workingmen along with the support of several leading physicians and rabbis in Denver, Colorado. The sanatorium was located on West Colfax Avenue just outside of Denver.</dc:description>
+  <dc:description>Accession # 1271, Donated by AMC Cancer Research Center as part of the JCRS Records.</dc:description>
+  <dc:description>ph462</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.03.0003.00094</dc:identifier>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Main Medical Building (Sanatorium, Colo.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Patients</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Sun-baths</dc:subject>
+  <dc:subject>Therapeutics, Cutaneous and external</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Edgewater (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Spivak (Colo.)</dc:subject>
+  <dc:subject>Sanatorium (Colo.)</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38549</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59700</identifier>
+    <datestamp>2012-07-03T16:17:44Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Simon and Jennie Sanders</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1870</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 4 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, page 123.</dc:description>
+  <dc:description>Handwritten on back of photograph: &apos;&apos;Mr. and Mrs. Simon Sanders (Jennie).&apos;&apos;</dc:description>
+  <dc:description>Simon and Jennie Sanders pose for a formal portrait.</dc:description>
+  <dc:description>Donated by Mrs. Gilbert Sanders.</dc:description>
+  <dc:description>ph339</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language>Inscription is in English.</dc:language>
+  <dc:identifier>B063.05.0021.00005</dc:identifier>
+  <dc:subject>Sanders, Jennie</dc:subject>
+  <dc:subject>Sanders, Simon</dc:subject>
+  <dc:subject>Jewish men</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Photographic prints</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Families and Groups</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance. Please credit Roger Whitacre.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59700</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59451</identifier>
+    <datestamp>2012-07-03T16:17:57Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Interior of Londoner&apos;s Store, Denver, Colo.</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1890</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Courtesy of Denver Public Library&apos;s Western History and Genealogy Department.</dc:description>
+  <dc:description>On back of photograph: #816 Credit Denver Public Library Western History Department Order # 06989  Londoner&apos;s Store  15th and Arapahoe  Denver Business Groceries&apos;&apos;&apos;&apos;.  On envelope: &apos;&apos;#816 Londoner&apos;s Grocery, Interior 15th and Arapahoe&apos;&apos;.</dc:description>
+  <dc:description>Canned goods and staples inside the Londoner Store located at 15th Avenue and Arapahoe Street in Denver, Colorado. The Londoner grocery store was owned by Wolfe Londoner, mayor of Denver from 1889 to 1891.</dc:description>
+  <dc:description>Gift of Denver Public Library&apos;s Western History and Genealogy Department.</dc:description>
+  <dc:description>ph816</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0009.00051</dc:identifier>
+  <dc:subject>Londoner, Wolfe</dc:subject>
+  <dc:subject>Wolf Londoner&apos;s Grocery Store (Denver, Colo.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish men</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Stores, Retail</dc:subject>
+  <dc:subject>Dry-goods</dc:subject>
+  <dc:subject>Grocery trade</dc:subject>
+  <dc:subject>Family-owned business enterprises</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Interior views</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Businesspeople</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59451</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59352</identifier>
+    <datestamp>2012-07-03T16:17:47Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Waldman&apos;s Store</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1950-1960</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photocopies</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Exterior view of Waldman&apos;s Clothing store.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph1065</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0001.00055</dc:identifier>
+  <dc:subject>Waldman&apos;s Clothing store</dc:subject>
+  <dc:subject>Stores, Retail</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59352</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_37782</identifier>
+    <datestamp>2012-07-03T16:17:21Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Children at the Jewish Sheltering Home in Denver</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1912</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Appears in &apos;&apos;Images of America: Jewish Denver 1859-1940,&apos;&apos; by Dr. Jeanne Abrams, page 87.</dc:description>
+  <dc:description>Written on front of photograph: &apos;&apos;N.C. Hollowell Photo Denver&apos;&apos; Handwritten on envelope: &apos;&apos;#388 Residents of Nat. Home for Jewish Children&apos;&apos; and &apos;&apos;Jewish Sheltering Home 1910-1950s&apos;&apos;.  On back of photograph: &apos;&apos;#388  Jewish Sheltering Home, Denver, c 1912  MMJ 12 &apos;&apos;.</dc:description>
+  <dc:description>A group of children, some in robes, sit with the matron and director at the Denver Sheltering Home for Jewish Children. The children were in the care of the home, which later became the National Home for Jewish Children in Denver.</dc:description>
+  <dc:description>Donated by the National Asthma Center.</dc:description>
+  <dc:description>ph388</dc:description>
+  <dc:creator>Hollowell, N.C.</dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.03.0011.00090</dc:identifier>
+  <dc:subject>National Home for Jewish Children in Denver</dc:subject>
+  <dc:subject>Denver Sheltering Home for Jewish Children</dc:subject>
+  <dc:subject>Jewish children</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Group homes for children</dc:subject>
+  <dc:subject>Boys</dc:subject>
+  <dc:subject>Girls</dc:subject>
+  <dc:subject>Children</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:37782</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_57285</identifier>
+    <datestamp>2012-07-03T16:17:56Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Patient Drinks Milk from the Dairy of the Jewish Consumptives&apos; Relief Society</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1930-1950</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 7 x 5 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#462 JCRS Patient Activities.&apos;&apos;  On back of photograph: &apos;&apos;#462 JCRS Patient drinking milk from JCRS dairy.&apos;&apos;</dc:description>
+  <dc:description>An unidentified patient drinks milk from the dairy of the Jewish Consumptives&apos; Relief Society (JCRS). The JCRS was a sanatorium for tuberculosis patients that was founded in 1904 by a group of immigrant Jewish workingmen along with the support of several leading physicians and rabbis in Denver, Colorado. It was located on West Colfax Avenue just outside of Denver.</dc:description>
+  <dc:description>Donated by AMC Cancer Research Center (JCRS).</dc:description>
+  <dc:description>ph462</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.03.0011.00048</dc:identifier>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Milk</dc:subject>
+  <dc:subject>Dairy farms</dc:subject>
+  <dc:subject>Patients</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Spivak (Colo.)</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:57285</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59388</identifier>
+    <datestamp>2012-07-03T16:17:37Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Exterior of Groussman&apos;s Store</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>6/27/1982</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 4 x 5 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#558 RMJHS Historic Denver Tour Roll II 6-27-82.&apos;&apos;  On back of photograph: &apos;&apos;6/27/82  II 10A-12  Groussmans.&apos;&apos;</dc:description>
+  <dc:description>Exterior of Albert and Bella Groussman&apos;s grocery store, now known as the &quot;Mercantile Cafe,&quot; on the 9th Street Park, Auraria Campus, Denver, Colorado. The store is situated behind the parking lot, just to the right and back of the orange Volkswagen Beetle.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph558</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.01.0017.00025</dc:identifier>
+  <dc:subject>Groussman, Albert--1861-1925</dc:subject>
+  <dc:subject>Groussman, Bella Sobol--1869-1966</dc:subject>
+  <dc:subject>Groussman&apos;s Store</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish merchants</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59388</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_57287</identifier>
+    <datestamp>2012-07-03T16:17:52Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Adolph Kiesler at Cornerstone Ceremony for Beth Israel Home</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1940</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 11 x 14 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on back of photograph: &apos;&apos;laying the cornerstone of Beth Israel Hospital, Adolph Kiesler, 1940.&apos;&apos;</dc:description>
+  <dc:description>Adolph Kiesler attends a cornerstone ceremony for Beth Israel Home for the Aged at West 16th Avenue and Lowell Boulevard, Denver, Colorado. He stands in a suit and holds his hat in his left arm while shaking hands with a man in a suit and overcoat. Two men in suits, hats and overcoats stand behind Adolph Kiesler. Two men in work clothes stand behind the cornerstone that is attached to a pulley. &apos;&apos;Home for the Aged 1940 Erected 5700&apos;&apos; is chiseled on the stone. A boy stands, and two boys (one wears a jacket, the others are in shirtsleeves) sit on a brick wall.</dc:description>
+  <dc:description>Donated by Peggy Lehmann, granddaughter of Adolph Kiesler.</dc:description>
+  <dc:description>ph747</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language></dc:language>
+  <dc:identifier>B063.03.0033.0013.00001</dc:identifier>
+  <dc:subject>Kiesler, Adolph,--1880-1967</dc:subject>
+  <dc:subject>Beth Israel Home for the Aged (Denver, Colo.)</dc:subject>
+  <dc:subject>Jewish old age homes</dc:subject>
+  <dc:subject>Charities</dc:subject>
+  <dc:subject>Jewish men</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Event photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:57287</dc:identifier>
+</dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59430</identifier>
+    <datestamp>2012-07-03T16:17:28Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Emanuel Stein Displaying Leisure-O Line of Retail Seafoods</dc:title>
+  <dc:title></dc:title>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1960</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 8 x 10 inches,</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photocopies</dc:format>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &quot;# 386 Stein family of Pueblo, 1900-1960 info inside.&quot; Photocopy of handwritten note inside original envelope: &quot;Taken in Pueblo, Colorado between 1913 and 1914. Max Stein arrived in Pueblo in 1898 (he is the man on the right) after serving as a mounted policeman, he began peddling fruit and vegetables from a wagon. About 1910 he opened a retail grocery store at 1156 4th St., Pueblo. The business is still in the same location but has expanded to become a wholesale food company. Marvin Stein, the present owner, is a third-generation Stein.&quot;  Handwritten note on back of photocopy: &quot;Emanuel Stein displaying part of his Leisure-O line of retail seafoods sold throughout the west starting in 1939.&quot;  Handwritten on back of photocopy: &quot;Emanual Stein in Stein Foods, 115 E 4th St, Pueblo, c1960., Business in continuous proprietorship of Stein family for 65 years as of 1981 at original location., #386.&quot;</dc:description>
+  <dc:description>Emanuel Stein is seated behind a table covered with his Leisure-O brand of frozen seafood, which was sold throughout the Western States starting in 1939. This is a photocopy print.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>ph386</dc:description>
+  <dc:creator></dc:creator>
+  <dc:language>Inscription is in English.</dc:language>
+  <dc:identifier>B063.01.0001.00027</dc:identifier>
+  <dc:subject>Stein, Emanuel</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Jewish businesspeople</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Pueblo (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:relation>Beck Archives Photograph Collection, Businesses</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59430</dc:identifier>
+</dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

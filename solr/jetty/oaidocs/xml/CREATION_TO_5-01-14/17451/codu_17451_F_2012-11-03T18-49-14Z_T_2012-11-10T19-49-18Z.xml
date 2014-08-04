@@ -1,0 +1,1684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T05:11:56Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63777</identifier>
+    <datestamp>2012-11-05T18:41:16Z</datestamp>
+    <setSpec>codu_32562</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Professor Ammi Hyde.</dc:title>
+  <dc:creator></dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Universities and Colleges</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hyde, Ammi Bradford,--1826-1921</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Portrait of Dr. Ammi Hyde.  Ammi Hyde was the Chair of Greek and Latin at the University of Denver.  He also established the second iteration of DU&apos;s yearbook and named it the Kynewisbok.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>Between 1826 -1921</dc:date>
+  <dc:type>StillImage</dc:type>
+  <dc:type></dc:type>
+  <dc:format>1 item (photograph)</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63777</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>University of Denver Historical Photograph Collection</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver, Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63778</identifier>
+    <datestamp>2012-11-05T18:52:23Z</datestamp>
+    <setSpec>codu_32562</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Professor Dr. Ammi Hyde</dc:title>
+  <dc:creator></dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Universities and Colleges</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hyde, Ammi Bradford,--1826-1921</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Dr. Ammi Hyde was the Chair and professor of Greet and Latin at the University of Denver.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>between 1826-1921</dc:date>
+  <dc:type>StillImage</dc:type>
+  <dc:type></dc:type>
+  <dc:format>1 item (photograph)</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63778</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>University of Denver Historical Photograph Collection</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver, Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63779</identifier>
+    <datestamp>2012-11-06T16:40:44Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Square Dancing, Vol. 25 No. 9 (September, 1973)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: &quot;Hot Line - Late News&quot;, &quot;Brushup Time&quot;, &quot;The LEGACY Story&quot;, &quot;1973-74 Dancer Associations Directory&quot;, &quot;A History of Square Dancing&quot;, &quot;The Dancers Walkthru&quot;, &quot;Square Dance Diary&quot;, &quot;A Round Dance Dialog&quot;, &quot;Paging the Round Dancers: Ed and Helen Remy&quot;, &quot;Callers Text - Chapter Twenty-Eight&quot;, &quot;Take a Good Look&quot;, &quot;Style Lab - Thread the Needle&quot;, &quot;Smoother Dancing Poster&quot;, &quot;Round the World of Square Dancing&quot;, &quot;Callers/Teachers Workshop&quot;, &quot;Caller of the Month: Kenn Reid&quot;, &quot;On the Record: Reviews&quot;, &quot;Square Dance Date Book&quot;, and &quot;Fashion Feature&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>09/1973</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>88 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63779</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Sets in Order</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63780</identifier>
+    <datestamp>2012-11-06T16:49:23Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Square Dancing, Vol. 25 No. 8 (August, 1973)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: &quot;On the Record: Reviews&quot;, &quot;Fashion Feature&quot;, &quot;Hot Line - Late News&quot;, &quot;Comeback for Live Music?&quot;, &quot;Square Dance Week Success Story&quot;, &quot;Callers Associations Directory&quot;, &quot;A History of Square Dancing&quot;, &quot;Take a Good Look - Curl to a Wave&quot;, &quot;The Dancers Walkthru&quot;, &quot;Square Dance Diary&quot;, &quot;Round Dance Teachers Directory&quot;, &quot;Paging the Round Dancers: Bob and Janette Kemper&quot;, &quot;Callers Text - Recap&quot;, &quot;Style Lab - Rip n&apos; Snort&quot;, &quot;Smoother Dancing Poster&quot;, &quot;Round the World of Square Dancing&quot;, &quot;Callers/Teachers Workshop&quot;, &quot;Caller of the Month: Several Gene Olson, Russ McCormick, Glenn Cooke, Stew Shacklette, Gene Welsh, Charlie Shoemaker&quot;, and &quot;Square Dance Date Book&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>08/1973</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>80 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63780</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Sets in Order</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63781</identifier>
+    <datestamp>2012-11-06T17:02:09Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Square Dancing, Vol. 25 No. 7 (July, 1973)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: &quot;Hot Line - Late News&quot;, &quot;Fashion Feature&quot;, &quot;How Long Does It Take?&quot;, &quot;1973 Publication Directory&quot;, &quot;Ladies on the Square&quot;, &quot;Youth on the Square&quot;, &quot;Take a Good Look - Star and Slide&quot;, &quot;The Dancers Walkthru&quot;, &quot;Square Dance Diary&quot;, &quot;Round Dance Module&quot;, &quot;Paging the Round Dancers: Don and Jerrie Day&quot;, &quot;Callers Textbook - Recap&quot;, &quot;A History of Square Dancing&quot;, &quot;Style Lab - Ends Turn In&quot;, &quot;Smoother Dancing Poster&quot;, &quot;Round the World of Square Dancing&quot;, &quot;Callers/Teachers Workshop&quot;, &quot;Caller of the Month: Art Cook&quot;, &quot;On the Record: Review&quot;, and &quot;Square Dance Date Book&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>07/1973</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>72 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63781</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Sets in Order</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63782</identifier>
+    <datestamp>2012-11-06T17:12:50Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Square Dancing, Vol. 25 No. 6 (June, 1973)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: &quot;Hot Line - Late News&quot;, &quot;Fashion Feature&quot;, &quot;National Square Dance Convention&quot;, &quot;Singles Directory - 1973&quot;, &quot;Youth on the Square&quot;, &quot;A History of Square Dancing&quot;, &quot;Smoother Dancing Poster&quot;, &quot;Take a Good Look - Cloverflo&quot;, &quot;The Dancers Walkthru&quot;, &quot;Square Dance Diary&quot;, &quot;Paging the Round Dancers: Howard and Phyllis Swanson&quot;, &quot;National Convention Scrapbook&quot;, &quot;Callers Text - Chapter Twenty-Seven&quot;, &quot;Ladies on the Square&quot;, &quot;Style Lab - All Four Couples Flutterwheel and Sweep a Quarter&quot;, &quot;Round the World of Square Dancing&quot;, &quot;Callers/Teachers Workshop&quot;, &quot;Caller of the Month: Wally Cook&quot;, &quot;On the Record: Reviews&quot;, and &quot;Square Dance Date Book&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>06/1973</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>96 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63782</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Sets in Order</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63783</identifier>
+    <datestamp>2012-11-06T17:19:57Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Square Dancing, Vol. 25 No. 5 (May, 1973)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: &quot;Hot Line - Late News&quot;, &quot;Time for Planning&quot;, &quot;Summer Dancing Directory&quot;, &quot;National Square Dance Convention&quot;, &quot;A History of Square Dancing&quot;, &quot;Smoother Dancing Poster&quot;, &quot;Take a Good Look - Zoom&quot;, &quot;The Dancers Walkthru&quot;, &quot;Square Dance Diary&quot;, &quot;Round Dance Module&quot;, &quot;Paging the Round Dancers: Tom and Kay Pell&quot;, &quot;Callers Textbook - Chapter Twenty-Six&quot;, &quot;Style Lab - Two Look Alikes&quot;, &quot;Round the World of Square Dancing&quot;, &quot;Callers/Teachers Workshop&quot;, &quot;Caller of the Month: Bob Bennett&quot;, &quot;On the Record: Reviews&quot;, &quot;Square Dance Date Book&quot;, and &quot;Fashion Feature&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>05/1973</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>88 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63783</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Sets in Order</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63784</identifier>
+    <datestamp>2012-11-06T17:28:55Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Square Dancing, Vol. 25 No. 4 (April, 1973)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: &quot;Hot Line - Late News&quot;, &quot;The Set-up Squares Dragon&quot;, &quot;Youth on the Square&quot;, &quot;Vox Saltator&quot;, &quot;1973 Vacation Directory&quot;, &quot;A History of Square Dancing&quot;, &quot;Smoother Dancing Poster&quot;, &quot;Take a Good Look - Right and Left Roll&quot;, &quot;The Dancers Walkthru&quot;, &quot;Square Dance Diary&quot;, &quot;Roundance Module&quot;, &quot;Paging the Round Dancers: Charlie and Nina Ward&quot;, &quot;Callers Text - Chapter Twenty-Five&quot;, &quot;Ladies on the Square&quot;, &quot;Style Lab - Rainbow Stroll&quot;, &quot;National Square Dance Convention&quot;, &quot;Round the World of Square Dancing&quot;, &quot;Callers/Teachers Workshop&quot;, &quot;On the Record: Reviews&quot;, &quot;Caller of the Month: Bill Peters&quot;, &quot;Square Dance Date Book&quot;, and &quot;Fashion Feature&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>04/1973</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>80 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63784</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Sets in Order</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63785</identifier>
+    <datestamp>2012-11-06T18:20:18Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Square Dancing, Vol. 25 No. 3 (March, 1973)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: &quot;Hot Line - Late News&quot;, &quot;Stand Up and Be Counted&quot;, &quot;Big Events Calendar&quot;, &quot;Take a Good Look - Spin Chain the Gears&quot;, &quot;A History of Square Dancing&quot;, &quot;Smoother Dancing Poster&quot;, &quot;The Dancers Walkthru&quot;, &quot;Square Dance Diary&quot;, &quot;Roundance Module&quot;, &quot;Paging the Round Dancers: Ed and Carolyn Raybuck&quot;, &quot;Callers Text - Chapter Twenty-Four&quot;, &quot;Style Lab - More on Cast Off&quot;, &quot;National Square Dance Convention&quot;, &quot;Round the World of Square Dancing&quot;, &quot;Callers/Teachers Workshop&quot;, &quot;On the Record: Reviews&quot;, &quot;Caller of the Month: Keith Gulley&quot;, and &quot;Fashion Feature&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>03/1973</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>80 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63785</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Sets in Order</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63786</identifier>
+    <datestamp>2012-11-06T18:29:25Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Square Dancing, Vol. 25 No. 2 (February, 1973)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square &quot;and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: &quot;Hot Line&quot;, &quot;ASDW Bulletin&quot;, &quot;A History of Square Dancing&quot;, &quot;Vox Saltator&quot;, &quot;Youth on the Square&quot;, &quot;Smoother Dancing Poster&quot;, &quot;Take a Good Look - Walk and Dodge&quot;, &quot;Roundance Module&quot;, &quot;Paging the Round Dancers: Charlie and Marge Carter&quot;, &quot;The Dancers Walkthru&quot;, &quot;Square Dance Diary&quot;, &quot;Callers Text - Chapter Twenty-Three&quot;, &quot;Ladies on the Square&quot;, &quot;Style Lab - Sashay Thru&quot;, &quot;National Square Dance Convention&quot;, &quot;Round the World of Square Dancing&quot;, &quot;Callers/Teachers Workshop&quot;, &quot;1973 Square Dancers Guide&quot;, &quot;Caller of the Month: Jim Robertson&quot;, &quot;On the Record: Reviews&quot;, and &quot;Square Dance Date Book&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>02/1973</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>96 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63786</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Sets in Order</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63787</identifier>
+    <datestamp>2012-11-06T18:39:02Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Square Dancing, Vol. 25 No. 1 (January, 1973)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: &quot;Hot Line - Late News&quot;, &quot;Spirit of &apos;76&quot;, &quot;What Are They Dancing?&quot;, &quot;The Grand March&quot;, &quot;A History of Square Dancing&quot;, &quot;SIOASDS Bulletin Thirty-One&quot;, &quot;Smoother Dancing Poster&quot;, &quot;Take a Good Look - Peel and Trade&quot;, &quot;The Dancers Walkthru&quot;, &quot;Square Dance Diary&quot;, &quot;Roundance Module&quot;, &quot;Paging the Round Dancers: Horace and Brenda Mills&quot;, &quot;Callers Text - Chapter Twenty-Two&quot;, &quot;Ladies on the Square&quot;, &quot;Style Lab - Curlique and Cast Off&quot;, &quot;National Square Dance Convention&quot;, &quot;Round the World of Square Dancing&quot;, &quot;Callers/Teachers Workshop&quot;, &quot;Caller of the Month: Web Witter&quot;, &quot;On the Record: Reviews&quot;, &quot;Square Dance Date Book&quot;, and &quot;Fashion Feature&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>01/1973</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>80 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63787</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Sets in Order</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63788</identifier>
+    <datestamp>2012-11-06T18:46:20Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Square Dancing, Vol. 24 No. 11 (November, 1972)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: &quot;A History of Square Dancing&quot;, &quot;Smoother Dancer Poster&quot;, &quot;Take a Good Look - Turn and Left Thru&quot;, &quot;The Dancers Walkthru&quot;, &quot;Square Dance Diary&quot;, &quot;The Callers Textbook - Chapter Twenty&quot;, &quot;Roundance Module&quot;, &quot;Paging the Round Dancers: Don and Betty Collins&quot;, &quot;Style Lab - Scoot Back&quot;, &quot;National Square Dance Convention&quot;, &quot;Round the World of Square Dancing&quot;, &quot;Ladies on the Square&quot;, &quot;Callers/Teachers Workshop&quot;, &quot;Caller of the Month: Johnny Pierce&quot;, &quot;On the Record: Reviews&quot;, &quot;From the Floor&quot;, &quot;Square Dance Date Book&quot;, and &quot;Fashion Feature&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>11/1972</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>96 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63788</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Sets in Order</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63789</identifier>
+    <datestamp>2012-11-06T19:09:23Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Square Dancing, Vol. 16 No. 10 (October, 1964)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: &quot;From the Floor&quot;, &quot;Square Dance Date Book&quot;, &quot;On the Record and Record Report&quot;, &quot;As I See It&quot;, &quot;The Dancer&apos;s Walkthru&quot;, &quot;Square Dance Floats on Parade&quot;, &quot;&quot;What Ever Happened to Kirby Todd?&quot;&quot;, &quot;N.Y. World&apos;s Fair Puts Square Dancing on the Map&quot;, &quot;Ladies on the Square: &quot;Engineered&quot; Sleeves for Square Dancing Dresses&quot;, &quot;Style Series: The &quot;Little Things&quot; That Count&quot;, &quot;Overseas Dateline&quot;, &quot;Round the Outside Ring&quot;, &quot;Sets in Order Workshop&quot;, &quot;Caller of the Month: Billy Lewis&quot;, &quot;Paging the Roundancers: Dan and Mildred Hulin; Bud and Betty Sibbald&quot;, and &quot;Experimental Lab: Bend Thru&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>10/1964</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>72 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63789</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Sets in Order</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63792</identifier>
+    <datestamp>2012-11-06T19:40:06Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sets in Order, Vol. 14 No. 4 (April, 1962)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: &quot;Square Dance Date Book&quot;, &quot;On the Record and Record Report&quot;, &quot;The Square Dance Picture&quot;, &quot;From the Floor&quot;, &quot;As I See It&quot;, &quot;Square Dance Vacations 1962&quot;, &quot;Who, Me?&quot;, &quot;Americana: Turkey in the Straw&quot;, &quot;The Dancer&apos;s Walkthru&quot;, &quot;Vox Saltator: The Square Dancer Speaks Up&quot;, &quot;Gym Floors - Care and Use&quot;, &quot;The Most Critical Fifteen Minutes of a Square Dance&quot;, &quot;Overseas Dateline&quot;, &quot;List of Old Favorites now on 45 R.P.M.&quot;, &quot;Style Series: Cast Off&quot;, &quot;Ladies on the Square: Things to Do with Skirts&quot;, &quot;Style Series: Square Mixers&quot;, &quot;&apos;Round the Outside Ring&quot;, &quot;Workshop&quot;, &quot;Flashes from Miami Beach&quot;, &quot;Caller of the Month: Al &quot;Tex&quot; Brownlee&quot;, &quot;Paging the Roundancers: Wayne and Norma Wylie&quot;, and &quot;Experimental Lab: Wheel-Cross&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>04/1962</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>88 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63792</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Square Dancing</dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63793</identifier>
+    <datestamp>2012-11-06T19:46:29Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sets in Order, Vol. 14 No. 2 (February, 1962)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: &quot;Square Dance Date Book&quot;, &quot;From the Floor&quot;, &quot;As I See It&quot;, &quot;Americana: Dakota Land&quot;, &quot;The Dancer&apos;s Walkthru&quot;, &quot;Overseas Dateline&quot;, &quot;Style Series: Star Thru&quot;, &quot;Caller of the Month: Al Berry&quot;, &quot;Paging the Roundancers: Lloyd and Maizie Poole&quot;, &quot;&apos;Round the Outside Ring&quot;, &quot;Workshop&quot;, &quot;Square Dance Organization Handbook&quot;, &quot;On the Record and Record Report&quot;, and &quot;Experimental Lab: Pass the Buck (Pass the Doe)&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>02/1962</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>88 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63793</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Square Dancing</dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63794</identifier>
+    <datestamp>2012-11-06T20:02:14Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sets in Order, Vol. 13 No. 11 (November, 1961)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: &quot;Thanksgiving - 1961&quot;, &quot;From the Floor&quot;, &quot;As I See It&quot;, &quot;Style Series: The Square Dance Balance&quot;, &quot;Hot Potato: Why a Club Outfit?&quot;, &quot;The Dancer&apos;s Walkthru&quot;, &quot;The Big Brass Band&quot;, &quot;Ladies on the Square: Needle Points for Square Dance Seamstresses&quot;, &quot;&apos;Round the Outside Ring&quot;, &quot;Workshop&quot;, &quot;Handbook: American Square Dancing&quot;, &quot;Caller of the Month: Chuck Goodman&quot;, &quot;Paging the Roundancers: Les and Mildred Roberts&quot;, &quot;Americana: Kansas Boys&quot;, &quot;Square Dance Date Book&quot;, &quot;On the Record and Record Report&quot;, and &quot;Experimental Lab: Roll Back&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>11/1961</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>80 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63794</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Square Dancing</dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63795</identifier>
+    <datestamp>2012-11-06T20:09:42Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sets in Order, Vol. 13 No. 8 (August, 1961)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: &quot;This is Sets in Order&quot;, &quot;As I See It&quot;, &quot;From the Floor&quot;, &quot;Square Dance Date Book&quot;, &quot;Who is a Square Dancer?&quot;, &quot;Double the Dancers Month&quot;, &quot;Americana: Cripple Creek&quot;, &quot;Dancer&apos;s Walkthru&quot;, &quot;Ladies on the Square: The Petticoat Tackle&quot;, &quot;What Are They Dancing?&quot;, &quot;Chuck Jones&apos; Note Book&quot;, &quot;Square Dance Vacation is Association Project&quot;, &quot;Style Series: All Eight Chain&quot;, &quot;&apos;Round the Outside Ring&quot;, &quot;Workshop&quot;, &quot;The Big 10th&quot;, &quot;Caller of the Month: Jack Moffet&quot;, &quot;Paging the Roundancers: Gene and Edna Arnfield&quot;, &quot;On the Record and Record Report&quot;, and &quot;Experimental Lab: Wheel to a Line&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>08/1961</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>98 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63795</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Square Dancing</dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63796</identifier>
+    <datestamp>2012-11-06T20:17:38Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sets in Order, Vol. 13 No. 3 (March, 1961)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: SPECIAL FEATURES &quot;U Q 2&quot;, &quot;Club That Dares to be Different&quot;, &quot;New Barn Bornin&apos; in Missouri&quot;, and &quot;Sound System Operation&quot;.  REGULAR FEATURES &quot;Square Dance Picture&quot;, &quot;Square Dance Date Book&quot;, &quot;From the Floor&quot;, &quot;As I See It&quot;, &quot;Overseas Dateline&quot;, &quot;Dancer&apos;s Walkthru&quot;, &quot;Style Series: Ladies Center, Back to the Bar&quot;, &quot;Ladies on the Square: The Coverup Story&quot;, &quot;Americana: Hayseed&quot;, &quot;Round the Outside Ring&quot;, &quot;Workshop&quot;, &quot;Caller of the Month: Burnell Beilke&quot;, &quot;Paging the Roundancers: Pete and Helen Mighetto&quot;, &quot;Experimental Lab: Uncouple&quot;, and &quot;On the Record&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>03/1961</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>64 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63796</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Square Dancing</dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63797</identifier>
+    <datestamp>2012-11-06T20:25:52Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sets in Order, Vol. 12 No. 11 (November, 1960)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: SPECIAL FEATURES &quot;Overseas Dateline&quot;, &quot;Colossal Cobo Hall&quot;, &quot;Handbook of Youth in Square Dancing&quot;, and &quot;Vox Saltator&quot;.  REGULAR FEATURES &quot;Square Dance Date Book&quot;, &quot;From the Floor&quot;, &quot;As I See It&quot;, &quot;Americana: The Old Chisholm Trail&quot;, &quot;Dancer&apos;s Walkthru&quot;, &quot;Round the Outside Ring&quot;, &quot;Experimental Lab: Star Thru&quot;, &quot;Workshop&quot;, &quot;Caller of the Month: Tom Hoffman&quot;, &quot;Paging the Roundancers: Bud and Ruby McLead&quot;, and &quot;On the Record&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>11/1960</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>82 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63797</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Square Dancing</dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63798</identifier>
+    <datestamp>2012-11-06T20:34:24Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sets in Order, Vol. 12 No. 9 (September, 1960)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: SPECIAL FEATURES &quot;Frills and Starch&quot;, &quot;Class Time is Coming&quot;, &quot;Square Dance Officers&apos; Guide&quot;, &quot;The Answer Man&quot;, &quot;A Special Club Project&quot;, &quot;New Dancers: After Class - What?&quot;, &quot;Ten Commandments for Square Dancers&quot;, &quot;Party Night&quot;, &quot;Beginners Are Frosting on the Cake&quot;, &quot;Vox Saltator&quot;, and &quot;Experimental Lab&quot;.  REGULAR FEATURES &quot;Square Dance Picture&quot;, &quot;Square Dance Date Book&quot;, &quot;From the Floor&quot;, &quot;As I See It&quot;, &quot;Chuck Jones&apos; Note Book&quot;, &quot;Round the Outside Ring&quot;, &quot;Americana: John Henry&quot;, &quot;Style Series: Shuffle the Deck&quot;, &quot;Caller of the Month: Bud Grass&quot;, &quot;Paging the Roundancers: Ivan and Aileen Pierson&quot; and &quot;On the Record&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>09/1960</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>64 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63798</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Square Dancing</dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63799</identifier>
+    <datestamp>2012-11-06T20:45:10Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sets in Order, Vol. 12 No. 6 (June, 1960)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: SPECIAL FEATURES &quot;Iowa Awaits You&quot;, &quot;These Are Your Hosts&quot;, &quot;Convention Tid Bits&quot;, &quot;Campus Swingers of Tokyo,&quot; &quot;S.O.S. Sound&quot;, &quot;Square Dancing for &quot;Special&quot; Groups&quot;, &quot;English Square Dance Personalities&quot;, and &quot;On the Subject of Training New Callers&quot;.  REGULAR FEATURES &quot;Square Dance Picture&quot;, &quot;Square Dance Date Book&quot;, &quot;From the Floor&quot;, &quot;As I See It&quot;, &quot;Chuck Jones&apos; Notebook&quot;, &quot;Ladies on the Square: International Wardrobe&quot;, &quot;What They Are Wearing&quot;, &quot;Americana: The Lane County Bachelor&quot;, &quot;Style Series: Isle of Capri Quadrille&quot;, &quot;Round the Outside Ring&quot;, &quot;Caller of the Month: Fred Caulkins&quot;, &quot;Style Series&quot;, &quot;Paging the Roundancers: Jules and Dottie Billard&quot;, and &quot;On the Record&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>06/1960</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>72 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63799</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Square Dancing</dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63800</identifier>
+    <datestamp>2012-11-06T20:56:03Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sets in Order, Vol. 12 No. 5 (May, 1960)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: SPECIAL FEATURES &quot;Press Time Tid Bits&quot;, &quot;Ladies on the Square: Figure Flattery&quot;, &quot;Vox Saltator, the Square Dancer Speaks Up&quot;, &quot;Tagging the Dancers&quot;, &quot;Needle Care&quot;, &quot;A Realistic Approach to Teaching Round Dancing to Square Dancers&quot;, &quot;&quot;Learn to Square Dance Week&quot; in Rhode Island&quot;, and &quot;Calling Contras&quot;.  REGULAR FEATURES &quot;Square Dance Date Book&quot;, &quot;From the Floor&quot;, &quot;As I See It&quot;, &quot;Style Series: Visualizing a Dance&quot;, &quot;What They Are Wearing&quot;, &quot;Americana: The Banjo and Old Joe Clark&quot;, &quot;Gems from Other Publications&quot;, &quot;Round the Outside Ring&quot;, &quot;Caller of the Month: Buck Fish&quot;, &quot;Paging the Roundancers: Bill and Mary Lynn&quot; and &quot;On the Record&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>05/1960</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>72 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63800</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Square Dancing</dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63801</identifier>
+    <datestamp>2012-11-06T21:01:21Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sets in Order, Vol. 12 No. 4 (April, 1960)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: SPECIAL FEATURES &quot;Square Dance Vacations - 1960&quot;, &quot;Mountain Climbing&quot;, &quot;Homes for Square Dancing&quot;, &quot;Planning a Group Square Dance Trip&quot;, &quot;To Answer Some Questions&quot;, &quot;Convention Flashes&quot;, &quot;Americana: Driftin&apos; Down the Draw&quot;, &quot;Still More About Contras&quot;, and &quot;William A. (Billy) Foster&quot;.  REGULAR FEATURES &quot;Square Dance Picture&quot;, &quot;Square Dance Date Book&quot;, &quot;As I See It&quot;, &quot;Style Series: The Grand Prowl&quot;, &quot;Round the Outside Ring&quot;, &quot;From the Floor&quot;, &quot;Caller of the Month: Les Houser&quot;, &quot;Paging the Roundancers: Cliff and Flo Wick&quot;, and &quot;On the Record&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>04/1960</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>64 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63801</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Square Dancing</dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62419</identifier>
+    <datestamp>2012-11-07T19:36:02Z</datestamp>
+    <setSpec>codu_62201</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Square Dancing Fundamental: level 1, part 2</dc:title>
+  <dc:creator>Jan Sadlo, Sr.</dc:creator>
+  <dc:contributor>Jack Murtha</dc:contributor>
+  <dc:contributor>Bob Ruff</dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor>AIMS Instructional Media Services</dc:contributor>
+  <dc:type>MovingImage</dc:type>
+  <dc:date>[199?]</dc:date>
+  <dc:publisher>Hollywood (Los Angeles, Calif.)</dc:publisher>
+  <dc:publisher>AIMS Instructional Media Services</dc:publisher>
+  <dc:type>Video recordings</dc:type>
+  <dc:language></dc:language>
+  <dc:format></dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Square dancing was inherited from England and France, but what makes Square Dancing truly American is the addition of the Caller. The Caller gives a dance enjoyment by phrasing calls with the music and by calling a variety of movements in interesting combinations. In this film, young dancers illustrate how to dance the movements and the fundamentals of square dancing. Dancers appearing in this films were taught by teachers Diane Baer and Nick Savannah from School District Anaheim, California.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Square dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Hollywood (Los Angeles, Calif.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Murtha, John P.</dc:subject>
+  <dc:subject>Sadlo, Jan, ǂc Sr.</dc:subject>
+  <dc:subject>Ruff, Bob</dc:subject>
+  <dc:subject>AIMS Instructional Media Services</dc:subject>
+  <dc:subject>Digital video recording</dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:62419</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:62419</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63750</identifier>
+    <datestamp>2012-11-07T21:46:17Z</datestamp>
+    <setSpec>codu_63642</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Our First Faculty</dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>StillImage</dc:type>
+  <dc:date>1912</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format>1 item (photograph)</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>This photograph appears in the University of Denver yearbook they Kynewisbok volume 14 page 260.  The caption of the photograph reads &quot;Our First Faculty&quot;.  From left to right Sidney H. Short, Herbert A. Howe, chancellor David Hastings Moore, O.B. Super, and Frances Fish.  </dc:description>
+  <dc:description>The title comes from the University of Denver yearbook Kynewisbok volume 14 page 260.  </dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Universities and Colleges</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver, Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Faculty</dc:subject>
+  <dc:subject>Yearbooks</dc:subject>
+  <dc:relation>Kynewisbok</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:63750</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance. </dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63750</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63802</identifier>
+    <datestamp>2012-11-08T17:56:56Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sets in Order, Vol. 11 No. 5 (May, 1959)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: SPECIAL FEATURES &quot;Rush to the Rockies&quot;, &quot;High Lights of the Convention&quot;, &quot;Where Did Everybody Go?&quot;, &quot;Modern Square Dancing-And the Church, excerpts from sermon&quot;, &quot;Mr. Square Dancer of the Trailerites&quot;, &quot;What is New in Square Dancing&quot;, &quot;The Morrises Migrate&quot;, &quot;Caller Round Up&quot;, &quot;Round Dance Councils Aid Area&quot;, &quot;McConnell&apos;s Gigantic Jamboree&quot;, and &quot;Random Notes on the Subject of Being Prepared&quot;.  REGULAR FEATURES &quot;Square Dance Date Book&quot;, &quot;From the Floor&quot;, &quot;As I See It&quot;, &quot;Style Series: Venus and Mars&quot;, &quot;Square Dance Picture&quot;, &quot;Chuck Jones Note Book&quot;, &quot;Round the Outside Ring&quot;, &quot;Caller of the Month: Bob Finley&quot;, &quot;Paging the Roundancers: Gay and Dottie Wright&quot; and &quot;On the Record&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>05/1959</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>72 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63802</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Square Dancing</dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63803</identifier>
+    <datestamp>2012-11-08T18:23:37Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sets in Order, Vol. 10 No. 11 (November, 1958)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: SPECIAL FEATURES &quot;To the Square Dancers of the World&quot;, &quot;The Past of Square Dancing&quot;, &quot;Square Dancing Today&quot;, &quot;The Future of Our Hobby&quot;, &quot;The Silver Spur Award&quot;, &quot;Square Dancing on Radio and Television&quot;, &quot;The Thoughts of a Beginner&quot;, &quot;Bouncing in Bavaria&quot;, &quot;Square Dancing for Young People&quot;, &quot;Background on the National Convention&quot;, &quot;Care of Your Square Dance Records&quot;, &quot;All Areas Sound Off&quot;, &quot;Packing Tips for Square Dance Trips&quot;, &quot;Teaching the Teachers&quot;, &quot;are You Caller Blind?&quot;, and &quot;My Job- Prepare &apos;Em&quot;.  REGULAR FEATURES &quot;Square Dance Date Book&quot;, &quot;As I See It&quot;, &quot;Chuck Jones&apos; Notebook&quot;, &quot;Style Series: Bad Habits &amp; Roughness&quot;, &quot;Refreshment Time&quot;, &quot;Square Dance Picture&quot;, &quot;Round the Outside Ring&quot;, &quot;Workshop Squares and Rounds&quot;, &quot;Paging the Roundancers: The Sommervilles&quot;, &quot;Caller of the Month: Bill Sawtelle&quot;, &quot;From the Floor&quot;, &quot;Ladies on the Square: If the Shoe Fits&quot;, and &quot;Style Series: Harlem Rosette&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>11/1958</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>82 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63803</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Square Dancing</dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63804</identifier>
+    <datestamp>2012-11-08T18:33:18Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sets in Order, Vol. 8 No. 10 (October, 1956)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: SQUARE DANCES &quot;After They&apos;ve Seen Paree&quot;, &quot;K. O.&quot;, and &quot;The Philanderer&quot;.  ROUND DANCES &quot;Dreaming&quot;, and &quot;Happy Polka&quot;.  SPECIAL FEATURES &quot;Square Dance Records - 1956&quot;, &quot;Records for Rounds&quot;, &quot;A Chance to Help&quot;, &quot;A Training Course for the Caller&apos;s Wife&quot;, &quot;Square Dancing in Wiesbaden&quot;, &quot;Music and Sound, Part II&quot;, &quot;Saint Louis Synopsis&quot;, &quot;Oakland, Nebraska, Swings In&quot;, &quot;St. Louis Come-On&quot;, and &quot;&quot;This is Your Record - Johnny Schultz&quot;.  REGULAR FEATURES &quot;From the Floor&quot;, &quot;As I See It&quot;, &quot;Style Series: Grand Square&quot;, &quot;The Square Dance Picture&quot;, &quot;Square of the Month (Bruce Stotts)&quot;, &quot;&apos;Round the Outside Ring&quot;, and &quot;Calendar of Square Dancing Events&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>10/1956</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>52 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63804</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Square Dancing</dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63805</identifier>
+    <datestamp>2012-11-08T18:57:23Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sets in Order, Vol. 6 No. 12 (December, 1954)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: SQUARE DANCES &quot;Double Cross&quot;, &quot;Sweet Sue&quot;, and &quot;Fade Away Square&quot;.  ROUND DANCES &quot;Peggy O&apos;Neil&quot;, and &quot;I Miss My Swiss&quot;.  SPECIAL FEATURES &quot;&quot;Cutting In&quot; is Fun (for Some)&quot;, &quot;Down in Cotton Land&quot;, &quot;Asilomar&quot;, &quot;Local Mannerisms&quot;, and &quot;U.S. Treasury Features Square Dancing&quot;.  REGULAR FEATURES &quot;As I See It&quot;, &quot;The Square Dance Picture&quot;, &quot;Square of the Month&quot;, &quot;&apos;Round the Outside Ring&quot;, &quot;From the Floor&quot;, and &quot;Calendar of Square Dancing Events&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>12/1954</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>42 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63805</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Square Dancing</dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63806</identifier>
+    <datestamp>2012-11-08T19:08:23Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sets in Order, Vol. 6 No. 4 (April, 1954)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: SQUARE DANCES &quot;Deep in the Heart of Texas&quot;, &quot;Bonaparte&apos;s Quadrille&quot;, &quot;The Maverick&quot;, and &quot;Phillupspace&quot;.  ROUND DANCES &quot;Waltz Time&quot;, and &quot;Country Two-Step&quot;.  SPECIAL FEATURES &quot;Convention Time in Texas (Program)&quot;, &quot;Home Is Where You Square Dance&quot;, &quot;Structure for Square Dancing&quot;, &quot;Square Dance Chain Letter&quot;, &quot;Badges Travel Throughout World&quot;, and &quot;Asilomar - June 1954&quot;.  REGULAR FEATURES &quot;As I See It&quot;, &quot;The Square Dance Picture&quot;, &quot;Square of the Month&quot;, &quot;Women on the Square (Fashion Feature)&quot;, &quot;&apos;Round the Outside Ring&quot;, &quot;From the Floor&quot;, &quot;On the Record&quot;, and &quot;Calendar of Square Dancing Events&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>04/1954</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>45 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63806</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Square Dancing</dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63808</identifier>
+    <datestamp>2012-11-08T19:26:28Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sets in Order, Vol. 5 No. 11 (November, 1953)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: SQUARE DANCES &quot;Convention Time in Texas&quot;, &quot;Oklahoma Hills&quot;, and &quot;Poor Little Robin&quot;.  ROUND DANCES &quot;Darling Waltz&quot;, and &quot;Waltz Carousel&quot;.  SPECIAL FEATURES &quot;Styles Offer Scope and Imagination&quot;, &quot;Frills and Furbelows&quot;, &quot;Pats on the Back&quot;, &quot;What Can I Do To Help?&quot;, &quot;Book Review: Help for Teachers&quot;, and &quot;Exhibitions and Demonstrations&quot;.  REGULAR FEATURES &quot;As I See It&quot;, &quot;Women on the Square&quot;, &quot;The Square Dance Picture&quot;, &quot;Square of the Month&quot;, &quot;&apos;Round the Outside Ring&quot;, &quot;Green Sheet&quot;, &quot;From the Floor&quot;, &quot;On the Record&quot;, and &quot;Calendar of Square Dancing Events&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>11/1953</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>52 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63808</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Square Dancing</dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63809</identifier>
+    <datestamp>2012-11-08T19:35:37Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sets in Order, Vol. 5 No. 10 (October, 1953)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: SQUARE DANCES &quot;One More Duck&quot;.  ROUND DANCES &quot;Waltzing Matildo&quot;, and &quot;Pretty Baby&quot;.  CONTRA DANCES &quot;Haymaker&apos;s Jig&quot;, &quot;Lady of the Lake&quot;, &quot;Timber Salvage Reel&quot;, &quot;Glover&apos;s Reel&quot;, &quot;The Good Girl&quot;, &quot;Morning Star&quot;, and &quot;Lady Walpole&apos;s Reel&quot;.  SPECIAL FEATURES &quot;Contras Are Here to Stay&quot;, &quot;Contra Sets in Order&quot;, &quot;Here&apos;s One Contra Dance in Action&quot;, &quot;Floating Square Dance&quot;, &quot;Trial by Auditorium&quot;, and &quot;State Department Buys &quot;Square Dancing&quot;&quot;.  REGULAR FEATURES &quot;As I See It&quot;, &quot;Square of the Month (Contra)&quot;, &quot;&apos;Round the Outside Ring&quot;, &quot;Green Sheet&quot;, &quot;From the Floor&quot;, and &quot;Calendar of Square Dancing Events&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>10/1953</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>40 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63809</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Square Dancing</dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63810</identifier>
+    <datestamp>2012-11-08T20:02:17Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sets in Order, Vol. 5 No. 9 (September, 1953)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: SQUARE DANCES &quot;Nameityourself&quot;, &quot;Open Up Your Heart&quot; and &quot;Drifters&quot;.  ROUND DANCES &quot;Diane&quot;, and &quot;Missouri Waltz&quot;.  SPECIAL FEATURES &quot;The Recording Story&quot;, &quot;Kids Dance&quot;, &quot;Do-Sa-Do Your Senator&quot;, and &quot;Okinawans Square Dance&quot;.  REGULAR FEATURES &quot;As I See It&quot;, &quot;On the Record&quot;, &quot;Events Seen Thru the Square Dancer&apos;s Eye&quot;, &quot;Square of the Month&quot;, &quot;&apos;Round the Outside Ring&quot;, &quot;Green Sheet&quot;, &quot;From the Floor&quot;, and &quot;Calendar of Square Dancing Events&quot;.  SPECIAL SECTIONS &quot;Record List&quot;, and &quot;The Workshop&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>09/1953</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format></dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63810</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Square Dancing</dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63811</identifier>
+    <datestamp>2012-11-08T20:14:01Z</datestamp>
+    <setSpec>codu_59239</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sets in Order, Vol. 5 No. 8 (August, 1953)</dc:title>
+  <dc:creator>Bob Osgood</dc:creator>
+  <dc:creator>Sets in Order, Inc.</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Square Dancing</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Periodicals</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The California Magazine of Western Square and Round Dancing by the Square Dancers of Southern California. This edition includes a table of contents which lists the following: SQUARE DANCES &quot;If You Knew Suzie&quot;, &quot;Somebody Stole My Gal&quot;, and &quot;Capri Square&quot;.  ROUND DANCES &quot;Dottie Polka&quot;, &quot;Cocoanut Grove&quot;, and &quot;Hula Blues Mixer&quot;.  SPECIAL FEATURES &quot;Thoughts of a Square Dancer&quot;, &quot;Introduction to American Round Dancing&quot;, &quot;Something New for Your Classes&quot;, &quot;August Asilomar&quot;, and &quot;A Recruiting Station for New Dancers&quot;.  REGULAR FEATURES &quot;As I See It&quot;, &quot;Events Seen Thru the Square Dancer&apos;s Eye&quot;, &quot;Square of the Month&quot;, &quot;&apos;Round the Outside Ring&quot;, &quot;Green Sheet&quot;, &quot;From the Floor&quot;, and &quot;Calendar of Square Dancing Events&quot;.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Los Angeles, CA</dc:publisher>
+  <dc:publisher>Sets in Order, Inc.</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>08/1953</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>36 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63811</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation>Square Dancing</dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T01:05:36Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64961</identifier>
+    <datestamp>2013-03-25T20:04:41Z</datestamp>
+    <setSpec>codu_65266</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Union Soldier Charles H. Chatfield</dc:title>
+  <dc:relation>Batchellor and Chatfield Family Papers, Civil War Letters of Charles H. and Clark S. Chatfield</dc:relation>
+  <dc:date>12/18/1863</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:type>Text</dc:type>
+  <dc:format>1 item (letter), Poor, Envelope is 8.5 x15 cm., 31 x 20 cm</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:creator>Chatfield, Charles H.</dc:creator>
+  <dc:description>Letter from Union Soldier Charles H. Chatfield in North Chickamauga, Georgia. 12/18/1863 Letter from Union soldier Charles H. Chatfield in North Chickamauga, George to his brother and sister in the Colorado Territory. The letter was written after the Union victory at Chattanooga. The envelope is addressed to Miss Ellen Chatfield in Beaver Creek, Tremont County, Colorado Territory.</dc:description>
+  <dc:description></dc:description>
+  <dc:language>English</dc:language>
+  <dc:identifier>codu:64961</dc:identifier>
+  <dc:subject>Chatfield, Charles H.</dc:subject>
+  <dc:subject>Batchellor, Ellen (Nellie) Chatfield,--1847-1928</dc:subject>
+  <dc:subject>United States Civil War, 1861-1865</dc:subject>
+  <dc:subject>Correspondence</dc:subject>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:64961</dc:identifier>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64962</identifier>
+    <datestamp>2013-03-25T20:05:43Z</datestamp>
+    <setSpec>codu_65266</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Union Soldier Charles H. Chatfield</dc:title>
+  <dc:relation>Batchellor and Chatfield Family Papers, Civil War Letters of Charles H. and Clark S. Chatfield</dc:relation>
+  <dc:date>5/1/1864</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:type>Text</dc:type>
+  <dc:format>1 item (letter), PoorLetter is folded in half, dimensions reflect folded size., 24.5 x 19.5 cm</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:creator>Chatfield, Charles H.</dc:creator>
+  <dc:description>Letter from Union Soldier Charles H. Chatfield in Gordons Mill, Georgia., 5/1/1864 Letter from Union soldier Charles H. Chatfield in the headquarters of Company D, 85th Illinois Infantry, 3rd Brigade, 2nd Division, 14th Army Corps, to his sister in the Colorado Territory.</dc:description>
+  <dc:description></dc:description>
+  <dc:language>English</dc:language>
+  <dc:identifier>codu:64962</dc:identifier>
+  <dc:subject>Chatfield, Charles H.</dc:subject>
+  <dc:subject>Batchellor, Ellen (Nellie) Chatfield,--1847-1928</dc:subject>
+  <dc:subject>United States Civil War, 1861-1865</dc:subject>
+  <dc:subject>Correspondence</dc:subject>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:64962</dc:identifier>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64957</identifier>
+    <datestamp>2013-03-25T20:06:27Z</datestamp>
+    <setSpec>codu_65266</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Union Soldier Charles H. Chatfield</dc:title>
+  <dc:relation>Batchellor and Chatfield Family Papers, Civil War Letters of Charles H. and Clark S. Chatfield</dc:relation>
+  <dc:date>8/8/1863</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:type>Text</dc:type>
+  <dc:format>1 item (letter), Poor, 30 x 30 cm</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:creator>Chatfield, Charles H.</dc:creator>
+  <dc:description>Letter from Union Soldier Charles H. Chatfield in Nashville, Tennessee., 8/8/1863 Letter from Union soldier Charles H. Chatfield in Nashville, Tennesee to his sister and brother in the Colorado Territory.</dc:description>
+  <dc:description></dc:description>
+  <dc:language>English</dc:language>
+  <dc:identifier>codu:64957</dc:identifier>
+  <dc:subject>Chatfield, Charles H.</dc:subject>
+  <dc:subject>Batchellor, Ellen (Nellie) Chatfield,--1847-1928</dc:subject>
+  <dc:subject>United States Civil War, 1861-1865</dc:subject>
+  <dc:subject>Correspondence</dc:subject>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:64957</dc:identifier>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64954</identifier>
+    <datestamp>2013-03-25T20:07:37Z</datestamp>
+    <setSpec>codu_65266</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Union Soldier Charles H. Chatfield</dc:title>
+  <dc:relation>Batchellor and Chatfield Family Papers, Civil War Letters of Charles H. and Clark S. Chatfield</dc:relation>
+  <dc:date>5/15/1863</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:type>Text</dc:type>
+  <dc:format>1 item (letter), Poor, 20 x 31.5 cm</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:creator>Chatfield, Charles H.</dc:creator>
+  <dc:description>Letter from Union Soldier Charles H. Chatfield in Nashville, Tennessee., 5/15/1863 Letter from Union soldier Charles H. Chatfield in Nashville, Tennesee to his sister Nellie and brother George in the Colorado Territory.</dc:description>
+  <dc:description></dc:description>
+  <dc:language>English</dc:language>
+  <dc:identifier>codu:64954</dc:identifier>
+  <dc:subject>Chatfield, Charles H.</dc:subject>
+  <dc:subject>Batchellor, Ellen (Nellie) Chatfield,--1847-1928</dc:subject>
+  <dc:subject>United States Civil War, 1861-1865</dc:subject>
+  <dc:subject>Correspondence</dc:subject>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:64954</dc:identifier>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64959</identifier>
+    <datestamp>2013-03-25T20:08:26Z</datestamp>
+    <setSpec>codu_65266</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Union Soldier Charles H. Chatfield</dc:title>
+  <dc:relation>Batchellor and Chatfield Family Papers, Civil War Letters of Charles H. and Clark S. Chatfield</dc:relation>
+  <dc:date>9/25/1863</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:type>Text</dc:type>
+  <dc:format>1 item (letter), Poor, Letter is folded, dimensions reflect folded size., 23 x 18 cm</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:creator>Chatfield, Charles H.</dc:creator>
+  <dc:description>Letter from Union Soldier Charles H. Chatfield in Chattanooga, Tennessee., 9/25/1863 Letter from Union soldier Charles H. Chatfield in Chattanooga, Tennessee to his brother and sister in the Colorado Territory. The letter was written after the rout at Chattanooga.</dc:description>
+  <dc:description></dc:description>
+  <dc:language>English</dc:language>
+  <dc:identifier>codu:64959</dc:identifier>
+  <dc:subject>Chatfield, Charles H.</dc:subject>
+  <dc:subject>Batchellor, Ellen (Nellie) Chatfield,--1847-1928</dc:subject>
+  <dc:subject>United States Civil War, 1861-1865</dc:subject>
+  <dc:subject>Correspondence</dc:subject>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:64959</dc:identifier>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64956</identifier>
+    <datestamp>2013-03-25T20:09:19Z</datestamp>
+    <setSpec>codu_65266</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Union Soldier Charles H. Chatfield</dc:title>
+  <dc:relation>Batchellor and Chatfield Family Papers, Civil War Letters of Charles H. and Clark S. Chatfield</dc:relation>
+  <dc:date>7/22/1863</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:type>Text</dc:type>
+  <dc:format>1 item (letter), Poor, 20 x 26 cm</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:creator>Chatfield, Charles H.</dc:creator>
+  <dc:description>Letter from Union Soldier Charles H. Chatfield in Fort Negley, Nashville, Tennessee., 7/22/1863 Letter from Union soldier Charles H. Chatfield in Fort Negley , Nashville, Tennesee to his sister in the Colorado Territory.</dc:description>
+  <dc:description></dc:description>
+  <dc:language>English</dc:language>
+  <dc:identifier>codu:64956</dc:identifier>
+  <dc:subject>Chatfield, Charles H.</dc:subject>
+  <dc:subject>Batchellor, Ellen (Nellie) Chatfield,--1847-1928</dc:subject>
+  <dc:subject>United States Civil War, 1861-1865</dc:subject>
+  <dc:subject>Correspondence</dc:subject>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:64956</dc:identifier>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64955</identifier>
+    <datestamp>2013-03-25T20:09:59Z</datestamp>
+    <setSpec>codu_65266</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Union Soldier Charles H. Chatfield</dc:title>
+  <dc:relation>Batchellor and Chatfield Family Papers, Civil War Letters of Charles H. and Clark S. Chatfield</dc:relation>
+  <dc:date>7/17/1863</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:type>Text</dc:type>
+  <dc:format>1 item (letter), Poor, 20 x 25 cm</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:creator>Chatfield, Charles H.</dc:creator>
+  <dc:description>Letter from Union Soldier Charles H. Chatfield in Mufreesboro, Tennessee., 7/17/1863 Letter from Union soldier Charles H. Chatfield in Mufreesboro, Tennesee to his sister and brother in the Colorado Territory. He mentions that he is in the 2nd Brigade of the 2nd Division in the Reserve Army under Major General G. Granger.</dc:description>
+  <dc:description></dc:description>
+  <dc:language>English</dc:language>
+  <dc:identifier>codu:64955</dc:identifier>
+  <dc:subject>Chatfield, Charles H.</dc:subject>
+  <dc:subject>Batchellor, Ellen (Nellie) Chatfield,--1847-1928</dc:subject>
+  <dc:subject>United States Civil War, 1861-1865</dc:subject>
+  <dc:subject>Correspondence</dc:subject>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:64955</dc:identifier>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64958</identifier>
+    <datestamp>2013-03-25T20:48:49Z</datestamp>
+    <setSpec>codu_65266</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Union Soldier Charles H. Chatfield</dc:title>
+  <dc:relation>Batchellor and Chatfield Family Papers, Civil War Letters of Charles H. and Clark S. Chatfield</dc:relation>
+  <dc:date>8/17/1863</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:type>Text</dc:type>
+  <dc:format>1 item (letter), Poor, Letter is folded, dimensions reflect folded size., 24 x 19 cm</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:creator>Chatfield, Charles H.</dc:creator>
+  <dc:description>Letter from Union Soldier Charles H. Chatfield in Nashville, Tennessee., 8/17/1863 Letter from Union soldier Charles H. Chatfield in Nashville, Tennesee to his sister and brother in the Colorado Territory.</dc:description>
+  <dc:description></dc:description>
+  <dc:language>English</dc:language>
+  <dc:identifier>codu:64958</dc:identifier>
+  <dc:subject>Chatfield, Charles H.</dc:subject>
+  <dc:subject>Batchellor, Ellen (Nellie) Chatfield,--1847-1928</dc:subject>
+  <dc:subject>United States Civil War, 1861-1865</dc:subject>
+  <dc:subject>Correspondence</dc:subject>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:64958</dc:identifier>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64963</identifier>
+    <datestamp>2013-03-25T20:49:46Z</datestamp>
+    <setSpec>codu_65266</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Union Soldier Charles H. Chatfield</dc:title>
+  <dc:relation>Batchellor and Chatfield Family Papers, Civil War Letters of Charles H. and Clark S. Chatfield</dc:relation>
+  <dc:date>6/8/1864</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:type>Text</dc:type>
+  <dc:format>1 item (letter), Poor, Letter is folded in half, dimensions reflect folded size., 25 x 20 cm</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:creator>Chatfield, Charles H.</dc:creator>
+  <dc:description>Letter from Union Soldier Charles H. Chatfield in Acworth Station, Georgia., 6/8/1864 Letter from Union soldier Charles H. Chatfield in the headquarters of Company D, 85th Illinois Infantry, 3rd Brigade, 2nd Division, 14th Army Corps, to his brother and sister in the Colorado Territory.</dc:description>
+  <dc:description></dc:description>
+  <dc:language>English</dc:language>
+  <dc:identifier>codu:64963</dc:identifier>
+  <dc:subject>Chatfield, Charles H.</dc:subject>
+  <dc:subject>Batchellor, Ellen (Nellie) Chatfield,--1847-1928</dc:subject>
+  <dc:subject>United States Civil War, 1861-1865</dc:subject>
+  <dc:subject>Correspondence</dc:subject>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:64963</dc:identifier>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64964</identifier>
+    <datestamp>2013-03-25T20:50:51Z</datestamp>
+    <setSpec>codu_65266</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Union Soldier Clark S. Chatfield</dc:title>
+  <dc:relation>Batchellor and Chatfield Family Papers, Civil War Letters of Charles H. and Clark S. Chatfield</dc:relation>
+  <dc:date>7/24/1864</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:type>Text</dc:type>
+  <dc:format>1 item (letter), Poor, 20 x 26 cm</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:creator>Chatfield, Clark S.</dc:creator>
+  <dc:description>Letter from Union Soldier Clark S. Chatfield in Baton Rouge, Louisiana, 7/24/1864 Letter from Union soldier Clark S. Chatfield in Baton Rouge, Louisiana to his brother and sister in the Colorado Territory.</dc:description>
+  <dc:description></dc:description>
+  <dc:language>English</dc:language>
+  <dc:identifier>codu:64964</dc:identifier>
+  <dc:subject>Chatfield, Clark S.</dc:subject>
+  <dc:subject>Batchellor, Ellen (Nellie) Chatfield,--1847-1928</dc:subject>
+  <dc:subject>United States Civil War, 1861-1865</dc:subject>
+  <dc:subject>Correspondence</dc:subject>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:64964</dc:identifier>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64960</identifier>
+    <datestamp>2013-03-25T20:51:52Z</datestamp>
+    <setSpec>codu_65266</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Union Soldier Clark S. Chatfield</dc:title>
+  <dc:relation>Batchellor and Chatfield Family Papers, Civil War Letters of Charles H. and Clark S. Chatfield</dc:relation>
+  <dc:date>12/1/1863</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:type>Text</dc:type>
+  <dc:format>1 item (letter), Poor, Envelope is 8 x 13.5 cm., 32 x 21 cm</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:creator>Chatfield, Clark S.</dc:creator>
+  <dc:description>Letter from Union Soldier Clark S. Chatfield in Memphis, Tennessee., 12/1/1863 Letter from Union soldier Clark S. Chatfield in Memphis, Tennessee to his sister in the Colorado Territory. The envelope is addressed to Miss Nellie Chatfield in Beaver Creek, Colorado Territory.</dc:description>
+  <dc:description></dc:description>
+  <dc:language>English</dc:language>
+  <dc:identifier>codu:64960</dc:identifier>
+  <dc:subject>Chatfield, Clark S.</dc:subject>
+  <dc:subject>Batchellor, Ellen (Nellie) Chatfield,--1847-1928</dc:subject>
+  <dc:subject>United States Civil War, 1861-1865</dc:subject>
+  <dc:subject>Correspondence</dc:subject>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:64960</dc:identifier>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

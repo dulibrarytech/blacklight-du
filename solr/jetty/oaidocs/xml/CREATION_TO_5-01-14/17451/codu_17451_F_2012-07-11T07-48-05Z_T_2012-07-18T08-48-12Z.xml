@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T05:07:05Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_60154</identifier>
+    <datestamp>2012-07-12T00:59:44Z</datestamp>
+    <setSpec>codu_60147</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">University College Catalog, 1996-1997</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver. University College</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1996</dc:date>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Denver, Colo.</dc:publisher>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:publisher>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">issue</dc:type>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">English</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">280 p. : ill., map, ports.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">reformatted digital</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Includes index.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">General information and course catalog for flexible career-oriented adult graduate and certificate studies at the University of Denver&apos;s University College.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Includes index.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">codu:60154</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://hdl.handle.net/10176/codu:60154</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">catalog</dc:type>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Private universities and colleges</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">University of Denver. University College</dc:subject>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Alternative title from p. [4] of cover.</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">College publications</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Denver (Colo.)</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Colorado</dc:coverage>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_60155</identifier>
+    <datestamp>2012-07-12T00:45:23Z</datestamp>
+    <setSpec>codu_60147</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Taxation, University of Denver</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver. College of Law</dc:creator>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver. School of Accountancy</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1986</dc:date>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Denver, Colo.</dc:publisher>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:publisher>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">issue</dc:type>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">English</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">207 p. : ill. ports.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">reformatted digital</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">General information and course catalog for interdisciplinary graduate studies in taxation at the University of Denver.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Includes index.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Denver (Colo.)</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Colorado</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">University of Denver. Graduate Program in Taxation</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">codu:60155</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://hdl.handle.net/10176/codu:60155</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">catalog</dc:type>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Taxation</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Tax accounting</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">United States</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">College publications</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59836</identifier>
+    <datestamp>2012-07-12T02:41:14Z</datestamp>
+    <setSpec>codu_59202</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Bound Meeting Minutes Volume VI (1908-1912)</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Independent Order of B&apos;nai B&apos;rith.--Denver Lodge No. 171 (Denver, Colo.)</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">10/11/1908-12/22/1912</dc:date>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Denver, Colorado</dc:publisher>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:publisher>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:type>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Book is in English.</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">408 pages</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">reformatted digital</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Handwritten note affixed to volume spine, &quot;Vol IV, minutes, 10/11/08-12/22/01912.&quot;</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bound Volume I of meeting minutes from the Independent Order of B&apos;nai B&apos;rith, Lodge 171, Denver, Colorado. Minutes are from regular and special meetings and include nominations and elections for officers, trustees, and lecture master; appointments of committees; petitions for membership, new member inductions, and degree appointments; financial information; member issues such as travel, illness, or death; philanthropy; communications from other B&apos;nai B&apos;rith lodges; updates of by laws and lodge procedures; and officer reports handwritten by various secretaries.
+
+Presidents of B&apos;nai B&apos;rith Lodge 171, Denver Colorado, recorded in Bound Volume I with their terms in office:
+
+Sigmond Strauss – ( -January 1909)
+Milton M. Schayer – (January 1909-January 1910)
+Samuel R. Zwetow – (January 1910-January 1911)
+Leon Grauman – (January 1911-January 1912)
+David E. Harlem – (January 1912- )</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Meeting Minutes</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Denver (Colo.)</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strauss, Sigmond</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Independent Order of B&apos;nai B&apos;rith.--Denver Lodge No. 171 (Denver, Colo.)</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Independent Order of B&apos;nai B&apos;rith Lodge 171 (Denver, Colo.) Records, Administrative Records</dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">codu:59836</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Copyright restrictions may apply.  User is responsible for all copyright compliance. </dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://hdl.handle.net/10176/codu:59836</dc:identifier>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Harlem, David E.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Grauman, Leon</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Zwetow, Samuel R.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schayer, Milton M.--(Milton Mincha),--1876-1935</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_60153</identifier>
+    <datestamp>2012-07-12T01:02:32Z</datestamp>
+    <setSpec>codu_60147</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver Bulletin, Undergraduate Students, 1998-2000</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1998</dc:date>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:publisher>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:publisher>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">issue</dc:type>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">English</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">306 p. ; ill.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">reformatted digital</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">General information and course catalog for undergraduate studies at the University of Denver.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Includes index.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Private universities and colleges</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">University of Denver</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">codu:60153</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://hdl.handle.net/10176/codu:60153</dc:identifier>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">catalog</dc:type>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Denver (Colo.)</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Colorado</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">College publications</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59826</identifier>
+    <datestamp>2012-07-12T02:39:08Z</datestamp>
+    <setSpec>codu_59202</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Bound Meeting Minutes Volume 1 (1872 - 1879)</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Independent Order of B&apos;nai B&apos;rith.--Denver Lodge No. 171 (Denver, Colo.)</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">4/6/1872-3/23/1879</dc:date>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Denver, Colorado</dc:publisher>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:publisher>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:type>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Book is in English.</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">415 pages</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">reformatted digital</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bound Volume I of meeting minutes from the Independent Order of B&apos;nai B&apos;rith, Lodge 171, Denver, Colorado. Minutes are from regular and special meetings and include nominations and elections for officers, trustees, and lecture master; appointments of committees; petitions for membership, new member inductions, and degree appointments; financial information; member issues such as travel, illness, or death; philanthropy; communications from other B&apos;nai B&apos;rith lodges; updates of by laws and lodge procedures; and officer reports handwritten by various secretaries.
+
+Presidents of B&apos;nai B&apos;rith Lodge 171, Denver Colorado, recorded in Bound Volume I with their terms in office: 
+David Kline – (April 1872-July 1872)
+Fred Z. Salomon - (July 1872-January 1873)
+Louis Anfenger – (January 1873-January 1874)
+John Elsner – (January 1874-July 1874)
+Samuel Cole – (July 1874-January 1875)
+Edward Pisko – (January 1875-July 1875)
+Benjamin B. Hamburger – (July 1875-January 1876)
+Charles M. Schayer – (January 1876-July 1876)
+Phil Trounstine – (July 1876-January 1877)
+N. A. Heinsfurter – (January 1877-August 1877)
+Edward Pisko – (August 1877-January 1878)
+Benjamin B. Hamburger – (January 1878-July 1878)
+Herman Silver – (July 1878-January 1879)
+Isaac Davidson – (January 1879-</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Meeting minutes</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Denver (Colo.)</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Davidson, Isaac</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Independent Order of B&apos;nai B&apos;rith.--Denver Lodge No. 171 (Denver, Colo.)</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Independent Order of B&apos;nai B&apos;rith Lodge 171 (Denver, Colo.) Records, Administrative Records</dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">codu:59826</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Copyright restrictions may apply. User is responsible for copyright compliance. </dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://hdl.handle.net/10176/codu:59826</dc:identifier>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Kline, David</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Salomon, Fred Zadek</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Anfenger, Louis,--1842-1900</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Elsner, John</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Cole, Samuel</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Pisko, Edward</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Hamburger, Benjamin B.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schayer, Charles M.,--1837-1907</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Trounstine, Philip</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Heinsfurter, N. A.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Silver, Herman</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_60156</identifier>
+    <datestamp>2012-07-12T00:57:30Z</datestamp>
+    <setSpec>codu_60147</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver Bulletin, Graduate Studies, 1986-88</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1986</dc:date>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Denver, Colo.</dc:publisher>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:publisher>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">issue</dc:type>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">English</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">100 p. : ill., map</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">reformatted digital</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">General information and course catalog for graduate studies at the University of Denver.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Alternative title from cover.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Includes index.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">codu:60156</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://hdl.handle.net/10176/codu:60156</dc:identifier>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">catalog</dc:type>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Private universities and colleges</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Denver (Colo.)</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Colorado</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">University of Denver</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">College publications</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59835</identifier>
+    <datestamp>2012-07-12T02:40:28Z</datestamp>
+    <setSpec>codu_59202</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Bound Meeting Minutes Volume III (1887-1896)</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Independent Order of B&apos;nai B&apos;rith.--Denver Lodge No. 171 (Denver, Colo.)</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1/9/1887-2/10/1896</dc:date>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Denver, Colorado</dc:publisher>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:publisher>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:type>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">English</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">596 pages</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">reformatted digital</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">Handwritten note affixed to volume spine, &quot;Vol III, minutes, [part missing] 9/87-1/26/96.&quot;</dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bound Volume I of meeting minutes from the Independent Order of B&apos;nai B&apos;rith, Lodge 171, Denver, Colorado. Minutes are from regular and special meetings and include nominations and elections for officers, trustees, and lecture master; appointments of committees; petitions for membership, new member inductions, and degree appointments; financial information; member issues such as travel, illness, or death; philanthropy; communications from other B&apos;nai B&apos;rith lodges; updates of by laws and lodge procedures; and officer reports handwritten by various secretaries.
+
+Presidents of B&apos;nai B&apos;rith Lodge 171, Denver Colorado, recorded in Bound Volume I with their terms in office:
+M. Morris – (January 1887-July 1887)
+Meyer Friedman – (July 1887-January 1888)
+Louis Anfenger – (January 1888-July 1888)
+Philip L. Alexander – (July 1888-January 1889)
+L. Friedenthal – (January 1889-July 1889)
+E Anfenger – (July 1889-January 1890)
+Lesser Levy – (January 1890-July 1890)
+Albert Robertson – (July 1890-January 1891)
+Samuel Lehrman – (January 1891-July 1891)
+T. J. Shandall – (July 1891-January 1892)
+Alfred Muller – (January 1892-July 1892)
+Herman Blank – (July 1892-January 1893)
+Henry Frankel – (January 1893-July 1893)
+Aaron F. Strauss – (July 1893-January 1894)
+Moses D. Altman – (January 1894-July 1894)
+David Cahn – (July 1894-January 1895)
+Arthur Prince – (January 1895-January 1896)
+Dr. Saling Simon – (January 1896-</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Meeting Minutes</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Denver (Colo.)</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Independent Order of B&apos;nai B&apos;rith.--Denver Lodge No. 171 (Denver, Colo.)</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Independent Order of B&apos;nai B&apos;rith Lodge 171 (Denver, Colo.) Records, Administrative Records</dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">codu:59835</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://hdl.handle.net/10176/codu:59835</dc:identifier>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Morris, M.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Friedman, Meyer</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Anfenger, Louis,--1842-1900</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Alexander, Philip L.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Friedenthal, L.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Anfenger, E.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Levy, Lesser</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Robertson, Albert</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Lehrman, Samuel</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Shandall, T. J.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Muller, Alfred</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Blank, Herman</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Frankel, Henry</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Strauss, Aaron F.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Altman, Moses D.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Cahn, David</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Prince, Arthur</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Simon, Saling--Dr.</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59827</identifier>
+    <datestamp>2012-07-12T02:39:33Z</datestamp>
+    <setSpec>codu_59202</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Bound Meeting Minutes Volume II (1879-1886)</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Independent Order of B&apos;nai B&apos;rith.--Denver Lodge No. 171 (Denver, Colo.)</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">4/13/1879-12/26/1886</dc:date>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Denver, Colorado</dc:publisher>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:publisher>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:type>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Book is in English.</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">394 pages</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">reformatted digital</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bound Volume I of meeting minutes from the Independent Order of B&apos;nai B&apos;rith, Lodge 171, Denver, Colorado. Minutes are from regular and special meetings and include nominations and elections for officers, trustees, and lecture master; appointments of committees; petitions for membership, new member inductions, and degree appointments; financial information; member issues such as travel, illness, or death; philanthropy; communications from other B&apos;nai B&apos;rith lodges; updates of by laws and lodge procedures; and officer reports handwritten by various secretaries.
+
+Presidents of B&apos;nai B&apos;rith Lodge 171, Denver Colorado, recorded in Bound Volume I with their terms in office:
+Isaac Davidson – (January 1879-June 1879)
+Max Epstein – (June 1879-January 1880)
+Albert Abel – (January 1880-June 1880)
+Benjamin W. Wisebart – (June 1880-January 1881)
+Abraham Jacobs – (January 1881-June 1881)
+Jacob S. Appel – (June 1881-January 1882)
+Joseph Holzman – (January 1882-June 1882)
+David E. Appel – (July 1882-January 1883)
+Michael Hattenbach – (January 1883-July 1883)
+Benjamin Hamburger – (July 1883-January 1884
+Albert Abel – (January 1884-July 1884)
+Samuel Rose – (July 1884-January 1885)
+Sol L. Holzman – (January 1885-July 1885)
+Meyer Friedman – (July 1885-August 1886)
+Max Jarecki – (August 1886-</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Meeting minutes</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Denver (Colo.)</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Hamburger, Benjamin B.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Independent Order of B&apos;nai B&apos;rith.--Denver Lodge No. 171 (Denver, Colo.)</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Independent Order of B&apos;nai B&apos;rith Lodge 171 (Denver, Colo.) Records, Administrative Records</dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">codu:59827</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Copyright restrictions may apply. User is responsible for all copyright compliance. </dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://hdl.handle.net/10176/codu:59827</dc:identifier>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Davidson, Isaac</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Epstein, Max</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Abel, Albert</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Wisebart, Benjamin W.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jacobs, Abraham,--1834-</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Appel, Jacob S.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Appel, David E.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Rose, Samuel</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Holzman, Sol L.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Friedman, Meyer</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jarecki, Max</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Holzman, Joseph</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Hattenbach, Michael</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_60148</identifier>
+    <datestamp>2012-07-12T00:50:33Z</datestamp>
+    <setSpec>codu_60147</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">University bulletin. Vol. 1, No. 4 (April, 1896)</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1896</dc:date>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Denver, Colo.</dc:publisher>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:publisher>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:type>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">English</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">8 p.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">Pamphlet</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">reformatted digital</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Quarterly issue of a bulletin describing the Schools, Departments and programs of the University of Denver.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Includes a list of graduates of the College of Liberal Arts for the years 1884-1895, with their specific undergraduate and other degrees, present addresses and occupations, together with 4 recipients of honorary A.M. degrees, 1884-1886.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">codu:60148</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://hdl.handle.net/10176/codu:60148</dc:identifier>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Private universities and colleges</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Preparatory schools</dc:subject>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">issue</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">directory</dc:type>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver. University Council</dc:contributor>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Denver (Colo.)</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Colorado</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">University of Denver</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">College publications</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

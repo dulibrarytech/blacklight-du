@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T03:43:08Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62449</identifier>
+    <datestamp>2012-09-10T21:35:37Z</datestamp>
+    <setSpec>codu_62448</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Yarmulke</dc:title>
+  <dc:creator></dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Religion</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Nashelsky, David</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Religious objects</dc:subject>
+  <dc:subject>Tefillin</dc:subject>
+  <dc:description>Printed inside: &apos;&apos;Bar-Mitzvah of David J. Nashelsky November 5, 1976 Scottsbluff, Nebraska&apos;&apos;</dc:description>
+  <dc:description>A skullcap (yarmulke in Yiddish, kipah in Hebrew) consisting of six sections of triangle shaped light blue satin sewn together at the seams with light blue cotton thread. Inside is white cotton lining with writing in gold stamping: &apos;&apos;Bar-Mitzvah of David J. Nashelsky; November 5, 1976; Scottsbluff, Nebraska&apos;&apos;. Originally belonged to David J. Nashelsky.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>circa 1976</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (Yarmulke), 6 x 17 x 17 centimeters</dc:format>
+  <dc:format>Religious articles</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62449</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>David Nashelsky Material Culture, Material Culture</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

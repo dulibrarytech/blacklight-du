@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T05:30:53Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66722</identifier>
+    <datestamp>2014-04-29T20:51:19Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Report from Washington. U.S.I.A</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Sound</dc:type>
+  <dc:date>12/4/1967</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>sound</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 sound recording, 4 minutes, 23 seconds</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) delivers his weekly radio address, Report from Washington, on Dec. 4, 1967. Sen. Dominick speaks with USIA General Counsel Richard Schmidt about the Voice of America radio broadcasts to communist countries, and the USIS international libraries</dc:description>
+  <dc:description></dc:description>
+  <dc:description>1 sound file in 2 formats : digital, wav (69,802,560 bytes) and mp3 (1,846,802 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-289.wav.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Information technology</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:subject>Black-and-white photography</dc:subject>
+  <dc:subject>Documentary Photography</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>M085.10.0199.00014</dc:identifier>
+  <dc:identifier> F781.2.D66 S68 no.289</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:66722</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_67845</identifier>
+    <datestamp>2014-04-30T22:24:22Z</datestamp>
+    <setSpec>codu_66631</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>American Newspaper Women&apos;s Club reception honoring wives of new senators: New faces of 1963.</dc:title>
+  <dc:creator>Dominick, Peter H. (Peter Hoyt), 1915-1981.</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Sound</dc:type>
+  <dc:date>1963-01-06</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>Sound</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 audiotape reel (27 minutes, 8 seconds) : analog, 7 1/2 ips, 1 track, mono. ; 7 inches</dc:format>
+  <dc:format>audio/wav</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description> 1 sound file in 2 formats : digital, wav (430,768,442 bytes) and mp3 (11,396,517 bytes) files. User system requirements: Computer with graphical browser and audio player software. Streamed 11.025 kHz sample rate, 16 Kbits/sec. data rate. Derived from an audio master digitized at 44.1 kHz, 24 bits per sample, mono. from a reel-to-reel tape. Digitized by Safe Sound Archive, Philadelphia; 2006. Equipment: Studer A80 playback machine; Prism Sound Dream ADA-8XR multi-channel 24bit/192kHz Analog Digital Converter; Intel Celeron 1.8 GHz/224 MB RAM PCs with FireWire hard drive and M-Audio Delta Audiophile internal sound card; external FireWire hard drive. Software: Steinberg WaveLab 4.0 Audio Editing and Mastering Software. Sound recording file name: DUdomi085-oh-16.wav.</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Senator Peter H. Dominick (R-Colo.) joins other freshmen senators of the 88th Congress in paying tribute to their wives during a reception held by the American Newspaper Women&apos;s Club at Paul Young&apos;s Restaurant in Washington, D.C. on January 6, 1963. The Republican and Democratic senators, introduced by Senator Thomas H. Kuchel (R-Calif.) and Senator Vance Hartke (D-Ind.), include Milward L. Simpson (R-Wyo.), Leonard B. Jordan (R-Idaho), Birch Bayh (D-Ind.), Daniel B. Brewster (D-Md.), Daniel K. Inouye (D-Hawaii.), George S. McGovern (D-S.D.) and Thomas J. McIntyre (D-N.H.). Each senator delivers a one minute speech explaining how his wife helped him win election to the United States Senate in 1962</dc:description>
+  <dc:description>Analog audio recordings.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Women</dc:subject>
+  <dc:subject>Societies and clubs.</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Speeches, addresses, etc</dc:subject>
+  <dc:subject>Sound recordings</dc:subject>
+  <dc:relation>Peter H. Dominick Papers. Public Relations.</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>M085.10.0194.00016</dc:identifier>
+  <dc:identifier>F781.2.D66 S68 no.16</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:67845</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T01:05:24Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59777</identifier>
+    <datestamp>2012-06-07T20:49:19Z</datestamp>
+    <setSpec>codu_59776</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Stella Anfenger Michael and Children</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Vacations</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Jewish children</dc:subject>
+  <dc:subject>Jewish families--Colorado</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Rosenbaum, Louise E. Michael--1905-1996</dc:subject>
+  <dc:subject>Michael, Stella Anfenger</dc:subject>
+  <dc:subject>Michael, Henry Louis--1899-1988</dc:subject>
+  <dc:subject>Michael, Louis A.--1900-1989</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description>Stella Anfenger Michael poses with her children Henry, Louis, and Louise.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor>(contributor)</dc:contributor>
+  <dc:contributor>(contributor)</dc:contributor>
+  <dc:type>StillImage</dc:type>
+  <dc:type></dc:type>
+  <dc:format>1 item, (photograph), 6 x 4 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>codu:59777</dc:identifier>
+  <dc:identifier>isbn: </dc:identifier>
+  <dc:identifier>issn: </dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Redondo Beach (Calif.)</dc:coverage>
+  <dc:coverage>California</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59865</identifier>
+    <datestamp>2012-06-02T00:54:08Z</datestamp>
+    <setSpec>codu_59776</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Sewing Book</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anfenger, Fannie</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">(contributor)</dc:contributor>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">(contributor)</dc:contributor>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:publisher>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:type>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 item (sewing book)</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">The book contains handwritten directions on sewing techniques with examples of each stitch attached on the adjoining page. Fannie Anfenger&apos;s name is inscribed on the cover of her sewing exercise book, which she used for classes at Gilpin Elementary School. Fannie Anfenger (1885-1965) was the daughter of Louis and Louise Schlesinger Anfenger. She married Sidney Rinds and they had one son, Louis Rinds.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Title supplied by archivist.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Needlework</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jewish women</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Denver (Colo.)</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Colorado</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Rinds, Fannie Anfenger--1885-1965</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">codu:59865</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">isbn: </dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">issn: </dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://hdl.handle.net/10176/codu:59865</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62308</identifier>
+    <datestamp>2012-09-16T04:35:02Z</datestamp>
+    <setSpec>codu_59776</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Cane Head</dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:date>circa 1865</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 item (cane head), 5 x 4 x 4 centimeters</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Engraved on top: &apos;&apos;Presented to Louis Anfenger by the B&apos;ris Shalom Congregation Oswego NY&apos;&apos; and inscribed &apos;&apos;Louis Anfenger by the B&apos;ris Shalom Congregation, Oswego N.Y.&apos;&apos;</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>A gold canehead belonging to Colorado Jewish Pioneer Louis Anfenger, given as a gift before he left Oswego, New York for Denver, Colorado in 1865. It is inscribed:&apos;&apos;&apos;Louis Anfenger by the B&apos;ris Shalom Congregation, Oswego N.Y.&apos;&apos;</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>OBJ001</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Jewish men</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Oswego County (N.Y.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Anfenger, Louis,--1842-1900</dc:subject>
+  <dc:subject>B&apos;ris Shalom Congregation</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation>Anfenger Family Diaries and Material Culture, Material Culture</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:62308</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:62308</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59778</identifier>
+    <datestamp>2012-08-20T18:58:20Z</datestamp>
+    <setSpec>codu_59776</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Louise Anfenger with Children</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bates and Muhr</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">(contributor)</dc:contributor>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">(contributor)</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">StillImage</dc:type>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:publisher>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:type>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 item, (photograph), 7 x 5 inches, black and white</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">Photographic prints</dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Louise Anfenger of Denver, Colorado sits with a baby on her lap and her five other children at her side. Milton stands left, the other boys are Joseph and Fred. The girls are Flora, Fannie, and Stella. Louis Anfenger (Louise&apos;s husband), arrived in Denver in 1870 and was a founder of Temple Emanuel, B&apos;nai B&apos;rith and National Jewish Hospital.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Title supplied by archivist.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Social life and customs</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jews</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jewish women</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jewish children</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Denver (Colo.)</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Colorado</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Rinds, Fannie Anfenger--1885-1965</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Anfenger family</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Anfenger, Milton L.--(Milton Louis),--1874-1952</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Hornbein, Flora Anfenger,--1888-1964</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Michael, Stella Anfenger</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Anfenger, Fred</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">codu:59778</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">isbn: </dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">issn: </dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://hdl.handle.net/10176/codu:59778</dc:identifier>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Anfenger, Joseph</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Anfenger, Louise Schlesinger--1847-1938</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62329</identifier>
+    <datestamp>2012-08-31T03:53:07Z</datestamp>
+    <setSpec>codu_59776</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Skirt Knickers</dc:title>
+  <dc:creator></dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Clothing and dress</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hornbein, Flora Anfenger,--1888-1964</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description>Interior label reads: &apos;&apos;90L92&apos;&apos;</dc:description>
+  <dc:description>Ivory cotton muslin skirt knickers with lace stitching two inches from the bottom of each leg and an ivory cotton drawstring around the waist. The garment is gathered at the knee for fullness under a skirt. A blue and white striped label ironed on inside back of garment states: &apos;&apos;90L92.&apos;&apos; Originally belonged to Flora Anfenger Hornbein.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>circa 1905</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (knickers)</dc:format>
+  <dc:format>Cotton --Lace</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62329</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Anfenger Family Diaries and Material Culture, Material Culture</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62328</identifier>
+    <datestamp>2012-08-31T03:36:01Z</datestamp>
+    <setSpec>codu_59776</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Corset</dc:title>
+  <dc:creator></dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Clothing and dress</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hornbein, Flora Anfenger,--1888-1964</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A single layer corset made from two pieces of cotton muslin and ten bones finished with twill tape to provide support for the corset frame. Satin ribbon and eyelet lace is stitched over the outside of the cotton muslin. This view shows the outside of the corset and the back lacing. Originally belonged to Flora Anfenger.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>circa 1900</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (corset)</dc:format>
+  <dc:format>Cotton --Satin --Bone</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62328</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anfenger Family Diaries and Material Culture, Material Culture</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59864</identifier>
+    <datestamp>2012-06-07T20:54:08Z</datestamp>
+    <setSpec>codu_59776</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Framed Sampler</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anfenger, Louise,--1847-1938</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">(contributor)</dc:contributor>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">(contributor)</dc:contributor>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:publisher>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:type>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 item, (stitched sampler), 57 x 59 x 2 centimeters</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:format>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Embroidered sampler created by Louise Anfenger (formerly Louise Schlesinger) when she was about fourteen. Louise Anfenger (1847-1938) was born in Bavaria and came to Denver, Colorado in the 1870s with her husband Louis Anfenger (1842-1900). They became the parents of eight children and were both leaders within the Denver Jewish community.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Title supplied by archivist.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Needlework</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jewish women</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Denver (Colo.)</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Colorado</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Anfenger, Louise Schlesinger--1847-1938</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">codu:59864</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">isbn: </dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">issn: </dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://hdl.handle.net/10176/codu:59864</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62347</identifier>
+    <datestamp>2012-11-26T22:43:50Z</datestamp>
+    <setSpec>codu_59776</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Louis Anfenger Europe Trip Journal</dc:title>
+  <dc:creator>Anfenger, Louis,--1842-1900</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>6/28/1890-9/19/1890</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 item (diary), 9 x 16 x 2 centimeters</dc:format>
+  <dc:format>Diaries</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Diary kept by Louis Anfenger, who was a Denver businessman and Colorado State legislator, as well as a founder of Congregation Emanuel, B&apos;nai B&apos;rith and the National Jewish Hospital for Consumptives.  This journal documents Louise and Louis Anfenger&apos;s trip to Europe in 1890. The tan leather pocket inside the back cover holds a German calling card for Witz Deszo. Entries are short and factual, for example, the first entry states: &quot;Saturday June 28, 1890. Left New York at 2 o&apos;clock pm on steamer Elbe. Man fell overboard and was drowned. Weather pleasant.&quot; Other entries include monetary spending, locales and weather related matters.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Jewish men</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Europe</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Anfenger, Louis,--1842-1900</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Diaries</dc:subject>
+  <dc:relation>Anfenger Family Diaries and Material Culture, Material Culutre</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:62347</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:62347</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62346</identifier>
+    <datestamp>2012-11-26T22:47:53Z</datestamp>
+    <setSpec>codu_59776</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Louis Anfenger Diary</dc:title>
+  <dc:creator>Anfenger, Louis,--1842-1900</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>10/15/1870-8/19/1872</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 item (diary), 15 x 10 x 2 centimeters</dc:format>
+  <dc:format>Diaries</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Diary of Louis Anfenger, a Denver businessman and Colorado State legislator, as well as a founder of Congregation Emanuel, B&apos;nai B&apos;rith, and the National Jewish Hospital for Consumptives.  This diary chronicles Anfenger&apos;s journey from Oswego, New York to Denver, Colorado and his marriage to Louise Schlesinger.  The diary was transcribed from the handwritten original by Kathleen Abplanalp in 1999.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Jewish men</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Oswego County (N.Y.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Anfenger, Louis,--1842-1900</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Diaries</dc:subject>
+  <dc:relation>Anfenger Family Diaries and Material Culture, Material Culture</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:62346</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is repsonsible for all copyright complaince.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:62346</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62327</identifier>
+    <datestamp>2012-12-03T14:52:05Z</datestamp>
+    <setSpec>codu_59776</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Flora Hornbein&apos;s Wedding Dress</dc:title>
+  <dc:creator></dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Weddings</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Hornbein, Flora Anfenger,--1888-1964</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>An off-white cotton wedding dress with cutwork and off-white embroidery. This view shows the front of the dress. The garment was created from sixty-four separate pieces. The embroidery and cutwork design consists of floral, leaf and pinwheel motifs. The dress was worn by Flora Anfenger at her marriage to Philip Hornbein in 1905.</dc:description>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>circa 1905</dc:date>
+  <dc:type></dc:type>
+  <dc:format>1 item (wedding dress)</dc:format>
+  <dc:format>cotton</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62327</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Anfenger Family Diaries and Material Culture, Material Culture</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

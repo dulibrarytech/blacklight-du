@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T05:25:39Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64945</identifier>
+    <datestamp>2013-05-11T05:22:08Z</datestamp>
+    <setSpec>codu_32558</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Herbert A. Howe 1901 Diary</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Howe, Herbert A.--(Herbert Alonzo),--1858-1926</dc:creator>
+  <dc:subject>Howe, Herbert A.--(Herbert Alonzo),--1858-1926</dc:subject>
+  <dc:subject>Howe family</dc:subject>
+  <dc:subject>Shattuck family</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Chamberlin Observatory</dc:subject>
+  <dc:subject>Families</dc:subject>
+  <dc:subject>Astronomy</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Suburban life</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Faculty</dc:subject>
+  <dc:subject>Diaries</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>College administrators</dc:subject>
+  <dc:subject>College teachers</dc:subject>
+  <dc:subject>Astronomers</dc:subject>
+  <dc:subject>Mathematicians</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Professor Howe&apos;s diary for 1901 recounts his brief weather and astronomical observations, administrative and teaching activities at the University of Denver, entertainment of visitors to the Chamberlin Observatory, participation in events in University Park and elsewhere in Denver, as well as his family and religious life. Special mention is made of: reports filtering in about the &apos;&apos;Great Fireball of December 7, 1900,&apos;&apos; but with no definitive location determined; news on January 22 of his election as president of the Colorado Academy of Science; his sons Julian and Warren being among the victims of a February outbreak of scarlet fever at the University Park School, which was closed for a week by order of the Health Officer; in March, two grass fires that occurred near the Howes&apos; home; formation of the University Park Golf Club, with lessons offered beginning on March 21; in mid May, Dean Howe&apos;s 3-year term as member of the University Park School Board expired, and he was succeded by Professor James E. Le Rossignol; the University&apos;s first Summer School opened classes on June 13; the American Association for the Advancement of Science held its convention in Denver beginning August 26, with the Dean and his students presenting papers, and the Howes hosting visitors; on September 7 news of President William McKinley&apos;s assassination arrived, and on September 19 a memorial parade was held in downtown Denver; and even though the University continued in financial crisis, on November 23 Howe signed a contract to enlarge the back porch of their home to accommodate a refrigerator.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1901</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (book), , 1 small diary : burgundy leather bound, all edges red, 15 centimeters</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>Blank-books</dc:format>
+  <dc:identifier>M010.03.0003.00022</dc:identifier>
+  <dc:identifier>codu:64945</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Herbert Alonzo Howe Collection, Diaries</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64944</identifier>
+    <datestamp>2013-05-11T06:33:39Z</datestamp>
+    <setSpec>codu_32558</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Herbert A. Howe 1900 Diary</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Howe, Herbert A.--(Herbert Alonzo),--1858-1926</dc:creator>
+  <dc:subject>Howe, Herbert A.--(Herbert Alonzo),--1858-1926</dc:subject>
+  <dc:subject>Howe family</dc:subject>
+  <dc:subject>Shattuck family</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Chamberlin Observatory</dc:subject>
+  <dc:subject>Families</dc:subject>
+  <dc:subject>Astronomy</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Suburban life</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Faculty</dc:subject>
+  <dc:subject>Diaries</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>College administrators</dc:subject>
+  <dc:subject>College teachers</dc:subject>
+  <dc:subject>Astronomers</dc:subject>
+  <dc:subject>Mathematicians</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Professor Howe&apos;s diary for 1900 recounts his brief weather and astronomical observations, administrative and teaching activities at the University of Denver, entertainment of visitors to the Chamberlin Observatory, participation in events in University Park and elsewhere in Denver, Colorado as well as his family and religious life. With the return of the newly selected Chancellor, Henry Augustus Buchtel, former pastor of Trinity Methodist Episcopal Church in Denver, Dean Howe no longer had to double as Acting Chancellor. Special events mentioned for the year include: the Howes hosting a reception for Hubert and Katherine Porter Shattuck on January 24; Chancellor Buchtel&apos;s formal inauguration on March 5; the intense efforts on March 6 to rescue the Howes&apos; cat, which had been chased up a telegraph pole by the butcher&apos;s dog; the common loss of electric power in University Park after midnight, which interfered with the Observatory&apos;s instruments; basements flooded twice in April; on May 28 there was a solar eclipse, on June 28 a severe thunderstorm downed several electric poles in University Park; the Howes&apos; fourth son, Ernest was born on July 4; at Halloween, the neighborhood children were entertained with home parties and games in an attempt to distract them from mischief; on December 7, a great fireball was observed, leading Howe on a statewide campaign to collect reports in an attempt to locate the meteorite&apos;s impact site.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1900</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (book), , 1 small diary : burgundy leather bound, all edges red, 15 centimeters</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>Blank-books</dc:format>
+  <dc:identifier>M010.03.0003.00021</dc:identifier>
+  <dc:identifier>codu:64944</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Herbert Alonzo Howe Collection, Diaries</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64953</identifier>
+    <datestamp>2013-05-11T06:41:43Z</datestamp>
+    <setSpec>codu_32558</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Herbert A. Howe 1910 Diary</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Howe, Herbert A.--(Herbert Alonzo),--1858-1926</dc:creator>
+  <dc:subject>Howe, Herbert A.--(Herbert Alonzo),--1858-1926</dc:subject>
+  <dc:subject>Howe family</dc:subject>
+  <dc:subject>Shattuck family</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Chamberlin Observatory</dc:subject>
+  <dc:subject>Families</dc:subject>
+  <dc:subject>Astronomy</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Suburban life</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Faculty</dc:subject>
+  <dc:subject>Diaries</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Halley&apos;s comet</dc:subject>
+  <dc:subject>College administrators</dc:subject>
+  <dc:subject>College teachers</dc:subject>
+  <dc:subject>Astronomers</dc:subject>
+  <dc:subject>Mathematicians</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Professor Howe&apos;s diary for 1910 recounts his brief weather and astronomical observations, administrative and teaching activities at the University of Denver (DU), entertainment of visitors to the Chamberlin Observatory, participation in events in University Park and elsewhere in Denver, as well as his family and religious life. Special mention is made of: Howe&apos;s mother-in-law&apos;s death from pneumonia on January 29; his father-in-law, Joseph C. Shattuck coming to live with the Howes; the reopening of the Iliff School of Theology in University Park; observing, lecturing and publishing about Halley&apos;s Comet and Comet 1910a; and his surveying class staking neighborhood lots, and laying out the grade for a DU gymnasium.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1910</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (book), , 1 small diary : black leather bound, all edges gilt, 16 centimeters</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>Blank-books</dc:format>
+  <dc:identifier>M010.03.0004.00004</dc:identifier>
+  <dc:identifier>codu:64953</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Herbert Alonzo Howe Collection, Diaries</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64946</identifier>
+    <datestamp>2013-05-11T07:49:51Z</datestamp>
+    <setSpec>codu_32558</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Herbert A. Howe 1902 Diary</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Howe, Herbert A.--(Herbert Alonzo),--1858-1926</dc:creator>
+  <dc:subject>Howe, Herbert A.--(Herbert Alonzo),--1858-1926</dc:subject>
+  <dc:subject>Howe family</dc:subject>
+  <dc:subject>Shattuck family</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Chamberlin Observatory</dc:subject>
+  <dc:subject>Families</dc:subject>
+  <dc:subject>Astronomy</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Suburban life</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Faculty</dc:subject>
+  <dc:subject>Diaries</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>College administrators</dc:subject>
+  <dc:subject>College teachers</dc:subject>
+  <dc:subject>Astronomers</dc:subject>
+  <dc:subject>Mathematicians</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Professor Howe&apos;s diary for 1902 recounts his brief weather and astronomical observations, administrative and teaching activities at the University of Denver, entertainment of visitors to the Chamberlin Observatory, participation in events in University Park and elsewhere in Denver, his family and religious life. Particular mention is made of: his son Hubert&apos;s purchase (for 50 cents) a half-grown coyote for a pet; observations of Perrine&apos;s Comet beginning September 4th; the unexpected appearance of a new college paper, The Critic, characterized by Howe as &apos;&apos;devoted to athletics ostensibly ...&apos;&apos;; his mother-in-law&apos;s trip to Ft. Worth in an unsuccessful attempt to improve her health; and November 7th speeches in chapel in favor of organizing a literary society. The Howe children were impressed at Christmas -- they received about 17 presents apiece.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1902</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (book), , 1 small diary : black leather bound, all edges gilt, 15 centimeters</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>Blank-books</dc:format>
+  <dc:identifier>M010.03.0003.00023</dc:identifier>
+  <dc:identifier>codu:64946</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Herbert Alonzo Howe Collection, Diaries</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64948</identifier>
+    <datestamp>2013-05-11T07:57:46Z</datestamp>
+    <setSpec>codu_32558</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Herbert A. Howe 1904 Diary</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Howe, Herbert A.--(Herbert Alonzo),--1858-1926</dc:creator>
+  <dc:subject>Howe, Herbert A.--(Herbert Alonzo),--1858-1926</dc:subject>
+  <dc:subject>Howe family</dc:subject>
+  <dc:subject>Shattuck family</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Chamberlin Observatory</dc:subject>
+  <dc:subject>Families</dc:subject>
+  <dc:subject>Astronomy</dc:subject>
+  <dc:subject>Community life</dc:subject>
+  <dc:subject>Suburban life</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Faculty</dc:subject>
+  <dc:subject>Diaries</dc:subject>
+  <dc:subject>University Park (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>College administrators</dc:subject>
+  <dc:subject>College teachers</dc:subject>
+  <dc:subject>Astronomers</dc:subject>
+  <dc:subject>Mathematicians</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Professor Howe&apos;s diary for 1904 recounts his brief weather and astronomical observations, administrative and teaching activities at the University of Denver, entertainment of visitors to the Chamberlin Observatory, participation in events in University Park and elsewhere in Denver, as well as his family and religious life. Special note is made of: electrical service in the University Park neighborhood being raised to 108 volts; and in September, Julian and Hubert Howe left to attend the Culver Military Academy in Indiana.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1904</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (book), , 1 small diary : red leather bound, all edges gilt, 15 centimeters</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>Blank-books</dc:format>
+  <dc:identifier>M010.03.0003.00025</dc:identifier>
+  <dc:identifier>codu:64948</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Herbert Alonzo Howe Collection, Diaries</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

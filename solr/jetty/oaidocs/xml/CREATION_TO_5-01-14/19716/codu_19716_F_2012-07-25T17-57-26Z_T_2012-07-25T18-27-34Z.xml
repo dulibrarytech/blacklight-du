@@ -1,0 +1,2696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T04:29:18Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_34417</identifier>
+    <datestamp>2012-07-25T18:25:33Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>DU Merchandise Final</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Students model shirts, merchandise from the University of Denver bookstore.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>9/21/2007</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01437</dc:identifier>
+  <dc:identifier>20070921_DU_merchandise_4D7H0141_final_002</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:34417</dc:identifier>
+  <dc:identifier>codu:34417</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_35090</identifier>
+    <datestamp>2012-07-25T18:25:28Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Cherrington Hall</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Ben Cherrington Hall. Home to the Josef Korbel School of International Studies (GSIS).</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>2/28/2005</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01349</dc:identifier>
+  <dc:identifier>20050228_Cherrington_Hall_G5D77017_001</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:35090</dc:identifier>
+  <dc:identifier>codu:35090</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_33363</identifier>
+    <datestamp>2012-07-25T18:26:12Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Buchtel Tower</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Buchtel Tower.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>10/11/2003</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00952</dc:identifier>
+  <dc:identifier>20031011_Buchtel_Tower_G5D54717_001</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:33363</dc:identifier>
+  <dc:identifier>codu:33363</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_34877</identifier>
+    <datestamp>2012-07-25T18:25:38Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Ricketson Law</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Detail of shelving inside Westminster Law Library at the Ricketson Law Building.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>7/20/2004</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01295</dc:identifier>
+  <dc:identifier>20040720_Ricketson_Law_G5D68655_005</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:34877</dc:identifier>
+  <dc:identifier>codu:34877</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_33824</identifier>
+    <datestamp>2012-07-25T18:25:58Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>College of Education</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>College of Education.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>4/4/2007</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00105</dc:identifier>
+  <dc:identifier>20070404_COE_003</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:33824</dc:identifier>
+  <dc:identifier>codu:33824</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_35559</identifier>
+    <datestamp>2012-07-25T18:25:23Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Erik Johnson Final</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Boston College assistant coach Erik Johnson (with Peg Bradley-Doppes) joins DU as its 10th women&apos;s basketball head coach.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>4/30/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.02560</dc:identifier>
+  <dc:identifier>20080430_Erik_Johnson_D7H4197_final_006</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:35559</dc:identifier>
+  <dc:identifier>codu:35559</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_35337</identifier>
+    <datestamp>2012-07-25T18:25:43Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Fall Campus Scenics</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Student walking.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>10/3/2006</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01182</dc:identifier>
+  <dc:identifier>20061003_fall_campus_scenics_G6PT9364_041</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:35337</dc:identifier>
+  <dc:identifier>codu:35337</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_32729</identifier>
+    <datestamp>2012-07-25T18:25:48Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Denver Scenics</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A view of Denver&apos;s City and County building from Civic Center.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>9/7/2006</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00554</dc:identifier>
+  <dc:identifier>20060907_Denver_scenics_G5D85662_012</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:32729</dc:identifier>
+  <dc:identifier>codu:32729</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_34127</identifier>
+    <datestamp>2012-07-25T18:25:08Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Ricketson Law</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The clock tower at Ricketson Law Building.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>8/15/2004</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01279</dc:identifier>
+  <dc:identifier>20040815_Ricketson_Law_G5D69182_021</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:34127</dc:identifier>
+  <dc:identifier>codu:34127</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_33153</identifier>
+    <datestamp>2012-07-25T18:26:03Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Chamberlin Observatory</dc:title>
+  <dc:title></dc:title>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Chamberlin Observatory in nearby Observatory Park.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1/17/2007</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>Born digital</dc:format>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00696</dc:identifier>
+  <dc:identifier>20070117_winter_campus_scenics_IMG_0077_119</dc:identifier>
+  <dc:identifier>codu:33153</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_35307</identifier>
+    <datestamp>2012-07-25T18:25:53Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Daniels Business</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Exterior photo of the Daniels College of Business building.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>10/19/2006</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01305</dc:identifier>
+  <dc:identifier>20061019_Daniels_Business_G6PV0900small_026</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:35307</dc:identifier>
+  <dc:identifier>codu:35307</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_33282</identifier>
+    <datestamp>2012-07-25T18:25:03Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Boettcher Center</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Boettcher Center.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1/18/2007</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00679</dc:identifier>
+  <dc:identifier>20070118_winter_campus_scenics_009</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:33282</dc:identifier>
+  <dc:identifier>codu:33282</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_32764</identifier>
+    <datestamp>2012-07-25T18:27:21Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Nelson Hall</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Nelson Hall.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>10/30/2004</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00892</dc:identifier>
+  <dc:identifier>20041030_Nelson_Hall_G5D73849_003</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:32764</dc:identifier>
+  <dc:identifier>codu:32764</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_35234</identifier>
+    <datestamp>2012-07-25T18:26:56Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Robert Coombe</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Chancellor Robert &apos;&apos;Bob&apos;&apos; Coomb.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>8/1/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01948</dc:identifier>
+  <dc:identifier>20080801_Robert_Coombe_006</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:35234</dc:identifier>
+  <dc:identifier>codu:35234</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_32744</identifier>
+    <datestamp>2012-07-25T18:27:11Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Colorado Scenics</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Mountain lake.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>6/8/2007</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00461</dc:identifier>
+  <dc:identifier>20070608_Colorado_scenics_NC4W9046_010</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:32744</dc:identifier>
+  <dc:identifier>codu:32744</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_36141</identifier>
+    <datestamp>2012-07-25T18:27:26Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Korbel Renaming</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Renaming ceremony for the Josef Korbel School of International Studies.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>5/28/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.02847</dc:identifier>
+  <dc:identifier>20080528_korbel_renaming_D7H9060_000</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:36141</dc:identifier>
+  <dc:identifier>codu:36141</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_34591</identifier>
+    <datestamp>2012-07-25T18:27:01Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Ron Suskind Final</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Pulitzer Prize-winning journalist and author Ron Suskind speaks to an audience comprised of students of Graduate School of Social Work. Suskind discussed and signed copies of his New York Times bestseller, The Way of the World: A Story of Truth and Hope in an Age of Extremism, on Nov. 12, 2008 in the Boettcher Foundation Community Room of Craig Hall.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>11/12/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01684</dc:identifier>
+  <dc:identifier>20081112_Ron_Suskind_D7H7872_final_007</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:34591</dc:identifier>
+  <dc:identifier>codu:34591</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_34447</identifier>
+    <datestamp>2012-07-25T18:27:31Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Fisher Learning</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Details of a mural at the Fisher Early Learning Center on the DU campus.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>8/1/2007</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01105</dc:identifier>
+  <dc:identifier>20070801_Fisher_Learning_NC4W5125_016</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:34447</dc:identifier>
+  <dc:identifier>codu:34447</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_33946</identifier>
+    <datestamp>2012-07-25T18:21:44Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>DU Stock</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Student studying, working on a laptop computer at the Driscoll Student Center.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>5/3/2004</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01514</dc:identifier>
+  <dc:identifier>20040503_DU_Stock_G5D63893_012</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:33946</dc:identifier>
+  <dc:identifier>codu:33946</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_34043</identifier>
+    <datestamp>2012-07-25T18:21:09Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Spring Campus Scenics</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Haessler, Jeffrey, 1963-</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A student is seated, reading next to a fountain.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>5/21/2007</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01121</dc:identifier>
+  <dc:identifier>20070521_spring_campus_scenics_IMG_4845_046</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:34043</dc:identifier>
+  <dc:identifier>codu:34043</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_36384</identifier>
+    <datestamp>2012-07-25T18:21:04Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Korbel Renaming</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Renaming ceremony for the Josef Korbel School of International Studies.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>5/28/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.02821</dc:identifier>
+  <dc:identifier>20080528_korbel_renaming_D7H9086_006</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:36384</dc:identifier>
+  <dc:identifier>codu:36384</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_32595</identifier>
+    <datestamp>2012-07-25T18:20:45Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Olin Hall</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Students walking into Olin Hall.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>9/6/2006</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00920</dc:identifier>
+  <dc:identifier>20060906_Olin_Hall_G6PT7160_007</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:32595</dc:identifier>
+  <dc:identifier>codu:32595</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_34010</identifier>
+    <datestamp>2012-07-25T18:21:48Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Campus Scenics 2276</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Campus Scenics.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>12/23/2004</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01618</dc:identifier>
+  <dc:identifier>20041223_campus_scenics_2276_001</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:34010</dc:identifier>
+  <dc:identifier>codu:34010</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_35817</identifier>
+    <datestamp>2012-07-25T18:20:59Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Newman Anniversary</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Decorations for the Newman Center for the Performing Arts.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>4/26/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.02361</dc:identifier>
+  <dc:identifier>20080426_Newman_Anniversary_D7H3622_341</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:35817</dc:identifier>
+  <dc:identifier>codu:35817</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_34712</identifier>
+    <datestamp>2012-07-25T18:20:55Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Craig Hall</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Photo of Craig Hall, home to the Graduate School of Social Work (GSSW).</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>5/16/2005</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01335</dc:identifier>
+  <dc:identifier>20050516_Craig_Hall_G5D80156_006</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:34712</dc:identifier>
+  <dc:identifier>codu:34712</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_34524</identifier>
+    <datestamp>2012-07-25T18:20:50Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Nagel Hall</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>James, McCory</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>inside and outside photos of Nagel Hall shot by freelance photographer.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>8/13/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01599</dc:identifier>
+  <dc:identifier>20080813_Nagel_Hall_nagel-2_007</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:34524</dc:identifier>
+  <dc:identifier>codu:34524</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright McCory James Photography 2008; Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_36245</identifier>
+    <datestamp>2012-07-25T18:23:07Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Newman Anniversary</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Decorations for the Newman Center for the Performing Arts.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>4/26/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.02129</dc:identifier>
+  <dc:identifier>20080426_Newman_Anniversary_D7H3769_488</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:36245</dc:identifier>
+  <dc:identifier>codu:36245</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_33583</identifier>
+    <datestamp>2012-07-25T18:23:12Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Science Stock Detail</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Science Stock Detail.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>5/26/2003</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00957</dc:identifier>
+  <dc:identifier>20030526_Science_Stock_Detail_001</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:33583</dc:identifier>
+  <dc:identifier>codu:33583</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_36366</identifier>
+    <datestamp>2012-07-25T18:22:48Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Newman Anniversary</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Decorations for the Newman Center for the Performing Arts.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>4/26/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.02173</dc:identifier>
+  <dc:identifier>20080426_Newman_Anniversary_D7H3954_673</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:36366</dc:identifier>
+  <dc:identifier>codu:36366</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_36430</identifier>
+    <datestamp>2012-07-25T18:22:33Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>2008 Law Graduation Final</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2008 graduation ceremony for Sturm College of law students.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>5/17/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.02982</dc:identifier>
+  <dc:identifier>20080517_2008_Law_graduation_D7H6778_final_20</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:36430</dc:identifier>
+  <dc:identifier>codu:36430</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_35382</identifier>
+    <datestamp>2012-07-25T18:22:38Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Campus Scenics</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Lacrosse players walking on campus.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>10/4/2006</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01554</dc:identifier>
+  <dc:identifier>20061004_campus_scenics_G6PV0103_018</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:35382</dc:identifier>
+  <dc:identifier>codu:35382</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_35932</identifier>
+    <datestamp>2012-07-25T18:22:28Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Buell Learning Final</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Shela Blankinship, Buell Fellow, Buell Early Childhood Leadership Program. Photos taken at Inverness Hotel in Englewood.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>7/19/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.02029</dc:identifier>
+  <dc:identifier>20080719_Buell_Learning_final_D7H5010_007</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:35932</dc:identifier>
+  <dc:identifier>codu:35932</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_36481</identifier>
+    <datestamp>2012-07-25T18:22:43Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>2008 Law Graduation Final</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2014 graduation ceremony for Sturm College of law students.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>5/17/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.02995</dc:identifier>
+  <dc:identifier>20080517_2008_Law_graduation_D7H6666_final_10</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:36481</dc:identifier>
+  <dc:identifier>codu:36481</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_36356</identifier>
+    <datestamp>2012-07-25T18:22:53Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Newman Anniversary</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Decorations for the Newman Center for the Performing Arts.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>4/26/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.02071</dc:identifier>
+  <dc:identifier>20080426_Newman_Anniversary_D7H3753_472</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:36356</dc:identifier>
+  <dc:identifier>codu:36356</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_33971</identifier>
+    <datestamp>2012-07-25T18:23:02Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Spring Campus Scenics</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Haessler, Jeffrey, 1963-</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Students walking on campus.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>5/21/2007</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01132</dc:identifier>
+  <dc:identifier>20070521_spring_campus_scenics_IMG_4830_035</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:33971</dc:identifier>
+  <dc:identifier>codu:33971</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_32761</identifier>
+    <datestamp>2012-07-25T18:22:58Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Nagle Construction</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Photo of construction of Nagel Hall.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>2/16/2007</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00775</dc:identifier>
+  <dc:identifier>20070216_Nagle_construction_IMG_3276_021</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:32761</dc:identifier>
+  <dc:identifier>codu:32761</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_36669</identifier>
+    <datestamp>2012-07-25T18:24:59Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>GSIS Students Final</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Nathaniel Tishman (MA &apos;09), BA, Journalism, San Francisco State University, California. Programs: Returned Peace Corps Volunteer, Master of Arts in International Human Rights with a Certificate in Humanitarian Assistance. (Photos for Tom Beal various student headshots for GSIS website).</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>5/6/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.02430</dc:identifier>
+  <dc:identifier>20080506_GSIS_students_D7H4647_final_005</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:36669</dc:identifier>
+  <dc:identifier>codu:36669</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_34893</identifier>
+    <datestamp>2012-07-25T18:24:55Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>DU Merchandise Final</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver cap/hat, merchandise from the bookstore.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>11/12/2007</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01393</dc:identifier>
+  <dc:identifier>20071112_DU_merchandise_IMG_0042_19_final_050</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:34893</dc:identifier>
+  <dc:identifier>codu:34893</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_32598</identifier>
+    <datestamp>2012-07-25T18:25:13Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Summer Campus Scenics</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Haessler, Jeffrey, 1963-</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Students walking on campus.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>9/4/2007</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01039</dc:identifier>
+  <dc:identifier>20070904_summer_campus_scenics_IMG_7543_074</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:32598</dc:identifier>
+  <dc:identifier>codu:32598</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_34238</identifier>
+    <datestamp>2012-07-25T18:24:15Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Shari Caudron Wip</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Shari Caudron, writer, DU alumni.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>3/3/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00053</dc:identifier>
+  <dc:identifier>20080303_Shari_Caudron_4D7H8385 wip_030</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:34238</dc:identifier>
+  <dc:identifier>codu:34238</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_33140</identifier>
+    <datestamp>2012-07-25T18:24:25Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Buchtel Tower</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Buchtel Tower.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>8/16/2004</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00951</dc:identifier>
+  <dc:identifier>20040816_Buchtel_Tower_G5D69228_002</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:33140</dc:identifier>
+  <dc:identifier>codu:33140</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_35248</identifier>
+    <datestamp>2012-07-25T18:24:02Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Harold Beier Final</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Harold Beier Final.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>7/15/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01955</dc:identifier>
+  <dc:identifier>20080715_Harold_Beier_final_005</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:35248</dc:identifier>
+  <dc:identifier>codu:35248</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_36730</identifier>
+    <datestamp>2012-07-25T18:24:06Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Theresa Chase Final</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Recipient of DU&apos;s 2008 Founders Day. Community Service Award.Theresa &apos;&apos;Terry&apos;&apos; Chase&apos;s (MA &apos;90), injured when she was riding her bike in Grand Junction and was hit by a drunk driver in 1988. Chase&apos;s injury caused incomplete paralysis of both legs. Chase regained some function in her legs and today can walk short distances with crutches, though she chooses to use her wheelchair, saving her shoulder strength for more important efforts like sea kayaking, water skiing, hand cycling and swimming. Chase has earned a master&apos;s degree in exercise science from DU, a doctorate of nursing from the University of Colorado and a master&apos;s degree in spiritual psychology .</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>3/14/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.02540</dc:identifier>
+  <dc:identifier>20080314_Theresa_Chase_4D7H9506_final_003</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:36730</dc:identifier>
+  <dc:identifier>codu:36730</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_34155</identifier>
+    <datestamp>2012-07-25T18:24:20Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Homeless Connect Final</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Photos from Project Homeless Connect 6. Project Homeless Connect is a one-day event that serves as a one-stop shop, connecting homeless individuals to needed services, including but not limited to: employment, housing, healthcare, legal resources, IDs, Social Security and food-stamp benefits. More than 60 organizations from the Denver area were present to provide these services.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>5/9/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01842</dc:identifier>
+  <dc:identifier>20080509_homeless_connect_D7H5284_final_001</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:34155</dc:identifier>
+  <dc:identifier>codu:34155</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_35836</identifier>
+    <datestamp>2012-07-25T18:24:40Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Newman Anniversary</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Decorations for the Newman Center for the Performing Arts.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>4/26/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.02142</dc:identifier>
+  <dc:identifier>20080426_Newman_Anniversary_D7H3831_550</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:35836</dc:identifier>
+  <dc:identifier>codu:35836</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_33442</identifier>
+    <datestamp>2012-07-25T18:24:45Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Campus Scenics</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Students preparing giveaway packages/bags for an event.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>9/8/2006</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00915</dc:identifier>
+  <dc:identifier>20060908_campus_scenics_G6PT7478_010</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:33442</dc:identifier>
+  <dc:identifier>codu:33442</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_34054</identifier>
+    <datestamp>2012-07-25T18:25:18Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Ricketson Law</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Detail of the roof and tower at Ricketson Law Building.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>7/20/2004</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01297</dc:identifier>
+  <dc:identifier>20040720_Ricketson_Law_G5D68620_003</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:34054</dc:identifier>
+  <dc:identifier>codu:34054</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_33744</identifier>
+    <datestamp>2012-07-25T18:24:50Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Margery Reed Hall</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Margery Reed Hall.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1/17/2007</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00768</dc:identifier>
+  <dc:identifier>20070117_winter_campus_scenics_IMG_0005_047</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:33744</dc:identifier>
+  <dc:identifier>codu:33744</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_35832</identifier>
+    <datestamp>2012-07-25T18:24:35Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Newman Anniversary</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Decorations for the Newman Center for the Performing Arts.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>4/26/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.02301</dc:identifier>
+  <dc:identifier>20080426_Newman_Anniversary_D7H3844_563</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:35832</dc:identifier>
+  <dc:identifier>codu:35832</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_36167</identifier>
+    <datestamp>2012-07-25T18:26:36Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Newman Anniversary</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Decorations for the Newman Center for the Performing Arts.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>4/26/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.02198</dc:identifier>
+  <dc:identifier>20080426_Newman_Anniversary_D7H3938_657</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:36167</dc:identifier>
+  <dc:identifier>codu:36167</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_36200</identifier>
+    <datestamp>2012-07-25T18:26:31Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>GSSW</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Graduate School of Social Work (GSSW).</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>5/21/2005</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.02646</dc:identifier>
+  <dc:identifier>20050521_GSSW_G5D80644_009</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:36200</dc:identifier>
+  <dc:identifier>codu:36200</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_33610</identifier>
+    <datestamp>2012-07-25T18:27:06Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Project Homeless Connect 2007</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Volunteers and participants of Project Homeless Connect in 2007.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>4/21/2007</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00481</dc:identifier>
+  <dc:identifier>20070421_Project_Homeless_Connect_NC4W8994_001</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:33610</dc:identifier>
+  <dc:identifier>codu:33610</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_35694</identifier>
+    <datestamp>2012-07-25T18:26:27Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Newman Anniversary</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Decorations for the Newman Center for the Performing Arts.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>4/26/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.02060</dc:identifier>
+  <dc:identifier>20080426_Newman_Anniversary_D7H3646_365</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:35694</dc:identifier>
+  <dc:identifier>codu:35694</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_33464</identifier>
+    <datestamp>2012-07-25T18:26:51Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Miracles on Ice</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Photo from a first-of-its-kind hockey camp called Miracles on Ice. Held at DU&apos;s Ritchie Center, the camp brought together 29 boys and girls ages 9-11 for a week of hockey, education and fun. It was funded and organized by alumna Leslie Howard, (MBA &apos;03), and her husband. Howard is in the white t-shirt.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>8/11/2007</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00395</dc:identifier>
+  <dc:identifier>20070811_Miracles_on_Ice_NC4W6400_031</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:33464</dc:identifier>
+  <dc:identifier>codu:33464</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_35886</identifier>
+    <datestamp>2012-07-25T18:26:22Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>GSSW</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Graduate School of Social Work (GSSW).</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>5/21/2005</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.02626</dc:identifier>
+  <dc:identifier>20050521_GSSW_G5D80534_005</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:35886</dc:identifier>
+  <dc:identifier>codu:35886</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_33559</identifier>
+    <datestamp>2012-07-25T18:26:46Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Summer Campus Scenics</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Haessler, Jeffrey, 1963-</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Students sitting on the grass.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>9/4/2007</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00988</dc:identifier>
+  <dc:identifier>20070904_summer_campus_scenics_IMG_7652_125</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:33559</dc:identifier>
+  <dc:identifier>codu:33559</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_34903</identifier>
+    <datestamp>2012-07-25T18:26:17Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Chambers Center</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Photo of a stone carving at the Chambers Center, home to the Women&apos;s College at the University of Denver.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>3/6/2006</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01331</dc:identifier>
+  <dc:identifier>20060306_Chambers_Center_G6PS7408_017</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:34903</dc:identifier>
+  <dc:identifier>codu:34903</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_36104</identifier>
+    <datestamp>2012-07-25T18:26:08Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Newman Anniversary</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Decorations for the Newman Center for the Performing Arts.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>4/26/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.02147</dc:identifier>
+  <dc:identifier>20080426_Newman_Anniversary_D7H3948_667</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:36104</dc:identifier>
+  <dc:identifier>codu:36104</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_32900</identifier>
+    <datestamp>2012-07-25T18:27:16Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Olin Hall</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Olin Hall at dusk, with lighted Christmas tree.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>12/6/2004</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00950</dc:identifier>
+  <dc:identifier>20041206_Olin_Hall_G6PQ6523_001</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:32900</dc:identifier>
+  <dc:identifier>codu:32900</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_35514</identifier>
+    <datestamp>2012-07-25T18:26:41Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>M.E. Warlick Final</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>M.E. Warlick, professor in the School of Art and Art History.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>7/15/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.02699</dc:identifier>
+  <dc:identifier>20080715_M.E._Warlick_0010_final_</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:35514</dc:identifier>
+  <dc:identifier>codu:35514</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_35313</identifier>
+    <datestamp>2012-07-25T18:21:39Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Campus Scenics</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>The &apos;&apos;Whispers&apos;&apos; sculpture in front of the Ritchie Center at night.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>00/00/2009</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01573</dc:identifier>
+  <dc:identifier>20090000_campus_scenics_018</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:35313</dc:identifier>
+  <dc:identifier>codu:35313</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_32808</identifier>
+    <datestamp>2012-07-25T18:21:19Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Derek Holmgren</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>History buff Derek Holmgren won a Fulbright Scholarship to pay for his travel expenses to go to Germany and work for 10 months as an English teaching assistant - a position supported by a German government stipend. The time in Germany will give him the opportunity to expand his language skills and cultural understanding while he applies to graduate history programs. In June 2007 he will graduate with a BA in history and minors in German and political science.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>5/19/2007</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00102</dc:identifier>
+  <dc:identifier>20070519_Derek_Holmgen_NC4W2374_001</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:32808</dc:identifier>
+  <dc:identifier>codu:32808</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_33138</identifier>
+    <datestamp>2012-07-25T18:21:59Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>College of Education</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Education students.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>12/15/2003</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00242</dc:identifier>
+  <dc:identifier>20031215_education_students_G5D57806_012</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:33138</dc:identifier>
+  <dc:identifier>codu:33138</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_35996</identifier>
+    <datestamp>2012-07-25T18:21:33Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Battle Bands Final</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Battle Bands Final</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>4/16/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.02946</dc:identifier>
+  <dc:identifier>20080416_Battle_Bands_D7H9817_final_1_005</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:35996</dc:identifier>
+  <dc:identifier>codu:35996</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_34576</identifier>
+    <datestamp>2012-07-25T18:22:09Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Campus Scenics</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Students sitting at tables outside the Driscoll Center.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>9/6/2006</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01562</dc:identifier>
+  <dc:identifier>20060906_campus_scenics_G6PT7266_010</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:34576</dc:identifier>
+  <dc:identifier>codu:34576</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_34499</identifier>
+    <datestamp>2012-07-25T18:21:28Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Fisher Learning</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Children at the Fisher Early Learning Center.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>8/1/2007</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01109</dc:identifier>
+  <dc:identifier>20070801_Fisher_Learning_NC4W5060_011</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:34499</dc:identifier>
+  <dc:identifier>codu:34499</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_36674</identifier>
+    <datestamp>2012-07-25T18:21:23Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Chancellor Coombe Final Print</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Official portrait shoot summer 2008 Robert Coombe.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>8/1/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.02414</dc:identifier>
+  <dc:identifier>20080801_Chancellor_Coombe_N0010033_final_print_009</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:36674</dc:identifier>
+  <dc:identifier>codu:36674</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_34718</identifier>
+    <datestamp>2012-07-25T18:22:18Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Daniels Business</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Exterior photo of the Daniels College of Business building.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>10/19/2006</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01312</dc:identifier>
+  <dc:identifier>20061019_Daniels_Business_G6PV0889_019</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:34718</dc:identifier>
+  <dc:identifier>codu:34718</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_33482</identifier>
+    <datestamp>2012-07-25T18:22:04Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Miracles on Ice</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Photo from a first-of-its-kind hockey camp called Miracles on Ice. Held at DU&apos;s Ritchie Center, the camp brought together 29 boys and girls ages 9-11 for a week of hockey, education and fun. It was funded and organized by alumna Leslie Howard, (MBA &apos;03), and her husband.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>8/11/2007</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00398</dc:identifier>
+  <dc:identifier>20070811_Miracles_on_Ice_NC4W6390_028</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:33482</dc:identifier>
+  <dc:identifier>codu:33482</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_32642</identifier>
+    <datestamp>2012-07-25T18:22:23Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Boettcher Center</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Boettcher Center.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1/17/2007</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00735</dc:identifier>
+  <dc:identifier>20070117_winter_campus_scenics_IMG_0038_080</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:32642</dc:identifier>
+  <dc:identifier>codu:32642</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_34724</identifier>
+    <datestamp>2012-07-25T18:22:13Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Chambers Center</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Photo of the Chambers Center, home to the Women&apos;s College at the University of Denver.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>12/8/2004</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01359</dc:identifier>
+  <dc:identifier>20041208_Chambers_Center_G6PQ6834_007</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:34724</dc:identifier>
+  <dc:identifier>codu:34724</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_33450</identifier>
+    <datestamp>2012-07-25T18:21:14Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>2007 Summer Graduation Ceremony.</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2007 Summer Graduation ceremony.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>8/17/2007</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00329</dc:identifier>
+  <dc:identifier>20070817_2007_Summer_Graduation_NC4W6794_050</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:33450</dc:identifier>
+  <dc:identifier>codu:33450</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_33956</identifier>
+    <datestamp>2012-07-25T18:21:54Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Homeless Connect Final</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Photos from Project Homeless Connect 6. Project Homeless Connect is a one-day event that serves as a one-stop shop, connecting homeless individuals to needed services, including but not limited to: employment, housing, healthcare, legal resources, IDs, Social Security and food-stamp benefits. More than 60 organizations from the Denver area were present to provide these services.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>5/9/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01852</dc:identifier>
+  <dc:identifier>20080509_homeless_connect_D7H5213_final_004</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:33956</dc:identifier>
+  <dc:identifier>codu:33956</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_33043</identifier>
+    <datestamp>2012-07-25T18:24:11Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>2005 Undergraduate Commencement Ceremony</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2005 Undergraduate Commencement Ceremony.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>6/8/2005</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00187</dc:identifier>
+  <dc:identifier>20050608_Commencement_2005_G5D81853_007</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:33043</dc:identifier>
+  <dc:identifier>codu:33043</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_34081</identifier>
+    <datestamp>2012-07-25T18:23:43Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Ricketson Law</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>View of the clock tower at Ricketson Law Building.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>4/24/2005</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01261</dc:identifier>
+  <dc:identifier>20050424_Ricketson_Law_G5D79058_038</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:34081</dc:identifier>
+  <dc:identifier>codu:34081</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_33662</identifier>
+    <datestamp>2012-07-25T18:23:48Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>DU Basketball</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>DU men&apos;s basketball game against New Orleans.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>2/26/2005</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00612</dc:identifier>
+  <dc:identifier>20050226_DU_Basketball_G6PQ9259_016</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:33662</dc:identifier>
+  <dc:identifier>codu:33662</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_34153</identifier>
+    <datestamp>2012-07-25T18:23:17Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Business Students</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Business students.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>3/8/2005</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00195</dc:identifier>
+  <dc:identifier>20050308_business_students_G5D77143_010</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:34153</dc:identifier>
+  <dc:identifier>codu:34153</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_36241</identifier>
+    <datestamp>2012-07-25T18:23:38Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Newman Anniversary</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Decorations for the Newman Center for the Performing Arts.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>4/26/2008</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.02208</dc:identifier>
+  <dc:identifier>20080426_Newman_Anniversary_D7H3730_449</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:36241</dc:identifier>
+  <dc:identifier>codu:36241</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_32680</identifier>
+    <datestamp>2012-07-25T18:24:30Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Barton Lacrosse</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Barton Lacrosse Stadium at night.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>3/27/2005</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00944</dc:identifier>
+  <dc:identifier>20050327_Barton_Lacrosse_G5D77341_003</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:32680</dc:identifier>
+  <dc:identifier>codu:32680</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_33006</identifier>
+    <datestamp>2012-07-25T18:23:28Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>2007 Korbel Dinner Awards</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>One of the awards given at the 2007 Korbel Dinner. The celebration recognized Newmont Mining Chair and former CEO Wayne Murdy with the University&apos;s International Bridge Builder Award and Denver philanthropists Robert and Judi Newman with the Josef Korbel Humanitarian Award.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>8/31/2007</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00289</dc:identifier>
+  <dc:identifier>20070831_Korbel_Awards_NC4W7394_jewlery_final_003</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:33006</dc:identifier>
+  <dc:identifier>codu:33006</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_32623</identifier>
+    <datestamp>2012-07-25T18:23:52Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Newman Center for the Performing Arts</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Newman Center for the Performing Arts.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1/18/2007</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00674</dc:identifier>
+  <dc:identifier>20070118_winter_campus_scenics_014</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:32623</dc:identifier>
+  <dc:identifier>codu:32623</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_32880</identifier>
+    <datestamp>2012-07-25T18:23:33Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Denver Scenics</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A view of the Denver Art Museum.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>9/7/2006</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00550</dc:identifier>
+  <dc:identifier>20060907_Denver_scenics_G5D85677_016</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:32880</dc:identifier>
+  <dc:identifier>codu:32880</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_32682</identifier>
+    <datestamp>2012-07-25T18:23:57Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Summer Campus Scenics</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Haessler, Jeffrey, 1963-</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Students sitting on the grass.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>9/4/2007</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.00989</dc:identifier>
+  <dc:identifier>20070904_summer_campus_scenics_IMG_7651_124</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:32682</dc:identifier>
+  <dc:identifier>codu:32682</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_34998</identifier>
+    <datestamp>2012-07-25T18:23:23Z</datestamp>
+    <setSpec>codu_19718</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>DU Merchandise</dc:title>
+  <dc:title>University Communications Photographs, University Communications Records</dc:title>
+  <dc:creator>Armstrong, Wayne</dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject>Publicity photographs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Students model University of Denver merchandise from the bookstore.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>6/20/2007</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph)</dc:format>
+  <dc:format>Born digital</dc:format>
+  <dc:format>Digital photographs</dc:format>
+  <dc:identifier>U116.01.0001.01447</dc:identifier>
+  <dc:identifier>20070620_DU_merchandise_NC4W0020_074</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:34998</dc:identifier>
+  <dc:identifier>codu:34998</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright University of Denver</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

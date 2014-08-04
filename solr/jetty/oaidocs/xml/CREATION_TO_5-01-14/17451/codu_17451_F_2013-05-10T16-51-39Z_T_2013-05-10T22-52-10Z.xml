@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T05:24:48Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_65795</identifier>
+    <datestamp>2013-05-10T20:54:09Z</datestamp>
+    <setSpec>codu_32562</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Buchtel Chapel - Tower</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Built environment</dc:subject>
+  <dc:subject>College buildings</dc:subject>
+  <dc:subject>College campuses</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Typed on label on front of slide: &apos;&apos;Buchtel Tower with snow, Bldgs 18, c. 1998 University of Denver.&apos;&apos;</dc:description>
+  <dc:description>Exterior view of the University of Denver&apos;s Buchtel Tower in Denver, Colorado. Snowy pine tree in the foreground.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1983-1998</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (slide), 1 x 1.5 inches, color</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>U201.01.0015.0015.00017</dc:identifier>
+  <dc:identifier>codu:65795</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>University of Denver Historical Photograph Collection, Photographs, Subject Files</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66612</identifier>
+    <datestamp>2013-05-10T21:50:32Z</datestamp>
+    <setSpec>codu_32554</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sanatorium, Volume 18, Number 4 (October, November, December 1924)</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Jewish Consumptives&apos; Relief Society (U.S.)</dc:creator>
+  <dc:subject>Hillkowitz, Philip,--1873-1948</dc:subject>
+  <dc:subject>Spivak, C. D.--(Charles D.),--1861-1927</dc:subject>
+  <dc:subject>Yehoash--d. 1927</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Corporation reports</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Sanatorium (Colo.)</dc:subject>
+  <dc:subject>Physicians</dc:subject>
+  <dc:description>Title from cover.</dc:description>
+  <dc:description>Part 2, Session 5, reports.</dc:description>
+  <dc:description>Bound with 41 other issues.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Part 2 of the report of the Jewish Consumptives&apos; Relief Society (JCRS) annual meeting held on May 30-June 2, 1924; Dr. Philip Hillkowitz was the Society&apos;s President, and C.D. Spivak was the Secretary. Includes 20-year statistical data about patients from 1904-1923, and a report of the Society&apos;s expenditures.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1924</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (booklet), , 30 pages : illustrations,</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>B002.05.0206.00001.00027</dc:identifier>
+  <dc:identifier>codu:66612</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Jewish Consumptives&apos; Relief Society Records, Publications</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66613</identifier>
+    <datestamp>2013-05-10T22:02:54Z</datestamp>
+    <setSpec>codu_32554</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sanatorium, Volume 10, Number 1 (September-December 1916)</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Jewish Consumptives&apos; Relief Society (U.S.)</dc:creator>
+  <dc:subject>Hillkowitz, Philip,--1873-1948</dc:subject>
+  <dc:subject>Spivak, C. D.--(Charles D.),--1861-1927</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Corporation reports</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Edgewater (Colo.)</dc:subject>
+  <dc:subject>Physicians</dc:subject>
+  <dc:description>Title from cover.</dc:description>
+  <dc:description>Bound with 31 other reports.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Report from the Jewish Consumptives&apos; Relief Society (JCRS) for January-March 1916; Dr. Philip Hillkowitz was the Society&apos;s President, and C.D. Spivak the Secretary. Includes reports from the New York Ladies&apos; Auxiliary, the St. Louis Ladies&apos; Auxiliary, the Cincinnati Ladies&apos; Auxiliary, the Cleveland Ladies&apos; Auxiliary, the Holyoke Ladies&apos; Auxiliary, the St. Louis Young People&apos;s JCRS, the Baltimore Ladies&apos; Auxiliary, and the Tyler Ladies&apos; Auxiliary. Also includes portraits of Ladies&apos; Auxiliary officers.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1916</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (booklet), , 32 pages : illustrations,</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>B002.05.0206.00002.00029</dc:identifier>
+  <dc:identifier>codu:66613</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Jewish Consumptives&apos; Relief Society Records, Publications</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66614</identifier>
+    <datestamp>2013-05-10T22:04:33Z</datestamp>
+    <setSpec>codu_32554</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sanatorium, Volume 4, Numbers 2 and 3 (March-June, 1910)</dc:title>
+  <dc:title>Sixth Annual Report of the Jewish Consumptives&apos; Relief Society</dc:title>
+  <dc:creator>Jewish Consumptives&apos; Relief Society (U.S.)</dc:creator>
+  <dc:subject>Hillkowitz, Philip,--1873-1948</dc:subject>
+  <dc:subject>Spivak, C. D.--(Charles D.),--1861-1927</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Corporation reports</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Edgewater (Colo.)</dc:subject>
+  <dc:subject>Physicians</dc:subject>
+  <dc:description>Title from cover.</dc:description>
+  <dc:description>Bound with 34 other reports.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Report of the Jewish Consumptives&apos; Relief Society (JCRS) sixth annual meeting on March 27, 1910, and its operations and finances for the period beginning January 1, 1909, and ending December 31, 1909; Dr. Philip Hillkowitz was the Society&apos;s President, and C.D. Spivak the Secretary. The Secretary&apos;s report indicates that 298 patients were treated in 1909. Includes images of the facility, statistical data about the patients (including age, occupation, and duration of disease), and a list of all donors.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1910</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (booklet), , 172 pages : illustrations,</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>B002.05.0206.00002.00005</dc:identifier>
+  <dc:identifier>codu:66614</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Jewish Consumptives&apos; Relief Society Records, Publications</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66615</identifier>
+    <datestamp>2013-05-10T22:09:34Z</datestamp>
+    <setSpec>codu_32554</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sanatorium, Volume 6, Numbers 4 and 5 (July-October 1912)</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Jewish Consumptives&apos; Relief Society (U.S.)</dc:creator>
+  <dc:subject>Hillkowitz, Philip,--1873-1948</dc:subject>
+  <dc:subject>Spivak, C. D.--(Charles D.),--1861-1927</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Corporation reports</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Edgewater (Colo.)</dc:subject>
+  <dc:subject>Physicians</dc:subject>
+  <dc:description>Title from cover.</dc:description>
+  <dc:description>Bound with 31 other reports.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Report from the Jewish Consumptives&apos; Relief Society (JCRS) for July-October 1912 ; Dr. Philip Hillkowitz was the Society&apos;s President, and C.D. Spivak the Secretary. Includes history of the Society, information about the grounds and buildings, the constitution and by laws, reports from ladies&apos; auxiliaries, and correspondence.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1912</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (booklet), , 63 pages : illustrations,</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>B002.05.0206.00002.00014</dc:identifier>
+  <dc:identifier>codu:66615</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Jewish Consumptives&apos; Relief Society Records, Publications</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_66616</identifier>
+    <datestamp>2013-05-10T22:11:17Z</datestamp>
+    <setSpec>codu_32554</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Sanatorium, Volume 7, Number 2 (Mar.-Apr. 1913)</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Jewish Consumptives&apos; Relief Society (U.S.)</dc:creator>
+  <dc:subject>Hillkowitz, Philip,--1873-1948</dc:subject>
+  <dc:subject>Spivak, C. D.--(Charles D.),--1861-1927</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Cincinnati Ladies&apos; Auxiliary</dc:subject>
+  <dc:subject>New York Ladies&apos; Auxiliary</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Corporation reports</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Edgewater (Colo.)</dc:subject>
+  <dc:subject>Physicians</dc:subject>
+  <dc:description>Title from cover.</dc:description>
+  <dc:description>Bound with 31 other reports.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Report from the Jewish Consumptives&apos; Relief Society (JCRS) for March-April 1913 ; Dr. Philip Hillkowitz was the Society&apos;s President, and C.D. Spivak the Secretary. Includes history of the California Jewish Consumptives&apos; Relief Association, portraits of the Cincinnati Ladies&apos; Auxiliary and New York Ladies&apos; Auxiliary members, and correspondence.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1913</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (booklet), , 30 pages : illustrations,</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>B002.05.0206.00002.00017</dc:identifier>
+  <dc:identifier>codu:66616</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Jewish Consumptives&apos; Relief Society Records, Publications</dc:relation>
+  <dc:rights>Copyright restrictions may apply.  User is responsible for all copyright compliance</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,2356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T06:03:07Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11018</identifier>
+    <datestamp>2014-03-19T04:34:28Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11834</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11018</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84</dc:description>
+  <dc:description>fair condition, scratches, dust, torn</dc:description>
+  <dc:identifier>: frid11834</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11019</identifier>
+    <datestamp>2014-03-19T04:34:28Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11314</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11019</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kuts on the running track.</dc:description>
+  <dc:description>Kuts na begovoi dorozhke.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition.</dc:description>
+  <dc:identifier>: frid11314</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11020</identifier>
+    <datestamp>2014-03-19T04:34:28Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11215</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11020</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>(Observatory, remains).</dc:description>
+  <dc:description>(Observatoria, ostatki).</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x56.</dc:description>
+  <dc:description>fair condition, minor scratches, dust, fingerprints, AGFACOLOR NEG T.</dc:description>
+  <dc:identifier>: frid11215</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11021</identifier>
+    <datestamp>2014-03-19T04:34:29Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid12047</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11021</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda. Kabardinskiy theater.</dc:description>
+  <dc:description>Kabarda. Kabardinskii teatr</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust, torn, fingerprints, 156 F-KA 3</dc:description>
+  <dc:identifier>: frid12047</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11022</identifier>
+    <datestamp>2014-03-19T04:34:29Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid10674</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11022</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Batumi, ship is coming.</dc:description>
+  <dc:description>Batumi, podhodit teplohod</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust, minor scratches, torn, fingerprints, AGFACOLOR B, 928003</dc:description>
+  <dc:identifier>: frid10674</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11025</identifier>
+    <datestamp>2014-03-19T04:34:29Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid10936</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11025</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Trehgorki,... specimens of new fabrics, colorist (on the left) P.A. Salamatin, colorist L.V.Fidelman, artist M.Dubrovskaja, #6.</dc:description>
+  <dc:description>Trehgorki, ... obraztsov novih tkanei, kolorist (sleva), P. A. Salamatin, kolorist L. V. Fideman, hudozhnitsa M. Dubrovskaja, #6</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x56</dc:description>
+  <dc:description>fair condition, scratches, dust, torn</dc:description>
+  <dc:identifier>: frid10936</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11027</identifier>
+    <datestamp>2014-03-19T04:34:30Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid10904</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11027</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x56</dc:description>
+  <dc:description>good condition, dust</dc:description>
+  <dc:identifier>: frid10904</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11030</identifier>
+    <datestamp>2014-03-19T04:34:30Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11401</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11030</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kindergarten, negatives and control prints.</dc:description>
+  <dc:description>Detskii sad, negativi i kontrolki</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust, SUPERPAN AGFA 393</dc:description>
+  <dc:identifier>: frid11401</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11031</identifier>
+    <datestamp>2014-03-19T04:34:30Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11542</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11031</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>&quot;Heart-to-heart talk&quot; (children), print, cut at (?).</dc:description>
+  <dc:description>&quot;Zadushevnaja beseda&quot; (deti), pechatat nadrezannii na</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, bubbles, torn, SUPERPAN AGFA</dc:description>
+  <dc:identifier>: frid11542</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11032</identifier>
+    <datestamp>2014-03-19T04:34:31Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11697</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11032</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84</dc:description>
+  <dc:description>poor condition, dust, scratches, stains, torn</dc:description>
+  <dc:identifier>: frid11697</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11033</identifier>
+    <datestamp>2014-03-19T04:34:31Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11799</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11033</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda, the city of Nalchik, entrance to the park, color.</dc:description>
+  <dc:description>Kabarda. g. Nalchik, vhod v park, tsvet</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust, minor scratches, AGFACOLOR B, AGFA S 407 ...31208</dc:description>
+  <dc:identifier>: frid11799</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11035</identifier>
+    <datestamp>2014-03-19T04:34:31Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid10706</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11035</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Michurinsk, remains.</dc:description>
+  <dc:description>Michurinsk, ostatki.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust, torn, AGFA SUPERPAN.</dc:description>
+  <dc:identifier>: frid10706</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11036</identifier>
+    <datestamp>2014-03-19T04:34:31Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid10772</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11036</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Winter.</dc:description>
+  <dc:description>Zima.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x56.</dc:description>
+  <dc:description>good condition, dust.</dc:description>
+  <dc:identifier>: frid10772</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11037</identifier>
+    <datestamp>2014-03-19T04:34:32Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11275</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11037</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Remains, Imel.</dc:description>
+  <dc:description>Ostatki, Imel</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust, torn</dc:description>
+  <dc:identifier>: frid11275</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11038</identifier>
+    <datestamp>2014-03-19T04:34:32Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid12143</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11038</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84</dc:description>
+  <dc:description>fair condition, dust, emulsion peeled off</dc:description>
+  <dc:identifier>: frid12143</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11040</identifier>
+    <datestamp>2014-03-19T04:34:32Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11216</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11040</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>(Observatory, remains).</dc:description>
+  <dc:description>(Observatoria, ostatki).</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x56.</dc:description>
+  <dc:description>fair condition, minor scratches, dust, fingerprints, AGFACOLOR NEG T.</dc:description>
+  <dc:identifier>: frid11216</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11041</identifier>
+    <datestamp>2014-03-19T04:34:33Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11956</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11041</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>fair condition, dust, scratches, fingerprints. AGFA S 407, AGFACOLOR B.</dc:description>
+  <dc:identifier>: frid11956</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11042</identifier>
+    <datestamp>2014-03-19T04:34:33Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11649</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11042</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda. Prospectors in the mountains of Caucases.</dc:description>
+  <dc:description>Kabarda. Geologorazvedchiki v gorah Kavkaza.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84.</dc:description>
+  <dc:description>fair condition, scratches, dust, fingerprints, torn.</dc:description>
+  <dc:identifier>: frid11649</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11043</identifier>
+    <datestamp>2014-03-19T04:34:33Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11251</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11043</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Remains, Imel.</dc:description>
+  <dc:description>Ostatki, Imel</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x56</dc:description>
+  <dc:description>good condition, dust</dc:description>
+  <dc:identifier>: frid11251</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11045</identifier>
+    <datestamp>2014-03-19T04:34:34Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11835</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11045</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84</dc:description>
+  <dc:description>fair condition, scratches, dust, torn, fingerprints</dc:description>
+  <dc:identifier>: frid11835</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11046</identifier>
+    <datestamp>2014-03-19T04:34:34Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11473</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11046</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Color, wide film, Abramtsevo museum.</dc:description>
+  <dc:description>Tsvet, shirokaia plenka, musei v Abramtsevo.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84.</dc:description>
+  <dc:description>fair condition, fingerprints, scratches, AGFACOLOR NEG T.</dc:description>
+  <dc:identifier>: frid11473</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11048</identifier>
+    <datestamp>2014-03-19T04:34:34Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11105</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11048</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Remains, sculpture (three sculpture).</dc:description>
+  <dc:description>Ostatki, skulptura (tri skulptura)</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84</dc:description>
+  <dc:description>good condition, dust, minor scratches</dc:description>
+  <dc:identifier>: frid11105</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11049</identifier>
+    <datestamp>2014-03-19T04:34:34Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid10632</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11049</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Taken at Izozi (???), Olya, 12.</dc:description>
+  <dc:description>Vzjala v Izozi, Olja, 12</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x56</dc:description>
+  <dc:description>fair condition, scratches, fingerprints</dc:description>
+  <dc:identifier>: frid10632</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11052</identifier>
+    <datestamp>2014-03-19T04:34:35Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid12083</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11052</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84</dc:description>
+  <dc:description>good condition, dust.</dc:description>
+  <dc:identifier>: frid12083</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11054</identifier>
+    <datestamp>2014-03-19T04:34:35Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11361</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11054</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>18x24, color.</dc:description>
+  <dc:description>18x24, tsvet.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust, F-KA 8.</dc:description>
+  <dc:identifier>: frid11361</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11060</identifier>
+    <datestamp>2014-03-19T04:34:35Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11543</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11060</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>&quot;Heart-to-heart talk&quot; (children), print, cut at (?).</dc:description>
+  <dc:description>&quot;Zadushevnaja beseda&quot; (deti), pechatat nadrezannii na</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust, SUPERPAN AGFA</dc:description>
+  <dc:identifier>: frid11543</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11061</identifier>
+    <datestamp>2014-03-19T04:34:36Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11957</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11061</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust, minor scratches, torn. AGFA S 407, AGFACOLOR B.</dc:description>
+  <dc:identifier>: frid11957</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11062</identifier>
+    <datestamp>2014-03-19T04:34:36Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11432</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11062</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>The city of Piatigorsk.</dc:description>
+  <dc:description>g. Pjatigorsk</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x56</dc:description>
+  <dc:description>good condition, dust</dc:description>
+  <dc:identifier>: frid11432</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11063</identifier>
+    <datestamp>2014-03-19T04:34:36Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid12144</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11063</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84</dc:description>
+  <dc:description>poor condition, fingerprints, stains</dc:description>
+  <dc:identifier>: frid12144</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11065</identifier>
+    <datestamp>2014-03-19T04:34:37Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11836</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11065</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84</dc:description>
+  <dc:description>fair condition, scratches, dust, torn, fingerprints</dc:description>
+  <dc:identifier>: frid11836</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11066</identifier>
+    <datestamp>2014-03-19T04:34:37Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11894</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11066</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda, Academy of Sciences base, equipment for scientific experiments on Elbrus is delivered on yaks.</dc:description>
+  <dc:description>Kabarda. Baza Ak. Nauk, oborudovanie dlia nauchnih rabot na Elbruse dostavliaetsia na iakah.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>fair condition, scratches, fingerprints, AGFACOLOR B, AGFA S 407.</dc:description>
+  <dc:identifier>: frid11894</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11067</identifier>
+    <datestamp>2014-03-19T04:34:37Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid10773</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11067</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Winter.</dc:description>
+  <dc:description>Zima.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x56.</dc:description>
+  <dc:description>good condition, dust.</dc:description>
+  <dc:identifier>: frid10773</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11069</identifier>
+    <datestamp>2014-03-19T04:34:37Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11650</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11069</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda. Prospectors in the mountains of Caucases.</dc:description>
+  <dc:description>Kabarda. Geologorazvedchiki v gorah Kavkaza.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84.</dc:description>
+  <dc:description>poor condition, scratches, dust, fingerprints, torn.</dc:description>
+  <dc:identifier>: frid11650</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11071</identifier>
+    <datestamp>2014-03-19T04:34:38Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11474</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11071</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Landscape near Moscow.</dc:description>
+  <dc:description>Podmoskovnii peizazh.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84.</dc:description>
+  <dc:description>fair condition, fingerprints, scratches, AGFACOLOR NEG T.</dc:description>
+  <dc:identifier>: frid11474</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11072</identifier>
+    <datestamp>2014-03-19T04:34:38Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid10976</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11072</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>&quot;Komintern&quot; kolkhoz school, education (remains), Hakasia, #72.</dc:description>
+  <dc:description>Shkola k-za &quot;Komintern&quot;, obrazovanie /ostatki/, Hakasia, #72.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, fingerprints.</dc:description>
+  <dc:identifier>: frid10976</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11073</identifier>
+    <datestamp>2014-03-19T04:34:38Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11106</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11073</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Remains, sculpture (three sculpture).</dc:description>
+  <dc:description>Ostatki, skulptura (tri skulptura)</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84</dc:description>
+  <dc:description>good condition, dust</dc:description>
+  <dc:identifier>: frid11106</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11077</identifier>
+    <datestamp>2014-03-19T04:34:39Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11873</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11077</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda. Driver.</dc:description>
+  <dc:description>Kabarda. Shoffer.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust, AGFACOLOR B, AGFA S 407.</dc:description>
+  <dc:identifier>: frid11873</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11078</identifier>
+    <datestamp>2014-03-19T04:34:39Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11315</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11078</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kuts on the running track.</dc:description>
+  <dc:description>Kuts na begovoi dorozhke.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, torn.</dc:description>
+  <dc:identifier>: frid11315</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11079</identifier>
+    <datestamp>2014-03-19T04:34:39Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid12048</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11079</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda. Kabardinskiy theater.</dc:description>
+  <dc:description>Kabarda. Kabardinskii teatr</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust, fingerprints, 156 F-KA 3</dc:description>
+  <dc:identifier>: frid12048</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11081</identifier>
+    <datestamp>2014-03-19T04:34:40Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid10675</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11081</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Batumi, ship is coming.</dc:description>
+  <dc:description>Batumi, podhodit teplohod</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust, minor scratches, AGFACOLOR B, 928003</dc:description>
+  <dc:identifier>: frid10675</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11083</identifier>
+    <datestamp>2014-03-19T04:34:40Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11544</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11083</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>&quot;Heart-to-heart talk&quot; (children), print, cut at (?).</dc:description>
+  <dc:description>&quot;Zadushevnaja beseda&quot; (deti), pechatat nadrezannii na</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>fair condition, torn, scratches, dust, fingerprints, AGFA S 328, AGFACOLOR B</dc:description>
+  <dc:identifier>: frid11544</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11085</identifier>
+    <datestamp>2014-03-19T04:34:40Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11698</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11085</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84</dc:description>
+  <dc:description>poor condition, dust, scratches, stains</dc:description>
+  <dc:identifier>: frid11698</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11086</identifier>
+    <datestamp>2014-03-19T04:34:40Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11958</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11086</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>fair condition, fingerprint, dust, minor scratches, torn. AGFA S 407, AGFACOLOR B.</dc:description>
+  <dc:identifier>: frid11958</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11087</identifier>
+    <datestamp>2014-03-19T04:34:41Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid10905</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11087</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x56</dc:description>
+  <dc:description>good condition, dust</dc:description>
+  <dc:identifier>: frid10905</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11090</identifier>
+    <datestamp>2014-03-19T04:34:41Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid12145</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11090</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84</dc:description>
+  <dc:description>good condition, dust</dc:description>
+  <dc:identifier>: frid12145</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11091</identifier>
+    <datestamp>2014-03-19T04:34:41Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11837</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11091</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda. The city of Nalchik, at the park.</dc:description>
+  <dc:description>Kabarda. g. Nalchik, v parke</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84</dc:description>
+  <dc:description>good condition, minor scratches, dust, torn</dc:description>
+  <dc:identifier>: frid11837</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11092</identifier>
+    <datestamp>2014-03-19T04:34:42Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11011</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11092</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Balhash, copper moulding.</dc:description>
+  <dc:description>Balhash, litie medi.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>fair condition, fingerprints, minor scratches, dust, 7780.</dc:description>
+  <dc:identifier>: frid11011</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11093</identifier>
+    <datestamp>2014-03-19T04:34:42Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11651</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11093</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda. Terek canyon.</dc:description>
+  <dc:description>Kabarda. Terekskoe uzhelie.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84.</dc:description>
+  <dc:description>good condition, dust, torn.</dc:description>
+  <dc:identifier>: frid11651</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11094</identifier>
+    <datestamp>2014-03-19T04:34:42Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid10977</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11094</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>&quot;Komintern&quot; kolkhoz school, education (remains), Hakasia, #72.</dc:description>
+  <dc:description>Shkola k-za &quot;Komintern&quot;, obrazovanie /ostatki/, Hakasia, #72.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, fingerprints.</dc:description>
+  <dc:identifier>: frid10977</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11098</identifier>
+    <datestamp>2014-03-19T04:34:43Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11362</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11098</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>18x24, color.</dc:description>
+  <dc:description>18x24, tsvet.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust, F-Ka 8.</dc:description>
+  <dc:identifier>: frid11362</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11099</identifier>
+    <datestamp>2014-03-19T04:34:43Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11217</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11099</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>(Observatory, remains).</dc:description>
+  <dc:description>(Observatoria, ostatki).</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x56.</dc:description>
+  <dc:description>fair condition, scratches, dust, fingerprints, AGFACOLOR NEG T.</dc:description>
+  <dc:identifier>: frid11217</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11100</identifier>
+    <datestamp>2014-03-19T04:34:43Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid10774</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11100</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Winter.</dc:description>
+  <dc:description>Zima.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x56.</dc:description>
+  <dc:description>good condition, minor scratches, dust.</dc:description>
+  <dc:identifier>: frid10774</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11102</identifier>
+    <datestamp>2014-03-19T04:34:44Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11475</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11102</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Color, wide film, near Moscow, Suhanovo, 4.</dc:description>
+  <dc:description>Tsvet, shirokaia plenka, podmoskovie, Suhanovo, 4.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84</dc:description>
+  <dc:description>good condition, minor scratches, AGFACOLOR NEG T</dc:description>
+  <dc:identifier>: frid11475</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11103</identifier>
+    <datestamp>2014-03-19T04:34:44Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid10829</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11103</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Oksana skiing.</dc:description>
+  <dc:description>Oksana na lizhah</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x56</dc:description>
+  <dc:description>good condition, dust</dc:description>
+  <dc:identifier>: frid10829</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11104</identifier>
+    <datestamp>2014-03-19T04:34:44Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11316</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11104</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kuts on the running track.</dc:description>
+  <dc:description>Kuts na begovoi dorozhke.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition.</dc:description>
+  <dc:identifier>: frid11316</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11105</identifier>
+    <datestamp>2014-03-19T04:34:44Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11276</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11105</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Remains, Imel.</dc:description>
+  <dc:description>Ostatki, Imel</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust</dc:description>
+  <dc:identifier>: frid11276</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11107</identifier>
+    <datestamp>2014-03-19T04:34:45Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11107</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11107</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Remains, sculpture (three sculpture).</dc:description>
+  <dc:description>Ostatki, skulptura (tri skulptura)</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84</dc:description>
+  <dc:description>good condition, dust</dc:description>
+  <dc:identifier>: frid11107</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11108</identifier>
+    <datestamp>2014-03-19T04:34:45Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid10937</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11108</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Trehgorki,... specimens of new fabrics, colorist (on the left) P.A. Salamatin, colorist L.V.Fidelman, artist M.Dubrovskaja, #6.</dc:description>
+  <dc:description>Trehgorki, ... obraztsov novih tkanei, kolorist (sleva), P. A. Salamatin, kolorist L. V. Fideman, hudozhnitsa M. Dubrovskaja, #6</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x56</dc:description>
+  <dc:description>fair condition, scratches, fingerprints, dust, torn</dc:description>
+  <dc:identifier>: frid10937</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11109</identifier>
+    <datestamp>2014-03-19T04:34:45Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11699</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11109</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84</dc:description>
+  <dc:description>poor condition, dust, scratches</dc:description>
+  <dc:identifier>: frid11699</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11110</identifier>
+    <datestamp>2014-03-19T04:34:46Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid12049</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11110</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust, fingerprints, 376 AGFACOLOR B</dc:description>
+  <dc:identifier>: frid12049</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11112</identifier>
+    <datestamp>2014-03-19T04:34:46Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11987</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11112</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>fair condition, scratches, dust, torn. AGFA S 407, AGFACOLOR B, 231197.</dc:description>
+  <dc:identifier>: frid11987</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11114</identifier>
+    <datestamp>2014-03-19T04:34:46Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid10707</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11114</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Michurinsk, remains.</dc:description>
+  <dc:description>Michurinsk, ostatki.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust, fingerprint, AGFA SUPERPAN.</dc:description>
+  <dc:identifier>: frid10707</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11115</identifier>
+    <datestamp>2014-03-19T04:34:47Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11959</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11115</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust, minor scratches. AGFA S 407, AGFACOLOR B.</dc:description>
+  <dc:identifier>: frid11959</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11117</identifier>
+    <datestamp>2014-03-19T04:34:47Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11012</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11117</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>The birth of a new city, Abakan, the center of Hakasskaia Autonomous Region, 19 negatives, Hakassia (Siberia): Hakassia, Krasnoiarskii region, at a kolkhoz.</dc:description>
+  <dc:description>Rozhdenie novogo goroda, g. Abakan, tsentr Hakasskoi Avtonomnoi oblasti, 19 negativov, Hakassija (Sibir): Hakassija, Krasnojarskii krai, v kolhoze</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition</dc:description>
+  <dc:identifier>: frid11012</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11118</identifier>
+    <datestamp>2014-03-19T04:34:47Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid10906</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11118</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x56</dc:description>
+  <dc:description>good condition, scratches, dust</dc:description>
+  <dc:identifier>: frid10906</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11119</identifier>
+    <datestamp>2014-03-19T04:34:47Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11652</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11119</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda. Terek canyon.</dc:description>
+  <dc:description>Kabarda. Terekskoe uzhelie.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84.</dc:description>
+  <dc:description>good condition, torn, dust.</dc:description>
+  <dc:identifier>: frid11652</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11120</identifier>
+    <datestamp>2014-03-19T04:34:48Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid10978</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11120</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Akun (remains), 25, 18x24, 1, 9x12, 2414, returned.</dc:description>
+  <dc:description>Akun (ostatki), 25, 18x24, 1, 9x12, 2414, vozvrat.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust.</dc:description>
+  <dc:identifier>: frid10978</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11122</identifier>
+    <datestamp>2014-03-19T04:34:48Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11318</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11122</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Dnepr, Kiev, destruction on Krezhatik.</dc:description>
+  <dc:description>Dnepr, Kiev, razrusheniya na Krezhatike.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, fingerprints, AGFA 104.</dc:description>
+  <dc:identifier>: frid11318</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11125</identifier>
+    <datestamp>2014-03-19T04:34:48Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11363</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11125</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>18x24, color.</dc:description>
+  <dc:description>18x24, tsvet.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust, minor scratches, torn, F-KA 8.</dc:description>
+  <dc:identifier>: frid11363</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11128</identifier>
+    <datestamp>2014-03-19T04:34:49Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid10676</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11128</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Trehgorka, warper V.S. Zaitseva, plan (120-130%), #11.</dc:description>
+  <dc:description>Trehgorka, snavalshitsa V. S. Zaitseva plan (120-130%) #11</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust, minor scratches, torn, fingerprints, FABRIKA 3</dc:description>
+  <dc:identifier>: frid10676</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11129</identifier>
+    <datestamp>2014-03-19T04:34:49Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid10830</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11129</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Oksana skiing.</dc:description>
+  <dc:description>Oksana na lizhah</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x56</dc:description>
+  <dc:description>good condition, dust</dc:description>
+  <dc:identifier>: frid10830</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11130</identifier>
+    <datestamp>2014-03-19T04:34:49Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11476</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11130</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x56.</dc:description>
+  <dc:description>good condition, dust, torn.</dc:description>
+  <dc:identifier>: frid11476</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11131</identifier>
+    <datestamp>2014-03-19T04:34:49Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11895</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11131</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda, Academy of Sciences base, equipment for scientific experiments on Elbrus is delivered on yaks.</dc:description>
+  <dc:description>Kabarda. Baza Ak. Nauk, oborudovanie dlia nauchnih rabot na Elbruse dostavliaetsia na iakah.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>fair condition, scratches, fingerprints, AGFACOLOR B, AGFA S 407.</dc:description>
+  <dc:identifier>: frid11895</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11132</identifier>
+    <datestamp>2014-03-19T04:34:50Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11545</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11132</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>&quot;Heart-to-heart talk&quot; (children), print, cut at (?).</dc:description>
+  <dc:description>&quot;Zadushevnaja beseda&quot; (deti), pechatat nadrezannii na</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>fair condition, scratches, dust, fingerprints, AGFA S 328, AGFACOLOR B</dc:description>
+  <dc:identifier>: frid11545</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11136</identifier>
+    <datestamp>2014-03-19T04:34:50Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid12050</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11136</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust, torn, 376 AGFACOLOR B</dc:description>
+  <dc:identifier>: frid12050</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11139</identifier>
+    <datestamp>2014-03-19T04:34:50Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11988</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11139</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>fair condition, scratches, dust. AGFA S 407, AGFACOLOR B, 231197.</dc:description>
+  <dc:identifier>: frid11988</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11140</identifier>
+    <datestamp>2014-03-19T04:34:51Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11700</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11140</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda. On the highland pastures.</dc:description>
+  <dc:description>Kabarda. Na visokogornih psatbishchah</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84</dc:description>
+  <dc:description>good condition, dust, minor scratches</dc:description>
+  <dc:identifier>: frid11700</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11141</identifier>
+    <datestamp>2014-03-19T04:34:51Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid12084</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11141</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84</dc:description>
+  <dc:description>good condition, dust, torn.</dc:description>
+  <dc:identifier>: frid12084</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11143</identifier>
+    <datestamp>2014-03-19T04:34:51Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11960</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11143</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust, minor scratches. AGFA S 407, AGFACOLOR B.</dc:description>
+  <dc:identifier>: frid11960</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11145</identifier>
+    <datestamp>2014-03-19T04:34:52Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11108</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11145</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Remains, sculpture (three sculpture).</dc:description>
+  <dc:description>Ostatki, skulptura (tri skulptura)</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84</dc:description>
+  <dc:description>good condition, dust</dc:description>
+  <dc:identifier>: frid11108</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11146</identifier>
+    <datestamp>2014-03-19T04:34:52Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid10938</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11146</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84.</dc:description>
+  <dc:description>good condition, minor scratches, dust, stain.</dc:description>
+  <dc:identifier>: frid10938</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11147</identifier>
+    <datestamp>2014-03-19T04:34:52Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11013</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11147</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>The birth of a new city, Abakan, the center of Hakasskaia Autonomous Region, 19 negatives, Hakassia (Siberia): Hakassia, Krasnoiarskii region, at a kolkhoz.</dc:description>
+  <dc:description>Rozhdenie novogo goroda, g. Abakan, tsentr Hakasskoi Avtonomnoi oblasti, 19 negativov, Hakassija (Sibir): Hakassija, Krasnojarskii krai, v kolhoze</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>fair condition, fingerprints, scratches</dc:description>
+  <dc:identifier>: frid11013</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11150</identifier>
+    <datestamp>2014-03-19T04:34:52Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid10775</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11150</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Winter.</dc:description>
+  <dc:description>Zima.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x56.</dc:description>
+  <dc:description>good condition, minor scratches, dust.</dc:description>
+  <dc:identifier>: frid10775</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11151</identifier>
+    <datestamp>2014-03-19T04:34:53Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid10979</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11151</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Akun (remains), 25, 18x24, 1, 9x12, 2414, returned.</dc:description>
+  <dc:description>Akun (ostatki), 25, 18x24, 1, 9x12, 2414, vozvrat.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust.</dc:description>
+  <dc:identifier>: frid10979</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11153</identifier>
+    <datestamp>2014-03-19T04:34:53Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid12146</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11153</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84</dc:description>
+  <dc:description>good condition, minor scratches</dc:description>
+  <dc:identifier>: frid12146</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11154</identifier>
+    <datestamp>2014-03-19T04:34:53Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11653</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11154</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda. Prospectors in the mountains of Caucases.</dc:description>
+  <dc:description>Kabarda. Georazvedchiki v gorah Kavkaza.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84.</dc:description>
+  <dc:description>poor condition, scratches, fingerprints, dust, torn.</dc:description>
+  <dc:identifier>: frid11653</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11155</identifier>
+    <datestamp>2014-03-19T04:34:54Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11838</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11155</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84</dc:description>
+  <dc:description>good condition, minor scratches, dust</dc:description>
+  <dc:identifier>: frid11838</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11157</identifier>
+    <datestamp>2014-03-19T04:34:54Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11319</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11157</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Child&apos;s head.</dc:description>
+  <dc:description>Detskaia golovka.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>fair condition, fingerprints, torn, ink, X743301.</dc:description>
+  <dc:identifier>: frid11319</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11158</identifier>
+    <datestamp>2014-03-19T04:34:54Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11364</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11158</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Far North, Pechorskaia railway, 18x24.</dc:description>
+  <dc:description>Krainii sever, Pechorskaia zh/d, 18x24.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84.</dc:description>
+  <dc:description>fair condition, dust, scratches, fingerprints, torn.</dc:description>
+  <dc:identifier>: frid11364</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11159</identifier>
+    <datestamp>2014-03-19T04:34:55Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11572</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11159</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Color, Novosibirskaia region, school garden of young nature-lovers of N. Chemskaia grade school in Ogurtsovo village.</dc:description>
+  <dc:description>Tsvet, Novosibirskaja oblast, shkolnii uchastok junnatov N. Chemskoi srednoi shkoli v sele Ogurtsovo</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>poor condition, scratches, dust, AGFACOLOR B</dc:description>
+  <dc:identifier>: frid11572</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11161</identifier>
+    <datestamp>2014-03-19T04:34:55Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11546</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11161</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>&quot;Heart-to-heart talk&quot; (children), print, cut at (?).</dc:description>
+  <dc:description>&quot;Zadushevnaja beseda&quot; (deti), pechatat nadrezannii na</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>fair condition, scratches, dust, fingerprints, AGFA S 328, AGFACOLOR B</dc:description>
+  <dc:identifier>: frid11546</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11162</identifier>
+    <datestamp>2014-03-19T04:34:55Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid12051</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11162</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda. State Kabardinskiy theater, actress... in the play &quot;Tomashi family&quot;.</dc:description>
+  <dc:description>Kabarda. Gos. Kabardinskii teatr, aktrisa... v piese &quot;Semja Tomashi&quot;</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust, minor scratches, torn, 156 F-KA 3</dc:description>
+  <dc:identifier>: frid12051</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11164</identifier>
+    <datestamp>2014-03-19T04:34:56Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11989</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11164</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>fair condition, scratches, dust, torn. AGFA S 407, AGFACOLOR B, 231197.</dc:description>
+  <dc:identifier>: frid11989</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11165</identifier>
+    <datestamp>2014-03-19T04:34:56Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid12085</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11165</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84</dc:description>
+  <dc:description>good condition, dust.</dc:description>
+  <dc:identifier>: frid12085</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11167</identifier>
+    <datestamp>2014-03-19T04:34:56Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11701</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11167</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda. On the highland pastures.</dc:description>
+  <dc:description>Kabarda. Na visokogornih psatbishchah</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84</dc:description>
+  <dc:description>good condition, dust, scratches, torn</dc:description>
+  <dc:identifier>: frid11701</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11169</identifier>
+    <datestamp>2014-03-19T04:34:57Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11961</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11169</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust, minor scratches, torn. AGFA S 407, AGFACOLOR B.</dc:description>
+  <dc:identifier>: frid11961</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11171</identifier>
+    <datestamp>2014-03-19T04:34:57Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11277</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11171</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Remains, Imel.</dc:description>
+  <dc:description>Ostatki, Imel</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>good condition, dust</dc:description>
+  <dc:identifier>: frid11277</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11174</identifier>
+    <datestamp>2014-03-19T04:34:57Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11109</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11174</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Remains, sculpture (three sculpture).</dc:description>
+  <dc:description>Ostatki, skulptura (tri skulptura)</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84</dc:description>
+  <dc:description>good condition, dust</dc:description>
+  <dc:identifier>: frid11109</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11176</identifier>
+    <datestamp>2014-03-19T04:34:58Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11654</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11176</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda. Prospectors in the mountains of Caucases.</dc:description>
+  <dc:description>Kabarda. Georazvedchiki v gorah Kavkaza.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84.</dc:description>
+  <dc:description>poor condition, scratches, fingerprints, dust.</dc:description>
+  <dc:identifier>: frid11654</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11178</identifier>
+    <datestamp>2014-03-19T04:34:58Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid12147</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11178</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda.</dc:description>
+  <dc:description>Kabarda.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84</dc:description>
+  <dc:description>good condition, dust</dc:description>
+  <dc:identifier>: frid12147</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11181</identifier>
+    <datestamp>2014-03-19T04:34:58Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11598</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11181</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>Kabarda, Blue lake.</dc:description>
+  <dc:description>Kabarda. Goluboe ozero.</dc:description>
+  <dc:format>35mm</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description></dc:description>
+  <dc:description>fair condition, scratches, dust. GFA S, AGFACOLOR B.</dc:description>
+  <dc:identifier>: frid11598</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_11183</identifier>
+    <datestamp>2014-03-19T04:34:58Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>frid11365</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:identifier>http://hdl.handle.net/10176/codu:11183</dc:identifier>
+  <dc:date></dc:date>
+  <dc:description>North - Uhta, oil well construction in Pechorskaia taiga, 16, color.</dc:description>
+  <dc:description>Sever - Uhta, str-vo nefteskvazhini v Pechorskoii taige, 16, tsvet.</dc:description>
+  <dc:format>120</dc:format>
+  <dc:format>negative (photographic)</dc:format>
+  <dc:description>56x84.</dc:description>
+  <dc:description>fair condition, dust, scratches.</dc:description>
+  <dc:identifier>: frid11365</dc:identifier>
+  <dc:type>StillImage</dc:type>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

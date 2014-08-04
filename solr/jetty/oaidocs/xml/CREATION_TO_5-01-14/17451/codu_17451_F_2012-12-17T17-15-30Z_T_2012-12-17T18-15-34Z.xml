@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T05:17:32Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64474</identifier>
+    <datestamp>2012-12-17T17:45:09Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Unidentified Room at the Jewish Consumptives&apos; Relief Society</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>I. Rude Medical Building (Spivak, Colo.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Buildings</dc:subject>
+  <dc:subject>Dental instruments and apparatus</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Interior views</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Edgewater (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Spivak (Colo.)</dc:subject>
+  <dc:subject>Sanatorium (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#453 JCRS Buildings, #453 JCRS Physical Plant&apos;&apos;. On back of photograph: &apos;&apos;#453  JCRS Possibly I. Rude Building  Dentist Office (?) - 1920s&apos;&apos;.</dc:description>
+  <dc:description>Interior of an unidentified room, possibly in the I. Rude Medical Building, on the campus of the Jewish Consumptives&apos; Relief Society (JCRS). The JCRS was a sanatorium for tuberculosis patients that was founded in 1904 by a group of immigrant Jewish workingmen along with the support of several leading physicians and rabbis in Denver, Colorado. The sanatorium was located on West Colfax Avenue just outside of Denver.</dc:description>
+  <dc:description>Accession # 1271, Donated by AMC Cancer Research Center as part of the JCRS Records.</dc:description>
+  <dc:description>ph453</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1920-1930</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>B063.03.0003.00092</dc:identifier>
+  <dc:identifier>codu:64474</dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_64701</identifier>
+    <datestamp>2012-12-17T17:45:12Z</datestamp>
+    <setSpec>codu_32551</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Portrait of Nathaniel Goldstein</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Greystone Studio</dc:creator>
+  <dc:subject>Goldstein, Nathaniel L.</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>American Medical Center (Denver, Colo.)</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Tuberculosis</dc:subject>
+  <dc:subject>Hospitals</dc:subject>
+  <dc:subject>Sanatoriums</dc:subject>
+  <dc:subject>Men</dc:subject>
+  <dc:subject>Charities</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colfax Avenue (Denver, Colo.)</dc:subject>
+  <dc:subject>West Colfax (Denver, Colo.)</dc:subject>
+  <dc:subject>Spivak (Colo.)</dc:subject>
+  <dc:description>Title supplied by archivist.</dc:description>
+  <dc:description>Handwritten on envelope: &apos;&apos;#457 JCRS Personalities&apos;&apos;. On back of photograph: &apos;&apos;#457 JCRS  Nathaniel Goldstein  Attorney General  State of New York  1951&apos;&apos;.</dc:description>
+  <dc:description>Nathaniel Goldstein, Attorney General for the State of New York from 1943 to 1954. Goldstein was a personality and supporter of the Jewish Consumptives&apos; Relief Society (JCRS). The JCRS was a sanatorium for tuberculosis patients that was founded in 1904 by a group of immigrant Jewish workingmen along with the support of several leading physicians and rabbis in Denver, Colorado. The sanatorium was located on West Colfax Avenue just outside of Denver.</dc:description>
+  <dc:description>Accession # 1271, Donated by AMC Cancer Research Center as part of the JCRS Records.</dc:description>
+  <dc:description>ph457</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>circa 1951</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item (photograph), 10 x 8 inches, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>B063.03.0035.00027</dc:identifier>
+  <dc:identifier>codu:64701</dc:identifier>
+  <dc:language></dc:language>
+  <dc:relation>Beck Archives Photograph Collection, Health Care and Philanthropy</dc:relation>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

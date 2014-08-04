@@ -1,0 +1,3704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T04:14:40Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38495</identifier>
+    <datestamp>2012-03-19T15:56:54Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver 1979 Gymnastics</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s gymnastics</dc:subject>
+  <dc:subject>Gymnastics</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Gymnasts</dc:subject>
+  <dc:subject>Gymnastics coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1979 University of Denver (DU) Pioneers women&apos;s gymnastics information guide featuring team roster, coaching staff, individual player information, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1979</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 16 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0025.00016</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38495</dc:identifier>
+  <dc:identifier>codu:38495</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38160</identifier>
+    <datestamp>2012-03-19T15:56:13Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Hockey 1996-97 Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:subject>Hockey coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1996-1997 University of Denver (DU) Pioneers men&apos;s ice hockey information guide featuring team roster, coaching staff, individual player profiles, statistics, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1996-1997</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 88 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0026.00054</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38160</dc:identifier>
+  <dc:identifier>codu:38160</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38419</identifier>
+    <datestamp>2012-03-19T15:56:16Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver 1991-92 Women&apos;s Basketball Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s basketball</dc:subject>
+  <dc:subject>Basketball</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Statistics</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Basketball players</dc:subject>
+  <dc:subject>Basketball coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1991-1992 University of Denver (DU) Pioneers women&apos;s basketball media guide featuring team rosters, coaching staff, individual player information, and schedules.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1991-1992</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 32 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0024.00126</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38419</dc:identifier>
+  <dc:identifier>codu:38419</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38116</identifier>
+    <datestamp>2012-03-19T15:53:15Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Ice Hockey &apos;80-81 Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:subject>Hockey coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1980-1981 University of Denver (DU) Pioneers men&apos;s ice hockey information guide featuring team roster, coaching staff, individual player profiles, statistics, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1980-1981</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 28 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0026.00012</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38116</dc:identifier>
+  <dc:identifier>codu:38116</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38322</identifier>
+    <datestamp>2012-03-19T15:53:35Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Volleyball 1996 Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s volleyball</dc:subject>
+  <dc:subject>Volleyball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Volleyball players</dc:subject>
+  <dc:subject>Volleyball coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1996 University of Denver (DU) Pioneers women&apos;s volleyball information guide featuring team rosters, coaching staff, individual player profiles, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1996</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 36 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0027.00092</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38322</dc:identifier>
+  <dc:identifier>codu:38322</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38051</identifier>
+    <datestamp>2012-03-19T15:53:41Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver 1991 Women&apos;s Gymnastics Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s gymnastics</dc:subject>
+  <dc:subject>Gymnastics</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Gymnasts</dc:subject>
+  <dc:subject>Gymnastics coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1991 University of Denver (DU) Pioneers women&apos;s gymnastics information guide featuring team roster, coaching staff, individual player information, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1991</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 32 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0025.00024</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38051</dc:identifier>
+  <dc:identifier>codu:38051</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38067</identifier>
+    <datestamp>2012-03-19T15:55:48Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver 1997 Soccer Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s soccer</dc:subject>
+  <dc:subject>Soccer</dc:subject>
+  <dc:subject>Women&apos;s soccer</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Soccer players</dc:subject>
+  <dc:subject>Soccer coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1997 University of Denver (DU) Pioneers men&apos;s and women&apos;s soccer information guide featuring team rosters, coaching staff, individual athlete profiles, statistics, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1997</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 32 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0027.00030</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38067</dc:identifier>
+  <dc:identifier>codu:38067</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38095</identifier>
+    <datestamp>2012-03-19T15:55:51Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>DU Baseball 1980</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s baseball</dc:subject>
+  <dc:subject>Baseball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Statistics</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Baseball players</dc:subject>
+  <dc:subject>Baseball coaches</dc:subject>
+  <dc:subject>Athletic directors</dc:subject>
+  <dc:subject>College administrators</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1980 University of Denver (DU) Pioneers men&apos;s baseball guide featuring team roster, coaching staff, statistics, and schedules.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1980</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 20 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0024.00008</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38095</dc:identifier>
+  <dc:identifier>codu:38095</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38342</identifier>
+    <datestamp>2012-03-19T15:54:00Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>1972-73 University of Denver Basketball</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s basketball</dc:subject>
+  <dc:subject>Basketball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Statistics</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Basketball players</dc:subject>
+  <dc:subject>Basketball coaches</dc:subject>
+  <dc:subject>Athletic directors</dc:subject>
+  <dc:subject>College administrators</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1972-1973 University of Denver (DU) Pioneers men&apos;s basketball media guide featuring team rosters, coaching staff, statistics, and schedules.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1972-1973</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 4 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0024.00030</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38342</dc:identifier>
+  <dc:identifier>codu:38342</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38416</identifier>
+    <datestamp>2012-03-19T15:54:32Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>DU Pioneers Women&apos;s Basketball 1987-88</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s basketball</dc:subject>
+  <dc:subject>Basketball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Statistics</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Basketball players</dc:subject>
+  <dc:subject>Basketball coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1987-1988 University of Denver (DU) Pioneers women&apos;s basketball media guide featuring team roster, coaching staff, individual player information, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1987-1988</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (leaflet),</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Leaflets</dc:format>
+  <dc:identifier>U300.05.0024.00075</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38416</dc:identifier>
+  <dc:identifier>codu:38416</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38087</identifier>
+    <datestamp>2012-03-19T15:54:19Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>D.U. Women&apos;s Basketball 1983-1984</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s basketball</dc:subject>
+  <dc:subject>Basketball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Statistics</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Basketball players</dc:subject>
+  <dc:subject>Basketball coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1983-1984 University of Denver (DU) Pioneers women&apos;s basketball media guide featuring team roster, coaching staff, individual player information, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1983-1984</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 4 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0024.00072</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38087</dc:identifier>
+  <dc:identifier>codu:38087</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38499</identifier>
+    <datestamp>2012-03-19T15:55:45Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Tennis 1997 Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s tennis</dc:subject>
+  <dc:subject>Tennis</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Tennis players</dc:subject>
+  <dc:subject>Tennis coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1996-1997 University of Denver (DU) Pioneers women&apos;s tennis information guide featuring team rosters, coaching staff, individual athlete profiles, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1996-1997</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 12 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0027.00074</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38499</dc:identifier>
+  <dc:identifier>codu:38499</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38298</identifier>
+    <datestamp>2012-03-19T15:56:10Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>DU Pioneers University of Denver 1978-79 Basketball</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s basketball</dc:subject>
+  <dc:subject>Basketball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Statistics</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Basketball players</dc:subject>
+  <dc:subject>Basketball coaches</dc:subject>
+  <dc:subject>Athletic directors</dc:subject>
+  <dc:subject>College administrators</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1978-1979 University of Denver (DU) Pioneers men&apos;s basketball media guide featuring team rosters, coaching staff, statistics, and schedules.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1978-1979</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 28 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0024.00038</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38298</dc:identifier>
+  <dc:identifier>codu:38298</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38196</identifier>
+    <datestamp>2012-03-19T15:55:57Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Denver Pioneers 2001-02 Women&apos;s Golf Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s golf</dc:subject>
+  <dc:subject>Golf</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Golfers</dc:subject>
+  <dc:subject>Golf coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2001-2002 University of Denver (DU) Pioneers women&apos;s golf information guide featuring team roster, coaching staff, individual player information, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2001-2002</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 16 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0025.00011</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38196</dc:identifier>
+  <dc:identifier>codu:38196</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38117</identifier>
+    <datestamp>2012-03-19T15:56:01Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Denver Pioneers 2002 Women&apos;s Lacrosse Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s lacrosse</dc:subject>
+  <dc:subject>Lacrosse</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Lacrosse players</dc:subject>
+  <dc:subject>Lacrosse coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2002 University of Denver (DU) Pioneers women&apos;s lacrosse information guide featuring team roster, coaching staff, individual player profiles, statistics, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2002</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 24 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0027.00013</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38117</dc:identifier>
+  <dc:identifier>codu:38117</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38502</identifier>
+    <datestamp>2012-03-19T15:53:55Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Denver Pioneers University of Denver Women&apos;s Volleyball 1984-1985</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s volleyball</dc:subject>
+  <dc:subject>Volleyball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Volleyball players</dc:subject>
+  <dc:subject>Volleyball coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1984-1985 University of Denver (DU) Pioneers women&apos;s volleyball information guide featuring team rosters, coaching staff, individual player profiles, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1984-1985</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (leaflet),</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Leaflets</dc:format>
+  <dc:identifier>U300.05.0027.00083</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38502</dc:identifier>
+  <dc:identifier>codu:38502</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38218</identifier>
+    <datestamp>2012-03-19T15:56:23Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Pioneers 2005-06 DU Hockey. Back-to-Back National Champions.</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:subject>Hockey coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2005-2006 University of Denver (DU) Pioneers men&apos;s ice hockey information guide featuring team roster, coaching staff, individual player profiles, statistics, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2005-2006</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 140 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0026.00071</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38218</dc:identifier>
+  <dc:identifier>codu:38218</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38389</identifier>
+    <datestamp>2012-03-19T15:56:26Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver 1993-94 Hockey Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:subject>Hockey coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1993-1994 University of Denver (DU) Pioneers men&apos;s ice hockey information guide featuring team roster, coaching staff, individual player profiles, statistics, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1993-1994</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 92 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0026.00049</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38389</dc:identifier>
+  <dc:identifier>codu:38389</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38085</identifier>
+    <datestamp>2012-03-19T15:54:42Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver 1998-99 Swimming and Diving Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s swimming</dc:subject>
+  <dc:subject>Women&apos;s swimming</dc:subject>
+  <dc:subject>Swimming</dc:subject>
+  <dc:subject>Diving</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Swimmers</dc:subject>
+  <dc:subject>Divers</dc:subject>
+  <dc:subject>Swimming coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1998-1999 University of Denver (DU) Pioneers men&apos;s and women&apos;s swimming and diving information guide featuring team rosters, coaching staff, individual swimmer and diver profiles, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1998-1999</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 20 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0027.00054</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38085</dc:identifier>
+  <dc:identifier>codu:38085</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38399</identifier>
+    <datestamp>2012-03-19T15:54:59Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Pioneers 2004 Women&apos;s Golf Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s golf</dc:subject>
+  <dc:subject>Golf</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Golfers</dc:subject>
+  <dc:subject>Golf coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2004 University of Denver (DU) Pioneers women&apos;s golf information guide featuring team roster, coaching staff, individual player information, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2004</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 16 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0025.00013</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38399</dc:identifier>
+  <dc:identifier>codu:38399</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38468</identifier>
+    <datestamp>2012-03-19T15:53:31Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver 1995 Baseball Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s baseball</dc:subject>
+  <dc:subject>Baseball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Statistics</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Baseball players</dc:subject>
+  <dc:subject>Baseball coaches</dc:subject>
+  <dc:subject>Athletic directors</dc:subject>
+  <dc:subject>College administrators</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1995 University of Denver (DU) Pioneers men&apos;s baseball guide featuring team roster, coaching staff, statistics, and schedules.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1995</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 36 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0024.00022</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38468</dc:identifier>
+  <dc:identifier>codu:38468</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38081</identifier>
+    <datestamp>2012-03-19T15:53:28Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver 1969-70 Gymnastics</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s gymnastics</dc:subject>
+  <dc:subject>Gymnastics</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Gymnasts</dc:subject>
+  <dc:subject>Gymnastics coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1969-1970 University of Denver (DU) Pioneers men&apos;s gymnastics information guide featuring team roster, coaching staff, individual player information, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1969-1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (leaflet),</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Leaflets</dc:format>
+  <dc:identifier>U300.05.0025.00086</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38081</dc:identifier>
+  <dc:identifier>codu:38081</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38185</identifier>
+    <datestamp>2012-03-19T15:55:03Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver 1994 Soccer Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s soccer</dc:subject>
+  <dc:subject>Women&apos;s soccer</dc:subject>
+  <dc:subject>Soccer</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Soccer players</dc:subject>
+  <dc:subject>Soccer coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1994 University of Denver (DU) Pioneers men&apos;s and women&apos;s soccer information guide featuring team rosters, coaching staff, individual athlete profiles, statistics, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1994</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 20 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0027.00027</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38185</dc:identifier>
+  <dc:identifier>codu:38185</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38221</identifier>
+    <datestamp>2012-03-19T15:54:36Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver 1994-95 Skiing Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Alpine skiing</dc:subject>
+  <dc:subject>Nordic skiing</dc:subject>
+  <dc:subject>Skiing</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Skiers</dc:subject>
+  <dc:subject>Skiing coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1994-1995 University of Denver (DU) Pioneers skiing information guide featuring men&apos;s and women&apos;s alpine, and men&apos;s and women&apos;s nordic team rosters, coaching staff, individual athlete profiles, statistics, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1994-1995</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 28 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0027.00018</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38221</dc:identifier>
+  <dc:identifier>codu:38221</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38259</identifier>
+    <datestamp>2012-03-19T15:54:39Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Pioneers 2003 Women&apos;s Soccer Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s soccer</dc:subject>
+  <dc:subject>Soccer</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Soccer players</dc:subject>
+  <dc:subject>Soccer coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2003 University of Denver (DU) Pioneers women&apos;s soccer information guide featuring team rosters, coaching staff, individual athlete profiles, statistics, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2003</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 28 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0027.00042</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38259</dc:identifier>
+  <dc:identifier>codu:38259</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38439</identifier>
+    <datestamp>2012-03-19T15:56:29Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Intermountain Swimming League Champions Denver Swimming 1973-74</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s swimming</dc:subject>
+  <dc:subject>Swimming</dc:subject>
+  <dc:subject>Diving</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Swimmers</dc:subject>
+  <dc:subject>Divers</dc:subject>
+  <dc:subject>Swimming coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1973-1974 University of Denver (DU) Pioneers swimming recruitment information guide featuring coaching staff, records and statistics of the Universit of Denver (DU) Pioneers swim teams, and an outlook for the upcoming season.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1973-1974</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (leaflet),</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Leaflets</dc:format>
+  <dc:identifier>U300.05.0027.00106</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38439</dc:identifier>
+  <dc:identifier>codu:38439</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38254</identifier>
+    <datestamp>2012-03-19T15:56:35Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>2006-07 Pioneer Men&apos;s Basketball Denver</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s basketball</dc:subject>
+  <dc:subject>Basketball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Statistics</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Basketball players</dc:subject>
+  <dc:subject>Basketball coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2006-2007 University of Denver (DU) Pioneers men&apos;s basketball media guide featuring team rosters, coaching staff, individual player information, statistics, and schedules.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2006-2007</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 108 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0024.00066</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38254</dc:identifier>
+  <dc:identifier>codu:38254</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38079</identifier>
+    <datestamp>2012-03-19T15:51:56Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Excitement Guaranteed University of Denver Gymnastics &apos;82-&apos;83</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s gymnastics</dc:subject>
+  <dc:subject>Gymnastics</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Gymnasts</dc:subject>
+  <dc:subject>Gymnastics coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1982-1983 University of Denver (DU) Pioneers women&apos;s gymnastics information guide featuring team roster, coaching staff, individual player information, and schedule. Guide folds out into a poster with an image of a gymnast as well as the 1982-1983 schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1982-1983</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (leaflet),</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Leaflets</dc:format>
+  <dc:identifier>U300.05.0025.00019</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38079</dc:identifier>
+  <dc:identifier>codu:38079</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38159</identifier>
+    <datestamp>2012-03-19T15:51:52Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Denver Pioneers 2000-01 Hockey Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:subject>Hockey coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2000-2001 University of Denver (DU) Pioneers men&apos;s ice hockey information guide featuring team roster, coaching staff, individual player profiles, statistics, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2000-2001</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 114 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0026.00060</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38159</dc:identifier>
+  <dc:identifier>codu:38159</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38238</identifier>
+    <datestamp>2012-03-19T15:54:45Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Denver Gymnastics 1998</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s gymnastics</dc:subject>
+  <dc:subject>Gymnastics</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Gymnasts</dc:subject>
+  <dc:subject>Gymnastics coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1998 University of Denver (DU) Pioneers women&apos;s gymnastics information guide featuring team roster, coaching staff, individual player information, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1998</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 44 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0025.00032</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38238</dc:identifier>
+  <dc:identifier>codu:38238</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38354</identifier>
+    <datestamp>2012-03-19T15:53:44Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Pioneer Men&apos;s Golf 1999-2000 University of Denver History in the Making</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s golf</dc:subject>
+  <dc:subject>Golf</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Golfers</dc:subject>
+  <dc:subject>Golf coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1999-2000 University of Denver (DU) Pioneers men&apos;s golf information guide featuring team roster, coaching staff, individual player information, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1999-2000</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 12 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0025.00002</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38354</dc:identifier>
+  <dc:identifier>codu:38354</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38375</identifier>
+    <datestamp>2012-03-19T15:53:48Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver 1980 Gymnastics</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s gymnastics</dc:subject>
+  <dc:subject>Gymnastics</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Gymnasts</dc:subject>
+  <dc:subject>Gymnastics coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1980 University of Denver (DU) Pioneers women&apos;s gymnastics information guide featuring team roster, coaching staff, individual player information, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1980</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 32 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0025.00017</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38375</dc:identifier>
+  <dc:identifier>codu:38375</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38289</identifier>
+    <datestamp>2012-03-19T15:53:51Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Pioneers Men&apos;s Lacrosse 2003</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s lacrosse</dc:subject>
+  <dc:subject>Lacrosse</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Lacrosse players</dc:subject>
+  <dc:subject>Lacrosse coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2003 University of Denver (DU) Pioneers men&apos;s lacrosse information guide featuring team roster, coaching staff, individual player profiles, statistics, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2003</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 28 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0027.00007</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38289</dc:identifier>
+  <dc:identifier>codu:38289</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38358</identifier>
+    <datestamp>2012-03-19T15:52:06Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Pioneers Women&apos;s Tennis 2002-03</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s tennis</dc:subject>
+  <dc:subject>Tennis</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Tennis players</dc:subject>
+  <dc:subject>Tennis coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2002-2003 University of Denver (DU) Pioneers women&apos;s tennis information guide featuring team rosters, coaching staff, individual athlete profiles, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2002-2003</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 16 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0027.00078</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38358</dc:identifier>
+  <dc:identifier>codu:38358</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38076</identifier>
+    <datestamp>2012-03-19T15:52:15Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Pioneers Tennis 1998 Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s tennis</dc:subject>
+  <dc:subject>Women&apos;s tennis</dc:subject>
+  <dc:subject>Tennis</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Tennis players</dc:subject>
+  <dc:subject>Tennis coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1997-1998 University of Denver (DU) Pioneers men&apos;s and women&apos;s tennis information guide featuring team rosters, coaching staff, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1997-1998</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 20 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0027.00065</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38076</dc:identifier>
+  <dc:identifier>codu:38076</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38310</identifier>
+    <datestamp>2012-03-19T15:52:10Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Denver Pioneers 2000-01 Basketball Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s basketball</dc:subject>
+  <dc:subject>Basketball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Statistics</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Basketball players</dc:subject>
+  <dc:subject>Basketball coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2000-2001 University of Denver (DU) Pioneers women&apos;s basketball media guide featuring team roster, coaching staff, individual player information, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2000-2001</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 96 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0024.00084</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38310</dc:identifier>
+  <dc:identifier>codu:38310</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38329</identifier>
+    <datestamp>2012-03-19T15:55:23Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Pioneers 2004 Women&apos;s Soccer Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s soccer</dc:subject>
+  <dc:subject>Soccer</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Soccer players</dc:subject>
+  <dc:subject>Soccer coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2004 University of Denver (DU) Pioneers women&apos;s soccer information guide featuring team rosters, coaching staff, individual athlete profiles, statistics, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2004</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 32 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0027.00043</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38329</dc:identifier>
+  <dc:identifier>codu:38329</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38065</identifier>
+    <datestamp>2012-03-19T15:55:41Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Denver University Basketball 1974-75</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s basketball</dc:subject>
+  <dc:subject>Basketball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Statistics</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Basketball players</dc:subject>
+  <dc:subject>Basketball coaches</dc:subject>
+  <dc:subject>Athletic directors</dc:subject>
+  <dc:subject>College administrators</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1974-1975 University of Denver (DU) Pioneers men&apos;s basketball media guide featuring team rosters, coaching staff, statistics, and schedules.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1974-1975</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 16 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0024.00032</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38065</dc:identifier>
+  <dc:identifier>codu:38065</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38105</identifier>
+    <datestamp>2012-03-19T15:52:49Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver vs. Ohio State University Men&apos;s Ice Hockey Game Program</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>The Ohio State University</dc:subject>
+  <dc:subject>Field House Arena (Denver, Colo.)</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:subject>Hockey coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s ice hockey game program from November 16-17, 1973 for a game vs. Ohio State University in the University of Denver (DU) Field House Arena. Game program features team rosters for both teams, coaching staffs, individual player profiles, statistics, and a home and road schedule for the 1973-1974 season.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>11/16/1973-11/17/1973</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 48 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0025.00049</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38105</dc:identifier>
+  <dc:identifier>codu:38105</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38312</identifier>
+    <datestamp>2012-03-19T15:52:54Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>DU Hockey 1981-&apos;82 University of Denver</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:subject>Hockey coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1981-1982 University of Denver (DU) Pioneers men&apos;s ice hockey information guide featuring team roster, coaching staff, individual player profiles, statistics, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1981-1982</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 28 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0026.00013</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38312</dc:identifier>
+  <dc:identifier>codu:38312</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38394</identifier>
+    <datestamp>2012-03-19T15:54:53Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver 1995 Gymnastics Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s gymnastics</dc:subject>
+  <dc:subject>Gymnastics</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Gymnasts</dc:subject>
+  <dc:subject>Gymnastics coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1995 University of Denver (DU) Pioneers women&apos;s gymnastics information guide featuring team roster, coaching staff, individual player information, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1995</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 36 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0025.00028</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38394</dc:identifier>
+  <dc:identifier>codu:38394</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38460</identifier>
+    <datestamp>2012-03-19T15:54:49Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Pioneers Skiing 2003</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Alpine skiing</dc:subject>
+  <dc:subject>Nordic skiing</dc:subject>
+  <dc:subject>Skiing</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Skiers</dc:subject>
+  <dc:subject>Skiing coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2003 University of Denver (DU) Pioneers skiing information guide featuring men&apos;s and women&apos;s alpine, and men&apos;s and women&apos;s nordic team rosters, coaching staff, individual athlete profiles, statistics, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2003</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 28 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0027.00022</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38460</dc:identifier>
+  <dc:identifier>codu:38460</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38173</identifier>
+    <datestamp>2012-03-19T15:54:56Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Denver Pioneers 2002 Gymnastics Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s gymnastics</dc:subject>
+  <dc:subject>Gymnastics</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Gymnasts</dc:subject>
+  <dc:subject>Gymnastics coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2002 University of Denver (DU) Pioneers women&apos;s gymnastics information guide featuring team roster, coaching staff, individual player information, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2002</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 64 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0025.00036</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38173</dc:identifier>
+  <dc:identifier>codu:38173</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38224</identifier>
+    <datestamp>2012-03-19T15:51:39Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>DU Baseball 1987</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s baseball</dc:subject>
+  <dc:subject>Baseball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Statistics</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Baseball players</dc:subject>
+  <dc:subject>Baseball coaches</dc:subject>
+  <dc:subject>Athletic directors</dc:subject>
+  <dc:subject>College administrators</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1987 University of Denver (DU) Pioneers men&apos;s baseball guide featuring team roster, coaching staff, statistics, and schedules.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1987</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 16 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0024.00015</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38224</dc:identifier>
+  <dc:identifier>codu:38224</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38107</identifier>
+    <datestamp>2012-03-19T15:52:02Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Baseball 1970 Discover Denver</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s baseball</dc:subject>
+  <dc:subject>Baseball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Statistics</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Baseball players</dc:subject>
+  <dc:subject>Baseball coaches</dc:subject>
+  <dc:subject>Athletic directors</dc:subject>
+  <dc:subject>College administrators</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1970 University of Denver (DU) Pioneers men&apos;s baseball guide featuring team roster, coaching staff, statistics, and schedules.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1970</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 11 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0024.00001</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38107</dc:identifier>
+  <dc:identifier>codu:38107</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38432</identifier>
+    <datestamp>2012-03-19T15:51:45Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Pioneer Women&apos;s Lacrosse 2000 University of Denver History in the Making</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s lacrosse</dc:subject>
+  <dc:subject>Lacrosse</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Lacrosse players</dc:subject>
+  <dc:subject>Lacrosse coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2000 University of Denver (DU) Pioneers women&apos;s lacrosse information guide featuring team roster, coaching staff, individual player profiles, statistics, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2000</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 24 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0027.00011</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38432</dc:identifier>
+  <dc:identifier>codu:38432</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38292</identifier>
+    <datestamp>2012-03-19T15:55:17Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver 50th Year 1946-1996 Swimming and Diving</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s swimming</dc:subject>
+  <dc:subject>Women&apos;s swimming</dc:subject>
+  <dc:subject>Swimming</dc:subject>
+  <dc:subject>Diving</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Swimmers</dc:subject>
+  <dc:subject>Divers</dc:subject>
+  <dc:subject>Swimming coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1995-1996 University of Denver (DU) Pioneers men&apos;s and women&apos;s swimming and diving information guide featuring team rosters, coaching staff, a look at the history of University of Denver (DU) Pioneers swimming and diving over the past 50 years, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1995-1996</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (leaflet),</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Leaflets</dc:format>
+  <dc:identifier>U300.05.0027.00051</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38292</dc:identifier>
+  <dc:identifier>codu:38292</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38237</identifier>
+    <datestamp>2012-03-19T15:55:13Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Denver Pioneers 2000-01 Volleyball Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s volleyball</dc:subject>
+  <dc:subject>Volleyball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Volleyball players</dc:subject>
+  <dc:subject>Volleyball coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2000-2001 University of Denver (DU) Pioneers women&apos;s volleyball information guide featuring team rosters, coaching staff, individual player profiles, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2000-2001</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 54 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0027.00097</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38237</dc:identifier>
+  <dc:identifier>codu:38237</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38152</identifier>
+    <datestamp>2012-03-19T15:51:59Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>1983-84 University of Denver Women&apos;s Gymnastics</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s gymnastics</dc:subject>
+  <dc:subject>Gymnastics</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Gymnasts</dc:subject>
+  <dc:subject>Gymnastics coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1983-1984 University of Denver (DU) Pioneers women&apos;s gymnastics information guide featuring team roster, coaching staff, individual player information, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1983-1984</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 12 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0025.00020</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38152</dc:identifier>
+  <dc:identifier>codu:38152</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38307</identifier>
+    <datestamp>2012-03-19T15:54:08Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>DU Pioneers Women&apos;s Gymnastics 1987</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s gymnastics</dc:subject>
+  <dc:subject>Gymnastics</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Gymnasts</dc:subject>
+  <dc:subject>Gymnastics coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1987 University of Denver (DU) Pioneers women&apos;s gymnastics information guide featuring team roster, coaching staff, individual player information, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1987</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (leaflet),</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Leaflets</dc:format>
+  <dc:identifier>U300.05.0025.00022</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38307</dc:identifier>
+  <dc:identifier>codu:38307</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38411</identifier>
+    <datestamp>2012-03-19T15:54:14Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver 2006 DU Men&apos;s Tennis</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s tennis</dc:subject>
+  <dc:subject>Tennis</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Tennis players</dc:subject>
+  <dc:subject>Tennis coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2005-2006 University of Denver (DU) Pioneers men&apos;s tennis information guide featuring team rosters, coaching staff, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2005-2006</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 16 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0027.00073</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38411</dc:identifier>
+  <dc:identifier>codu:38411</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38456</identifier>
+    <datestamp>2012-03-19T15:54:04Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Tennis 1997 Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s tennis</dc:subject>
+  <dc:subject>Tennis</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Tennis players</dc:subject>
+  <dc:subject>Tennis coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1996-1997 University of Denver (DU) Pioneers men&apos;s tennis information guide featuring team rosters, coaching staff, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1996-1997</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 12 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0027.00064</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38456</dc:identifier>
+  <dc:identifier>codu:38456</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38405</identifier>
+    <datestamp>2012-03-19T15:51:42Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>D.U. Hockey 1982-83 Media Guide. Excitement Guaranteed.</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:subject>Hockey coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1982-1983 University of Denver (DU) Pioneers men&apos;s ice hockey information guide featuring team roster, coaching staff, individual player profiles, statistics, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1982-1983</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 24 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0026.00021</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38405</dc:identifier>
+  <dc:identifier>codu:38405</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38279</identifier>
+    <datestamp>2012-03-19T15:51:49Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Pioneers 2004 Skiing Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Alpine skiing</dc:subject>
+  <dc:subject>Nordic skiing</dc:subject>
+  <dc:subject>Skiing</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Skiers</dc:subject>
+  <dc:subject>Skiing coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2004 University of Denver (DU) Pioneers skiing information guide featuring men&apos;s and women&apos;s alpine, and men&apos;s and women&apos;s nordic team rosters, coaching staff, individual athlete profiles, statistics, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2004</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 28 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0027.00023</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38279</dc:identifier>
+  <dc:identifier>codu:38279</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38060</identifier>
+    <datestamp>2012-03-19T15:56:06Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>1960 University of Denver vs. Michigan State Ice Hockey Program</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Michigan State University</dc:subject>
+  <dc:subject>Field House Arena (Denver, Colo.)</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:subject>Hockey coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers game program from December 12-13, 1960 for a game vs. Michigan State University in the Field House Arena in Denver Colorado. Program features rosters for both teams, individual player profiles with pictures for University of Denver (DU) Pioneers players, coaching staffs, as well as a University of Denver (DU) hockey schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>12/12/1960-12/13/1960</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 35 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0028.00018</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38060</dc:identifier>
+  <dc:identifier>codu:38060</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38398</identifier>
+    <datestamp>2012-03-19T15:55:09Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver DU 1995-96 Basketball Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s basketball</dc:subject>
+  <dc:subject>Basketball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Statistics</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Basketball players</dc:subject>
+  <dc:subject>Basketball coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1995-1996 University of Denver (DU) Pioneers men&apos;s basketball media guide featuring team rosters, coaching staff, individual player information, statistics, and schedules.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1995-1996</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 32 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0024.00056</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38398</dc:identifier>
+  <dc:identifier>codu:38398</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38283</identifier>
+    <datestamp>2012-03-19T15:55:37Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Denver Pioneers 2000-01 Men&apos;s Golf Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s golf</dc:subject>
+  <dc:subject>Golf</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Golfers</dc:subject>
+  <dc:subject>Golf coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2000-2001 University of Denver (DU) Pioneers men&apos;s golf information guide featuring team roster, coaching staff, individual player information, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2000-2001</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 12 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0025.00003</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38283</dc:identifier>
+  <dc:identifier>codu:38283</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38330</identifier>
+    <datestamp>2012-03-19T15:55:31Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Pioneers vs. Boston College Eagles</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Boston College</dc:subject>
+  <dc:subject>Field House Arena (Denver, Colo.)</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:subject>Hockey coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s ice hockey game program from January 9, 1987 for a game vs. Boston College in a game in the University of Denver (DU) Field House Arena in Denver, Colorado. Game programs features team rosters for both teams, coaching staff, statistics, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1/9/1987</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 52 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0026.00030</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38330</dc:identifier>
+  <dc:identifier>codu:38330</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38119</identifier>
+    <datestamp>2012-03-19T15:55:28Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Pioneer DU Women&apos;s Volleyball 1986</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s volleyball</dc:subject>
+  <dc:subject>Volleyball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Volleyball players</dc:subject>
+  <dc:subject>Volleyball coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1986 University of Denver (DU) Pioneers women&apos;s volleyball information guide featuring team rosters, coaching staff, individual player profiles, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (leaflet),</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Leaflets</dc:format>
+  <dc:identifier>U300.05.0027.00085</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38119</dc:identifier>
+  <dc:identifier>codu:38119</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38151</identifier>
+    <datestamp>2012-03-19T15:55:20Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>DU 1991 Baseball University of Denver</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s baseball</dc:subject>
+  <dc:subject>Baseball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Statistics</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Baseball players</dc:subject>
+  <dc:subject>Baseball coaches</dc:subject>
+  <dc:subject>Athletic directors</dc:subject>
+  <dc:subject>College administrators</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1991 University of Denver (DU) Pioneers men&apos;s baseball guide featuring team roster, coaching staff, statistics, and schedules.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1991</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 12 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0024.00019</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38151</dc:identifier>
+  <dc:identifier>codu:38151</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38184</identifier>
+    <datestamp>2012-03-19T15:53:22Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver 2005 DU Volleyball</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s volleyball</dc:subject>
+  <dc:subject>Volleyball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Volleyball players</dc:subject>
+  <dc:subject>Volleyball coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2005 University of Denver (DU) Pioneers women&apos;s volleyball information guide featuring team rosters, coaching staff, individual player profiles, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2005</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 60 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0027.00103</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38184</dc:identifier>
+  <dc:identifier>codu:38184</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38498</identifier>
+    <datestamp>2012-03-19T15:55:06Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>D.U. Baseball 1984</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s baseball</dc:subject>
+  <dc:subject>Baseball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Statistics</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Baseball players</dc:subject>
+  <dc:subject>Baseball coaches</dc:subject>
+  <dc:subject>Athletic directors</dc:subject>
+  <dc:subject>College administrators</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1984 University of Denver (DU) Pioneers men&apos;s baseball guide featuring team roster, coaching staff, statistics, and schedules.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1984</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 16 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0024.00012</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38498</dc:identifier>
+  <dc:identifier>codu:38498</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38170</identifier>
+    <datestamp>2012-03-19T15:56:39Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Baseball 1971</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s baseball</dc:subject>
+  <dc:subject>Baseball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Statistics</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Baseball players</dc:subject>
+  <dc:subject>Baseball coaches</dc:subject>
+  <dc:subject>Athletic directors</dc:subject>
+  <dc:subject>College administrators</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1971 University of Denver (DU) Pioneers men&apos;s baseball guide featuring team roster, coaching staff, statistics, and schedules.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1971</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 4 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0024.00002</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38170</dc:identifier>
+  <dc:identifier>codu:38170</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38497</identifier>
+    <datestamp>2012-03-19T15:56:45Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s and Women&apos;s Swimming 1998</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s swimming</dc:subject>
+  <dc:subject>Women&apos;s swimming</dc:subject>
+  <dc:subject>Swimming</dc:subject>
+  <dc:subject>Diving</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Swimmers</dc:subject>
+  <dc:subject>Divers</dc:subject>
+  <dc:subject>Swimming coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1997-1998 University of Denver (DU) Pioneers men&apos;s and women&apos;s swimming and diving information guide featuring team rosters, coaching staff, individual swimmer and diver profiles, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1997-1998</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 20 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0027.00053</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38497</dc:identifier>
+  <dc:identifier>codu:38497</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38075</identifier>
+    <datestamp>2012-03-19T15:56:19Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Pioneers 2004-05 Hockey Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:subject>Hockey coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2004-2005 University of Denver (DU) Pioneers men&apos;s ice hockey information guide featuring team roster, coaching staff, individual player profiles, statistics, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2004-2005</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 132 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0026.00070</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38075</dc:identifier>
+  <dc:identifier>codu:38075</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38349</identifier>
+    <datestamp>2012-03-19T15:52:32Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Ice Hockey Press Guide 1977-78</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:subject>Hockey coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1977-1978 University of Denver (DU) Pioneers men&apos;s ice hockey information guide featuring team roster, coaching staff, individual player profiles, statistics, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1977-1978</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 28 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0026.00003</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38349</dc:identifier>
+  <dc:identifier>codu:38349</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38056</identifier>
+    <datestamp>2012-03-19T15:53:25Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Pioneer Hockey 1999-2000 University of Denver History in the Making</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:subject>Hockey coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1999-2000 University of Denver (DU) Pioneers men&apos;s ice hockey information guide featuring team roster, coaching staff, individual player profiles, statistics, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1999-2000</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 100 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0026.00059</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38056</dc:identifier>
+  <dc:identifier>codu:38056</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38120</identifier>
+    <datestamp>2012-03-19T15:53:18Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver 1998 Volleyball Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s volleyball</dc:subject>
+  <dc:subject>Volleyball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Volleyball players</dc:subject>
+  <dc:subject>Volleyball coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1998 University of Denver (DU) Pioneers women&apos;s volleyball information guide featuring team rosters, coaching staff, individual player profiles, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1998</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 36 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0027.00094</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38120</dc:identifier>
+  <dc:identifier>codu:38120</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38140</identifier>
+    <datestamp>2012-03-19T15:52:37Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Basketball 1976-77</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s basketball</dc:subject>
+  <dc:subject>Basketball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Statistics</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Basketball players</dc:subject>
+  <dc:subject>Basketball coaches</dc:subject>
+  <dc:subject>Athletic directors</dc:subject>
+  <dc:subject>College administrators</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1976-1977 University of Denver (DU) Pioneers men&apos;s basketball media guide featuring team rosters, coaching staff, statistics, individual player information, and schedules.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1976-1977</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 40 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0024.00036</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38140</dc:identifier>
+  <dc:identifier>codu:38140</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38464</identifier>
+    <datestamp>2012-03-19T15:52:43Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Denver University 1973-1974 Press Information</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s basketball</dc:subject>
+  <dc:subject>Basketball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Statistics</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Basketball players</dc:subject>
+  <dc:subject>Basketball coaches</dc:subject>
+  <dc:subject>Athletic directors</dc:subject>
+  <dc:subject>College administrators</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1973-1974 University of Denver (DU) Pioneers men&apos;s basketball press information featuring team rosters, coaching staff, statistics, and schedules.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1973-1974</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 24 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0024.00031</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38464</dc:identifier>
+  <dc:identifier>codu:38464</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38477</identifier>
+    <datestamp>2012-03-19T15:53:08Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Pioneers 2003-04 Hockey Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:subject>Hockey coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2003-2004 University of Denver (DU) Pioneers men&apos;s ice hockey information guide featuring team roster, coaching staff, individual player profiles, statistics, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2003-2004</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 128 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0026.00065</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38477</dc:identifier>
+  <dc:identifier>codu:38477</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38356</identifier>
+    <datestamp>2012-03-19T15:53:11Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Women&apos;s Soccer 1996 Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s soccer</dc:subject>
+  <dc:subject>Soccer</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Soccer players</dc:subject>
+  <dc:subject>Soccer coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1996 University of Denver (DU) Pioneers women&apos;s soccer information guide featuring team rosters, coaching staff, individual athlete profiles, statistics, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1996</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 16 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0027.00037</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38356</dc:identifier>
+  <dc:identifier>codu:38356</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38523</identifier>
+    <datestamp>2012-03-19T15:53:38Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Pioneers 2003 Volleyball Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s volleyball</dc:subject>
+  <dc:subject>Volleyball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Volleyball players</dc:subject>
+  <dc:subject>Volleyball coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2003 University of Denver (DU) Pioneers women&apos;s volleyball information guide featuring team rosters, coaching staff, individual player profiles, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2003</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 56 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0027.00100</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38523</dc:identifier>
+  <dc:identifier>codu:38523</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38204</identifier>
+    <datestamp>2012-03-19T15:54:29Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver 1994-95 Men&apos;s and Women&apos;s Swimming and Diving</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s swimming</dc:subject>
+  <dc:subject>Women&apos;s swimming</dc:subject>
+  <dc:subject>Swimming</dc:subject>
+  <dc:subject>Diving</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Swimmers</dc:subject>
+  <dc:subject>Divers</dc:subject>
+  <dc:subject>Swimming coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1994-1995 University of Denver (DU) Pioneers men&apos;s and women&apos;s swimming and diving information guide featuring team rosters, coaching staff, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1994-1995</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (leaflet),</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Leaflets</dc:format>
+  <dc:identifier>U300.05.0027.00050</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38204</dc:identifier>
+  <dc:identifier>codu:38204</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38123</identifier>
+    <datestamp>2012-03-19T15:54:23Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Gymnastics 1997 Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s gymnastics</dc:subject>
+  <dc:subject>Gymnastics</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Gymnasts</dc:subject>
+  <dc:subject>Gymnastics coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1997 University of Denver (DU) Pioneers women&apos;s gymnastics information guide featuring team roster, coaching staff, individual player information, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1997</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet),</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0025.00031</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38123</dc:identifier>
+  <dc:identifier>codu:38123</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38175</identifier>
+    <datestamp>2012-03-19T15:52:59Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Pioneers 2004-05 Men&apos;s Golf Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s golf</dc:subject>
+  <dc:subject>Golf</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Golfers</dc:subject>
+  <dc:subject>Golf coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>2004-2005 University of Denver (DU) Pioneers men&apos;s golf information guide featuring team roster, coaching staff, individual player information, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>2004-2005</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 20 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0025.00007</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38175</dc:identifier>
+  <dc:identifier>codu:38175</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38272</identifier>
+    <datestamp>2012-03-19T15:53:03Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver 1998-&apos;99 Men&apos;s Basketball Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s basketball</dc:subject>
+  <dc:subject>Basketball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Statistics</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Basketball players</dc:subject>
+  <dc:subject>Basketball coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1998-1999 University of Denver (DU) Pioneers men&apos;s basketball media guide featuring team rosters, coaching staff, individual player information, statistics, and schedules.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1998-1999</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 88 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0024.00059</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38272</dc:identifier>
+  <dc:identifier>codu:38272</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38323</identifier>
+    <datestamp>2012-03-19T15:56:32Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Baseball 1982</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s baseball</dc:subject>
+  <dc:subject>Baseball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Statistics</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Baseball players</dc:subject>
+  <dc:subject>Baseball coaches</dc:subject>
+  <dc:subject>Athletic directors</dc:subject>
+  <dc:subject>College administrators</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1982 University of Denver (DU) Pioneers men&apos;s baseball guide featuring team roster, coaching staff, statistics, and schedules.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1982</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 20 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0024.00010</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38323</dc:identifier>
+  <dc:identifier>codu:38323</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38482</identifier>
+    <datestamp>2012-03-19T15:52:19Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>1989 DU Women&apos;s Volleyball</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s volleyball</dc:subject>
+  <dc:subject>Volleyball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Volleyball players</dc:subject>
+  <dc:subject>Volleyball coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1989 University of Denver (DU) Pioneers women&apos;s volleyball information guide featuring team rosters, coaching staff, individual player profiles, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1989</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (leaflet),</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Leaflets</dc:format>
+  <dc:identifier>U300.05.0027.00088</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38482</dc:identifier>
+  <dc:identifier>codu:38482</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38407</identifier>
+    <datestamp>2012-03-19T15:52:22Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver 1997 Volleyball Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s volleyball</dc:subject>
+  <dc:subject>Volleyball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Volleyball players</dc:subject>
+  <dc:subject>Volleyball coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1997 University of Denver (DU) Pioneers women&apos;s volleyball information guide featuring team rosters, coaching staff, individual player profiles, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1997</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 36 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0027.00093</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38407</dc:identifier>
+  <dc:identifier>codu:38407</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38168</identifier>
+    <datestamp>2012-03-19T15:52:25Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Women&apos;s Tennis 1982-83</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s tennis</dc:subject>
+  <dc:subject>Tennis</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Tennis players</dc:subject>
+  <dc:subject>Tennis coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1982-1983 University of Denver (DU) Pioneers women&apos;s tennis information guide featuring team rosters, coaching staff, individual athlete profiles, an outlook for the upcoming season, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1982-1983</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 4 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0027.00059</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38168</dc:identifier>
+  <dc:identifier>codu:38168</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_38091</identifier>
+    <datestamp>2012-03-19T15:52:29Z</datestamp>
+    <setSpec>codu_19719</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver 1994-1995 Women&apos;s Basketball Media Guide</dc:title>
+  <dc:title>Media Relations Records, Publications</dc:title>
+  <dc:title></dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s basketball</dc:subject>
+  <dc:subject>Basketball</dc:subject>
+  <dc:subject>Printed ephemera</dc:subject>
+  <dc:subject>Statistics</dc:subject>
+  <dc:subject>Programs</dc:subject>
+  <dc:subject>Rosters</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Basketball players</dc:subject>
+  <dc:subject>Basketball coaches</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>1994-1995 University of Denver (DU) Pioneers women&apos;s basketball media guide featuring team roster, coaching staff, individual player information, and schedule.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1994-1995</dc:date>
+  <dc:type>text</dc:type>
+  <dc:format>1 item, (pamphlet), 40 pages</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Pamphlets</dc:format>
+  <dc:identifier>U300.05.0024.00078</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:38091</dc:identifier>
+  <dc:identifier>codu:38091</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

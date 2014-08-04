@@ -1,0 +1,3360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T04:09:12Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_25048</identifier>
+    <datestamp>2012-01-18T21:56:38Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Lacrosse Match</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator>Stewart, Annie __Photographer</dc:creator>
+  <dc:subject>Berger, Brian</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Lacrosse</dc:subject>
+  <dc:subject>Men&apos;s lacrosse</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Lacrosse players</dc:subject>
+  <dc:description>Photographer&apos;s sticker on back.</dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s lacrosse goaltender Brian Berger (3) prepares to throw the ball back into the playing field during a match.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 2000-2001</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 7 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0058.00042</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:25048</dc:identifier>
+  <dc:identifier>codu:25048</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_16297</identifier>
+    <datestamp>2012-01-18T21:58:19Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Recreational Martial Arts</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator>Unknown</dc:creator>
+  <dc:subject>O&apos;Connor, Jeremiah</dc:subject>
+  <dc:subject>Waite, Ben</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Martial arts</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Martial artists</dc:subject>
+  <dc:description>&quot;Kicker: Ben Waite, Holder: Jeremiah O&apos;Connor&quot; written on back in blue marker.</dc:description>
+  <dc:description>University of Denver (DU) students (right pair) Ben Waite (kicker) and Jeremiah O&apos;Connor (holder) practice martial arts in an empty room.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1980-1990</dc:date>
+  <dc:type>Still image</dc:type>
+  <dc:format>1 item, (photograph), 3.75 x 6.75 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0003.00111</dc:identifier>
+  <dc:identifier>act_011</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:16297</dc:identifier>
+  <dc:identifier>codu:16297</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_23653</identifier>
+    <datestamp>2012-01-18T21:59:07Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Ice Hockey Player Murray Massier</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Massier, Murray</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:description>Handwritten on back: &quot;J. Murray Massier.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s ice hockey player Murray Massier (11) poses for a portrait.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1957-1959</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 7 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0387.00021</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:23653</dc:identifier>
+  <dc:identifier>codu:23653</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_26546</identifier>
+    <datestamp>2012-01-18T21:59:16Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Ice Hockey Player Jim Mullin with Children</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Mullin, Jim</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Youth sports</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:description>Handwritten on back: &quot;Team Denver - Jim Mullin with kids from Asbury Elementary. 6/95.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s ice hockey player Jim Mullin interacts with children outside.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>6/1995</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 7 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0068.00087</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:26546</dc:identifier>
+  <dc:identifier>codu:26546</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_18413</identifier>
+    <datestamp>2012-01-18T21:59:13Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver vs. Idaho State University Women&apos;s Basketball Game</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator>Purdie, Richard W. __Photographer</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Idaho State University</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Women&apos;s basketball</dc:subject>
+  <dc:subject>Basketball</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Basketball players</dc:subject>
+  <dc:description>Stamped label on back: &quot;University of Denver Photo By: Richard W. Purdie.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers women&apos;s basketball player shoots the ball just outside the paint with an opposing Idaho State player nearby during a game.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1974-1979</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 10 x 8 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0012.00090</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:18413</dc:identifier>
+  <dc:identifier>codu:18413</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_25280</identifier>
+    <datestamp>2012-01-18T21:59:04Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver vs. Colorado College Women&apos;s Soccer Match</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator>Myung, John __Photographer</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Colorado College</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Women&apos;s soccer</dc:subject>
+  <dc:subject>Soccer</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Soccer players</dc:subject>
+  <dc:description>Written on back: &quot;J. Myung, 10/14/84, DU vs. CC, spts.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers women&apos;s soccer player gains control of the ball by using her knee during a match against Colorado College.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>10/14/1984</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0058.00062</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:25280</dc:identifier>
+  <dc:identifier>codu:25280</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_19280</identifier>
+    <datestamp>2012-01-18T21:58:13Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Freshman Football Game</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>University of Denver Stadium (Denver, Colo.)</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s football</dc:subject>
+  <dc:subject>Football</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Football players</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s freshman football offensive players push forward near the goal line as the opposing defense attempt to hold the line. In the foreground a referee runs to check the outcome of the play during a game in the University of Denver Stadium in Denver, Colorado.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1950-1960</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 4 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0011.00173</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:19280</dc:identifier>
+  <dc:identifier>codu:19280</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_25176</identifier>
+    <datestamp>2012-01-18T21:57:29Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver vs. Northeastern University Men&apos;s Ice Hockey Game</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Northeastern University</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:subject>Referees</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s ice hockey player (14) skates forward alongside an opposing Northeastern player as a referee moves out of the way during a game.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1986-1992</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 3.5 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0053.00098</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:25176</dc:identifier>
+  <dc:identifier>codu:25176</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_19451</identifier>
+    <datestamp>2012-01-18T21:58:44Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Football Game</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>University of Denver Stadium (Denver, Colo.)</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s football</dc:subject>
+  <dc:subject>Football</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Football players</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s football player (22) is tackled by an opposing defender while running with the ball during a game in the University of Denver Stadium in Denver, Colorado.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1950-1960</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 4 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0011.00184</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:19451</dc:identifier>
+  <dc:identifier>codu:19451</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_24596</identifier>
+    <datestamp>2012-01-18T21:58:10Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Stadium Construction</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>University of Denver Stadium (Denver, Colo.)</dc:subject>
+  <dc:subject>Built environment</dc:subject>
+  <dc:subject>Stadiums</dc:subject>
+  <dc:subject>Football stadiums</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description>Handwritten on back: &quot;8/15/25.&quot;</dc:description>
+  <dc:description>Construction of University of Denver (DU) Pioneers Stadium.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>8/15/1925</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 2.5 x 4.25 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0060.00064</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:24596</dc:identifier>
+  <dc:identifier>codu:24596</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_25408</identifier>
+    <datestamp>2012-01-18T21:58:22Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Soccer Game</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator>Goodman, Paul __Photographer</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s soccer</dc:subject>
+  <dc:subject>Soccer</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Soccer players</dc:subject>
+  <dc:subject>Soccer goalkeepers</dc:subject>
+  <dc:subject>Goalkeepers (Soccer)</dc:subject>
+  <dc:subject>Goalies (Soccer)</dc:subject>
+  <dc:subject>Goaltenders (Soccer)</dc:subject>
+  <dc:description>Written on back: &quot;Paul, 9/16/82, first game of season, sports.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s soccer player attempts a shot on goal during the first game of the 1982 season.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>09/16/1982</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0054.00115</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:25408</dc:identifier>
+  <dc:identifier>codu:25408</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_24806</identifier>
+    <datestamp>2012-01-18T21:57:36Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Student Soccer Match</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Soccer</dc:subject>
+  <dc:subject>Men&apos;s soccer</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Soccer players</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers students play a friendly game of soccer.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1975-1980</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0055.00093</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:24806</dc:identifier>
+  <dc:identifier>codu:24806</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_24902</identifier>
+    <datestamp>2012-01-18T21:58:52Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Colorado Men&apos;s Track and Field Athlete Jim Funk</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Funk, Jim</dc:subject>
+  <dc:subject>University of Colorado (Boulder campus)</dc:subject>
+  <dc:subject>University of Colorado, Boulder</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s track and field</dc:subject>
+  <dc:subject>Track and field</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Track and field athletes</dc:subject>
+  <dc:subject>Runners (Sports)</dc:subject>
+  <dc:description>Typewritten on back: &quot;Jim Funk, mile, Colorado U.&quot;</dc:description>
+  <dc:description>University of Colorado (CU) men&apos;s track and field team member Jim Funk runs while in uniform.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1950-1960</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 8 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0059.00088</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:24902</dc:identifier>
+  <dc:identifier>codu:24902</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_25401</identifier>
+    <datestamp>2012-01-18T21:57:57Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver vs. University of North Dakota Men&apos;s Ice Hockey Game</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>University of North Dakota</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s ice hockey player skates on the ice during a game against North Dakota.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1985-1992</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 3.5 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0056.00103</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:25401</dc:identifier>
+  <dc:identifier>codu:25401</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_15604</identifier>
+    <datestamp>2012-01-18T21:58:48Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver vs. University of Wyoming Men&apos;s Basketball Game</dc:title>
+  <dc:title></dc:title>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s basketball</dc:subject>
+  <dc:subject>Basketball</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>University of Wyoming</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Basketball players</dc:subject>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:date>between 1953-1955</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>1 item, (photograph), 4 x 5 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>Handwritten on back: &quot;3097.&quot;</dc:format>
+  <dc:identifier>U300.01.0004.00251</dc:identifier>
+  <dc:identifier>codu:15604</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_26169</identifier>
+    <datestamp>2012-01-18T21:57:23Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver vs. University of Notre Dame Men&apos;s Ice Hockey Game at the Wells Fargo Denver Cup</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Barber, Greg</dc:subject>
+  <dc:subject>Hartmann, J.J.</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>University of Notre Dame</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:subject>Hockey goalkeepers</dc:subject>
+  <dc:subject>Goalies (Hockey)</dc:subject>
+  <dc:subject>Goalkeepers (Hockey)</dc:subject>
+  <dc:subject>Goaltenders (Hockey)</dc:subject>
+  <dc:description>Written on back: &quot;Norwest Hockey Tournament.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s ice hockey player Greg Barber (11) attempts a shot on goal during a game against the Notre Dame Fighting Irish in the Wells Fargo Denver Cup (formerly Norwest Denver Cup ). Player J.J. Hartmann (26) is also visible.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>12/31/1999</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0054.00064</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:26169</dc:identifier>
+  <dc:identifier>codu:26169</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_25582</identifier>
+    <datestamp>2012-01-18T21:56:25Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Ice Hockey Game</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s ice hockey player (16) skates on the ice during a game as the Pioneers bench is visible in the background.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1986-1992</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 3.5 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0053.00011</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:25582</dc:identifier>
+  <dc:identifier>codu:25582</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_15792</identifier>
+    <datestamp>2012-01-18T21:59:01Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Baseball Player Bruce Bronge</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Unknown</dc:creator>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s baseball</dc:subject>
+  <dc:subject>Baseball</dc:subject>
+  <dc:subject>Bronge, Bruce</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Baseball players</dc:subject>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s baseball player Bruce Bronge poses for a portrait.</dc:description>
+  <dc:description></dc:description>
+  <dc:date>1982</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>1 item, (photograph), 4 x 5 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>Handwritten on front: &quot;Bruce Bronge # GAT 37%.&quot; Handwritten on back: &quot;Bruce Bronge 37%.&quot; Typed on label on back: &quot;Baseball 1982 Bruce Bronge.&quot;</dc:format>
+  <dc:identifier>U300.01.0004.00302</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:15792</dc:identifier>
+  <dc:identifier>codu:15792</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_25016</identifier>
+    <datestamp>2012-01-18T21:57:33Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Gymnastics Coach Doug DeWitt</dc:title>
+  <dc:title>Working Files, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>DeWitt, Doug</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Gymnastics</dc:subject>
+  <dc:subject>Men&apos;s gymnastics</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Gymnastics coaches</dc:subject>
+  <dc:subject>Coaches (people)</dc:subject>
+  <dc:description>Written on back: &quot;Doug DeWitt.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s gymnastics coach Doug DeWitt poses for a portrait.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1958-1971</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 5 x 4 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.06.0048.00047</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:25016</dc:identifier>
+  <dc:identifier>codu:25016</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_24760</identifier>
+    <datestamp>2012-01-18T21:59:10Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Women&apos;s Golf Team Head Coach Sammie Chergo</dc:title>
+  <dc:title>Working Files, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Chergo, Sammie</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Women&apos;s golf</dc:subject>
+  <dc:subject>Golf</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Golf coaches</dc:subject>
+  <dc:subject>Coaches (people)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers women&apos;s golf team head coach Sammie Chergo poses for a portrait.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1998-1999</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), 2 x 2 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>U300.06.0008.00802</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:24760</dc:identifier>
+  <dc:identifier>codu:24760</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_16842</identifier>
+    <datestamp>2012-01-18T21:56:56Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Baseball Player J.R. Haar</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Unknown</dc:creator>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s baseball</dc:subject>
+  <dc:subject>Baseball</dc:subject>
+  <dc:subject>Haar, J.R.</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Baseball players</dc:subject>
+  <dc:description>1986 University of Denver (DU) Pioneers men&apos;s baseball player J.R. Haar poses for a portrait.</dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1986</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>1 item, (photograph), 4 x 5 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>Handwritten on back of photograph: &quot;#5, J.R. Haar.&quot; Typewritten label: &quot;J.R. Haar. University of Denver. 1986 Men&apos;s Baseball.&quot; Yellow note: &quot;#5.&quot;</dc:format>
+  <dc:identifier>U300.01.0010.00146</dc:identifier>
+  <dc:identifier>codu:16842</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_23857</identifier>
+    <datestamp>2012-01-18T21:56:34Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Women&apos;s Soccer Match</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Warren, Kristin</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Women&apos;s soccer</dc:subject>
+  <dc:subject>Soccer</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Soccer players</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers women&apos;s soccer player Kristin Warren (17) runs on the field during a match.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>2002</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 6 x 4 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0061.00033</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:23857</dc:identifier>
+  <dc:identifier>codu:23857</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_19341</identifier>
+    <datestamp>2012-01-18T21:58:32Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Football Backfield Coach John Shelley</dc:title>
+  <dc:title></dc:title>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s football</dc:subject>
+  <dc:subject>Football</dc:subject>
+  <dc:subject>Shelley, John</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Football coaches</dc:subject>
+  <dc:subject>Coaches (people)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1956</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>1 item, (photograph), 6 x 4 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>Handwritten on back: &quot;John Shelley football 1956 Backfield Coach.&quot;</dc:format>
+  <dc:identifier>U300.06.0047.00016</dc:identifier>
+  <dc:identifier>codu:19341</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_23957</identifier>
+    <datestamp>2012-01-18T21:58:56Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Women&apos;s Tennis Player Lilas Rajaee</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator>Heidenfelder, Rich __Photographer</dc:creator>
+  <dc:subject>Rajaee, Lilas</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Women&apos;s tennis</dc:subject>
+  <dc:subject>Tennis</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Greeley (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Tennis players</dc:subject>
+  <dc:description>Written on back: &quot;Rich Heidenfelder, 4-28-84, Lilas Rajaee, D.U. Women&apos;s Tennis at Greely: Regionals, sports.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers women&apos;s tennis player Lilas Rajaee returns the ball during a match at Regionals in Greely, CO.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>4/28/1984</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 7 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0061.00088</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:23957</dc:identifier>
+  <dc:identifier>codu:23957</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_17430</identifier>
+    <datestamp>2012-01-18T21:57:02Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Recreational Frisbee Player</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator>Unknown</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Frisbees</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>A University of Denver (DU) male student, outdoors and in a field, prepares to catch a disc.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1970-1980</dc:date>
+  <dc:type>Still image</dc:type>
+  <dc:format>1 item, (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0002.00137</dc:identifier>
+  <dc:identifier>act_003</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:17430</dc:identifier>
+  <dc:identifier>codu:17430</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_18070</identifier>
+    <datestamp>2012-01-18T21:58:40Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Football Player Bill Korn</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Korn, Bill</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s football</dc:subject>
+  <dc:subject>Football</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Football players</dc:subject>
+  <dc:description>Handwritten on back: &quot;Korn.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s football player Bill Korn poses for a portrait in a DU sports jacket.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1954</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 5 x 4 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0011.00263</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:18070</dc:identifier>
+  <dc:identifier>codu:18070</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_16887</identifier>
+    <datestamp>2012-01-18T21:56:28Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>1900 University of Denver Men&apos;s Baseball Team</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Unknown</dc:creator>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s baseball</dc:subject>
+  <dc:subject>Baseball</dc:subject>
+  <dc:subject>Baseball teams</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Baseball players</dc:subject>
+  <dc:description>1900 University of Denver (DU) Pioneers men&apos;s baseball team poses for a team portrait.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>1900</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>1 item, (photograph), 5 x 3 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0010.00253</dc:identifier>
+  <dc:identifier>codu:16887</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_23923</identifier>
+    <datestamp>2012-01-18T21:59:20Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>1989-1990 University of Denver Female Athlete of the Year Leslie McCulloh</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>McCulloh, Leslie</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Women&apos;s tennis</dc:subject>
+  <dc:subject>Tennis</dc:subject>
+  <dc:subject>Awards</dc:subject>
+  <dc:subject>Trophies (Objects)</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Tennis players</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers women&apos;s tennis player Leslie McCulloh and unidentified man pose for a portrait at an athletics award ceremony holding a trophy for 1989-1990 Female Athlete of the Year.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1990</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 7 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0061.00085</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:23923</dc:identifier>
+  <dc:identifier>codu:23923</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_25608</identifier>
+    <datestamp>2012-01-18T21:56:59Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Field House Arena Ice Skating Rink</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Field House Arena (Denver, Colo.)</dc:subject>
+  <dc:subject>Ice skating</dc:subject>
+  <dc:subject>Skating rinks</dc:subject>
+  <dc:subject>Interior views</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Skaters</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers ice rink with ice skaters skating around in the Field House Arena in Denver, Colorado.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>3/1951</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 4 x 4.5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0389.00053</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:25608</dc:identifier>
+  <dc:identifier>codu:25608</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_19042</identifier>
+    <datestamp>2012-01-18T21:56:41Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Football Stadium Construction</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>University of Denver Stadium (Denver, Colo.)</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s football</dc:subject>
+  <dc:subject>Football</dc:subject>
+  <dc:subject>College buildings</dc:subject>
+  <dc:subject>Stadiums</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Construction workers</dc:subject>
+  <dc:description>Handwritten on front: &quot;9-9-25.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Stadium photograph taken during construction in 1925. Image shows the perimeter of the grass field as members of the construction crew continue work on the home stands.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>9/9/1925</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 3 x 6 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0050.00030</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:19042</dc:identifier>
+  <dc:identifier>codu:19042</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_18107</identifier>
+    <datestamp>2012-01-18T21:57:49Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Ski Team Member</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Ski jumping</dc:subject>
+  <dc:subject>Skiing</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Skiers</dc:subject>
+  <dc:description>Typewritten label on back of slide mount: &quot;Skier in the air. 1998 University of Denver.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers ski team member jumps off a ramp.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1998</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), 2 x 2 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>U300.01.0008.00586</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:18107</dc:identifier>
+  <dc:identifier>codu:18107</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_18843</identifier>
+    <datestamp>2012-01-18T21:57:43Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver vs. Regis University Women&apos;s Basketball Game</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Regis University (Denver, Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Women&apos;s basketball</dc:subject>
+  <dc:subject>Basketball</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Basketball players</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers women&apos;s basketball player puts her hands up and plays defense as an opposing Regis player attempts to drive around her with the basketball during a game.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1990-1998</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 10 x 8 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0012.00110</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:18843</dc:identifier>
+  <dc:identifier>codu:18843</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_17264</identifier>
+    <datestamp>2012-01-18T21:57:53Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Baseball Game</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator>Unknown</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s baseball</dc:subject>
+  <dc:subject>Baseball</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Baseball players</dc:subject>
+  <dc:subject>Baseball umpires</dc:subject>
+  <dc:subject>Baseball fans</dc:subject>
+  <dc:description>Written in pencil on back &quot;DU Baseball Game - March, 1981.&quot; Printer&apos;s marks on front in black.</dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s baseball player awaits a pitch as fans watch in the background.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>circa 3/1981</dc:date>
+  <dc:type>Still image</dc:type>
+  <dc:format>1 item, (photograph), 8 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0002.00282</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:17264</dc:identifier>
+  <dc:identifier>codu:17264</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_17460</identifier>
+    <datestamp>2012-01-18T21:57:12Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Field House Arena Ice Hockey Rink</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Unknown</dc:creator>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Built environment</dc:subject>
+  <dc:subject>Sports complexes</dc:subject>
+  <dc:subject>Sports buildings</dc:subject>
+  <dc:subject>College buildings</dc:subject>
+  <dc:subject>Ice hockey rinks</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Arenas</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Field House Arena (Denver, Colo.)</dc:subject>
+  <dc:subject>Interior views</dc:subject>
+  <dc:description>Interior view of the University of Denver (DU) Field House Arena ice hockey rink in Denver, Colorado. Fourteen banners hang on the opposite end of the rink.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1972-1980</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>1 item, (film negative), 35 millimeters, black and white</dc:format>
+  <dc:format>Film negatives</dc:format>
+  <dc:identifier>U300.01.0002.00071.00003</dc:identifier>
+  <dc:identifier>fac_052</dc:identifier>
+  <dc:identifier>codu:17460</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_19547</identifier>
+    <datestamp>2012-01-18T21:56:47Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Golf Team Member</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s golf</dc:subject>
+  <dc:subject>Golf</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Golfers</dc:subject>
+  <dc:subject>Coaches (people)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s golf team member poses for a photograph while his bag is behind his back on a golf course.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1996-2000</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 6 x 4 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0051.00054</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:19547</dc:identifier>
+  <dc:identifier>codu:19547</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_24353</identifier>
+    <datestamp>2012-01-18T21:58:35Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Women&apos;s Cross Country Team Member Corinne Trujillo</dc:title>
+  <dc:title>Working Files, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Trujillo, Corinne</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Cross-country running</dc:subject>
+  <dc:subject>Women&apos;s cross country</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Runners (Sports)</dc:subject>
+  <dc:description>Handwritten on slide mount: &quot;Corinne Trujillo.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers women&apos;s cross country team member Corinne Trujillo competes in a long distance race.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 2000-2001</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), 2 x 2 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>U300.06.0008.01205</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:24353</dc:identifier>
+  <dc:identifier>codu:24353</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_19332</identifier>
+    <datestamp>2012-01-18T21:57:20Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Ice Hockey Game</dc:title>
+  <dc:title></dc:title>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Hill, Bruce</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1985-1988</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>1 item, (photograph), 7 x 5 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0051.00114</dc:identifier>
+  <dc:identifier>codu:19332</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_24637</identifier>
+    <datestamp>2012-01-18T21:57:40Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Stadium Construction</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>University of Denver Stadium (Denver, Colo.)</dc:subject>
+  <dc:subject>Built environment</dc:subject>
+  <dc:subject>Stadiums</dc:subject>
+  <dc:subject>Football stadiums</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Construction workers</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Construction of University of Denver (DU) Pioneers Stadium.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>8/1925</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 2.5 x 4.25 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0060.00044</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:24637</dc:identifier>
+  <dc:identifier>codu:24637</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_23721</identifier>
+    <datestamp>2012-01-18T21:56:22Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Swim Team Member</dc:title>
+  <dc:title>Working Files, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Swimming</dc:subject>
+  <dc:subject>Swimming pools</dc:subject>
+  <dc:subject>Men&apos;s swimming</dc:subject>
+  <dc:subject>Freestyle stroke (Swimming)</dc:subject>
+  <dc:subject>Crawl stroke (Swimming)</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Swimmers</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s swim team member performs the freestyle stroke in the pool.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 2000-2005</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), 2 x 2 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>U300.06.0008.00857</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:23721</dc:identifier>
+  <dc:identifier>codu:23721</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_26032</identifier>
+    <datestamp>2012-01-18T21:57:09Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Ice Hockey Player Jim Hau</dc:title>
+  <dc:title>Working Files, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Hau, Jim (James)</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:description>Handwritten on back: &quot;Jim Hau.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s ice hockey player Jim Hau poses for a portrait.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1988-1989</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 3 x 2.5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.06.0418.00062</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:26032</dc:identifier>
+  <dc:identifier>codu:26032</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_24590</identifier>
+    <datestamp>2012-01-18T21:56:31Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Tennis Player Magnus Ramfelt</dc:title>
+  <dc:title>Working Files, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Ramfelt, Magnus</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s tennis</dc:subject>
+  <dc:subject>Tennis</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Tennis players</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s tennis player Magnus Ramfelt poses for a portrait.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1998</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), 2 x 2 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>U300.06.0008.01113</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:24590</dc:identifier>
+  <dc:identifier>codu:24590</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_15856</identifier>
+    <datestamp>2012-01-18T21:57:16Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Ice Hockey Players</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Unknown</dc:creator>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Popenuik, John</dc:subject>
+  <dc:subject>Wolke, Roy</dc:subject>
+  <dc:subject>Abbott, William G. (Bill)</dc:subject>
+  <dc:subject>Raymond, Ken</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Field House Arena (Denver, Colo.)</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:description>University of Denver Pioneers men&apos;s ice hockey players John Popenuik (2), Roy Wolke (3), Ken Raymond, and Bill Abbott (11) skate to a full stop in unison on the ice at the DU Field House Arena in Denver, Colorado.</dc:description>
+  <dc:description></dc:description>
+  <dc:date>between 1953-1954</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>1 item, (photograph), 4 x 5 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>Handwritten on back: &quot;Popenuik - Wolke - Raymond - Abbott.&quot;</dc:format>
+  <dc:identifier>U300.01.0004.00161</dc:identifier>
+  <dc:identifier>codu:15856</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_26517</identifier>
+    <datestamp>2012-01-18T21:57:06Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Women&apos;s Soccer Match</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator>Lewis, Brian __Photographer</dc:creator>
+  <dc:subject>Running, Deshaunne</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Women&apos;s soccer</dc:subject>
+  <dc:subject>Soccer</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Soccer players</dc:subject>
+  <dc:description>Printed on back: &quot;Deshanue [sic] Running, 1996-97 Women&apos;s Soccer, University of Denver.&quot; &quot;Brian Lewis Photo Sep 9 1995&quot; stamped on back.</dc:description>
+  <dc:description>University of Denver (DU) Pioneers women&apos;s soccer player Deshaunne Running prepares to dribble the ball during a match.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>9/9/1995</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 7 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0058.00077</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:26517</dc:identifier>
+  <dc:identifier>codu:26517</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_25968</identifier>
+    <datestamp>2012-01-18T21:56:53Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Golf Team Member Skid Pirtle</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Pirtle, Skid</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Golf</dc:subject>
+  <dc:subject>Men&apos;s golf</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Golfers</dc:subject>
+  <dc:description>Written on back: &quot;Pirtle. 5-7-55.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s golf team member Skid Pirtle poses for a portrait.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>5/7/1955</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 5 x 4 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0048.00154</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:25968</dc:identifier>
+  <dc:identifier>codu:25968</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_24601</identifier>
+    <datestamp>2012-01-18T21:56:44Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Tennis Player Mike Nammar</dc:title>
+  <dc:title>Working Files, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Nammar, Mike</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s tennis</dc:subject>
+  <dc:subject>Tennis</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Tennis players</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s tennis player Mike Nammar poses for a portrait.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1998</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), 2 x 2 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>U300.06.0008.01114</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:24601</dc:identifier>
+  <dc:identifier>codu:24601</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_17026</identifier>
+    <datestamp>2012-01-18T21:56:50Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Colorado Women&apos;s College Women&apos;s Gymnastics Class</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator>Unknown</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>Colorado Women&apos;s College</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Women&apos;s gymnastics</dc:subject>
+  <dc:subject>Gymnastics</dc:subject>
+  <dc:subject>Gymnasiums</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Gymnasts</dc:subject>
+  <dc:description>Printer&apos;s instructions and marks written on label (label reads: &quot;1953 CWC Skyline&quot;) on front.</dc:description>
+  <dc:description>Four Colorado Women&apos;s College (CWC) students demonstrate a &quot;flying angel&quot; tumbling routine on a gymnastics mat. A basketball net and backboard are visible in the upper left hand corner. Photograph reproduced in the 1953 Colorado Women&apos;s College Skyline.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>circa 1953</dc:date>
+  <dc:type>Still image</dc:type>
+  <dc:format>1 item, (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0002.00020</dc:identifier>
+  <dc:identifier>wgym_002</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:17026</dc:identifier>
+  <dc:identifier>codu:17026</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_19151</identifier>
+    <datestamp>2012-01-18T21:57:26Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Women&apos;s Volleyball Match</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator>Sallaz, William __Photographer</dc:creator>
+  <dc:subject>Mizones, Kristen</dc:subject>
+  <dc:subject>Schulze, Amanda</dc:subject>
+  <dc:subject>Anderson, Marni</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Women&apos;s volleyball</dc:subject>
+  <dc:subject>Volleyball</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Volleyball players</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:description>Typed on slide mount: &quot; Denver University. Photo by William Sallaz.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers women&apos;s volleyball players Marni Anderson (5), Amanda Schulze (12), and Kristen Mizones (1) celebrate during a home volleyball game in Denver, Colorado in 1998.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1999</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), 2 x 2 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>U300.01.0008.00002</dc:identifier>
+  <dc:identifier>wvoll_014</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:19151</dc:identifier>
+  <dc:identifier>codu:19151</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_23622</identifier>
+    <datestamp>2012-01-18T22:03:12Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Golf Team Head Coach Eric Hoos</dc:title>
+  <dc:title>Working Files, Media Relations Records</dc:title>
+  <dc:creator>Sallaz, William __Photographer</dc:creator>
+  <dc:subject>Hoos, Eric</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s golf</dc:subject>
+  <dc:subject>Golf</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Golf coaches</dc:subject>
+  <dc:subject>Coaches (people)</dc:subject>
+  <dc:description>Handwritten on slide mount: &quot;Head Coach Eric Hoos.&quot; Typewritten on slide mount: &quot;Denver University Photo By William R. Sallaz.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s golf team head coach Eric Hoos poses for a portrait.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1999-2000</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), 2 x 2 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>U300.06.0008.00934</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:23622</dc:identifier>
+  <dc:identifier>codu:23622</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_24881</identifier>
+    <datestamp>2012-01-18T22:03:00Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver vs. Colorado College Men&apos;s Ice Hockey Game</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Colorado College</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:subject>Goalies (Hockey)</dc:subject>
+  <dc:subject>Hockey goalkeepers</dc:subject>
+  <dc:subject>Goalkeepers (Hockey)</dc:subject>
+  <dc:subject>Goaltenders (Hockey)</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s ice hockey player attempts to take control of the puck near the opposing Colorado College net as opposing defenders skate nearby during a game.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1953-1959</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 2.5 x 2.5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0048.00258.00002</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:24881</dc:identifier>
+  <dc:identifier>codu:24881</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_15572</identifier>
+    <datestamp>2012-01-18T22:03:22Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver vs. University of Montana Men&apos;s Basketball Game</dc:title>
+  <dc:title></dc:title>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s basketball</dc:subject>
+  <dc:subject>Basketball</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>University of Montana</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Basketball players</dc:subject>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:date>between 1958-1963</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>1 item, (photograph), 4 x 5 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>Handwritten on back: &quot;7596.&quot;</dc:format>
+  <dc:identifier>U300.01.0004.00244</dc:identifier>
+  <dc:identifier>codu:15572</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_25178</identifier>
+    <datestamp>2012-01-18T22:03:18Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>St. Louis Blues vs. Washington Capitals Men&apos;s Ice Hockey Game</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Rycroft, Mark</dc:subject>
+  <dc:subject>St. Louis Blues (Hockey team)</dc:subject>
+  <dc:subject>Washington Capitals (Hockey team)</dc:subject>
+  <dc:subject>National Hockey League</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:description>Typed on back: &quot;Tenzer, David.&quot;</dc:description>
+  <dc:description>Former University of Denver (DU) Pioneers men&apos;s ice hockey player and current NHL St. Louis Blues player Mark Rycroft (42) competes in a game against the Washington Capitals.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 2000-2004</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 8 x 10 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0055.00043</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:25178</dc:identifier>
+  <dc:identifier>codu:25178</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_25690</identifier>
+    <datestamp>2012-01-18T22:03:09Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Ski Team Member</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Steamboat Ski Area (Resort)</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Skiing</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Steamboat Springs (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Skiers</dc:subject>
+  <dc:description>Publisher&apos;s marks on front and back.</dc:description>
+  <dc:description>University of Denver (DU) Pioneers ski team member prepares to take off in an event in Steamboat Springs, Colorado.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1970-1980</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 10 x 8 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0069.00053</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:25690</dc:identifier>
+  <dc:identifier>codu:25690</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_23471</identifier>
+    <datestamp>2012-01-18T22:02:41Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Field House Arena Remodeling</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Field House Arena (Denver, Colo.)</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Built environment</dc:subject>
+  <dc:subject>Sports buildings</dc:subject>
+  <dc:subject>College buildings</dc:subject>
+  <dc:subject>Arenas</dc:subject>
+  <dc:subject>Interior views</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Field House Arena in the process of being remodeled.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1972</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0063.00045</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:23471</dc:identifier>
+  <dc:identifier>codu:23471</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_18783</identifier>
+    <datestamp>2012-01-18T22:03:03Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Football Stadium Construction</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>University of Denver Stadium (Denver, Colo.)</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s football</dc:subject>
+  <dc:subject>Football</dc:subject>
+  <dc:subject>College buildings</dc:subject>
+  <dc:subject>Stadiums</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Construction workers</dc:subject>
+  <dc:description>Handwritten on front: &quot;8-15-25.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Stadium photograph taken during construction in 1925. Image shows members of the construction crew working on the home stands.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>8/15/1925</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 3 x 6 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0050.00013</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:18783</dc:identifier>
+  <dc:identifier>codu:18783</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_15953</identifier>
+    <datestamp>2012-01-18T22:03:15Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Women&apos;s Tennis Player Kathy McCarthy</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator>Unknown</dc:creator>
+  <dc:subject>McCarthy, Kathy</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Women&apos;s tennis</dc:subject>
+  <dc:subject>Tennis</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Women tennis players</dc:subject>
+  <dc:subject>Tennis players</dc:subject>
+  <dc:description>Printer&apos;s marks on front. &quot;Kathy McCarthy&quot; typed on front.</dc:description>
+  <dc:description>University of Denver (DU) Pioneers women&apos;s tennis team member Kathy McCarthy reaches out to hit the ball during practice. Reproduced in 1979 Kynewisbok, page 301.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>circa 1979</dc:date>
+  <dc:type>Still image</dc:type>
+  <dc:format>1 item, (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0003.00092</dc:identifier>
+  <dc:identifier>wtenn_004</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:15953</dc:identifier>
+  <dc:identifier>codu:15953</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_19409</identifier>
+    <datestamp>2012-01-18T22:02:57Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Football Players</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s football</dc:subject>
+  <dc:subject>Football</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Football players</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Four University of Denver (DU) Pioneers men&apos;s football players pose for a group portrait on the football field.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1950-1960</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 4 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0011.00189</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:19409</dc:identifier>
+  <dc:identifier>codu:19409</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_15698</identifier>
+    <datestamp>2012-01-18T22:02:45Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver vs. Metro State Men&apos;s Basketball Game</dc:title>
+  <dc:title></dc:title>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s basketball</dc:subject>
+  <dc:subject>Basketball</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Field House Arena (Denver, Colo.)</dc:subject>
+  <dc:subject>Metropolitan State College of Denver</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Basketball players</dc:subject>
+  <dc:description></dc:description>
+  <dc:date>between 1990-1995</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>1 item, (photograph), 4 x 5 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0004.00275</dc:identifier>
+  <dc:identifier>codu:15698</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_16862</identifier>
+    <datestamp>2012-01-18T22:02:54Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>1956 University of Denver Men&apos;s Freshman Football Team</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator>Unknown</dc:creator>
+  <dc:subject>Brady, Lowell</dc:subject>
+  <dc:subject>Buck, Richard</dc:subject>
+  <dc:subject>Rendy, Frank</dc:subject>
+  <dc:subject>Hilderman, Leon</dc:subject>
+  <dc:subject>Fisher, Bob</dc:subject>
+  <dc:subject>Houston, Barnard</dc:subject>
+  <dc:subject>Sands, Bob</dc:subject>
+  <dc:subject>Barrett, Tim</dc:subject>
+  <dc:subject>Guest, Leo</dc:subject>
+  <dc:subject>Schnitker, Jay</dc:subject>
+  <dc:subject>Work, Jack</dc:subject>
+  <dc:subject>Collins, Paul</dc:subject>
+  <dc:subject>Hancock, Doug</dc:subject>
+  <dc:subject>Colinsky, John</dc:subject>
+  <dc:subject>Dertinger, John</dc:subject>
+  <dc:subject>Duso, Ceasar</dc:subject>
+  <dc:subject>Dolin, Jim</dc:subject>
+  <dc:subject>Dillon, Jerry</dc:subject>
+  <dc:subject>Black, Ron</dc:subject>
+  <dc:subject>Hardy, Dale</dc:subject>
+  <dc:subject>Pirilli, Lou</dc:subject>
+  <dc:subject>Sutton, Tom</dc:subject>
+  <dc:subject>Peters, Chuck</dc:subject>
+  <dc:subject>Brenen, Al</dc:subject>
+  <dc:subject>Sears, Dick</dc:subject>
+  <dc:subject>Munda, Jerry</dc:subject>
+  <dc:subject>Brciner, Phil</dc:subject>
+  <dc:subject>Lattrill, Gary</dc:subject>
+  <dc:subject>Bauer, Frank</dc:subject>
+  <dc:subject>Littlejohn, Jesse</dc:subject>
+  <dc:subject>Halstead, Carl</dc:subject>
+  <dc:subject>Hrainock, Joe</dc:subject>
+  <dc:subject>Blosser, Rich</dc:subject>
+  <dc:subject>Timerow, August</dc:subject>
+  <dc:subject>Lyons, Ron</dc:subject>
+  <dc:subject>Mulliner, Charles</dc:subject>
+  <dc:subject>Loos, Danny</dc:subject>
+  <dc:subject>Brady, Bruce</dc:subject>
+  <dc:subject>Haloi, Fred</dc:subject>
+  <dc:subject>Hakers, Gene</dc:subject>
+  <dc:subject>Ward, John</dc:subject>
+  <dc:subject>McNogna, Ken</dc:subject>
+  <dc:subject>Dickson, Sonny</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s football</dc:subject>
+  <dc:subject>Football</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Football players</dc:subject>
+  <dc:subject>Coaches (people)</dc:subject>
+  <dc:subject>Football coaches</dc:subject>
+  <dc:description>Handwritten on back: &quot;1956 Frosh.&quot;</dc:description>
+  <dc:description>1956 University of Denver (DU) Pioneers men&apos;s football freshman team pose for a team photograph in the bleachers. Front row: Lowell Brady, Richard Buck, Frank Rendy, Leon Hilderman, Bob Fisher, Barnard Houston, Bob Sands, Tim Barrett, Leo Guest, and assistant coach Jay Schnitker. Row two: Jack Work, Paul Collins, Doug Hancock, John Colinsky, John Dertinger, Ceasar Duso, Jim Dolin, Jerry Dillon, Ron Black, and coach Dale Hardy. Row three: Lou Pirilli, Tom Sutton, Chuck Peters, Al Brenen, Dick Sears, Jerry Munda, Phil Brciner, Gary Lattrill, Frank Bauer, Jesse Littlejohn, and assistant coach Carl Halstead. Row four: Trainer Joe Hrainock, Rich Blosser, August Timerow, Ron Lyons, Charles Mulliner, Danny Loos, Bruce Brady, Fred Haloi, Gene Hakers, John Ward, manager Ken McNogna, and manager Sonny Dickson.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1956</dc:date>
+  <dc:type>Still image</dc:type>
+  <dc:format>1 item, (photograph), 4 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0010.00364</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:16862</dc:identifier>
+  <dc:identifier>codu:16862</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_23877</identifier>
+    <datestamp>2012-01-18T22:00:31Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Women&apos;s Volleyball Match</dc:title>
+  <dc:title>Working Files, Media Relations Records</dc:title>
+  <dc:creator>Sallaz, William __Photographer</dc:creator>
+  <dc:subject>Baron, Andrea</dc:subject>
+  <dc:subject>Hughes, Olympia</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Women&apos;s volleyball</dc:subject>
+  <dc:subject>Volleyball</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Volleyball players</dc:subject>
+  <dc:description>Typewritten on slide mount: &quot;Denver University. Photo: William Sallaz.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers women&apos;s volleyball players Andrea Baron (5) and Olympia Hughes (12) react to a play during a match.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>2001</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), 2 x 2 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>U300.06.0008.00957</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:23877</dc:identifier>
+  <dc:identifier>codu:23877</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_26351</identifier>
+    <datestamp>2012-01-18T22:00:59Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Ice Hockey Game</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator>Willey, Steve __Photographer</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:subject>Hockey goalkeepers</dc:subject>
+  <dc:subject>Goalies (Hockey)</dc:subject>
+  <dc:subject>Goalkeepers (Hockey)</dc:subject>
+  <dc:subject>Goaltenders (Hockey)</dc:subject>
+  <dc:description>Stamped on back: &quot;Photo by Wille.&quot;</dc:description>
+  <dc:description>Two University of Denver (DU) Pioneers men&apos;s ice hockey players attempt to score a goal as an opposing goalie dives onto the ice in order to defend the goal during a game.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1975-1980</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0052.00103</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:26351</dc:identifier>
+  <dc:identifier>codu:26351</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_19536</identifier>
+    <datestamp>2012-01-18T22:00:52Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver vs. United States Air Force Academy Women&apos;s Basketball Game</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>United States Air Force Academy</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Women&apos;s basketball</dc:subject>
+  <dc:subject>Basketball</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Basketball players</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers women&apos;s basketball player (34) goes after a loose ball in the air as an opposing Air Force player attempts to grab the ball as well during a game.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1980-1988</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 7 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0050.00115</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:19536</dc:identifier>
+  <dc:identifier>codu:19536</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_24607</identifier>
+    <datestamp>2012-01-18T22:01:27Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Alumni Gymnasium</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Alumni Gymnasium (Denver, Colo.)</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Built environment</dc:subject>
+  <dc:subject>Sports buildings</dc:subject>
+  <dc:subject>College buildings</dc:subject>
+  <dc:subject>Gymnasiums</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Exterior view of the University of Denver (DU) Alumni Gymnasium.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1960-1970</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0063.00102</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:24607</dc:identifier>
+  <dc:identifier>codu:24607</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_24497</identifier>
+    <datestamp>2012-01-18T22:00:16Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Football Game</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>University of Denver Stadium (Denver, Colo.)</dc:subject>
+  <dc:subject>Built environment</dc:subject>
+  <dc:subject>Exterior views</dc:subject>
+  <dc:subject>Aerial views</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Football players</dc:subject>
+  <dc:subject>Football fans</dc:subject>
+  <dc:description>Handwritten on back: &quot;DU Stadium looking north late 40&apos;s-early 50s.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s football game shown from a distance with the University of Denver Stadium in view.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1945-1955</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0063.00094</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:24497</dc:identifier>
+  <dc:identifier>codu:24497</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_19192</identifier>
+    <datestamp>2012-01-18T22:02:29Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Baseball Game</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Aparicio, Luis</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s baseball</dc:subject>
+  <dc:subject>Baseball</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Baseball players</dc:subject>
+  <dc:description>Typewritten label on back: &quot;1981 Baseball. Luis Aparcio.&quot; Handwritten on back: &quot;Hitting - Luis Aparcio [sic].&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s baseball player Luis Aparicio swings and hits the ball during a game played in 1981. The Pioneers dugout is visible in the background.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1981</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 8 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0029.00038</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:19192</dc:identifier>
+  <dc:identifier>codu:19192</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_24011</identifier>
+    <datestamp>2012-01-18T22:01:02Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Ice Hockey Game</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Carlson, Corey</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:description>Stamped on back: &quot;Jan 90.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s ice hockey player Corey Carlson (24) skates with the puck during a game.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1/1990</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 5 x 3 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0387.00132</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:24011</dc:identifier>
+  <dc:identifier>codu:24011</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_23853</identifier>
+    <datestamp>2012-01-18T22:00:40Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Lacrosse Player Winslow Lewis</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Lewis, Winslow</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>Men&apos;s lacrosse</dc:subject>
+  <dc:subject>Lacrosse</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Lacrosse players</dc:subject>
+  <dc:description>Handwritten on back: &quot;Winslow Lewis 15.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s lacrosse player Winslow Lewis poses for a portrait.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 2000-2001</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 3.25 x 2.5 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0060.00106</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:23853</dc:identifier>
+  <dc:identifier>codu:23853</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_18926</identifier>
+    <datestamp>2012-01-18T22:00:55Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Football Game</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s football</dc:subject>
+  <dc:subject>Football</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Football players</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s football player tackles an opposing player (41) running with the ball during a game.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1952-1958</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 8 x 10 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0029.00097</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:18926</dc:identifier>
+  <dc:identifier>codu:18926</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_23713</identifier>
+    <datestamp>2012-01-18T21:59:23Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Golf Team Member John Buffalo</dc:title>
+  <dc:title>Working Files, Media Relations Records</dc:title>
+  <dc:creator>Sallaz, William __Photographer</dc:creator>
+  <dc:subject>Buffalo, John</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s golf</dc:subject>
+  <dc:subject>Golf</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Golfers</dc:subject>
+  <dc:description>Typewritten on slide mount: &quot;Denver University Photo By William R. Sallaz.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s golf team member John Buffalo hits the ball.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1999-2000</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), 2 x 2 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>U300.06.0008.00946</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:23713</dc:identifier>
+  <dc:identifier>codu:23713</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_18279</identifier>
+    <datestamp>2012-01-18T22:00:28Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Women&apos;s Gymnastics Team Member Jackie Martinez</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Martinez, Jackie (Jacqueline R.)</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Women&apos;s gymnastics</dc:subject>
+  <dc:subject>Gymnastics</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Gymnasts</dc:subject>
+  <dc:subject>Women gymnasts</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers women&apos;s gymnastics team member Jackie Martinez begins to run forward to execute a maneuver while performing a floor routine at a meet.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1980-1982</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 7 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0047.00050</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:18279</dc:identifier>
+  <dc:identifier>codu:18279</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_18623</identifier>
+    <datestamp>2012-01-18T22:00:37Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Ice Hockey Match</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s ice hockey players shake hands with the opposing team.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1988-1992</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), 2 x 2 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>U300.01.0008.00183</dc:identifier>
+  <dc:identifier>hock_032</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:18623</dc:identifier>
+  <dc:identifier>codu:18623</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_15828</identifier>
+    <datestamp>2012-01-18T22:01:24Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Football Players</dc:title>
+  <dc:title></dc:title>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Football teams</dc:subject>
+  <dc:subject>Football films</dc:subject>
+  <dc:subject>Football</dc:subject>
+  <dc:subject>Men&apos;s football</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Football players</dc:subject>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1955-1960</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>1 item, (photograph), 4 x 5 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:format>Printer&apos;s marks written on front and back.</dc:format>
+  <dc:identifier>U300.01.0004.00080</dc:identifier>
+  <dc:identifier>foot_007</dc:identifier>
+  <dc:identifier>codu:15828</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_18130</identifier>
+    <datestamp>2012-01-18T22:01:17Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver vs. Montana Tech of The University of Montana Men&apos;s Basketball Game</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator>Sallaz, William __Photographer</dc:creator>
+  <dc:subject>Lay, Taylor</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Montana Tech of The University of Montana</dc:subject>
+  <dc:subject>Magness Arena (Denver, Colo.)</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s basketball</dc:subject>
+  <dc:subject>Basketball</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Basketball players</dc:subject>
+  <dc:description>&quot;12 A-L 2002-1-25 Lay&quot; written on slide sleeve. Handwritten on slide mount: &quot;2002-1-25B.&quot; Stamped on slide mount: &quot;Denver Univ. Photo: Bill Sallaz.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s basketball player Taylor Lay (25) gets into position as he posts-up against an opposing player during a game against Montana Tech in Magness Arena in Denver, Colorado.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 2001-2002</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), 2 x 2 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>U300.01.0008.00453</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:18130</dc:identifier>
+  <dc:identifier>codu:18130</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_16981</identifier>
+    <datestamp>2012-01-18T22:00:25Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Ski Team Coach Willy Schaeffler</dc:title>
+  <dc:title></dc:title>
+  <dc:creator>Unknown</dc:creator>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Skiing</dc:subject>
+  <dc:subject>Schaeffler, Willy</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject>Skiing coaches</dc:subject>
+  <dc:subject>Coaches (people)</dc:subject>
+  <dc:description></dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:date>between 1950-1960</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>reformatted digital</dc:format>
+  <dc:format>1 item, (photograph), 4 x 5 inches, black and white</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0010.00277</dc:identifier>
+  <dc:identifier>codu:16981</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_18575</identifier>
+    <datestamp>2012-01-18T22:00:49Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver vs. Montana Tech of The University of Montana Men&apos;s Basketball Game</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator>Sallaz, William __Photographer</dc:creator>
+  <dc:subject>Rochell, Sherman</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Montana Tech of The University of Montana</dc:subject>
+  <dc:subject>Magness Arena (Denver, Colo.)</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s basketball</dc:subject>
+  <dc:subject>Basketball</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Basketball players</dc:subject>
+  <dc:description>Handwritten on slide mount: &quot;2002-1-21E.&quot; Stamped on slide mount: &quot;Denver Univ. Photo: Bill Sallaz.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s basketball player Sherman Rochell (21) shoots a jump shot during a game against Montana Tech in Magness Arena in Denver, Colorado.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 2001-2002</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), 2 x 2 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>U300.01.0008.00540</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:18575</dc:identifier>
+  <dc:identifier>codu:18575</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_23226</identifier>
+    <datestamp>2012-01-18T22:00:43Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Women&apos;s Volleyball Player Kathleen Holmes</dc:title>
+  <dc:title>Working Files, Media Relations Records</dc:title>
+  <dc:creator>Lewis, Brian __Photographer</dc:creator>
+  <dc:subject>Holmes, Kathleen</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Women&apos;s volleyball</dc:subject>
+  <dc:subject>Volleyball</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Volleyball players</dc:subject>
+  <dc:description>Typewritten on slide mount: &quot;Brian Lewis. August 1996. DU Volleyball.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers women&apos;s volleyball player Kathleen Holmes (4) hits the ball during a practice.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>8/1996</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), 2 x 2 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>U300.06.0008.01341</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:23226</dc:identifier>
+  <dc:identifier>codu:23226</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_24043</identifier>
+    <datestamp>2012-01-18T22:02:17Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Tennis Player Trevor Young</dc:title>
+  <dc:title>Working Files, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Young, Trevor</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s tennis</dc:subject>
+  <dc:subject>Tennis</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Tennis players</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s tennis player Trevor Young practices.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>2001</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), 2 x 2 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>U300.06.0008.01076</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:24043</dc:identifier>
+  <dc:identifier>codu:24043</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_18621</identifier>
+    <datestamp>2012-01-18T22:00:46Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Football Player</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s football</dc:subject>
+  <dc:subject>Football</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Football players</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s football player poses for a portrait.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1954</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 5 x 4 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0011.00211</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:18621</dc:identifier>
+  <dc:identifier>codu:18621</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_23007</identifier>
+    <datestamp>2012-01-18T22:01:12Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Field House Arena Swimming Pool</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Field House Arena (Denver, Colo.)</dc:subject>
+  <dc:subject>Built environment</dc:subject>
+  <dc:subject>Arenas</dc:subject>
+  <dc:subject>Swimming pools</dc:subject>
+  <dc:subject>Interior views</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Interior view of the University of Denver (DU) Field House Arena swimming pool.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 1980-1990</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 3.5 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0388.00092</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:23007</dc:identifier>
+  <dc:identifier>codu:23007</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_23785</identifier>
+    <datestamp>2012-01-18T22:01:09Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Ice Hockey Game</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Berens, Rick</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:description>Stamped on back: &quot;Nov 89.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s ice hockey player Rick Berens (7) and a teammate celebrate on the ice during a game.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>11/1989</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 5 x 3 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0387.00282</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:23785</dc:identifier>
+  <dc:identifier>codu:23785</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_24628</identifier>
+    <datestamp>2012-01-18T22:01:21Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Ice Hockey Game</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Markovich, Mike</dc:subject>
+  <dc:subject>Murano, Eric</dc:subject>
+  <dc:subject>Podiak, Brad</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:description>Stamped on back: &quot;Jan 90.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s ice hockey players Mike Markovich (27), Eric Murano (11) and Brad Podiak (9) wait for the action to begin during a game.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1/1990</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 3 x 5 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0387.00063</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:24628</dc:identifier>
+  <dc:identifier>codu:24628</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_18190</identifier>
+    <datestamp>2012-01-18T22:01:30Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver vs. Montana Tech of The University of Montana Men&apos;s Basketball Game</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator>Sallaz, William __Photographer</dc:creator>
+  <dc:subject>Goral, Ryan</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Montana Tech of The University of Montana</dc:subject>
+  <dc:subject>Magness Arena (Denver, Colo.)</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Men&apos;s basketball</dc:subject>
+  <dc:subject>Basketball</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Basketball players</dc:subject>
+  <dc:description>&quot;9 A-I 2002-1-30 Goral&quot; written on slide sleeve. Handwritten on slide mount: &quot;2002-1-30G.&quot; Stamped on slide mount: &quot;Denver Univ. Photo: Bill Sallaz.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s basketball player Ryan Goral (30) shoots a jump shot outside the three point line during a game against Montana Tech in Magness Arena in Denver, Colorado.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>between 2001-2002</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (slide), 2 x 2 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Slides</dc:format>
+  <dc:identifier>U300.01.0008.00457</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:18190</dc:identifier>
+  <dc:identifier>codu:18190</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_15861</identifier>
+    <datestamp>2012-01-18T22:01:06Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Skiing</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator>Unknown</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Skiing</dc:subject>
+  <dc:subject>Recreation</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>Skiers</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers recreational skier goes off of a jump.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>1999</dc:date>
+  <dc:type>Still image</dc:type>
+  <dc:format>1 item, (film negative), 4 x 5 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Film negatives</dc:format>
+  <dc:identifier>U300.01.0004.00090</dc:identifier>
+  <dc:identifier>act_022</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:15861</dc:identifier>
+  <dc:identifier>codu:15861</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_18360</identifier>
+    <datestamp>2012-01-18T22:00:34Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver vs. United States Military Academy Men&apos;s Lacrosse Match</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator></dc:creator>
+  <dc:subject>Dougherty, Ben</dc:subject>
+  <dc:subject>Goodwin, Ethan</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>United States Military Academy</dc:subject>
+  <dc:subject>Michie Stadium (West Point, N.Y.)</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Lacrosse fields</dc:subject>
+  <dc:subject>Lacrosse</dc:subject>
+  <dc:subject>Men&apos;s lacrosse</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>West Point (N.Y.)</dc:subject>
+  <dc:subject>New York</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Lacrosse players</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s lacrosse player Ben Dougherty (23) shown on the field as the Pioneer sideline is shown in the background during a match against Army in Michie Stadium in West Point, New York in 2002. Pioneer player Ethan Goodwin (26) is visible on the sidelines.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>3/2/2002</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 5 x 7 inches, color</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0030.00111</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:18360</dc:identifier>
+  <dc:identifier>codu:18360</dc:identifier>
+  <dc:language></dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_26496</identifier>
+    <datestamp>2012-01-18T22:00:19Z</datestamp>
+    <setSpec>codu_15559</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Men&apos;s Ice Hockey Game</dc:title>
+  <dc:title>Athletics and Recreation Photographs, Media Relations Records</dc:title>
+  <dc:creator>Goodman, Paul __Photographer</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Athletics</dc:subject>
+  <dc:subject>College sports</dc:subject>
+  <dc:subject>Ice hockey</dc:subject>
+  <dc:subject>Men&apos;s ice hockey</dc:subject>
+  <dc:subject>Action shots</dc:subject>
+  <dc:subject>Denver (Colo.)</dc:subject>
+  <dc:subject>Colorado</dc:subject>
+  <dc:subject>College students</dc:subject>
+  <dc:subject>Athletes</dc:subject>
+  <dc:subject>Ice hockey players</dc:subject>
+  <dc:subject>Hockey players</dc:subject>
+  <dc:description>University of Denver Clarion newspaper stamp on back: &quot;Photographer: Paul Goodman, Date: 10/83, Subject: DU Hockey Player.&quot;</dc:description>
+  <dc:description>University of Denver (DU) Pioneers men&apos;s ice hockey player on ice during a game.</dc:description>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:date>10/1983</dc:date>
+  <dc:type>still image</dc:type>
+  <dc:format>1 item, (photograph), 5 x 7 inches, black and white</dc:format>
+  <dc:format>Reformatted digital</dc:format>
+  <dc:format>Photographic prints</dc:format>
+  <dc:identifier>U300.01.0054.00001</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:26496</dc:identifier>
+  <dc:identifier>codu:26496</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

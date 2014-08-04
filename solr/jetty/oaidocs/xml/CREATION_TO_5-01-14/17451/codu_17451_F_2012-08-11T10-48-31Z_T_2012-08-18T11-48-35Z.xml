@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-05-05T05:09:57Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62149</identifier>
+    <datestamp>2012-08-16T20:47:21Z</datestamp>
+    <setSpec>codu_60147</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Bulletin. Vol. 20 No. 2 (February 1919)</dc:title>
+  <dc:creator></dc:creator>
+  <dc:creator>University of Denver</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Preparatory schools</dc:subject>
+  <dc:subject>Private universities and colleges</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Monthly issue of a bulletin announcing the program &quot;University Lectures for Working People&quot;. The University hopes to provide educational privileges for working people who wish to make life better for themselves and for others in courses of lectures to be offered two nights a week. Second monthly issue published by the University of Denver at University Hall, University Park, Denver, Colorado. Academic units mentioned at this time are: College of Liberal Arts, Graduate School, Extension College, Summer School, School of Pharmacy, Law School, Dental School, School of Commerce.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colo.</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor>University Council</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>1919</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>issue</dc:type>
+  <dc:format>3 p.</dc:format>
+  <dc:format>Pamphlet</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62149</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58190</identifier>
+    <datestamp>2012-08-17T23:59:47Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Laundry Receipt</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">7/2/1942</dc:date>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Denver, Colorado</dc:publisher>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:publisher>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Denver, Colorado</dc:publisher>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">__ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 item (sheet), 18 x 11 centimeters</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">Sheets (Information artifacts)</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">reformatted digital</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Laundry receipt from W. Spindler, Berlin, Germany used by Marie Loewenstein to prove residency in her apartment.  Front of the receipt is dated and has the order information along with the order confirmation and delivery conditions.  Back of the receipt has the continuation of the delivery conditions and the insurance conditions.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Laundry</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Loewenstein, Maria--(Marie Lilli Margarete),--1894-1982</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">W. Spindler A.G.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Receipts.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Berlin (Germany)</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Artist</dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Loewenstein Family Holocaust Papers, The War Years: Berlin</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">codu:58190</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">10-06.05</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://hdl.handle.net/10176/codu:58190</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">W. Spindler A.G.</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">B333.02.0001.0002.00014</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62142</identifier>
+    <datestamp>2012-08-16T17:17:24Z</datestamp>
+    <setSpec>codu_60147</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">University Bulletin. Vol. 17 No. 5 (May 1916)</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">University Council</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1916</dc:date>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Denver, Colo.</dc:publisher>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:publisher>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">issue</dc:type>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">English</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">[3 p.]</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">Pamphlet</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">reformatted digital</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Monthly issue of a bulletin describing the Warren Academy general statement (The Warren Academy is maintained to prepare students for the College of Liberal Arts, the School of Law, and the School of Commerce. At present, the students enjoy the general benefits and privileges open to students in the college classes, including library, lectures, laboratory, gymnasium, religious and social privileges. Secret societies are not permitted among the students in the Academy), and requirements for admission and graduation. The fifth monthly issue published by the University of Denver at University Hall, University Park, Denver, Colorado.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Preparatory schools</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Private universities and colleges</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Colorado</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Denver (Colo.)</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">University of Denver</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">codu:62142</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://hdl.handle.net/10176/codu:62142</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58191</identifier>
+    <datestamp>2012-08-18T00:10:05Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Berlin Power and Light Bill</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">11/1942</dc:date>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Denver, Colorado</dc:publisher>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:publisher>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Denver, Colorado</dc:publisher>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">__ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 item (sheet), 15 x 21 centimeters</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">Sheets (Information artifacts)</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">reformatted digital</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Receipt and bill from Berliner Kraft- und Licht (Bewag)-Aktiengesellschaft, Berlin Power and Light, Berlin, Germany used by Marie Loewenstein to prove residency in her apartment.  Front cover is an advertisement for the company.  On the back cover is a list of important information.  Inside left of the bill is a receipt that has been filled out and is addressed to Dr. Max Loewenstein.  Inside right side is a bill addressed to Dr. Max Loewenstein, it has not been filled out.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Electrification.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Loewenstein, Max,--1885-1948</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Berliner Kraft- und Licht (Bewag)-Aktiengesellschaft</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Receipts.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Berlin (Germany)</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Physicians</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Artist</dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Loewenstein Family Holocaust Papers, The War Years: Berlin</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">codu:58191</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">10-06.05</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://hdl.handle.net/10176/codu:58191</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Berliner Kraft- und Licht (Bewag)-Aktiengesellschaft</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">B333.02.0001.0002.00015</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Loewenstein, Maria--(Marie Lilli Margarete),--1894-1982</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62147</identifier>
+    <datestamp>2012-08-16T18:34:22Z</datestamp>
+    <setSpec>codu_32558</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Herbert A. Howe 1889 Diary</dc:title>
+  <dc:creator></dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Faculty</dc:subject>
+  <dc:subject>Families</dc:subject>
+  <dc:subject>Astronomy</dc:subject>
+  <dc:subject>Community Life</dc:subject>
+  <dc:subject>Suburban Life</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Shattuck family</dc:subject>
+  <dc:subject>Howe, Herbert A.--(Herbert Alonzo),--1858-1926</dc:subject>
+  <dc:subject>Howe family</dc:subject>
+  <dc:subject>Chamberlin Observatory</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Diaries</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Professor Howe&apos;s diary for 1889 recounts his brief weather and astronomical observations, administrative and teaching activities at the University of Denver, construction of Chamberlin Observatory, participation in events in University Park and elsewhere in Denver, his family and religious life.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher></dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:contributor>Howe, Herbert A.--(Herbert Alonzo),--1858-1926</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>1889</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>392 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62147</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Herbert Alonzo Howe Collection, Diaries</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage>University Park (Denver, Colo.)</dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62151</identifier>
+    <datestamp>2012-08-16T21:55:34Z</datestamp>
+    <setSpec>codu_60147</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Bulletin. Vol. 20 No. 3 (March 1919)</dc:title>
+  <dc:creator></dc:creator>
+  <dc:creator>University of Denver</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Preparatory schools</dc:subject>
+  <dc:subject>Private universities and colleges</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Monthly issue of a bulletin describing the Schools, Departments and programs of the University of Denver (Summer School programs). Third monthly issue published by the University of Denver at University Hall, University Park, Denver, Colorado. Academic units mentioned at this time are: College of Liberal Arts, Graduate School, Extension College, Summer School, School of Pharmacy, Law School, Dental School, School of Commerce.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colo.</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor>University Council</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>1919</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>issue</dc:type>
+  <dc:format>22 p.</dc:format>
+  <dc:format>Pamphlet</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62151</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_60149</identifier>
+    <datestamp>2012-08-14T19:32:20Z</datestamp>
+    <setSpec>codu_60147</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">University Bulletin. Vol. 1, No. 1 (July 1895)</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1895</dc:date>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Denver, Colo.</dc:publisher>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:publisher>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">issue</dc:type>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">English</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">8 p.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">Pamphlet</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">reformatted digital</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Quarterly issue of a bulletin describing the Schools, Departments and programs of the University of Denver. First quarterly issue of a news bulletin edited by the University Council, made up of the Chancellor, the Deans and Secretaries of the various schools. Academc units mentioned at this time are:  College of Liberal Arts, School of Medicine, Iliff School of Theology, School of Law, School of Dentistry, School of Pharmacy, School of Fine Arts, School of Music, College of Preparatory School. Membership and committee structure of the University Trustees is detailed. Related organizations mentioned include: The University League and The Minister&apos;s Wives Association.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Private universities and colleges</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Preparatory schools</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">codu:60149</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://hdl.handle.net/10176/codu:60149</dc:identifier>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Denver (Colo.)</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Colorado</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">College publications</dc:subject>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver. University Council</dc:contributor>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">University of Denver</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62092</identifier>
+    <datestamp>2012-08-15T21:56:27Z</datestamp>
+    <setSpec>codu_60147</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver Bulletin. Vol. 21, No. 1 (January 1920)</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver, University Council</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1920</dc:date>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Denver Colo.</dc:publisher>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:publisher>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">issue</dc:type>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">English</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">6 p.</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">Pamphlet</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">reformatted digital</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Monthly issue of a bulletin describing the Schools, Departments and programs of the University of Denver. First monthly issue of a bulletin was published by the University of Denver at University Hall, University Park, Denver, Colorado. Academic units mentioned this time are: College of Liberal Arts, Graduate School, School of Engineering, School of Pharmacy, Extension College, Law School, Dental School, School of Commerce, Summer School.
+ </dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Private universities and colleges</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Preparatory schools</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Colorado</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Denver (Colo.)</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">University of Denver</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">College publications</dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">codu:62092</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://hdl.handle.net/10176/codu:62092</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58192</identifier>
+    <datestamp>2012-08-17T23:53:01Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Berlin Gasworks Bill</dc:title>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">2/24/1943</dc:date>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Denver, Colorado</dc:publisher>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">University of Denver</dc:publisher>
+  <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Denver, Colorado</dc:publisher>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">__ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">1 item (sheet), 21 x 15 centimeters</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">Sheets (Information artifacts)</dc:format>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">reformatted digital</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Berliner Gaswerke, Berlin Gasworks, bill addressed to Dr. Max Loewenstein.  Marie Loewenstein used this receipt to prove residency in her apartment.</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Gas manufacture and works</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Loewenstein, Max,--1885-1948</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Berliner Gaswerke</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Receipts.</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/">Berlin (Germany)</dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Physicians</dc:subject>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Artist</dc:subject>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">Loewenstein Family Holocaust Papers, The War Years: Berlin</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">codu:58192</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">10-06.05</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">http://hdl.handle.net/10176/codu:58192</dc:identifier>
+  <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Berliner Gaswerke</dc:creator>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:type>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:description>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">B333.02.0001.0002.00016</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:identifier>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema"></dc:subject>
+  <dc:coverage xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:coverage>
+  <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Loewenstein, Maria--(Marie Lilli Margarete),--1894-1982</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_61248</identifier>
+    <datestamp>2012-08-14T16:07:07Z</datestamp>
+    <setSpec>codu_32558</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Herbert A. Howe 1884 Diary</dc:title>
+  <dc:creator>Howe, Herbert A.--(Herbert Alonzo),--1858-1926</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Faculty</dc:subject>
+  <dc:subject>Families</dc:subject>
+  <dc:subject>Astronomy</dc:subject>
+  <dc:subject>Community Life</dc:subject>
+  <dc:subject>Suburban life</dc:subject>
+  <dc:subject>Universities and colleges</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Shattuck family</dc:subject>
+  <dc:subject>Howe, Herbert A. (Herbert Alonzo)- 1858-1926</dc:subject>
+  <dc:subject>Howe Family</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Diaries</dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Professor Howe&apos;s diary for 1884 recounts his brief weather and astronomical observations, teaching activities at the University of Denver, participation in events in University Park and elsewhere in Denver, his family and religious life. He was awarded a D.Sc. from Boston University for work in mathematics. On December 23 he married Fannie Shattuck, the 23-year old eldest daughter of the Dean of the College of Liberal Arts, Joseph C. Shattuck.  A brief mention of the wedding appears on that date, and a list of gifts along with his and his new wife&apos;s extended descriptions of the event appear in notes at the end.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher></dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:date>1884</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:format>413 pages</dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:61248</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>Herbert Alonzo Howe Collection, Diaries</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage>University Park (Denver, Colo.)</dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_62148</identifier>
+    <datestamp>2012-08-16T20:04:28Z</datestamp>
+    <setSpec>codu_60147</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>University of Denver Bulletin. Vol. 20 No.1 (January 1919)</dc:title>
+  <dc:creator></dc:creator>
+  <dc:creator>University of Denver</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Preparatory schools</dc:subject>
+  <dc:subject>Private universities and colleges</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:description></dc:description>
+  <dc:description>Monthly issue of a bulletin describing the Schools, Departments and programs of the University of Denver. First monthly issue of a bulletin published by the University of Denver at University Hall, University Park, Denver, Colorado. Academic units mentioned at this time are: College of Liberal Arts, Graduate School, Extension College, Summer School, School of Pharmacy, Law School, Dental School, School of Commerce.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:publisher>Denver, Colo.</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:contributor></dc:contributor>
+  <dc:contributor>University Council</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>1919</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>issue</dc:type>
+  <dc:format>3 p.</dc:format>
+  <dc:format>Pamphlet</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:62148</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:coverage></dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:coverage></dc:coverage>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>
