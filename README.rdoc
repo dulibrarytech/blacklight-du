@@ -1,0 +1,30 @@
+== README
+Project blacklight-du 
+Developer: Jeff Rynhart jeff.rynhart@du.edu
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+DEPLOY TO SERVER:
+
+
+UPLOAD SOLR INDEX:
+
+ADR (OAI-DC) ------------------------------------------------------------------------------------------------------------------------------------------
+
+HARVEST:
+Files located in libAppsScripts bitbucket repo
+Place runADR_OAIHarvester.php, ADR_OAIHarvester.php, and file-helper.php in a folder. 
+Run 'runADR_OAIHarvester.php' from command line.  Instructions in file header
+
+CONVERSION: 
+Files located in libAppsScripts bitbucket repo
+Place Oai-solr-parser-script.php and OaiToSolrXmlParser.php in a folder, along with any harvested .xml files to convert
+Run Oai-solr-parser-script.php from command line, instructions in file headers
+Output: *_solr.xml files of 'blacklight solr ingest format'
+
+INGEST:
+Place all *_solr.xml files to be ingested into a folder with 'post.jar' (included with solr)
+Run post.jar
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
