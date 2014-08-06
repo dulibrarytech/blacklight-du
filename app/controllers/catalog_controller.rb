@@ -91,9 +91,9 @@ class CatalogController < ApplicationController
     # config.add_index_field 'title', :label => 'Title'
     config.add_index_field 'creator', :label => 'Creator'
     config.add_index_field 'pub_date', :label => 'Date'
-    config.add_index_field 'type_facet', :label => 'Type'
-    config.add_index_field 'format_facet', :label => 'Format'
-    config.add_index_field 'subject_facet', :label => 'Subject', :limit => 1
+    # config.add_index_field 'type_facet', :label => 'Type'
+    # config.add_index_field 'format_facet', :label => 'Format'
+    # config.add_index_field 'subject_facet', :label => 'Subject', :limit => 1
     config.add_index_field 'thumbnail', :label => 'Preview'
 
     # solr fields to be displayed in the show (single result) view
