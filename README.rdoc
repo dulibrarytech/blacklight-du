@@ -32,4 +32,7 @@ INGEST:
 Place all *_solr.xml files to be ingested into a folder with 'post.jar' (included with solr)
 Run post.jar, specifying solr port: [java -Durl=http://localhost:8889/solr/update -jar post.jar (*.xml)]
 
+Location of ADR harvested xml files to date:
+OAI- blacklight-du/solr/jetty/oaidocs
+EAD- (In XTF project folder) 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
