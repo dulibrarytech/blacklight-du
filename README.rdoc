@@ -16,6 +16,11 @@ HARVEST:
 Files located in libAppsScripts bitbucket repo
 Place runADR_OAIHarvester.php, ADR_OAIHarvester.php, and file-helper.php in a folder. 
 Run 'runADR_OAIHarvester.php' from command line.  Instructions in file header
+	ex: $ php runADR_OAIHarvester.php [start date] [codu_nnnnn]
+	Arg1: harvest records starting from this date (optional) default is set creation date
+	Arg2: harvest records from this set (optional) default is all sets
+	Set list option: if a file named 'setPidList.txt' is in the script folder, and no set arg is specified, the sets from the list will be harvested.
+		The file should include a list of set pids in format 'codu_nnnnn'
 
 CONVERSION: 
 Files located in libAppsScripts bitbucket repo
@@ -25,6 +30,6 @@ Output: *_solr.xml files of 'blacklight solr ingest format'
 
 INGEST:
 Place all *_solr.xml files to be ingested into a folder with 'post.jar' (included with solr)
-Run post.jar
+Run post.jar, specifying solr port: [java -Durl=http://localhost:8889/solr/update -jar post.jar (*.xml)]
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
