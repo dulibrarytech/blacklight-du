@@ -274,11 +274,15 @@ be used for benchmarking.  To improve performance one could
 <uniqueKey>id</uniqueKey>
 <copyField source="*_facet" dest="text"/>
 
+<copyField source="format" dest="all_format"/>
+<copyField source="format_facet" dest="all_format"/>
+<copyField source="subject" dest="all_subject"/>
+<copyField source="subject_facet" dest="all_subject"/>
 <copyField source="title" dest="all_fields"/>
 <copyField source="subject" dest="all_fields"/>
+<copyField source="creator" dest="all_fields"/>
 <!-- <copyField source="pub_date" dest="all_fields"/>
 <copyField source="links" dest="all_fields"/> -->
-<copyField source="creator" dest="all_fields"/>
 <!-- <copyField source="format" dest="all_fields"/>
 <copyField source="abstract" dest="all_fields"/>
 <copyField source="identifier" dest="all_fields"/>
