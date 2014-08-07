@@ -180,7 +180,9 @@ be used for benchmarking.  To improve performance one could
  <!-- catchall field, containing all other searchable text fields (implemented
       via copyField further on in this schema  -->
  <field name="text" type="text_general" indexed="true" stored="false" multiValued="true"/>
- <field name="all_fields" type="text_general" indexed="true" stored="false" multiValued="true"/>
+ <field name="all_fields" type="text_general" indexed="true" stored="true" multiValued="true"/>
+ <field name="all_format" type="text_general" indexed="true" stored="true" multiValued="true"/>
+ <field name="all_subject" type="text_general" indexed="true" stored="true" multiValued="true"/>
 
  <!-- catchall text field that indexes tokens both normally and in reverse for efficient
       leading wildcard queries. -->
@@ -254,6 +256,7 @@ be used for benchmarking.  To improve performance one could
  <dynamicField name="*_facet" type="string" indexed="true" stored="true" multiValued="true" />
   <dynamicField name="*_display" type="string" indexed="false" stored="true" />
   <dynamicField name="random*" type="random" />
+  <dynamicField name="format*" type="text_general" indexed="true" stored="true" multiValued="true" />
 
   <!--copyField source="format_facet" dest="format"/>
   <copyField source="type_facet" dest="format"/>
@@ -273,6 +276,7 @@ be used for benchmarking.  To improve performance one could
  -->
 <uniqueKey>id</uniqueKey>
 <copyField source="*_facet" dest="text"/>
+<copyField source="format*" dest="text"/>
 
 <copyField source="format" dest="all_format"/>
 <copyField source="format_facet" dest="all_format"/>
