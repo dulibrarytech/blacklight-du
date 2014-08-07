@@ -7,21 +7,21 @@
     <li class="facet-item">
 
       <!-- Blacklight-du: Facet pane thumbnails -->
-      <% if item.value == "still image" %>
+      <% if item.value == "Still Image" %>
         <span class="facet-tn" id="still-image-tn"><%= image_tag "picture-in-frame-TN.png", size: "24x24" %></span>
-      <% elsif item.value == "text" %>
+      <% elsif item.value == "Text" %>
         <span class="facet-tn"><%= image_tag "old-book-TN.png", size: "21x21", style: "margin-top: -5px;" %></span> 
-      <% elsif item.value == "sound recording" %>
+      <% elsif item.value == "Sound Recording" %>
         <span class="facet-tn"><%= image_tag "mic-TN.png", size: "25x25", style: "margin-top: -5px;" %></span>
-      <% elsif item.value == "map" %>
+      <% elsif item.value == "Map" %>
         <span class="facet-tn" style="margin-left: -5px;"><%= image_tag "map-TN.png", size: "27x27", style: "margin-top: -7px;" %></span>
-      <% elsif item.value == "moving image" %>
+      <% elsif item.value == "Moving Image" %>
         <span class="facet-tn" style="margin-left: -5px;"><%= image_tag "film-camera-TN.png", size: "30x27", style: "margin-top: -5px;" %></span>
-      <% elsif item.value == "art reproduction" %>
+      <% elsif item.value == "Art Reproduction" %>
         <span class="facet-tn"><%= image_tag "palette-TN.png", size: "25x25", style: "margin-top: -5px;" %></span>
-      <% elsif item.value == "scrapbook" %>
+      <% elsif item.value == "Scrapbook" %>
         <span class="facet-tn"><%= image_tag "scrap-TN.png", size: "25x25", style: "margin-top: -5px;" %></span>
-      <% elsif item.value == "archival resource" %>
+      <% elsif item.value == "Archival Resource" %>
         <span class="facet-tn" style="margin-left: -5px;"><%= image_tag "archive-TN.jpg", size: "28x28", style: "margin-top: -10px;" %></span>
       <% end %>
 
