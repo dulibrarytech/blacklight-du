@@ -222,6 +222,10 @@ article.floatbox {
 	border-width:1px; 
 	border-radius:10px
 }
+article.floatbox a {
+	
+	color: #8b2332;
+}
 
 /* Form background */
 .well {
@@ -300,6 +304,18 @@ article.floatbox {
 	top: 28px;
 	left: 0px;
     z-index: 1;
+}
+
+#app-title-box a {
+	
+	font-size: 1.0em;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+#app-title-box a:hover {
+	
+	text-decoration: none;
 }
 
 #header-bar-base {
