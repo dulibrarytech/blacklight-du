@@ -33,7 +33,6 @@ label {
 
 h4, h3 {
 	
-	color: #8b2332;
 	font-weight: bold;
 }
 
@@ -348,12 +347,17 @@ div.pull-right a {
 div.pull-right.search-widgets a {
 	
 	background-color: #dedede;
-	color: #232323;
+	color: #454545;
 }
 
 div.pull-right.search-widgets > a:hover {
 	
-	color: #232323;
+	color: #454545;
+}
+
+div#content a.btn-danger {
+	
+	color: #454545;
 }
 
 div#sort-dropdown button a, 
