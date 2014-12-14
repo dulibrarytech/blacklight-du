@@ -1,0 +1,2010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-12-14T16:34:21Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58241</identifier>
+    <datestamp>2014-10-10T00:53:32Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Henry Lowenstein</dc:title>
+  <dc:type>MovingImage</dc:type>
+  <dc:date>2/5/2011-and 2/20/2011</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:language>English</dc:language>
+  <dc:format>1 item, (videodisc), 5 hours</dc:format>
+  <dc:format>Digital video recordings</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>4 3/4 inches</dc:description>
+  <dc:description>A three-part unedited video interview with Henry Lowenstein.</dc:description>
+  <dc:subject>Holocaust survivors</dc:subject>
+  <dc:subject>Holocaust victims</dc:subject>
+  <dc:subject>Holocaust, Jewish (1939-1945)</dc:subject>
+  <dc:subject>Jewish children in the Holocaust</dc:subject>
+  <dc:subject>Kindertransports (Rescue operations)</dc:subject>
+  <dc:subject>Lowenstein, Henry, 1925-1924</dc:subject>
+  <dc:subject>Pettit, Steven</dc:subject>
+  <dc:subject>Loewenstein, Maria--(Marie Lilli Margarete),--1894-1982</dc:subject>
+  <dc:subject>Wharton, Karin--(Karin M.),--1915-</dc:subject>
+  <dc:subject>Rocky Mountain Jewish Historical Society</dc:subject>
+  <dc:subject>Starwest Productions</dc:subject>
+  <dc:subject>Wittenauer Heilstätten</dc:subject>
+  <dc:subject>Oral histories (Document genres)</dc:subject>
+  <dc:subject>Interviews</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Berlin (Germany)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>England</dc:coverage>
+  <dc:subject>Physicians</dc:subject>
+  <dc:subject>Artist</dc:subject>
+  <dc:subject>Students</dc:subject>
+  <dc:relation>Loewenstein Family Holocaust Papers, Lowenstein Family Holocaust Exhibit Booklet and DVDs</dc:relation>
+  <dc:identifier>B333.07.0001.0007.00002</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58241</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.07.0001.0007.00002</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject>Loewenstein, Max,--1885-1948</dc:subject>
+  <dc:creator>Lowenstein, Henry, 1925-1924</dc:creator>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58233</identifier>
+    <datestamp>2014-10-10T00:54:31Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Radiogram</dc:title>
+  <dc:creator>Lowenstein, Henry, 1925-1924</dc:creator>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>7/24/1946</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>__eng</dc:language>
+  <dc:format>1 item (letter), 18 x 22 centimeters</dc:format>
+  <dc:format>Letters</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description>Radiogram from Henry Lowenstein to his family on the SS Marine Perch during their crossing to the United States. The message reads: &quot;AONY DE GKV - RELAYED VIA ANBM, WHIPSNADE NR1 10 21 1253, STEINBERG SS MARINE PERCH/ GLV VIA ANBM, LOVE AND ALL THE BEST - HENRY.&quot;</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Marine Perch (Ship)</dc:subject>
+  <dc:subject>Holocaust survivors</dc:subject>
+  <dc:subject>Lowenstein, Henry, 1925-1924</dc:subject>
+  <dc:subject>Wharton, Karin--(Karin M.),--1915-</dc:subject>
+  <dc:subject>United States Lines Company</dc:subject>
+  <dc:subject>Letters</dc:subject>
+  <dc:subject>Correspondence</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>England</dc:coverage>
+  <dc:subject>Students</dc:subject>
+  <dc:relation>Loewenstein Family Holocaust Papers, Emigration</dc:relation>
+  <dc:identifier>B333.06.0001.0006.00013</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58233</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.06.0001.0006.00013</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59938</identifier>
+    <datestamp>2014-10-10T00:55:44Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Kindertransport Plaque</dc:title>
+  <dc:creator>Lowenstein, Henry, 1925-1924</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>StillImage</dc:type>
+  <dc:date>6/14/1999</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format>1 item, (photograph), 492 x 500 pixels, black and white</dc:format>
+  <dc:format></dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>The Kindertransport (Children&apos;s Transport) plaque at the Palace of Westminister, London, England during its unveiling event.</dc:description>
+  <dc:description>Original photograph retained by donor.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Holocaust survivors</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>London (England)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:relation>Lowenstein Family Holocaust Papers, Pre-War and Kindertransport</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.01.0002.0001.00017</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59938</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58230</identifier>
+    <datestamp>2014-10-10T00:56:48Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Post Office Telegram</dc:title>
+  <dc:creator>Weddell, Ingrid Lind, 1920-</dc:creator>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>6/10/1947-and 6/12/1947</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>__eng</dc:language>
+  <dc:format>1 item (letter), 12 x 19 centimeters</dc:format>
+  <dc:format>Letters</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description>Telegram from Ingrid Lind Weddell to Henry Loewenstein before his departure from England to the United States. The message reads, &quot;Henry Loewenstein Church Farm, Whipsnade DP., Good journey love to family, Ingrid.&quot; Post office stamp dated June 10, 1947, Dunstable, Beds, England. Delivery information printed by hand on the top of the telegram including date, June 12, 1947, and time, 5:30 p.m. Bath.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Holocaust survivors</dc:subject>
+  <dc:subject>Lowenstein, Henry, 1925-1924</dc:subject>
+  <dc:subject>Letters</dc:subject>
+  <dc:subject>Correspondence</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>England</dc:coverage>
+  <dc:subject>Students</dc:subject>
+  <dc:relation>Loewenstein Family Holocaust Papers, Emigration</dc:relation>
+  <dc:identifier>B333.06.0001.0006.00010</dc:identifier>
+  <dc:identifier>10-03.03</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58230</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.06.0001.0006.00010</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58231</identifier>
+    <datestamp>2014-10-10T00:57:16Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>United States Lines Company Passenger Ticket</dc:title>
+  <dc:creator>United States Lines Company</dc:creator>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>5/8/1947</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>__eng</dc:language>
+  <dc:format>1 item (sheet), 33 x 22 centimeters</dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description>Henry Lowenstein&apos;s first class passenger ticket on the SS Marine Falcon from Southampton to &quot;A US Port&quot; scheduled to sail approximately June 16, 1947. The ticket is dated May 8, 1947. Front side of the ticket is the receipt with passenger information describing Henry Lowenstein and the total for the ticket. Stamped on the front is a square box that says, &quot; J. D. Hewett &amp; Co., Travel Agents, 109. Jermyn Street, London, S.W.1.&quot; &quot;Passenger will be provided with cafeteria service only,&quot; is handwritten on ticket. Printed across the front of the ticket is SPECIMEN COPY. Starting on the front and continuing on the back side of the ticket is the contract information.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Marine Falcon (Ship)</dc:subject>
+  <dc:subject>Travel</dc:subject>
+  <dc:subject>Holocaust survivors</dc:subject>
+  <dc:subject>Lowenstein, Henry, 1925-1924</dc:subject>
+  <dc:subject>United States Lines Company</dc:subject>
+  <dc:subject>J.D. Hewitt &amp; Co</dc:subject>
+  <dc:subject>Tickets</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>London (England)</dc:coverage>
+  <dc:subject>Students</dc:subject>
+  <dc:relation>Loewenstein Family Holocaust Papers, Emigration</dc:relation>
+  <dc:identifier>B333.06.0001.0006.00011</dc:identifier>
+  <dc:identifier>10-02.09</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58231</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.06.0001.0006.00011</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58161</identifier>
+    <datestamp>2014-10-10T00:58:11Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Heinrich Loewenstein</dc:title>
+  <dc:type>StillImage</dc:type>
+  <dc:type></dc:type>
+  <dc:date>circa 1939</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:language></dc:language>
+  <dc:format>1 item (photograph), 8934 x 6481 pixels</dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description>A young Heinrich Loewenstein [Henry Lowenstein].</dc:description>
+  <dc:description>Original photograph retained by donor.</dc:description>
+  <dc:subject>Jewish children</dc:subject>
+  <dc:subject>Lowenstein, Henry, 1925-1924</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Berlin (Germany)</dc:coverage>
+  <dc:subject>Students</dc:subject>
+  <dc:relation>Loewenstein Family Holocaust Papers, Pre-War and Kindertransport</dc:relation>
+  <dc:identifier>B333.01.0002.0001.00015</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58161</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.01.0002.0001.00015</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58136</identifier>
+    <datestamp>2014-10-10T00:58:51Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Heinrich Loewenstein&apos;s Jewish Scout Association Membership Card</dc:title>
+  <dc:creator></dc:creator>
+  <dc:type></dc:type>
+  <dc:date>1938</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:language>__ger</dc:language>
+  <dc:format>1 item, (sheet), 11 x 8 centimeters</dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description>Membership card issued by Deutscher Makkabi-Kreis e.V. --Jüdischer Pfadfinderbund Makkabi Hazair, the Jewish Scout Association, to Heinrich Loewenstein [Henry Lowenstein] in Berlin, Germany. Inside the front cover is a stamp from the Jewish Scout Association and a photograph of Heinrich. The first page has been filled out by hand with information about Heinrich including his birth date and place, address, and the year he started in the scouts. The next page has been initialed for each month that Heinrich had paid dues. The rest of the book is blank.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Membership</dc:subject>
+  <dc:subject>Jewish children in the Holocaust</dc:subject>
+  <dc:subject>Holocaust, Jewish (1939-1945)</dc:subject>
+  <dc:subject>Lowenstein, Henry, 1925-1924</dc:subject>
+  <dc:subject>Deutscher Makkabi-Kreis e.V.</dc:subject>
+  <dc:subject>Jüdischer Pfadfinderbund Makkabi Hazair</dc:subject>
+  <dc:subject>Identification cards</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Berlin (Germany)</dc:coverage>
+  <dc:subject>Students</dc:subject>
+  <dc:relation>Loewenstein Family Holocaust Papers, Pre-War and Kindertransport</dc:relation>
+  <dc:identifier>B333.01.0001.0001.00012</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58136</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:contributor></dc:contributor>
+  <dc:creator>Jüdischer Pfadfinderbund Makkabi Hazair</dc:creator>
+  <dc:creator>Deutscher Makkabi-Kreis e.V.</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.01.0001.0001.00012</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58172</identifier>
+    <datestamp>2014-10-10T00:59:20Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Kindertransport Travel Instructions</dc:title>
+  <dc:creator></dc:creator>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>5/29/1939</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:language>__ger</dc:language>
+  <dc:format>1 item (sheet), 15 x 21 centimeters</dc:format>
+  <dc:format>Letters</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description>Letter from the Jewish Welfare and Youth Welfare Office in Berlin notifying the Loewensteins of Heinrich Loewenstein&apos;s [Henry Lowenstein, written in this letter as Ernst] place on the Kindertransport. The letter contains the date, time, and location of departure of the transport and Heinrich&apos;s permit number. Translation by Henry Loewenstein: &quot;Jewish Welfare and Children&apos;s Care Organization, May 25, 1939. We notify you herewith that the transport to England in which your child Ernst is to participate will leave soon on June 5, 1939. Meeting location: Monday, June 5, 1939 7:00 am Schlesischer Bahnhof (RR Station) Breslauer Street Entrance Special Waiting Room The permit number of your child is 6061 Respectfully, Jewish Welfare and Children&apos;s Signed Silbermann.&apos;&apos;</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Travel</dc:subject>
+  <dc:subject>Immigrant children</dc:subject>
+  <dc:subject>Refugees, Jewish--Services for</dc:subject>
+  <dc:subject>Kindertransports (Rescue operations)</dc:subject>
+  <dc:subject>Jewish children in the Holocaust</dc:subject>
+  <dc:subject>Holocaust, Jewish (1939-1945)</dc:subject>
+  <dc:subject>Lowenstein, Henry, 1925-1924</dc:subject>
+  <dc:subject>Jüdische Wohlfahrts-und Jugendpflegestelle</dc:subject>
+  <dc:subject>Letters</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Berlin (Germany)</dc:coverage>
+  <dc:subject>Students</dc:subject>
+  <dc:relation>Loewenstein Family Holocaust Papers, Pre-War and Kindertransport</dc:relation>
+  <dc:identifier>B333.01.0001.0001.00008</dc:identifier>
+  <dc:identifier>10-04.03</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58172</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:contributor></dc:contributor>
+  <dc:creator>Jüdische Wohlfahrts-und Jugendpflegestelle</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.01.0001.0001.00008</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58229</identifier>
+    <datestamp>2014-10-10T01:00:15Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Embarkation Instructions - S.S. Marine Falcon</dc:title>
+  <dc:creator></dc:creator>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>6/4/1947</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:language>__eng</dc:language>
+  <dc:format>1 item (sheet), 33 x 20 centimeters</dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description>Embarkation instructions sent to Henry Lowenstein to prepare for his passage on the SS Marine Falcon from Southampton, England to the United States. This is a general letter sent to all passengers with the name &quot;Mr. E. Lowenstein&quot; penciled at the top and a square stamp that says &quot;J.D. Hewett &amp; Co., Travel Agents, 109, Jermyn Street., London, S.W.1.&quot; Instructions include how to get to Southhampton, how to deal with baggage, freight, and pets, what paperwork must be brought on the ship, and a reminder that only American currency will be accepted on the ship. Finally, the name and contact information of the United States Line is at the top of the page and the port agents&apos; information is at the bottom.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Marine Falcon (Ship)</dc:subject>
+  <dc:subject>Travel</dc:subject>
+  <dc:subject>Holocaust survivors</dc:subject>
+  <dc:subject>Lowenstein, Henry, 1925-1924</dc:subject>
+  <dc:subject>United States Lines Company</dc:subject>
+  <dc:subject>J.D. Hewitt &amp; Co</dc:subject>
+  <dc:subject>Instruction</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>New York (N.Y.)</dc:coverage>
+  <dc:subject>Students</dc:subject>
+  <dc:relation>Loewenstein Family Holocaust Papers, Emigration</dc:relation>
+  <dc:identifier>B333.06.0001.0006.00009</dc:identifier>
+  <dc:identifier>10-02.09</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58229</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:contributor></dc:contributor>
+  <dc:creator>United States Lines Company</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.06.0001.0006.00009</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58155</identifier>
+    <datestamp>2014-10-10T01:00:47Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Heinrich Loewenstein&apos;s Class Portrait at the Wilsnacker Strasse Jewish School in Berlin</dc:title>
+  <dc:type>StillImage</dc:type>
+  <dc:type></dc:type>
+  <dc:date>between 1937-1939</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:language></dc:language>
+  <dc:format>1 item (photograph), 6228 x 4616 pixels</dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description>Class photograph of a group of school boys pose around a teacher in the courtyard of the Wilsnacker Strasse Jewish School in Berlin, Germany. Heinrich Loewenstein [Henry Lowenstein] kneels third from the left in the front row. The Jewish community in Berlin established the school in an abandoned apartment building on Wilsnacker Strasse after a 1937 decree that forbid Jewish children to attend German schools. The Wilsnacker Strasse school was the last Jewish school in Berlin.</dc:description>
+  <dc:description>Original photograph retained by donor.</dc:description>
+  <dc:subject>Schools</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Lowenstein, Henry, 1925-1924</dc:subject>
+  <dc:subject>Jüdische Oberschule (Berlin (Germany))</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Berlin (Germany)</dc:coverage>
+  <dc:subject>Students</dc:subject>
+  <dc:subject>Teachers</dc:subject>
+  <dc:relation>Loewenstein Family Holocaust Papers, Pre-War and Kindertransport</dc:relation>
+  <dc:identifier>B333.01.0002.0001.00009</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58155</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.01.0002.0001.00009</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58169</identifier>
+    <datestamp>2014-10-10T01:01:14Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Heinrich Loewenstein&apos;s Identification Card Issued by the Gestapo</dc:title>
+  <dc:creator></dc:creator>
+  <dc:type></dc:type>
+  <dc:date>3/31/1939</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:language>_ger</dc:language>
+  <dc:format>1 item (sheet), 15 x 21 centimeters</dc:format>
+  <dc:format>Legal documents</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description>Identification card issued by the Polizeipräsident in Berlin, the Gestapo, to Heinrich Loewenstein [Henry Lowenstein] in Berlin, Germany. The issue date is March 31, 1939, and it is valid until March 31, 1944. After Kristallnacht, Jews were required to apply for identification cards. The left side of the interior is a form with blanks labeled issued location, identification number, expiration date, surname, given names, birth date, birthplace, profession, description, and remarks. The right side has a picture of Heinrich, two fingerprints, his signature, and three official Nazi stamps. Front cover says, &quot;Empire Identification Card&quot; with a capital &quot;J&quot; standing for Jew.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Bureaucracy</dc:subject>
+  <dc:subject>Holocaust, Jewish (1939-1945)</dc:subject>
+  <dc:subject>Jewish children in the Holocaust</dc:subject>
+  <dc:subject>Lowenstein, Henry, 1925-1924</dc:subject>
+  <dc:subject>Prussia (Germany).--Polizeipräsident in Berlin</dc:subject>
+  <dc:subject>Identification cards</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Berlin (Germany)</dc:coverage>
+  <dc:subject>Students</dc:subject>
+  <dc:relation>Loewenstein Family Holocaust Papers, Pre-War and Kindertransport</dc:relation>
+  <dc:identifier>B333.01.0001.0001.00004</dc:identifier>
+  <dc:identifier>10-18.01</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58169</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:contributor></dc:contributor>
+  <dc:creator>Prussia (Germany).--Polizeipräsident in Berlin</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.01.0001.0001.00004</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58232</identifier>
+    <datestamp>2014-10-10T01:02:05Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Baggage Tag</dc:title>
+  <dc:creator></dc:creator>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>6/12/1947</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:language>__eng</dc:language>
+  <dc:format>1 item (sheet), 18 x 8 centimeters</dc:format>
+  <dc:format>Sheets (Information artifacts)</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description>Baggage tag from Henry Lowenstein&apos;s crossing on the SS Marine Falcon from Southampton to the United States. The front of the tag is printed with &quot;United States Line&quot; and &quot;Tourist Class Stateroom&quot; in blue above and below an illustration of a ship. The back of the tag has been filled out by hand with H. Loewenstein, the steamer name, sailing date, departure port, arrival port, and final destination in Pennsylvania.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Marine Falcon (Ship)</dc:subject>
+  <dc:subject>Travel</dc:subject>
+  <dc:subject>Holocaust survivors</dc:subject>
+  <dc:subject>Lowenstein, Henry, 1925-1924</dc:subject>
+  <dc:subject>United States Lines Company</dc:subject>
+  <dc:subject>J.D. Hewitt &amp; Co</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>London (England)</dc:coverage>
+  <dc:subject>Students</dc:subject>
+  <dc:relation>Loewenstein Family Holocaust Papers, Emigration</dc:relation>
+  <dc:identifier>B333.06.0001.0006.00012</dc:identifier>
+  <dc:identifier>10-02.09</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58232</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:contributor></dc:contributor>
+  <dc:creator>United States Lines Company</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.06.0001.0006.00012</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58157</identifier>
+    <datestamp>2014-10-10T01:03:01Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Heinrich Loewenstein and Ingrid Lind</dc:title>
+  <dc:type>StillImage</dc:type>
+  <dc:type></dc:type>
+  <dc:date>5/1/1939</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:language>__eng</dc:language>
+  <dc:format>1 item (photograph), 6457 x 4370 pixels</dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Handwritten on back of original photograph: &quot;Berlin Summer 1939.&quot;</dc:description>
+  <dc:description>Heinrich Loewenstein [Henry Lowenstein] and Ingrid Lind, his cousin, pose together on a sidewalk in Berlin, Germany on May 1, 1939, May Day. May 1 was declared National Labour Day and adopted by the Nazi&apos;s as one of their holidays. On May 1, 1939, Hitler and other Nazi Party leaders gave speeches at Berlin&apos;s Olympic Stadium and Nazi flags were hung around Berlin. A few days after this photograph was taken Ingrid fled to Denmark. A few weeks after this photograph was taken Heinrich left Germany on the Kindertransport.</dc:description>
+  <dc:description>Original photograph retained by donor.</dc:description>
+  <dc:subject>Jewish children</dc:subject>
+  <dc:subject>Families</dc:subject>
+  <dc:subject>Holocaust, Jewish (1939-1945)</dc:subject>
+  <dc:subject>Weddell, Ingrid Lind, 1920-</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Berlin (Germany)</dc:coverage>
+  <dc:subject>Students</dc:subject>
+  <dc:relation>Loewenstein Family Holocaust Papers, Pre-War and Kindertransport</dc:relation>
+  <dc:identifier>B333.01.0002.0001.00011</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58157</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Lowenstein, Henry, 1925-1924</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58160</identifier>
+    <datestamp>2014-10-10T01:03:40Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Unveiling of the Kindertransport Plaque</dc:title>
+  <dc:type>StillImage</dc:type>
+  <dc:type></dc:type>
+  <dc:date>6/14/1999</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language></dc:language>
+  <dc:format>1 item (photograph), 5230 x 5932 pixels</dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description>Left to right: Speaker of the British House of Commons Betty Boothroyd, Director of the Association of Jewish Refugees Bertha Leverton, and Henry Lowenstein at the unveiling of the Kindertransport (Children&apos;s Transport) plaque at the Palace of Westminister, London, England.</dc:description>
+  <dc:description>Original photograph retained by donor.</dc:description>
+  <dc:subject>Holocaust survivors</dc:subject>
+  <dc:subject>Lowenstein, Henry, 1925-1924</dc:subject>
+  <dc:subject>Leverton, Bertha</dc:subject>
+  <dc:subject>Boothroyd, Betty,--1929-</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>London (England)</dc:coverage>
+  <dc:relation>Loewenstein Family Holocaust Papers, Pre-War and Kindertransport</dc:relation>
+  <dc:identifier>B333.01.0002.0001.00014</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58160</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.01.0002.0001.00014</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58170</identifier>
+    <datestamp>2014-10-10T01:04:44Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter Announcing Heinrich Loewenstein&apos;s Place on the Kindertransport</dc:title>
+  <dc:creator></dc:creator>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>after 2/20/1939</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:language>__ger</dc:language>
+  <dc:format>1 item (sheet), 26 x 21 centimeters</dc:format>
+  <dc:format>Letters</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description>Letter on Hampstead Garden Suburb Care Committee for Refugee Children letterhead addressed to Dr. Max Loewenstein. The letter informed Dr. Max Loewenstein the committee had guaranteed a place for Heinrich Loewenstein [Henry Lowenstein] on the Kindertransport. If further states that Heinrich&apos;s paperwork was received on February 20, 1939 and that the committee will deal with the German authorities. The English Parliament passed a law permitting German Jewish children to settle in England and the Care Committee organized the Kindertransport.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Refugees, Jewish--Services for</dc:subject>
+  <dc:subject>Jewish children in the Holocaust</dc:subject>
+  <dc:subject>Kindertransports (Rescue operations)</dc:subject>
+  <dc:subject>Holocaust, Jewish (1939-1945)</dc:subject>
+  <dc:subject>Loewenstein, Max, 1885-1948</dc:subject>
+  <dc:subject>Hampstead Garden Suburb Care Committee for Refugee Children</dc:subject>
+  <dc:subject>Letters</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Berlin (Germany)</dc:coverage>
+  <dc:subject>Students</dc:subject>
+  <dc:subject>Physicians</dc:subject>
+  <dc:relation>Loewenstein Family Holocaust Papers, Pre-War and Kindertransport</dc:relation>
+  <dc:identifier>B333.01.0001.0001.00005</dc:identifier>
+  <dc:identifier>10-04.03</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58170</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:contributor></dc:contributor>
+  <dc:creator>Hampstead Garden Suburb Care Committee for Refugee Children</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.01.0001.0001.00005</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Lowenstein, Henry, 1925-1924</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58158</identifier>
+    <datestamp>2014-10-10T01:05:25Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Heinrich Loewenstein and Karin Steinberg</dc:title>
+  <dc:type>StillImage</dc:type>
+  <dc:type></dc:type>
+  <dc:date>5/1/1939</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:language>__eng</dc:language>
+  <dc:format>1 item (photograph), 6457 x 4506 pixels</dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Handwritten on back of original photograph: &apos;&apos;Berlin Summer 1939.&apos;&apos;</dc:description>
+  <dc:description>Heinrich Loewenstein [Henry Lowenstein] and Karin Steinberg pose together on a sidewalk in Berlin, Germany on May 1, 1939, May Day. May 1 was declared National Labour Day and adopted by the Nazi&apos;s as one of their holidays. On May 1, 1939, Hitler and other Nazi Party leaders gave speeches at Berlin&apos;s Olympic Stadium and Nazi flags were hung around Berlin. A few weeks after this photograph was taken Heinrich left Germany on the Kindertransport.</dc:description>
+  <dc:description>Original photograph retained by donor.</dc:description>
+  <dc:subject>Jewish children</dc:subject>
+  <dc:subject>Families</dc:subject>
+  <dc:subject>Holocaust, Jewish (1939-1945)</dc:subject>
+  <dc:subject>Wharton, Karin (Karin M.), 1915-</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Berlin (Germany)</dc:coverage>
+  <dc:subject>Students</dc:subject>
+  <dc:relation>Loewenstein Family Holocaust Papers, Pre-War and Kindertransport</dc:relation>
+  <dc:identifier>B333.01.0002.0001.00012</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58158</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.01.0002.0001.00012</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Lowenstein, Henry, 1925-1924</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58174</identifier>
+    <datestamp>2014-10-10T01:06:11Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Official Police Emigration Record for Heinrich Loewenstein</dc:title>
+  <dc:creator></dc:creator>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>6/5/1939-and 6/8/1939</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:language>__ger</dc:language>
+  <dc:format>1 item (sheet), 21 x 31 centimeters</dc:format>
+  <dc:format>Legal documents</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description>Official report filed at the police registration office, Polizeipräsident, in Berlin when Heinrich Loewenstein [Henry Lowenstein] emigrated to England. The form has been filled out by hand and signed by Dr. Max Loewenstein. Dated June 5, 1939, the day Heinrich left Germany, the top of the form gives his former address in Berlin and his destination as London, England. Information columns on the form are filled out for Heinrich and include: surname, first name, marital status, profession, birth date, birthplace, nationality, religion, and military service. Two official stamps, one in the top right corner with the address of a police station and date, and an official Nazi stamp left of center of the sheet. The bottom of the form has been signed by an administrator and is dated June 8, 1939. The back of the form has extracts from the Reich Registration Regulations.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Immigrant children</dc:subject>
+  <dc:subject>Holocaust, Jewish (1939-1945)</dc:subject>
+  <dc:subject>Lowenstein, Henry, 1925-1924</dc:subject>
+  <dc:subject>Prussia (Germany).--Polizeipräsident in Berlin</dc:subject>
+  <dc:subject>Reports</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Berlin (Germany)</dc:coverage>
+  <dc:subject>Students</dc:subject>
+  <dc:subject>Physicians</dc:subject>
+  <dc:relation>Loewenstein Family Holocaust Papers, Pre-War and Kindertransport</dc:relation>
+  <dc:identifier>B333.01.0001.0001.00010</dc:identifier>
+  <dc:identifier>10-11.05</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58174</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:contributor></dc:contributor>
+  <dc:creator>Prussia (Germany).--Polizeipräsident in Berlin</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.01.0001.0001.00010</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Loewenstein, Max, 1885-1948</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58162</identifier>
+    <datestamp>2014-10-10T01:07:18Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Max Loewenstein and Heinrich Loewenstein</dc:title>
+  <dc:type>StillImage</dc:type>
+  <dc:type></dc:type>
+  <dc:date>circa 1939</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:language></dc:language>
+  <dc:format>1 item (photograph), 8804 x 6809 pixels</dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description>Heinrich Loewenstein [Henry Lowenstein] and his father Max Loewenstein pose for an informal photograph in Berlin, Germany.</dc:description>
+  <dc:description>Original photograph retained by donor.</dc:description>
+  <dc:subject>Jewish children</dc:subject>
+  <dc:subject>Jewish men</dc:subject>
+  <dc:subject>Holocaust, Jewish (1939-1945)</dc:subject>
+  <dc:subject>Lowenstein, Henry, 1925-1924</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Berlin (Germany)</dc:coverage>
+  <dc:subject>Physicians</dc:subject>
+  <dc:subject>Students</dc:subject>
+  <dc:relation>Loewenstein Family Holocaust Papers, Pre-War and Kindertransport</dc:relation>
+  <dc:identifier>B333.01.0002.0001.00016</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58162</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.01.0002.0001.00016</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Loewenstein, Max, 1885-1948</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58173</identifier>
+    <datestamp>2014-10-10T01:07:49Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from Hampstead Garden Suburb Care Committee for Refugee Children</dc:title>
+  <dc:creator></dc:creator>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>circa 1939</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:language>__ger</dc:language>
+  <dc:format>1 item (sheet), 26 x 21 centimeters</dc:format>
+  <dc:format>Letters</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description>Undated letter addressed to Dr. Max Loewenstein from the &quot;Hampstead Garden Suburb Care Committee for Refugee Children, associated with, The World Movement for the Care of Children from Germany. (British inter-aid Committee).&quot; This letter informs the Loewensteins that they can send clothing to Heinrich Loewenstein [Henry Lowenstein] in packages weighing less than 10 kilos to an address included in the letter through the British Post. The letter is signed by the secretary of the committee.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Clothing and dress</dc:subject>
+  <dc:subject>Immigrant children</dc:subject>
+  <dc:subject>Refugees, Jewish--Services for</dc:subject>
+  <dc:subject>Kindertransports (Rescue operations)</dc:subject>
+  <dc:subject>Jewish children in the Holocaust</dc:subject>
+  <dc:subject>Holocaust, Jewish (1939-1945)</dc:subject>
+  <dc:subject>Loewenstein, Max, 1885-1948</dc:subject>
+  <dc:subject>Hampstead Garden Suburb Care Committee for Refugee Children</dc:subject>
+  <dc:subject>Letters</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Berlin (Germany)</dc:coverage>
+  <dc:subject>Students</dc:subject>
+  <dc:relation>Loewenstein Family Holocaust Papers, Pre-War and Kindertransport</dc:relation>
+  <dc:identifier>B333.01.0001.0001.00009</dc:identifier>
+  <dc:identifier>10-04.03</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58173</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:contributor></dc:contributor>
+  <dc:creator>Hampstead Garden Suburb Care Committee for Refugee Children</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.01.0001.0001.00009</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Lowenstein, Henry, 1925-1924</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58137</identifier>
+    <datestamp>2014-10-10T01:08:30Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Dr. Max Loewenstein</dc:title>
+  <dc:type>StillImage</dc:type>
+  <dc:type></dc:type>
+  <dc:date>between 1920 - 1929</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:language>English</dc:language>
+  <dc:format>1 item (photograph), 7253 x 4744 pixels</dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Handwritten on back of original photograph: &quot;Max, in 1920&apos;s.&quot;</dc:description>
+  <dc:description>Dr. Max Loewenstein, Henry Lowenstein&apos;s father, posed for a formal portrait.</dc:description>
+  <dc:description>Original photograph retained by donor.</dc:description>
+  <dc:subject>Jewish men</dc:subject>
+  <dc:subject>Loewenstein, Max, 1885-1948</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Germany</dc:coverage>
+  <dc:subject>Physicians</dc:subject>
+  <dc:relation>Loewenstein Family Holocaust Papers, Pre-War and Kindertransport</dc:relation>
+  <dc:identifier>B333.01.0002.0001.00005</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58137</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.01.0002.0001.00005</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58203</identifier>
+    <datestamp>2014-10-10T01:10:09Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Red Cross Letter</dc:title>
+  <dc:creator>Loewenstein, Maria (Marie Lilli Margarete), 1894-1982</dc:creator>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>between 3/27/1944-4/20/1944</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>__ger</dc:language>
+  <dc:format>1 item (letter), 21 x 14 centimeters</dc:format>
+  <dc:format>Letters</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description>Letter written by Marie Loewenstein in Berlin, Germany to Henry Loewenstein in Church Farm, Whipsnade, Dunstable, Beds, England through the Red Cross, dated by Marie March 27, 1944, stamped by the English post office April 4, 1944, and stamped received April 20, 1944. The front of this letter includes instructions in German and French for sending, Marie&apos;s address, Henry&apos;s address, and the message. The back of this letter is where the receiver could send a response however it is blank except for the printed directions for mailing in German and French. Message translation from Henry Lowenstein: For 2 months no news from you. We are all well. Will you become a farmer or do you have other plans? Write regularly!!! Loving kisses, Vatchen, Mautzy, Karin</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Holocaust, Jewish (1939-1945)</dc:subject>
+  <dc:subject>Jewish children in the Holocaust</dc:subject>
+  <dc:subject>Loewenstein, Maria (Marie Lilli Margarete), 1894-1982</dc:subject>
+  <dc:subject>Deutsches Rotes Kreuz.--Präsidium.--Auslandsdienst</dc:subject>
+  <dc:subject>International Committee of the Red Cross.--Central Agency for Prisoners of War</dc:subject>
+  <dc:subject>Letters</dc:subject>
+  <dc:subject>Correspondence</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Berlin (Germany)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>England</dc:coverage>
+  <dc:subject>Students</dc:subject>
+  <dc:relation>Loewenstein Family Holocaust Papers, Correspondence: England and Theresienstadt</dc:relation>
+  <dc:identifier>B333.04.0001.0004.00001</dc:identifier>
+  <dc:identifier>10-03.03</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58203</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.04.0001.0004.00001</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:subject>Lowenstein, Henry, 1925-1924</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58204</identifier>
+    <datestamp>2014-10-10T01:11:04Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Red Cross Letter</dc:title>
+  <dc:creator>Loewenstein, Maria (Marie Lilli Margarete), 1894-1982</dc:creator>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>between 2/25/1944-3/28/1944</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>__ger</dc:language>
+  <dc:format>1 item (letter), 21 x 14 centimeters</dc:format>
+  <dc:format>Letters</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description>Letter written by Marie Loewenstein in Berlin, Germany to Henry Loewenstein in Church Farm, Whipsnade, Dunstable, Beds, England through the Red Cross, dated by Marie February 25, 1944, stamped by an English post office March 11, 1944, and stamped received March 28, 1944. The front of this letter includes instructions in German and French for sending the letter, Marie&apos;s address, Henry&apos;s address, and a message about how the family is well and they miss Henry and long for a reunion signed by Max, Marie, and Karin. A Red Cross and Post Office stamp can be seen on the letter. The back of this letter is where the receiver could send a response however it is blank except for the printed directions for mailing in German and French.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Holocaust, Jewish (1939-1945)</dc:subject>
+  <dc:subject>Jewish children in the Holocaust</dc:subject>
+  <dc:subject>Loewenstein, Maria (Marie Lilli Margarete), 1894-1982</dc:subject>
+  <dc:subject>Deutsches Rotes Kreuz.--Präsidium.--Auslandsdienst</dc:subject>
+  <dc:subject>International Committee of the Red Cross.--Central Agency for Prisoners of War</dc:subject>
+  <dc:subject>Letters</dc:subject>
+  <dc:subject>Correspondence</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Berlin (Germany)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>England</dc:coverage>
+  <dc:subject>Students</dc:subject>
+  <dc:subject>Artist</dc:subject>
+  <dc:relation>Loewenstein Family Holocaust Papers, Correspondence: England and Theresienstadt</dc:relation>
+  <dc:identifier>B333.04.0001.0004.00002</dc:identifier>
+  <dc:identifier>10-03.03</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58204</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.04.0001.0004.00002</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:subject>Lowenstein, Henry, 1925-1924</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58154</identifier>
+    <datestamp>2014-10-10T01:11:52Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Ernestine and Emil Loewenstein</dc:title>
+  <dc:type>StillImage</dc:type>
+  <dc:type></dc:type>
+  <dc:date>circa 1906</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:language>__eng</dc:language>
+  <dc:format>1 item (photograph), 5179 x 3955 pixels</dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Handwritten on back of original photograph: &quot;Ernestine ([illegible]), Emil Loewenstein.&quot;</dc:description>
+  <dc:description>Ernestine and Emil Loewenstein, Henry Lowenstein&apos;s paternal grandparents, pose for a formal portrait in Lessen, West Prussia.</dc:description>
+  <dc:description>Original photograph retained by donor.</dc:description>
+  <dc:subject>Jewish men</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Loewenstein, Ernestine, 1864-1940</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Prussia (Germany)</dc:coverage>
+  <dc:relation>Loewenstein Family Holocaust Papers, Pre-War and Kindertransport</dc:relation>
+  <dc:identifier>B333.01.0002.0001.00003</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58154</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.01.0002.0001.00003</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Loewenstein, Emil, 1854-1908</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58139</identifier>
+    <datestamp>2014-10-10T01:12:57Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Loewenstein Family Portrait</dc:title>
+  <dc:type>StillImage</dc:type>
+  <dc:type></dc:type>
+  <dc:date>circa 1929</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:language></dc:language>
+  <dc:format>1 item (photograph), 4813 x 7398 pixels</dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description>Left to right: Max Loewenstein, Heinrich Loewenstein [Henry Lowenstein], Karin Steinberg, and Marie Loewenstein posed for a family portrait.</dc:description>
+  <dc:description>Original photograph retained by donor.</dc:description>
+  <dc:subject>Jewish families</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Loewenstein, Maria--(Marie Lilli Margarete),--1894-1982</dc:subject>
+  <dc:subject>Wharton, Karin--(Karin M.),--1915-</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Berlin (Germany)</dc:coverage>
+  <dc:subject>Physicians</dc:subject>
+  <dc:subject>Students</dc:subject>
+  <dc:subject>Artist</dc:subject>
+  <dc:relation>Loewenstein Family Holocaust Papers, Pre-War and Kindertransport</dc:relation>
+  <dc:identifier>B333.01.0002.0001.00007</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58139</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.01.0002.0001.00007</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Loewenstein, Max, 1885-1948</dc:subject>
+  <dc:subject>Lowenstein, Henry, 1925-1924</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58153</identifier>
+    <datestamp>2014-10-10T01:14:42Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Loewenstein Family Portrait</dc:title>
+  <dc:type>StillImage</dc:type>
+  <dc:type></dc:type>
+  <dc:date>5/1939</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:language>__eng</dc:language>
+  <dc:format>1 item, (photograph), 4 x 6 inches</dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Handwritten on back of photograph: &quot;Max, Mautzy, Karin, Henry, Early spring 1939, Before Henry left for England.&quot;</dc:description>
+  <dc:description>Left to right: Heinrich Loewenstein [Henry Lowenstein], Karin Steinberg, Max &quot;Vatchen&quot; Loewenstein, and Marie &quot;Mautzy&quot; Loewenstein pose for a family portrait in Berlin, Germany shortly before Heinrich left for England on the Kindertransport.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Jewish families</dc:subject>
+  <dc:subject>Holocaust, Jewish (1939-1945)</dc:subject>
+  <dc:subject>Lowenstein, Henry, 1925-1924</dc:subject>
+  <dc:subject>Loewenstein, Maria--(Marie Lilli Margarete),--1894-1982</dc:subject>
+  <dc:subject>Wharton, Karin--(Karin M.),--1915-</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Group portraits</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Berlin (Germany)</dc:coverage>
+  <dc:subject>Physicians</dc:subject>
+  <dc:subject>Students</dc:subject>
+  <dc:subject>Artist</dc:subject>
+  <dc:relation>Loewenstein Family Holocaust Papers, Pre-War and Kindertransport</dc:relation>
+  <dc:identifier>B333.01.0001.0001.00007</dc:identifier>
+  <dc:identifier>10-01.02</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58153</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.01.0001.0001.00007</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Loewenstein, Max, 1885-1948</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58168</identifier>
+    <datestamp>2014-10-10T01:15:29Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter from the American Consulate General in Berlin, Germany</dc:title>
+  <dc:creator></dc:creator>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>12/31/1938</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:language>_ger</dc:language>
+  <dc:format>1 item (sheet), 11 x 13 centimeters</dc:format>
+  <dc:format>Letters</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description>Letter from the American General Consulate in Berlin to Max Loewenstein assigning the family reserve numbers. The reserve numbers were their place on the waiting list to apply for admission to the United States. Reserve numbers 8960, 8961, and 8962 meant they would be allowed to apply for a visa sometime in 1943 or 1944.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Bureaucracy</dc:subject>
+  <dc:subject>Immigrants</dc:subject>
+  <dc:subject>Holocaust, Jewish (1939-1945)</dc:subject>
+  <dc:subject>Lowenstein, Henry, 1925-1924</dc:subject>
+  <dc:subject>Loewenstein, Maria--(Marie Lilli Margarete),--1894-1982</dc:subject>
+  <dc:subject>United States.--Consulate General (Berlin, Germany)</dc:subject>
+  <dc:subject>Letters</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Berlin (Germany)</dc:coverage>
+  <dc:relation>Loewenstein Family Holocaust Papers, Pre-War and Kindertransport</dc:relation>
+  <dc:identifier>B333.01.0001.0001.00002</dc:identifier>
+  <dc:identifier>10-21.01</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58168</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:contributor></dc:contributor>
+  <dc:creator>United States.--Consulate General (Berlin, Germany)</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.01.0001.0001.00002</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Loewenstein, Max, 1885-1948</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58159</identifier>
+    <datestamp>2014-10-10T01:16:01Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Loewenstein Family Portrait</dc:title>
+  <dc:type>StillImage</dc:type>
+  <dc:type></dc:type>
+  <dc:date>5/1939</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:language></dc:language>
+  <dc:format>1 item (photograph), 6411 x 6386 pixels</dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description>Left to right: Heinrich Loewenstein [Henry Lowenstein], Karin Steinberg, Max &quot;Vatchen&quot; Loewenstein, and Marie &quot;Mautzy&quot; Loewenstein pose for a family portrait in Berlin, Germany shortly before Heinrich left for England on the Kindertransport.</dc:description>
+  <dc:description>Original photograph retained by donor.</dc:description>
+  <dc:subject>Jewish families</dc:subject>
+  <dc:subject>Holocaust, Jewish (1939-1945)</dc:subject>
+  <dc:subject>Lowenstein, Henry, 1925-1924</dc:subject>
+  <dc:subject>Loewenstein, Maria--(Marie Lilli Margarete),--1894-1982</dc:subject>
+  <dc:subject>Wharton, Karin--(Karin M.),--1915-</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Berlin (Germany)</dc:coverage>
+  <dc:subject>Physicians</dc:subject>
+  <dc:subject>Students</dc:subject>
+  <dc:subject>Artist</dc:subject>
+  <dc:relation>Loewenstein Family Holocaust Papers, Pre-War and Kindertransport</dc:relation>
+  <dc:identifier>B333.01.0002.0001.00013</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58159</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.01.0002.0001.00013</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Loewenstein, Max, 1885-1948</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58148</identifier>
+    <datestamp>2014-10-10T01:16:47Z</datestamp>
+    <setSpec>codu_58134</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Rosenstrasse Memorial</dc:title>
+  <dc:type>StillImage</dc:type>
+  <dc:type></dc:type>
+  <dc:date>2001</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language></dc:language>
+  <dc:format>1 item (photograph), 5155 x 3517 pixels</dc:format>
+  <dc:format>Digital images</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:description>Henry Lowenstein standing beside a statue at the Rosenstrasse Memorial in Berlin, Germany to honor the Germans, mostly women, who protested the deportation of their Jewish spouses and children during the Rosenstrasse Protest.  Marie Loewenstein and Karin Steinberg joined the thousands of Germans for six days, even facing S.S. machine guns.  Max Loewenstein was among those saved from transportation to East European concentration camps.</dc:description>
+  <dc:description>Original photograph retained by donor.</dc:description>
+  <dc:subject>Rosenstrasse Protest, Berlin, Germany, 1943</dc:subject>
+  <dc:subject>Righteous Gentiles in the Holocaust</dc:subject>
+  <dc:subject>Lowenstein, Henry, 1925-1924</dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:subject>Digital images</dc:subject>
+  <dc:subject>Portraits</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Rosenstrasse (Berlin, Germany)</dc:coverage>
+  <dc:relation>Loewenstein Family Holocaust Papers, The War Years: Berlin</dc:relation>
+  <dc:identifier>B333.02.0002.0002.00004</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:58148</dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Loewenstein, Maria--(Marie Lilli Margarete),--1894-1982</dc:subject>
+  <dc:subject>Loewenstein, Max,--1885-1948</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B333.02.0002.0002.00004</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:subject>Wharton, Karin (Karin M.), 1915-</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_60081</identifier>
+    <datestamp>2014-10-10T01:21:04Z</datestamp>
+    <setSpec>codu_32561</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Civilizing the West: Early Colorado Jews in the Arts, 1865-1950</dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor>Pettit, Steven</dc:contributor>
+  <dc:contributor>Abrams, Jeanne E.,--1951-</dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor>Rocky Mountain Jewish Historical Society</dc:contributor>
+  <dc:contributor>Starwest Productions</dc:contributor>
+  <dc:contributor>University of Denver.--Center for Judaic Studies</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:contributor>Center for Judaic Studies (Beck Archives)</dc:contributor>
+  <dc:type>MovingImage</dc:type>
+  <dc:date>2011</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 item, (videodisc), 34 minutes, 5 seconds</dc:format>
+  <dc:format>Digital video recordings</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>4 3/4 inches</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Brief biographies of Jewish artists, musicians, composers, and conductors in Colorado. Jewish influence on arts in Colorado.</dc:description>
+  <dc:description>This program was produced through the generous support of: Mizel Global Cultural Fund and The Faye and Charles Schayer Endowment Fund.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Art</dc:subject>
+  <dc:subject>Jewish women</dc:subject>
+  <dc:subject>Musuems</dc:subject>
+  <dc:subject>Jews</dc:subject>
+  <dc:subject>Concerts</dc:subject>
+  <dc:subject>Opera</dc:subject>
+  <dc:subject>Jewish men</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Fort Collins (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Cripple Creek (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Leadville (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Longmont (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Central City (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Aspen (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Trinidad (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject>Spivak, Hayem David,--1893-1932</dc:subject>
+  <dc:subject>Ginsburg, Helen J.</dc:subject>
+  <dc:subject>Elsner, John</dc:subject>
+  <dc:subject>Elsner, Lena</dc:subject>
+  <dc:subject>Guggenheim, Simon</dc:subject>
+  <dc:subject>Londoner, Wolfe</dc:subject>
+  <dc:subject>Friedman, William S.,--1868-1944</dc:subject>
+  <dc:subject>Kauvar, C. E. Hillel--(Charles Eliezer Hillel),--1879-1971</dc:subject>
+  <dc:subject>Jacobs, Abraham,--1834-</dc:subject>
+  <dc:subject>Jacobs, Frances Wisebart,--1843-1892</dc:subject>
+  <dc:subject>Tabor, Horace Austin Warner,--1830-1899</dc:subject>
+  <dc:subject>Tabor, Baby Doe</dc:subject>
+  <dc:subject>Jaffa, Sam</dc:subject>
+  <dc:subject>Jaffa, Saul</dc:subject>
+  <dc:subject>Jaffa, Henry</dc:subject>
+  <dc:subject>Jarecki, Benny</dc:subject>
+  <dc:subject>Damrosch, Frank</dc:subject>
+  <dc:subject>Grossmayer Family</dc:subject>
+  <dc:subject>Grossmayer, Dolce</dc:subject>
+  <dc:subject>Chernoff, Lewis Hill,--1890-1982</dc:subject>
+  <dc:subject>Perlmutter, Maurice</dc:subject>
+  <dc:subject>Bezman, Morris</dc:subject>
+  <dc:subject>Goldmark, Rubin</dc:subject>
+  <dc:subject>Rosenzweig, Frances Rose</dc:subject>
+  <dc:subject>Feingold, Lipa</dc:subject>
+  <dc:subject>Josephson family</dc:subject>
+  <dc:subject>Meyer family</dc:subject>
+  <dc:subject>Meyer, ForrestStein, Billie,--1907-2002</dc:subject>
+  <dc:subject>Mann, Joe</dc:subject>
+  <dc:subject>Johnson, Belle Herskovitz</dc:subject>
+  <dc:subject>Herskovitz, Emmanual</dc:subject>
+  <dc:subject>Oberfelder, Arthur M.</dc:subject>
+  <dc:subject>Livingston, Jerry</dc:subject>
+  <dc:subject>Caston, Saul</dc:subject>
+  <dc:subject>Spivak, Hayem David,--1893-1932</dc:subject>
+  <dc:subject>Hausmann, Marianne Pisko,--1880-1969</dc:subject>
+  <dc:subject>Pisko, Seraphine Eppstein,--1861-1942</dc:subject>
+  <dc:subject>Kunin, Jack</dc:subject>
+  <dc:subject>Sherbok, Ruth</dc:subject>
+  <dc:subject>Katz, Eunice</dc:subject>
+  <dc:subject>Hilb, Greta,--1904-1998</dc:subject>
+  <dc:subject>Stein, Irene Miller,--1894-2000</dc:subject>
+  <dc:subject>Miller, Robert L.--(Robert Lazar),--1845-1940</dc:subject>
+  <dc:subject>Shwayder, Elizabeth Yanish</dc:subject>
+  <dc:subject>Robinson, Mary Cane</dc:subject>
+  <dc:subject>Detre, Roland</dc:subject>
+  <dc:subject>Sanderson, William</dc:subject>
+  <dc:subject>Silverman, Mel</dc:subject>
+  <dc:subject>Lazarus, Max,--1892-1961</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Tabor Grand Opera House</dc:subject>
+  <dc:subject>Jaffa Mercantile Company</dc:subject>
+  <dc:subject>B&apos;nai B&apos;rith.--Denver Lodge No. 171 (Denver, Colo.)</dc:subject>
+  <dc:subject>Temple Aaron (Trinidad, Colo.)</dc:subject>
+  <dc:subject>Trinidad Opera House</dc:subject>
+  <dc:subject>Congregation Emanuel (Denver, Colo.)</dc:subject>
+  <dc:subject>Elitch Gardens</dc:subject>
+  <dc:subject>Joe Mann Orchestra</dc:subject>
+  <dc:subject>Shirley Savoy Hotel</dc:subject>
+  <dc:subject>Star Bakery (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver Symphony Orchestra</dc:subject>
+  <dc:subject>Denver Artists Guild</dc:subject>
+  <dc:subject>Beth HaMedrosh Hagodol (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver Artist Club</dc:subject>
+  <dc:subject>Jewish Consumptives&apos; Relief Society (U.S.)</dc:subject>
+  <dc:subject>Bonfils Theatre (Denver, Colo.)</dc:subject>
+  <dc:subject>Denver Center for the Performing Arts</dc:subject>
+  <dc:subject>Biographical films</dc:subject>
+  <dc:subject>Documentary films</dc:subject>
+  <dc:relation>Rocky Mountain Jewish Historical Society Records, Publications</dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>B230.03.0012.00011</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>c2011, Rocky Mountain Jewish Historical Society.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:60081</dc:identifier>
+  <dc:subject>Jewish Artists Alliance</dc:subject>
+  <dc:subject>Harmony Girls Orchestra</dc:subject>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68123</identifier>
+    <datestamp>2014-10-22T20:15:16Z</datestamp>
+    <setSpec>codu_59132</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Howard Sayette</dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>MovingImage</dc:type>
+  <dc:date>2014</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format></dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier>D009.13.0003.0026</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Some copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68123</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68124</identifier>
+    <datestamp>2014-10-22T20:41:03Z</datestamp>
+    <setSpec>codu_59132</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Noel Hefty</dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>MovingImage</dc:type>
+  <dc:date>2014</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format></dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Some copyright restrictions may apply. User is responsible for all copyright compliance. </dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68124</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68125</identifier>
+    <datestamp>2014-10-22T20:46:02Z</datestamp>
+    <setSpec>codu_59132</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Rita Flores de Wallace</dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>MovingImage</dc:type>
+  <dc:date>2014</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format></dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Some copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68125</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68126</identifier>
+    <datestamp>2014-10-22T20:46:04Z</datestamp>
+    <setSpec>codu_59132</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Oral History Interview with Debbie Stark</dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>MovingImage</dc:type>
+  <dc:date>2014</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format></dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Dance</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Some copyright restrictions may apply. User is responsible for all copyright compliance. </dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68126</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

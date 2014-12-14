@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-12-14T16:32:37Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63582</identifier>
+    <datestamp>2014-12-09T18:53:27Z</datestamp>
+    <setSpec>codu_62795</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Polymer Supported Optical Biosensors</dc:title>
+  <dc:creator>Garcia, Ignacio Joseph</dc:creator>
+  <dc:contributor>Chemistry and Biochemistry</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>The use of various polymer supports adhering phospholipid multibilayers to an internal reflection element have been investigated. The polymer supports studied range from polystyrene (PS), and 100 nm wide PS nanospheres to triethylaminated poly(vinyl benzyl chloride) (PVBC). The PS nanospheres showed the most promise as an adhesion layer since they appear to be the most robust with repeated washings. They also appear to stabilize their adjacent phospholipid multibilayer by increasing the lipid melting temperature. The triethylaminated DVBC also provided an increase of lipid melting temperature, but not quite to the same degree as the PS nanospheres. The cooperativity of such systems is much greater than without an adhesion layer. It is believed that in the case of PS nanospheres, a slight negative charge interacts with the polar head groups of the phospholipid multibilayer, thus leading to an increase in cooperativity. The triethylaminated DVBC is believed to interdigitate between the phospholipid molecules in a way such that the positively charged nitrogen atom interacts directly with the negatively charged phosphate group located on the phospholipid molecules, thus giving rise to its relatively high cooperativity and lower melting temperature than the uncharged polymers and nanobeads. The PS nanosphere polymer support was shown to be an effective platform for biosensors. Myoglobin based biosensors, using PS nanosphere supports, showed that myoglobin retains its native ligand binding ability.</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:subject>Chemistry, Biochemistry--Biosensors--Infrared</dc:subject>
+  <dc:format>148</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63582</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63582</dc:identifier>
+  <dc:contributor>Wells, Todd A</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:contributor>Stedman, Donald</dc:contributor>
+  <dc:contributor>Miller, Keith</dc:contributor>
+  <dc:contributor>Sadler, Susan</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63581</identifier>
+    <datestamp>2014-12-09T18:53:31Z</datestamp>
+    <setSpec>codu_62795</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>The Curricular and Instructional Implication for the Tacit Knowledge Exhibited while Creating a Forensic Craniofacial Reconstruction</dc:title>
+  <dc:creator>Marion, Jr., Daniel</dc:creator>
+  <dc:contributor>Curriculum and Instruction</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>In our teaching careers,K-12 classroom teachers come to know that the way a given student connects the dots to comprehend a concept, lesson, or subject is not always (and most likely never is)in a straight linear fashion. The connections between the dots are defined as the student&apos;s personalized understanding (tacit knowledge/knowing)of concepts, lessons, and/or subjects. The student most likely did not perceive, process, and/or retain the concept, lesson, or subject in the manner it was taught to her or him. Teachers asking a student to explain how he or she arrived at an answer or knew the answer to a problem was &lt;bold&gt; right, &lt;bold&gt; are often told, &lt;italic&gt; &quot;It just came to me,&quot; &quot;I know it&apos;s right, but I just cannot explainit,&quot; or &quot;I just Know!&quot;&lt;italic&gt; These students do not fit the norms of schooling; this affects how they are seen and how they see themselves. They know there is a disconnection between what they know tacitly, and how thet are expected to explain what they know to prove that they know it. Theoretically this phenomenon is not accounted for in the literature of Epistemology or Curriculum and Instruction. The purpose of the study is to identify the essence of the tacit knowledge information processing problem-negotiating process used by forensic artists, to interpretively shed light on its implications as a curricular and instructional model to help students who otherwise would be put unnecessarily at risk because of their tacit knowledge information processing problem-negotiating process.In this qualitative interpretative exploratory study I use forensic craniofacial reconstruction as the lens through which I investigated the exhibits of tacit knowledge for its implication for curriculum and instruction. The study recruited volunteer members of ProjectEDAN as the study&apos;s participants. The research methodology combined &lt;italic&gt;Interview as Research &lt;italic&gt; and &lt;italic&gt;Interpretative Biographies that served as case studies of my participants . the collected data served as part of the inductive evidence along with the three foundational premises from the theories of Polanyi,Denzin, and Miller@ Page as the bases for a Grounded Theory of Multistability to account for implications of tacit knowledge information processing problem-negotiating  processes in curriculum and instruction.The major findings from the data highlight the participants&apos; philosophical foundational beliefs, the autotelic experiences in conjunction with their preferred method of working , their major epiphany (if any), and their reflections. The participants behaved as they perceive relative to the above categories as agents moving toward their equilibrium in the Complex Adaptive System of the facial reconstruction information processing problem-negotiating process. This is the milieu from where tacit knowledge emerges. The significance of the findings indicate the path for further investigation into tacit knowledge information processing problem-negotiation by entertaining a Multistability Theory of Curriculum and Instruction based on the Ideology of &quot;Do No Harm.&quot;</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:subject>Education, Curriculum and Instruction--Complex Adaptive Social Systems--Curriculum and Instruction--Epiphanies--Forensic Craniofacial Reconstruction--Multistability Theory--Tacit Knowledge/Knowing</dc:subject>
+  <dc:format>322</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63581</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63581</dc:identifier>
+  <dc:contributor></dc:contributor>
+  <dc:contributor>Uhrmacher, P. B.</dc:contributor>
+  <dc:contributor>King, Edith W.</dc:contributor>
+  <dc:contributor>Bonaker, Peter</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63580</identifier>
+    <datestamp>2014-12-09T18:53:36Z</datestamp>
+    <setSpec>codu_62795</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Competency-based Curriculum for a Master&apos;s Program in Service Science, Management and Engineering (SSME): An Online Delphi Study</dc:title>
+  <dc:creator>Choudaha, Rahul</dc:creator>
+  <dc:contributor>Higher Education</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>The overarching purpose of this research was to provide theoretical and conceptual foundations for developing a competency-based curriculum for an interdisciplinary master&apos;s program in Service Science, Management and Engineering (SSME). Specifically, the objective was to ascertain the competencies and courses that are relevant for developing a competency model for a service scientist and a curriculum blueprint for SSME. The study employed three rounds of the online Delphi survey to achieve the research objectives. The three rounds were used to identify, prioritize, and define competencies and courses. A panel of industry professionals and university faculty were invited to participate as experts. A total of 51, 40, and 39 respondents participated in Round 1, Round 2 and Round 3 survey respectively.Overall, a high degree of consensus was observed among the participants for the importance of competencies and courses, however, there were some differences noted by the disciplinary expertise and professional background of the respondents. Based on the consensus of the study participants, a final list of 10 competencies and 14 courses was generated. These competencies were used to develop a competency model and the courses were used to create a curriculum blueprint.The final 14 courses were categorized into four modules, Module 1: Contextual Foundation (Information &amp; Service Economy, Consumer Behavior, Leadership &amp; Organizational Behavior, Project Management); Module 2: Service Core (Service Innovation, Service Design, Service Operations and Supply Chain); Module 3(a): Engineering Concentration (Business Process Modeling, Service Engineering, Quality Management); Module 3(b): Management Concentration, Strategic Management, Service Marketing, Enterprise Systems) and; Module 4: Integrative Capstone (Business and Technology Integration).The final 10 competencies were categorized into three clusters; Cluster 1: Service Mindset (Needs assessment, Conceptualize service system, Problem-solving, Contextualize service science); Cluster 2: Integrative Competence (Business and technology integration, Interdisciplinary collaboration, Diversity orientation) and; Cluster 3: Meta-competence (Adaptability, Interpersonal communication, and Critical thinking).The results of this study may serve as a common language among stakeholders to prepare future service scientists or &quot;T-shaped&quot; professionals for the service economy. This study also contributed to the body of literature of competency-based curriculum development in higher education.</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:subject>Education, Higher--Business Administration, Management--Engineering, System Science--Curriculum--Delphi--Engineering--Management--Service Science--SSME</dc:subject>
+  <dc:format>190</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63580</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63580</dc:identifier>
+  <dc:contributor>Tuitt, Frank</dc:contributor>
+  <dc:contributor>Grealy, Deborah S.</dc:contributor>
+  <dc:contributor>Seidel, Kent</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63579</identifier>
+    <datestamp>2014-12-09T18:53:40Z</datestamp>
+    <setSpec>codu_62795</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Japan&apos;s Missile Defense</dc:title>
+  <dc:creator>Namatame, Norifumi</dc:creator>
+  <dc:contributor>Josef Korbel School of International Studies</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>For some years, Japan has pursued its own missile defense system in cooperation with the United States. The Japanese government claims that the missile defense (JMD) program is purely defensive and will not pose a threat to other countries. JMD may seem justified by North Korea&apos;s development of ballistic missiles and nuclear weapons. However, neighboring states regarded it as a sign of military ambition and revival of Japan&apos;s prewar militarism. The development and deployment of JMD could have grave implications for regional and global security. This dissertation focuses on these implications, domestic and international political considerations and the future direction of Japan&apos;s defense and security policy.After the Cold War, when the superpowers maintained strategic stability with massive offensive nuclear arsenals (mutual assured destruction--MAD), new threats from rogue states and terrorists have forced us to rethink the credibility of MAD. But attempts to build shields against nuclear ballistic missiles could trigger a new phase of the arms race pitting offensive vs. defensive capabilities. The author argues that defense must be emphasized in order to achieve stability and security (mutual defense emphasis--MDE). Characterization of JMD as truly defensive or not depends on theoretical and strategic viewpoints. The key is the distinction between defense and offense, and whether Japan will emphasize defense, and convince other states that its strategic intentions are really defensive.For the Japanese, with their dual realist and pacifist identities, JMD can be a tool of either realist military strategy or pacifist arms control. Japan should choose defensive realism, including MDE arms control, as a middle way that may eventually open a pacifist route to disarmament. With the world&apos;s most sophisticated technology and a tradition of pacifism, Japan is in a unique and advantageous position to promote arms control.In pursuit of JMD, the Japanese government should not only promote arms control and MDE--building missile shields against rogue and terrorist missile attacks or accidental or unauthorized launches, but also advance offensive arms reduction among major states. Japan can and must become a leader in such a shift toward a less dangerous world.</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:subject>Political Science, International Law and Relations</dc:subject>
+  <dc:format>246</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63579</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63579</dc:identifier>
+  <dc:contributor>Goldfischer, David</dc:contributor>
+  <dc:contributor>Van Ness, Peter</dc:contributor>
+  <dc:contributor>Viotti, Paul</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63578</identifier>
+    <datestamp>2014-12-09T18:53:45Z</datestamp>
+    <setSpec>codu_62795</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Japanese Worldviews, Ideologies, and Foreign Aid Policy</dc:title>
+  <dc:creator>Shannon, Richard Warren</dc:creator>
+  <dc:contributor>Josef Korbel School of International Studies</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>This project studies the ideational factors influencing Japanese foreign aid policy. It builds on previous research in political science on perception and foreign policy decision-making, Japanese political economy, economic and technological development, foreign aid, and in anthropology on perception, worldview, and international development.The main goal of the research is to answer the question of how Japan&apos;s historical experiences with technology, development, and foreign relations (and key leaders&apos; views of those areas) from 1850 to 1945 have influenced current aid policies. Second, the project aims to answer whether the Japanese development concepts of &quot;modernization,&quot; internationalization and translative adaptation accurately reflect Japan&apos;s own experience. Third, the project asks how spirituality and religion may be influencing current aid policies.In the research, I review key contexts of Japan&apos;s historical experience from 1850 to 1945 in several important areas. I also study the beliefs and worldviews (cognitive frameworks) of seven key Japanese leaders for the same period: Fukuzawa Yukichi, Mori Arinori, Ito Hirobumi, Yamagata Aritomo, Kato Hiroyuki, Yanagita Kunio, and Emperor Hirohito. I analyze these historical experiences and leaders&apos; views through analytical concepts and lenses from political science, anthropology, and economics, in three main areas: development, technology, and cognition.Among my key findings are that there is much continuity between Japan&apos;s prewar culture of politics and the postwar system, including examples and ideas, which shape the policy environment in which Japan&apos;s aid operates. Many of these are negative in nature, and some are ideas based on Japan&apos;s own development experience. Several key lessons emerge, including the importance of: 1) a strong civil society to prevent abusive politics for the achievement of Japan&apos;s national interests, whether in its prewar politics or the current aid system; 2) a strong, effective state for encouraging successful development; 3) Japan&apos;s development experience for other regions (if carefully applied); and 4) the concept of translative adaptation, the idea that each nation&apos;s development must be customized for its own conditions and experiences. I conclude that Japan needs better consideration of ground level factors in its assessments of ODA policy and international affairs.</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:subject>Political Science, International Law and Relations--Anthropology, Cultural--Religion, General--Foreign aid--Ideology--Japan--Policy--Religion--Worldview</dc:subject>
+  <dc:format>912</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63578</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63578</dc:identifier>
+  <dc:contributor>Szyliowicz, Joseph S</dc:contributor>
+  <dc:contributor>Van Arsdale, Peter</dc:contributor>
+  <dc:contributor>Khan, Haider</dc:contributor>
+  <dc:contributor>Hamilton, Sarah</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject> 
+ <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63577</identifier>
+    <datestamp>2014-12-09T18:53:49Z</datestamp>
+    <setSpec>codu_62795</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>TRANSCENDING CURRICULUM IDEOLOGIES: EDUCATING HUMAN BEINGS WELL</dc:title>
+  <dc:creator>Cloninger, Kevin M.</dc:creator>
+  <dc:contributor>Curriculum and Instruction</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>The purpose of this dissertation is to consider the role of well-being in schooling.  Recent advances in the fields of psychology, psychiatry, and medicine have led to a reexamination of the role of well-being in society.  There is a growing body of educational theory on the subject of well-being in schools that draws on these advances (Cohen, 2006; Noddings, 2003, 2006; Ruyter, 2004; Spring, 2007).  The few serious treatments on the role of well-being in education consider it from a theoretical perspective.  Few if any empirical research studies in the fields of Curriculum or Educational Psychology have been conducted that explore well-being in schools.  This dissertation will use the Science of Well-Being (C. R. Cloninger, 2004), an emerging theory unifying many fields of science, to take a new look at alternative education to explore how schools can attend to the well-being of children and society.  Specifically, this dissertation will investigate Krishnamurti Education using an arts-based qualitative research method: &lt;italic&gt;Educational Criticism and Connoisseurship&lt;italic&gt; (Eisner, 1998).I conducted research for roughly one month each at two Krishnamurti schools: the Oak Grove School in Ojai, California, and Brockwood Park in Hampshire, England.  I made long-term observations of 9 teachers at these two schools.  All told, this dissertation draws from 150 hours of observations and interviews with parents, teachers, administrators, and former students.  By studying these two schools, I answer the following research questions: 1) &lt;italic&gt;How is well-being related to schooling?&lt;italic&gt;  2) &lt;italic&gt;In two schools dedicated to the ideas of well-being and self-awareness, what specific strategies and pedagogies are used to help students cultivate self-awareness and well-being?&lt;italic&gt;  3) &lt;italic&gt;What is the significance of theories and practices aimed at increasing well-being for public schools in general?&lt;italic&gt;In an attempt to compare the educational approaches of the two schools, five underlying principles or dimensions emerged, which both schools share.  These five dimensions are: 1) &lt;italic&gt;Safety, Security, and Trust&lt;italic&gt;, 2) &lt;italic&gt;Order, Structure, and Activity&lt;italic&gt;, 3) &lt;italic&gt;Care, Affection, and Attention, 4) &lt;italic&gt;Intellect, Reasoning, and Meaning&lt;italic&gt;, and 5) &lt;italic&gt;The Sacred, Spirituality, and Religiosity&lt;italic&gt;.  These five dimensions of schooling are essential to consider in the development of well-being.  Krishnamurti schools, by attending to all of these dimensions, seek to reinvigorate communities of learning.  Instead of relying exclusively on techniques, ideology, and methods, they seek to create relationships within a community.The three themes that emerged from this study inform this dimensional framework by helping us to see how well-being can be encouraged in each of these five dimensions.  The three themes of &lt;italic&gt;love, freedom&lt;italic&gt;, and &lt;italic&gt;awareness&lt;italic&gt; emerged from the observations and interviews; they also appear frequently in Krishnamurti&apos;s writings and correspond with research from the Science of Well-Being on the practices that lead to greater well-being and the development of character.  The implications of this research for public education and teacher education are explored.</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:subject>Education, Curriculum and Instruction--Character Education--Freedom--Krishnamurti--Love--Self-awareness--Well-Being</dc:subject>
+  <dc:format>462</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63577</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63577</dc:identifier>
+  <dc:contributor>Uhrmacher, P. Bruce</dc:contributor>
+  <dc:contributor>Klingner, Janette</dc:contributor>
+  <dc:contributor>Michalec, Paul</dc:contributor>
+  <dc:contributor>Pessin, Sarah</dc:contributor>
+  <dc:contributor>Tombari, Marty</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63575</identifier>
+    <datestamp>2014-12-09T18:53:53Z</datestamp>
+    <setSpec>codu_62795</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>EFFECTS OF PLAIN LANGUAGE REVISION</dc:title>
+  <dc:creator>Baker, Holly Elizabeth</dc:creator>
+  <dc:contributor>Educational Administration and Policy Studies</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>Colorado assesses approximately 98% of students enrolled in grades 3&amp;ndash10 in the area of mathematics. In 2005, 69,872 English Language Learners (ELLs) in grades 3&amp;ndash10 participated in the state content area assessments. In 2007, 88,060 ELLs participated in the state content area assessments. With this dramatic growth in the ELL population in the state of Colorado and elsewhere in the nation, ensuring that ELLs have access to comprehensible materials on state assessments is of paramount importance. Accommodations provide access for students based on their individual needs. Likewise, assessment items designed and or revised using the principles of plain language and universal design increase access to the content area information in assessments. Colorado&apos;s work in plain language revision of Colorado Student Assessment Program (CSAP) items has been extensive.Using statewide CSAP data for 2005 and 2007, this study examined how mathematics assessment items, once revised for plain language, performed compared to the original, unrevised version of the item. Access for English Language Learners was a focal point for this study. Plain language revision was evaluated for its effects on item difficulty, item discrimination, DIF and DOK.DOK ratings from 2005 and 2007 were compared using Chi&amp;ndashsqaure. One sample t&amp;ndashtests were used to examine the differences in DIF and item difficulty (p&amp;ndashvalue), as well as item discrimination for ELLs and Non&amp;ndashELLs comparing the 2005 non&amp;ndashrevised items with the 2007 revised items. Unrevised items were used as controls. Revised items were classified by type of linguistic change. Each type of change was examined using ANOVA to determine if a specific type of change effected differences in DIF and item difficulty.While results indicate little if any difference in item performance at individual grade levels, overall LEP performance on revised items was higher than on non&amp;ndashrevised items, a change in performance not present for non-ELLs. This may indicate that plain language revision continues to hold promise as a best practice for item development. As an accommodation, however, it appears that plain language revision alone may not be sufficient to ensure access to assessment items for ELLs.</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:subject>Education, Tests and Measurements--English Language Learners--Plain Language--Universal Design</dc:subject>
+  <dc:format>163</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63575</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63575</dc:identifier>
+  <dc:contributor>Steiner, Ellen</dc:contributor>
+  <dc:contributor>Lefly, Dianne</dc:contributor>
+  <dc:contributor>Katz, Ellie</dc:contributor>
+  <dc:contributor>Salters, Roger</dc:contributor>
+  <dc:contributor>Green, Kathy</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63573</identifier>
+    <datestamp>2014-12-09T18:53:58Z</datestamp>
+    <setSpec>codu_62795</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>MENTORING DIALOGUES: AN INVESTIGATION OF THE DIALECTICAL TENSIONS AND MANAGEMENT STRATEGIES IN MENTORING RELATIONSHIPS</dc:title>
+  <dc:creator>Kosempel, Paul Jacob</dc:creator>
+  <dc:contributor>Human Communications</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>In the past 30 years, mentoring has gained perhaps the largest recognition of any phenomenon related to career success. Much of the current research that has explored mentoring relationships has been conducted in fields other than communication studies, although better communication is often the recommended solution to improve mentoring. The majority of research has focused on the outcomes of mentoring relationships, rather than the process of mentoring relationships. Mentoring has also not been studied through a relational dialectics perspective. This study explored the communication dynamics within mentoring relationships through a relational dialectics theoretical lens. The study utilized multiple methods including prompted joint conversations as well as individual interviews. Data was analyzed using thematic analysis (Owen, 1984). Significant findings include eight dialectical tensions constituted in mentoring relationships: openness-with and closedness-with, openness-to and closedness-to, integration and separation, stability and change, equality and hierarchy, individual goals and organizational goals, personal and professional, and structure and flexibility. Five management strategies were also discovered: spiraling inversion, segmentation, reaffirmation, balance, and denial. The identification of these tensions and management strategies led to a greater understanding of mentoring relationships, built on existing research to highlight the complexity in mentoring relationships, as well as supported the conceptualization of relational dialectics theory.</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:subject>Speech Communication--Communication--Education--Mentoring--Relational dialectics</dc:subject>
+  <dc:format>162</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63573</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63573</dc:identifier>
+  <dc:contributor>Morr Serewicz, Mary Claire</dc:contributor>
+  <dc:contributor>Wittmer, Dennis P.</dc:contributor>
+  <dc:contributor>Lair, Daniel J.</dc:contributor>
+  <dc:contributor>Suter, Elizabeth A.</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63576</identifier>
+    <datestamp>2014-12-09T18:54:02Z</datestamp>
+    <setSpec>codu_62795</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>DRIVING WHILE BLACK: STORIES THROUGH THE DRIVER&apos;S CAR WINDOW A COMMUNICATIVE ANALYSIS</dc:title>
+  <dc:creator>Keesee, Tracie Lynn</dc:creator>
+  <dc:contributor>Human Communications</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>This study explores the communicative dynamic that occurs between Denver police officers, and citizens of the African-American community, during traffic stops characterized as &quot;Driving While Black.&quot; Thirty four interviews were conducted regarding this study. Derived from the interviews were transcribed narratives, which were examined through the use of narrative analysis and various theoretical frameworks. The narrative analysis and theoretical frameworks provided a new lens for exploring the police/citizen communicative dynamic, and a foundation for additional communication research between police officers and the African-American community.</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:subject>Speech Communication--Sociology, Criminology and Penology--Communication--Driving While Black--DWB--Police--Race--Racial Profiling</dc:subject>
+  <dc:format>173</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63576</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63576</dc:identifier>
+  <dc:contributor>Wood, Roy</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:contributor>Foust, Christina</dc:contributor>
+  <dc:contributor>Lair, Dan</dc:contributor>
+  <dc:contributor>Manning, Susan S.</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63572</identifier>
+    <datestamp>2014-12-09T18:54:06Z</datestamp>
+    <setSpec>codu_62795</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Role of perceived partner responsiveness on Mexican American males&apos; pain severity and depressive symptomatology</dc:title>
+  <dc:creator>Freedman, Carolyn Michele</dc:creator>
+  <dc:contributor>Psychology</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>This study examined the role of cultural indicators in moderating  the influence of perceived partner responses and relationship satisfaction on pain severity and depressive symptomatology among a sample of 62 married and cohabiting Mexican American men, the majority of whom were first generation Mexican Americans, with chronic back and/or neck pain. The cultural indicators were not found to act as moderators in the analyses that involved pain severity and depressive symptomatology as outcome variables. Nevertheless, this study&apos;s findings are an important initial step in understanding the relationship dynamics among an understudied population with chronic pain and raise many important questions to be pursued in future research. The cultural indicator &lt;italic&gt;simpatia&lt;/italic&gt; was found to moderate the association between perceived solicitous partner responses and relationship satisfaction, indicating that for those valuing &lt;italic&gt;simpatia&lt;/italic&gt;, solicitous responses may be seen to enhance the relational bond between the couple. Furthermore, perceived punishing partner responses were positively associated with pain severity and depressive symptomatology, indicating that these responses are likely seen as negative and may run against that which Mexican American males are expecting from their female partners, even when they are displayed within the context of a relationship that is generally a source of satisfaction. Findings also indicated that Mexican American men who were more acculturated, had been in the U.S. for a greater number of generations, or were lower in &lt;italic&gt;simpatia&lt;/italic&gt;, had worse pain and mood-related outcomes than those who were on the other side of the continuum of these cultural indicators. Despite its limitations, the present study was the first to examine the role of perceived partner responses on pain severity and depressive symptomatology within a cultural framework. Future studies conducted on larger, more diverse samples of Mexican American participants who fall along the entire acculturation spectrum, with the use of face-to-face interviews and behavioral observations, in addition to better paper and pencil measures than those used in the present study, as well as qualitative studies that focus specifically on first generation Mexican Americans, are needed to further examine the role of cultural indicators on the pain experience of married and cohabiting Mexican Americans.</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:subject>Psychology, Clinical--Chronic pain--Culture--Depression--Mexican Americans--Spouses</dc:subject>
+  <dc:format>197</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63572</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63572</dc:identifier>
+  <dc:contributor>Craine, Michael H.</dc:contributor>
+  <dc:contributor>Markman, Howard J.</dc:contributor>
+  <dc:contributor>Jones, Arthur C.</dc:contributor>
+  <dc:contributor>DePrince, Anne P.</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject> 
+ <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63568</identifier>
+    <datestamp>2014-12-09T18:54:10Z</datestamp>
+    <setSpec>codu_62795</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>A GLOBAL EDUCATION TRANSITION: COMPUTER SIMULATION OF ALTERNATIVE PATHS TO UNIVERSAL BASIC EDUCATION</dc:title>
+  <dc:creator>Irfan, Mohammod Taiyeb</dc:creator>
+  <dc:contributor>Josef Korbel School of International Studies</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>As an acknowledgment of the critical role of education in realizing other development targets, the Millennium Development Goals (MDG) of the United Nations include education in a framework of development targets. The MDG targets for education include achieving universal primary education and gender parities in all levels of education by 2015.Recent global campaigns have added to the momentum of the rapid progress of educational expansion, which began in roughly the 1960s. Countries with universal or near universal participation and completion in elementary education have started to look beyond primary, towards free and compulsory basic education- education up to lower secondary- for all their citizens.This dissertation will explore the progress towards, and viability of, meeting current and potential global targets at various stages of basic education. It will answer questions such as: What path is the world on in terms of meeting the MDG goal of universal primary education? Which regions and countries are at risk of falling short of that target? How will lower-secondary education unfold in different regions of the world? Will there be any disparity between boys and girls as the countries expand their primary and lower-secondary education? What needs to be done to meet the current MDG for universal primary education and to move the global system towards universal lower secondary at the global, regional, and country level?To find the answers, we developed a long-term educational forecasting model that represents the student and financial flows through the different levels of a formal educational system from primary to tertiary. The model is integrated within the broader International Futures model and represents the economic and demographic forces shaping the supply and demand of education. The broader International Futures system models the impacts of education on societal variables like fertility, productivity, and income, thus creating a feedback loop.According to our analyses, most of the developing countries will continue their educational expansion at a speed faster than the speed that the developed countries showed when they were at a comparable stage of development. However, some of the developing regions will still be far away from universal participation or gender parity in primary and lower secondary, largely due to the low initial condition in these regions. 	Forecasts from the base case of our educational model show the pace of progress will not be sufficient to meet the education MDGs. Two of the world regions, sub-Saharan Africa and South and West Asia, might not be able to enroll all their children in elementary schools by 2015. These two and one other UNESCO region, the Arab States, do not see universal lower secondary education in the horizon even at 2020. In the base case, all UNESCO regions but two will reach or be close to gender parity in primary education by 2015. While the Arab States will be close to parity by 2030, the sub-Saharan African index will not reach parity until mid-century. Latin America and the Caribbean, on the other hand, might experience a reverse gender bias favored towards girls by 2015, but will re-approach parity later.Lowering population growth will lessen the demand pressure in these countries and thus help them achieve better rates of participation in basic education. A better economy will help them spend more on education and thus get better results.Exploration of the recent growth patterns in access to and progress in education convinced us that there is  room for some acceleration of the progress in these areas. We have combined these findings to develop an aggressive but realistic normative scenario, where growth targets in educational flow rates, rather than an absolute coverage, are pursued.Even with the improved results from the normative scenario, the world is unlikely to meet the 2015 MDG targets. However, the sub-Saharan African region, as a whole, would be sufficiently close to the target of universal primary education by 2020. All other regions meet the MDG of universal primary under the normative scenario, with South and West Asia just barely making it. Under the normative scenario, all but one world region, sub-Saharan Africa, reach 95 percent or higher gross participation rate in lower secondary by 2020. It is almost mid-century by the time sub-Saharan Africa reaches close to universal lower secondary.Substantial progress in terms of gender parity will occur under the normative scenario despite the goal being explicitly pursued under the normative scenario. As girls in developing regions catch up with boys these regions reach close to gender parity in primary education around 2015. By 2020, exact parity is obtained in all regions. While the reverse gender parity extant in regions like Latin America and the Caribbean will start to slide back starting in the 2020s, a similar reverse parity starts to show up in sub-Saharan Africa around that time.The transition to universal basic education is important for human development. It will take considerable time and efforts to complete the transition. While it is useful to coordinate the global efforts in making the transition, it is also important to take into account the differences across regions and nations in setting realistic targets and goalposts.</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:subject>Political Science, International Law and Relations--Educational Transition--Global Education Forecast--Millennium Development Goal--Universal Basic Education--Universal Lower Secondary Education--Universal Primary Education</dc:subject>
+  <dc:format>313</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63568</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63568</dc:identifier>
+  <dc:contributor>Hughes, Barry B.</dc:contributor>
+  <dc:contributor>Hamilton, Sally</dc:contributor>
+  <dc:contributor>Khan, Haider A.</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63567</identifier>
+    <datestamp>2014-12-09T18:54:14Z</datestamp>
+    <setSpec>codu_62795</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>EXAMINING THE EFFECTS OF LINGUISTIC ACCOMMODATIONS ON THE COLORADO STUDENT ASSESSMENT PROGRAM--MATHEMATICS</dc:title>
+  <dc:creator>Enriquez, Marisol</dc:creator>
+  <dc:contributor>Educational Administration and Policy Studies</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>The No Child Left Behind (NCLB) Act changed assessment for English Language Learners (ELLs). Under the law, states must validly assess ELLs&apos; English Language Proficiency (ELP) and content knowledge. The law shed light on the achievement of ELLs while also creating challenges for states in validating state assessment and accountability systems. Test accommodations are used for ELLs to reduce threats to test score validity and measure academic achievement as accurately and fairly as possible. Since ELLs are working towards proficiency in English, they face linguistic and socio-cultural barriers under the confines of large scale assessment. A limited body of research regarding accommodations for ELLs exists, but has inconclusive findings that do not factor in student background variables. This study examined to what extent linguistic accommodation led to improvement in test performance of ELLs using ELP scores from the Colorado English Language Acquisition Assessment (CELApro) and Mathematics scores from the Colorado Student Assessment Program (CSAP) along with student background variables. The results of this study suggest that Translated Oral Scripts seemed to make the biggest difference for all grade levels in terms of association with higher CSAP performance. Students using Word-to-Word Dictionaries also showed increased performance for grades eight and ten. Grades three through seven were not included for this accommodation because of small sample sizes. Oral Scripts and Teacher Read Directions were associated with positive score increases for some grades and negative score drops for others. Students with lower levels of English proficiency tended to benefit more from receiving accommodations than students with higher proficiency. Analyzing the accommodations by grade also revealed differential accommodation effects. Third grade students receiving Translated Oral Scripts had higher CSAP scores than their non-accommodated peers, those using regular Oral Scripts benefitted slightly, while the effects of Teacher Read directions and Extended Timing appear to be worse than receiving No Accommodation for this sample. In grade ten, it did not matter what accommodations students received--none seemed to be associated with student performance.While the analyses showed that for the most part Teacher Read Directions, Extended Timing, and Oral Scripts were not significantly associated with Fluent-English Proficient (FEP) performance, it is unfortunate that the student samples receiving Translated Oral Scripts and Word-to-Word Dictionaries were insufficient in size to allow their inclusion. The FEP results may be due to the fact that FEPs no longer benefit from accommodations since they have a high level of ELP. Considering the significant role that assessment results have in guiding decisions about individuals and organizations, it is crucial to continue examining how to fairly assess ELLs while using systematic research-based practices.</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:subject>Education, Tests and Measurements--Education, General--Education, Administration--Accommodation--Assessment--English--Language--Learner</dc:subject>
+  <dc:format>154</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63567</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63567</dc:identifier>
+  <dc:contributor>Green, Kathy</dc:contributor>
+  <dc:contributor>Salters, Roger</dc:contributor>
+  <dc:contributor>Lefly, Dianne</dc:contributor>
+  <dc:contributor>Katz, Elinor</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63565</identifier>
+    <datestamp>2014-12-09T18:54:19Z</datestamp>
+    <setSpec>codu_62795</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Toward a New Social Contract: A tripartite mixed-methods analysis of university adaptation toward social sustainability at three land-grant universities</dc:title>
+  <dc:creator>Agans, Lyndsay Josephine</dc:creator>
+  <dc:contributor>Higher Education</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>Increasingly, colleges and universities in the United States are adapting toward amodel of behavior that incorporates issues of sustainability. This adaptation inuniversities and in society has implications on the organizational and nation-statelevel, the very core of which may serve to reshape the social contract between thetwo. In addition to supplying a strong counter-hegemonic argument that alters thecompetitive economic agenda-setting paradigm, this study serves as a tripartitecomparative case study analysis of university adaptation toward socialsustainability. By employing a social capital lens to understanding socialsustainability in higher education, this study seeks to examine the relationshipbetween higher education, sustainability, and the nation-state.The conceptualframework of this analysis will draw on Putnam&apos;s concept of social capital, in theeffort to understand the relationship between higher education, sustainability, andsocial capital as well as what a sustainability paradigm could mean in terms of a&quot;new&quot; social contract.The methodology of this study is exploratory and aimed at understandinguniversity adaptation in three ways: first, elements of organization andadministration aimed at advancing sustainability; second, teaching and researchefforts that have been established within a sustainability frame; and third,community and outreach efforts that examines the role of the university in itslocal environment as well as the work toward public service. The specificmethodology employed can be categorized as comparative case study (Yin, 2003).To validate findings, data is triangulated via a between-methods design andcollected through: qualitative survey, contextual content analysis, andcomparative discourse analysis respectively (Jaeger, 1988).  The result iseffectively a 3 x 3 mixed methods design so that each individual case studyemploys each of the three methodologies in order to provide a rich description ofthe social sustainability phenomena and offer data for comparative discourseanalysis.Findings reveal three distinct strands amongst the case studies in the analysisof sustainability discourse. Results show the importance of the role of,organizational context, personal approach of the chief sustainability agent, andorganizational saga in contributing to adaptation. In this way, sustainabilityapproaches and the priority and university adaptation differed. These threeapproaches can be described as: an energy/operations/facilities perspective, aresearch and academic-focused perspective, and a humanistic-grassrootsapproach.</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:subject>Education, Higher--Adaptation--Land-grant institution--Social justice--Sustainability</dc:subject>
+  <dc:format>245</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>Agans_denver_0061D_10016.pdf</dc:identifier>
+  <dc:rights>Copyright is held by the author. This dissertation is subject to a seven-year embargo, effective from date of publication. Citation and abstract information may be made publicly available; access is made available by request for DU students, faculty, and staff, as well as through interlibrary loan.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63565</dc:identifier>
+  <dc:contributor>Tuitt, Frank A.</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:contributor>Vaccaro, Annemarie</dc:contributor>
+  <dc:contributor>McKee-Culpepper, Malaika</dc:contributor>
+  <dc:contributor>Helton, Patricia S.</dc:contributor>
+  <dc:contributor>Chevillot, Frederique</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63562</identifier>
+    <datestamp>2014-12-09T18:54:23Z</datestamp>
+    <setSpec>codu_62795</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>RESISTING AND TRANSFORMING: PASTORAL THEOLOGY AND CARE OF KOREAN MILITARY WIVES</dc:title>
+  <dc:creator>Chang, Bocheol</dc:creator>
+  <dc:contributor>Religious and Theological Studies</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>Korean military wives have been symbolized as &quot;dirty,&quot; &quot;nothing,&quot; and &quot;evil&quot; by Koreans, Korean Americans, and their American families. They also experience same level of oppression and discrimination within Korean American congregations. In Korea, the women suffered poverty, sexual violence, and Confucian gender discrimination. They have also experienced racial and sexual oppression, intercultural familial conflicts and violence, and identity crisis in America.All of those experiences are caused the sense of not belonging of Korean military wives.The sense of not belonging and desperation can be explained well by Andrew Sung Park&apos;s theology of han. The theology of han shows the han of the women can be resolved only as the offender are willing to stand in the solidarity with Korean military wives. Asian feminist theologians point out that Asian women experience God as life-giving power and ultimately seek to the full humanity in the image of God.Meanwhile, liberation psychology focuses on the socio-political aspects of human psychology. It argues that the primary purpose of psychology in Latin America should make Latin Americans critically confront of the oppressive and dominant social and political realities.Conscientization plays a critical role in developing my thesis. To practice of resistance and transformation, the process of conscientization is essential both to Korean American congregations and to Korean military wives. To Korean Americancongregations, they need to critically reflect upon their privilege, power, and unjust socio-cultural and religious structures. Korean military wives need to confront their hanful life realities and proclaim their full humanity in the image of God.Under the communal contextual approach of pastoral theology and care, I propose three pastoral strategies of Korean military wives: (1) Korean American congregations should be authentic resisting and transforming community, which is grounded in God&apos;s justice and life-giving power. (2) Korean American congregations need the power of de-powering and de-centering of power systems toward converting power abuse into creative power. Korean military wives also need to rediscover and develop pre-existing but unnoticed power or capacity within themselves. (3) Korean American congregations work together with Korean military wives to resist social injustice through transforming actions.</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:subject>Theology--Psychology, Social--Communal contextual paradigm of pastoral theology--Korean American congregation--Korean military wives--Metaphor of living human web and cell--Pastoral care--Pastoral theology</dc:subject>
+  <dc:format>210</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63562</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63562</dc:identifier>
+  <dc:contributor>Doehring, Carrie</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+  <dc:contributor>Graham, Larry K.</dc:contributor>
+  <dc:contributor>Clemmer-Smith, Richard</dc:contributor>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63561</identifier>
+    <datestamp>2014-12-09T18:54:27Z</datestamp>
+    <setSpec>codu_62795</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Effects of Contextual and Individual Difference Factors on Perceptions of Victims</dc:title>
+  <dc:creator>Combs, Melody Dawn</dc:creator>
+  <dc:contributor>Psychology</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>Victim blame can have detrimental effects on victims&apos; coping with traumatic events. The current study examined contextual (i.e., victim-observer ingroup membership and safety of the environment) and individual difference (i.e., world beliefs, trauma exposure, and cognitive semantic associations) factors in relation to victim blame. Ingroup membership predicted greater character praise in females, while outgroup membership predicted greater praise in males. Victim praise was also greater when the environment was safe versus dangerous. Stronger beliefs about the manageability of the world marginally predicted greater victim blame, while stronger benevolent world beliefs predicted less victim blame and less character derogation. Further, the number of traumatic event types reported by participants was positively related to character praise and negatively related to derogation. Histories of exposure to traumas high in betrayal predicted greater character derogation. Using an implicit semantic priming task to examine the automatic semantic associations between victim and derogation concepts, victim-to-derogation priming was related to less victim blame.</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:subject>Psychology, Experimental--Psychology, Social--Psychology, Cognitive--Just world beliefs--Trauma--Victim blame--Victim perceptions</dc:subject>
+  <dc:format>54</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63561</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63561</dc:identifier>
+  <dc:contributor>DePrince, Anne P</dc:contributor>
+  <dc:contributor>Riva, Maria T.</dc:contributor>
+  <dc:contributor>McIntosh, Daniel N.</dc:contributor>
+  <dc:contributor>Potts, George R.</dc:contributor>
+  <dc:contributor>Shirk, Stephen R.</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63560</identifier>
+    <datestamp>2014-12-09T18:54:31Z</datestamp>
+    <setSpec>codu_62795</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>PARTICLE MOTION IN FLOWS: CONTRIBUTIONS TO AIRBORNE AEROSOL MEASUREMENT</dc:title>
+  <dc:creator>Darbeheshti, Maryam</dc:creator>
+  <dc:contributor>Engineering</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>Accurate, in situ measurement of airborne particles is critical in understanding the global atmosphere. An airborne instrument is designed to sample and measure the aerodynamic diameter of particles in the size range of 1-30 mm. Knowledge of the aerodynamic size of a particle includes the impact of unknown variables such as shape, size and density of a particle. Particles of the same aerodynamic diameter have the same trajectory and settling velocity in air, regardless of their actual size, density or shape. Knowing the time a particle resides in air can improve the climate models substantially.The developed instrument consists of a low turbulence inlet and a laser-Doppler velocimeter to sample and measure the super-micron particles all in one unit. Air enters the inlet at true air speed of the aircraft, which is a relatively high speed in the range of 100-200 ms-1. The low turbulence inlet reduces the air speed to 5-10 ms-1 in a short distance without generation of additional turbulence. It uses boundary layer suction through a porous diffuser to remove a substantial amount of air that is responsible for turbulence generation and particle loss in deposition to the inlet walls. Reduction of turbulence makes it possible to model and solve the flows inside the inlets and calculate the particle trajectories using computational fluid dynamic (CFD) tools.A new technique is developed to determine the size distribution of particles based on the motion of particles and measurement of the particles&apos; velocity. Velocimetric measurement of particle size is achieved by slowing the velocity of the flow that is carrying the particles and measuring the velocity of the particles in response to this change. Larger particles have higher tendency to continue at a higher speed, while smaller particles tend to follow the air stream lines. A laser Doppler velocimeter (LDV) measures the velocity of the particles as they pass through the viewing volume of the velocimeter. The aerodynamic diameter of the particles and their concentration is determined from the velocity measurements.Accurate determination of particle size distribution at the location of measuring sensor does not guarantee the accuracy of the ambient size distribution. The modification of number of particle due to particle loss, enhancement, and particles bouncing off the leading edge of the inlet is considered to accurately measure the ambient size distribution of particles.This research work also focuses on quantifying the effects of particle enhancement in the low turbulence inlet used in ACE-Asia sampling inlet and the deposition of particles in transport through the bends of ACE-Asia and NOAA inlets. The effect of force of gravity on deposition efficiency of particles has also been analyzed.</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:subject>Engineering, Mechanical--Engineering, Aerospace--Aerodynamic Diameter--Aerosol--Deposition Efficiency--Enhancement Factor--Laser Doppler Velocimeter--Low Turbulence Inlet</dc:subject>
+  <dc:format>215</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63560</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63560</dc:identifier>
+  <dc:contributor>Stedman, Donald H.</dc:contributor>
+  <dc:contributor>Wilson, James C.</dc:contributor>
+  <dc:contributor>Hamstad, Marvin A.</dc:contributor>
+  <dc:contributor>Matin, Mohammad A.</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63559</identifier>
+    <datestamp>2014-12-09T18:54:35Z</datestamp>
+    <setSpec>codu_62795</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Towards a Land Conservation Ethic in Zimbabwe: An Ethical and Religio-Cultural Analysis of Land Conservation  Policies and Practices in Communal Areas.</dc:title>
+  <dc:creator>Mutambara, Maaraidzo Elizabeth</dc:creator>
+  <dc:contributor>Religious and Theological Studies</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>In this study I analyze the problem of land degradation in Zimbabwe&apos;s Communal Areas (CAs) from the viewpoint of the Shona of Zimbabwe with the aim to formulate a land conservation ethic that motivates people in CAs to promote ecological stability.  The Shona in CAs are proximate agents as well as victims of environmental degradation.  The imperative to survive in a situation characterized by drastic inequalities in the allocation of land and an exploitative global economic system, forces them to engage in unsustainable land use practices.  Land conservation policies in Zimbabwe marginalize Shona values and norms, especially as they relate to land.  Against this background, the study advances the thesis that the problem of land degradation in CAs is primarily social, involving our right relationship with nature and with each other.  Therefore, technical approaches to the problem must be complemented by an ethic informed by Shona religio-culture whose main components are African Traditional Religions and Cultures and African Christianity.The study employs the hermeneutical circle of liberation theology as a paradigm by which to do ethics.  The paradigm follows the three methodological concepts of liberation theology, especially as Clodovis and Leornado Boff expound it.  These are: the socio-analytical mediation and the historical-analytical mediation; the hermeneutical mediation and the practical mediation.  In this method, the oppressed (the Shona), are the key ethical category for assessing all ethical behavior.  The paradigm begins with the lived experiences of oppressive social situations and proceeds to formulate a system of ethics aimed at changing the oppressive situation faced by the oppressed in CAs.The study concludes that a land conservation ethic that effectively addresses the problem of land degradation in CAs is a liberative ethic that comes out of Shona people&apos;s experience of oppression.  It is an ethic that seeks to remove conditions that degrade the land and dehumanize people in CAs.</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:subject>Religion, General--Theology--Gender Studies--African ChristianTheology--African Social ethics--African Traditional Religions--African Women&apos;s Theology--Land Conservation ethic--Liberation Theology</dc:subject>
+  <dc:format>231</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63559</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63559</dc:identifier>
+  <dc:contributor>Wilbanks, Dana W</dc:contributor>
+  <dc:contributor>Tinker, Tink</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+  <dc:contributor>Antonio, Edward P.</dc:contributor>
+  <dc:contributor>McCamant, John</dc:contributor>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63530</identifier>
+    <datestamp>2014-12-09T18:54:43Z</datestamp>
+    <setSpec>codu_62795</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Caribbean-China Relations: Foreign Policy and Small State Economic Adjustment</dc:title>
+  <dc:creator>Morris, Dana Marie</dc:creator>
+  <dc:contributor>Josef Korbel School of International Studies</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2008</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>EN</dc:language>
+  <dc:description>In recent years the relationship between Caribbean states and China has intensified. This dissertation argues that the Caribbean&apos;s increased engagement with China is an important component of their economic adjustment strategy that was necessitated after changes in the orientation of the international economic system that they must operate within, particularly in relation to the loss of trade preferences and the sharp decline in official development assistance.Despite the seemingly homogenous nature of these Caribbean states there is in fact significant foreign policy variation seen vis-à-vis engagement with China. Some Caribbean states have consistently recognized China, while others have vacillated between recognition of China and Taiwan. The source of this variation lies in differences in endowment of resources that are of strategic importance to China. The more resource-endowed countries demonstrate more foreign policy consistency while the resource-poor countries have exhibited a less consistent foreign policy towards China.The dissertation also explores the extent to which the relationship with China is beneficial for these states. It will be shown that despite the lack of explicit conditionalities accompanying Chinese aid and loans, there are important implicit conditionalities such as the awarding of contracts to Chinese firms and the importation of Chinese laborers that thwart the potential benefits accruing to Caribbean states from this relationship with China.</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:subject>Political Science, International Law and Relations--Caribbean foreign policy--Chinese foreign policy--Small states</dc:subject>
+  <dc:format>288</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63530</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63530</dc:identifier>
+  <dc:contributor>Grabel, Ilene</dc:contributor>
+  <dc:contributor>Zhao, Suisheng</dc:contributor>
+  <dc:contributor>Epstein, Rachel</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

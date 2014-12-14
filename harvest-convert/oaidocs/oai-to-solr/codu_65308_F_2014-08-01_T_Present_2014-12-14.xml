@@ -1,0 +1,1189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-12-14T16:41:12Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58129</identifier>
+    <datestamp>2014-12-09T18:55:22Z</datestamp>
+    <setSpec>codu_65308</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Explaining Variability in the Colorado Student Assessment Program Scores: A Geographic Perspective</dc:title>
+  <dc:creator>Murphy, Lisa M.</dc:creator>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>June 2005</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:language>en</dc:language>
+  <dc:format>188</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Doctoral</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>The Colorado Student Assessment Program, or CSAP, is the Colorado standardized testing program that measures student progress in reading, writing, and mathematics for all public schools in the state of Colorado. The scores vary across the state between districts, neighborhoods, and schools. Is there any pattern to this variation in scores? Is there one primary factor that explains this variation? At which scale are factors most significant? This project uses GIS to map the CSAP results and to correlate CSAP scores with neighborhood demographic variables such as income, race, educational attainment, as well as school related variables such as teacher salary and percent free lunch. The hypothesis that school scores are influenced by the characteristics defining the neighborhoods in which the students live challenges the theory that educational success is independent of these social factors. The most explanatory variable used in the analyses was percent free lunch. The higher the percentage of students that qualify for free lunch in a school, the lower the average CSAP scores for that grade at all scales of analyses. The school scale provided the strongest correlations between the CSAP scores and percent free lunch.</dc:description>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:58129</dc:identifier>
+  <dc:rights>All Rights Reserved</dc:rights>
+  <dc:rights></dc:rights>
+  <dc:rights></dc:rights>
+  <dc:contributor>Sutton, Paul</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Geology</dc:subject>
+  <dc:subject>Geography</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier>du_mas_2005_Murphy.pdf</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58128</identifier>
+    <datestamp>2014-12-09T18:55:37Z</datestamp>
+    <setSpec>codu_65308</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Measuring the Affordability of Rental Housing in Large Metropolitan Areas of the Western United States</dc:title>
+  <dc:creator>Lopez, Hilary</dc:creator>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>June 2005</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:language>en</dc:language>
+  <dc:format>220</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Doctoral</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>The research presented in this paper seeks to further explore the spatial dimensions of affordable rental housing shortages in the western United States by examining the degree to which a shortage of affordable rental housing exists in Los Angeles-Long Beach, California; Phoenix-Mesa, Arizona; Portland-Vancouver, Oregon-Washington; San Diego, California; and San Francisco- Oakland, California. Following Nelson, American Housing Survey metropolitan area micro- data is used to quantify the number of affordable rental housing units relative to the number of renter households within defined income strata to answer the following questions: what is the estimated shortage of affordable rental housing for extremely low income, very low income, and low income households in the study areas; how have the shortages of affordable rental housing changed in these metropolitan areas over time; how do the estimates vary between metropolitan areas; what do these results imply about the housing opportunities facing these populations; and how well do regional estimates•approximate the magnitude of shortages of affordable rental housing for extremely low, very low, and low income renters in the metropolitan areas studied? The results indicate that the affordable rental housing shortage is most severe in the tight southern Californian housing markets due to the acute shortage of units for extremely low income households and very low income renters. The analysis also revealed that shortages of affordable rental housing are worsening in Portland-Vancouver and Phoenix-Mesa. Further, the metro areas displayed different results in terms of whether shortages were more or less severe in their central cities over suburbs and in terms of the lower in some populations impacted. Using logistic regression, it was also shown that in San Diego extremely low income renters have a higher likelihood of occupying affordable rental housing if they receive some form of rental assistance</dc:description>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:58128</dc:identifier>
+  <dc:rights>All Rights Reserved</dc:rights>
+  <dc:rights></dc:rights>
+  <dc:rights></dc:rights>
+  <dc:contributor>Goetz, Andrew</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Geology</dc:subject>
+  <dc:subject>Geography</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier>du_mas_2005_Lopez.pdf</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58118</identifier>
+    <datestamp>2014-12-09T18:55:42Z</datestamp>
+    <setSpec>codu_65308</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>The Spatial Impacts of Southwest Airlines on Air Traffic Patterns &amp; Pricing in the United States</dc:title>
+  <dc:creator>Vowles, Timothy Michael</dc:creator>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>November 2000</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:language>en</dc:language>
+  <dc:format>260</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Doctoral</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>The research conducted has three main components. The first component is an updating of the &quot;Southwest Effect&quot; as observed by Air Transport World (1998), Dresner, Lin, and Windle (1996), and Southwest (1999). This updating illustrates that when Southwest enters a market there is a significant increase in pass-engers carried in the majority of the markets and a significant decrease in the average fare paid by travelers in the markets examined. The second goal of this work demonstrates how Southwest Airlines has created a &quot;Wal...;MartEffect&quot; on surrounding airports when entering a market. While this &quot;Wal-Mart Effect&quot; is not a strong as the original &quot;Southwest Effect&quot;, the research shows that the carrier indeed has an effect on enplanements and fares especially in multi-airport regions. The final objective studied in this research is the effect of the airline in changing metropolitan linkages. The increase in passengers attributed to the Southwest Effect lead to movements within the hierarchies of the cities studied. One of the biggest movers was Baltimore, which saw an increase in ranking in almost all of the cases studied. There was a general increase in the rankings of Southwest served cities when compared to non-Southwest served airports. - This research shows that Southwest Airlines does indeed have a profound effect on both the number of passengers traveling between airports and the average fare the passenger pays. It also shows that the carrier has the ability to strengthen the interaction between two airports with the type of service that it provides.</dc:description>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:58118</dc:identifier>
+  <dc:rights>All Rights Reserved</dc:rights>
+  <dc:rights></dc:rights>
+  <dc:rights></dc:rights>
+  <dc:contributor>Goetz, Andrew R.</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Geology</dc:subject>
+  <dc:subject>Geography</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier>du_mas_2000_Vowles.pdf</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58115</identifier>
+    <datestamp>2014-12-09T18:55:48Z</datestamp>
+    <setSpec>codu_65308</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Colorado Migration and &quot;The Mobility Transition,&quot; 1955-1995.</dc:title>
+  <dc:creator>Dodge, Richard N.</dc:creator>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>June 1999</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:language>en</dc:language>
+  <dc:format>335</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Doctoral</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>The spatial components of Colorado migration and population growth are examined for the 1955-1995 period using data from the Internal Revenue Service, Bureau of Census, and other sources. An analysis is made of relationships between population growth, natural increase, and migration, factors associated with interstate migration to Colorado, internal and external flows within metropolitan hierarchies, and economic and amenity variables. Statistical methods and spatial analysis by mapping are employed. Results are evaluated for conformance with migration theories including Ravenstein&apos;s laws, the gravity model, and especially Zelinsky&apos;s &quot;mobility transition hypothesis. The relationship between migration flows and patterns of urban growth is·discussed. Variations in net migration are found to be more important than variations in natural·increase in explaining variations in population growth. Sources of migrants to Colorado have shifted from the Midwest to the West and South. The gravity model factors, population and distance, are effective in explaining the volume of inmigration. There is a weak relationship between unemployment rates and net migration. Colorado&apos;s metropolitan areas and mountain resort towns serve as the main ports of entry for migrants from other states. Metropolitan size is unimportant in accounting for mig+atioq rate~ except within certain urban hie+archies. There is a slight downward movement within metropolitan hierarchies for external migrants, and a slight upward movement within Colorado. The Boyer and Savageau quality of life index is ineffective as a predictor of net migration direction. The recreational nature of counties and private/public land mix are seen as somewhat important for migrant destinations, but less so for internal migrants. Distance to specific portions of Colorado is the most important factor for migrants from different U.S. Census regions with some noted exceptions. Net flows of internal migrants are primarily directed toward suburban counties and some counties which are contiguous with metropolitan areas. Highest internal migration rates are intrametropolitan followed by intra-nonmetropolitan. The Zelinsky model still has utility, but should be viewed in the light of urban deconcentration.</dc:description>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:58115</dc:identifier>
+  <dc:rights>All Rights Reserved</dc:rights>
+  <dc:rights></dc:rights>
+  <dc:rights></dc:rights>
+  <dc:contributor>Goetz, Andrew R.</dc:contributor>
+  <dc:contributor>Sullivan, Donald G.</dc:contributor>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Geology</dc:subject>
+  <dc:subject>Geography</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier>du_mas_1999_Dodge.pdf</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:contributor>Longbrake, David B.</dc:contributor>
+  <dc:contributor>Herold, Laurence</dc:contributor>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_58113</identifier>
+    <datestamp>2014-12-09T18:55:55Z</datestamp>
+    <setSpec>codu_65308</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Synoptic Influences on Seasons of Exceptional Winter Precipitation in the Rocky Mountain Region</dc:title>
+  <dc:creator>Luchsinger, Deborah Anne</dc:creator>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>June 1998</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:language>en</dc:language>
+  <dc:format>297</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Doctoral</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>The Rocky Mountain region presents a number of problems for climatologists and meteorologists seeking to analyze weather and climate trends. The complex terrain modifies atmospheric circulation patterns and can both initiate and alter storm systems. Frequency, intensity, and duration of storm events are in tum affected by upper atmospheric circulation patterns. This research examines relations between (1) the PNA teleconnection index, (2) upper atmospheric pressure patterns, (3) storm-track preferences, and (4) frequency of cyclonic activity during seasons of exceptional winter precipitation. Map pattern analysis of standardized winter season precipitation indices calculated for each climate division inthe Rocky Mountain region yield 6 anomalous winter patterns. Composite maps of the 500-mbar surface are classified to determine modes of synoptic feature variability during the winter seasons analyzed. The significance of cyclone frequencies and the PNA index on precipitation anomaly patterns are determined through regression of the cyclone frequency and PNA indices against both divisional and regional precipitation indices. Finally, dominant storm track patterns are analyzed with respect to the anomalous precipitation patterns identified. Above-average winter precipitation patterns in the Northern region are associated with a zonal circulation regime, as indicated by a negative PNA index value and a ridge-trough-ridge configuration in the 500-mbar surface. The anomalous flow regime established by this reverse PNA synoptic pattern increases the frequency of extratropical cyclones breaching the west coast, and shifts the mean storm track such that storms enter the mountainous divisions of Idaho, western Montana, and northwestern Wyoming with little impediment. Anomalous precipitation patterns in the Southern region show no statistical significance to the frequency of cyclonic activity. Meridional circulation, as indicated by a positive PNA index value and a trough-ridge-trough synoptic pattern are strongly associated with above-average precipitation regimes in the Southern region. The increase component of anomalous flow from the subtropical Pacific Ocean and the southward displacement of the mean storm track around the Aleutian low result in an increase in winter storm system dynamics, rather than an increased frequency of storm events.</dc:description>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:58113</dc:identifier>
+  <dc:rights>All Rights Reserved</dc:rights>
+  <dc:rights></dc:rights>
+  <dc:rights></dc:rights>
+  <dc:contributor>Keables, Michael J.</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Geology</dc:subject>
+  <dc:subject>Geography</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier>du_mas_1998_Luchsinger.pdf</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_57845</identifier>
+    <datestamp>2014-12-09T18:56:00Z</datestamp>
+    <setSpec>codu_65308</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>High Plains Depressions in Eastern Colorado: Distribution, Classification, and Genesis</dc:title>
+  <dc:creator>Walker, Graham Thomas</dc:creator>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>June 1985 </dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:language>en</dc:language>
+  <dc:format>293</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Doctoral</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>Closed topographic depressions are widespread across the Colorado Plains with maximum densities in areas of fixed Quaternary sand dunes. A purposive sample of 548 depressions selected from maps of the 1° x 2° and 7.5-minute topographic series was described by five variables measuring the bipolar attributes elongate-circular, compact-irregular, shallow-deep, small-large, and simple-complex. Submission of the resulting data matrix to a hierarchical clustering algorithm discriminated the main genetic classes already identified subjectively, although with some misallocation. The analysis gave no new genetic insights and split some natural groupings that span a morphological continuum but share a common genesis. These limitations reflect deficiencies in specifying the morphological diversity of the sample as well as the mechanical nature of numerical classification procedures. Most sample depressions are primary or secondary eolian forms, ranging from small, regular depositional hollows on sand and loess, through deeper, more elongate blowouts, to large and highly irregular features comprising coalescent interdune flats and corridors. The largest features are found across early Pleistocene pediments undergoing dissection by north-bank tributaries of the South Platte and Arkansas Rivers and preserved by beheading of the pediment drainage. They result from solution-subsidence associated with Permian evaporites and from eolian disruption of broad shallow valleys comprising the original pediment drainage. Smaller stellate forms in central Washington County result from disruption of the incised High Plains drainage by loess drifts.</dc:description>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:57845</dc:identifier>
+  <dc:rights>All Rights Reserved</dc:rights>
+  <dc:rights></dc:rights>
+  <dc:rights></dc:rights>
+  <dc:contributor>Griffiths, Thomas M.</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>PhD.</dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Geology</dc:subject>
+  <dc:subject>Geography</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier>du_mas_1985_Walker.pdf</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_57846</identifier>
+    <datestamp>2014-12-09T18:56:06Z</datestamp>
+    <setSpec>codu_65308</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Scale Problems in Geographic Research</dc:title>
+  <dc:creator>Doiron, Jr., Claude J.</dc:creator>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>August 1971</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:language>en</dc:language>
+  <dc:format>192</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Master&apos;s</dc:description>
+  <dc:description>M.A.</dc:description>
+  <dc:description>The great size of the earth and the many geographical elements upon it require that geographic research utilize a reductionism that demands comprehensive considerations of scale. These elements compose a range of geographical focus within the experience of man, and in keeping with the processes of nature. The geographer has no laboratory in the manner of other scientists, but must rely on the map, and more recently upon remote sensors, as a means of making portions of the landscape amenable for study. These also supplement his field work, which is affected by the dimensions of the landscape, and his limited powers of observation. Geography is a science of areal variation which requires extensive study of area. Man&apos;s perception and conceptualization of area have important implications of scale. In field work, the geographer operates at a scale of reality (1:1). The sources with which he supplements field work are at various scales. Perception and conceptualization are processes, of both physiological and mental nature, peculiar to the individual; but the geographer is a trained individual and can give meaning to the areal variations at appropriately selected scales. Geographers have used the term, scale, with several meanings. Map scale is the most common and best understood. However, there are other scales necessary for the measurement of areal variation. In this respect, it is frequently necessary for a special scale to be devised for the individual research problem. Geographers have also employed the term, scale, with the connotation of area, and to refer to a point on a scale. The important thing is that the scale measures what it says that it will measure, and that it is not in violation of the isomorphism between the real objects and the number system. It is also important that subsequent mathematical operations performed upon measured quantities, be in accord with the order of the scale(nominal, ordinal, interval, or ratio), with which their measure has been determined. In geography, it is clear that the term scale means measurement, and more specifically, the preciseness of measurement. There is also a need to distinguish between generalization and measurement, as the former belongs to hypothesis and theory, and the latter to empirical observation. The selection of scale for a particular geographic research problem, might be thought of as a position of observation within a cone, inverted over the study area (cone of resolution). The choice of scale available is almost infinite, and the geographer has to rely on intuition and experience for selection. Actually he works at multiscale considerations, being governed by data sources and the nature of his problem. Examination of current research articles reveals that most geographic research is being conducted at small scales(63%) while only 8% is at large scale. In aerial photo interpretation scale plays an important part in resolution, detection, and identification, but the mechanical systems and physical conditions involved are the governing factors. Thematic and special purpose mapping have extreme scale considerations centered around the expression of areal data as point data. This is basically a matter of the extent to which one wishes to conceptualize or think abstractly, but concept cannot continue to be built upon concept without eventual verification with reality.</dc:description>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:57846</dc:identifier>
+  <dc:rights>All Rights Reserved</dc:rights>
+  <dc:rights></dc:rights>
+  <dc:rights></dc:rights>
+  <dc:contributor>Griffiths, Thomas M.</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Geology</dc:subject>
+  <dc:subject>Geography</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier>du_mas_1971_Doiron.pdf</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_57528</identifier>
+    <datestamp>2014-12-09T18:56:16Z</datestamp>
+    <setSpec>codu_65308</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>A Study of the Differences Among Freshmen Persisters, Voluntary Withdrawals, and Academic Dismissals at the University of Denver Based on Enrollment Data</dc:title>
+  <dc:creator>Landi, Jose Alberto</dc:creator>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>November 1981</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:language>en</dc:language>
+  <dc:format>202</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Doctoral</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>The problem addressed by this study was as follows: Are University of Denver freshmen persisters, voluntary withdrawals, and academic dismissals different on entrance variables? If they are different, can the differences be explained, and is it possible to predict group membership? Of the freshmen who entered the University of Denver in the fall of 1979, 164 persisters, 140 voluntary withdrawals, and 49 academic dismissals were compared on 14 pre-enrollment variables routinely collected in institutional files. The data were analyzed using stepwise discriminant function analysis in order to test group differences, the contribution of variables to those differences, and the predictive accuracy of a model built on pre-enrollment variables. The analyses performed showed that persisters and voluntary withdrawals were so similar on the variables utilized that a more meaningful analysis of the contribution of variables to group discrimination, and a more powerful prediction model, should use the more homogeneous group definition of the combination of (persisters + voluntary withdrawals) versus academic dismissals. The most important findings of this study were: 1. The similarity of freshmen persisters and voluntary withdrawals on entrance characteristics. 2. The interaction effects of &quot;distance away from home,&quot; and the extremely different profiles of commuter and non-commuter academic dismissals at the University of Denver. 3. The importance of financial aid, student age, and socioeconomic characteristics to separate academic dismissals at the University of Denver from other freshmen, over academic variables expected to hold much stronger discriminating power, such as high school rank and standardized test scores. This finding challenged the criteria for admissions traditionally used by the university. 4. The possibility of building a fairly strong prediction model for academic dismissal at the University of Denver, based only on pre-enrollment data. This study developed a prediction model that, when separating academic dismissals from other freshmen, yielded overall percentages of correct classifications of 82.8% for the sub-sample of commuters, and 76.7% for non-commuters. These results allow the practical use of the model to build a &quot;high-risk&quot; group in order to apply retention, orientation, and counseling strategies on potential academic dismissals.</dc:description>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:57528</dc:identifier>
+  <dc:rights>All Rights Reserved</dc:rights>
+  <dc:rights></dc:rights>
+  <dc:rights></dc:rights>
+  <dc:contributor>Not Specified</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>Geography</dc:subject>
+  <dc:subject>Geology</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier>du_mas_1981_Landi.pdf</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_57357</identifier>
+    <datestamp>2014-12-09T18:56:21Z</datestamp>
+    <setSpec>codu_65308</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Mass Movements Resulting From Intense Rainfall, Douglas County, Colorado: A Morphometric Analysis</dc:title>
+  <dc:creator>Kuhaida Jr., Andrew Jerome</dc:creator>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>May 1980</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:language>en</dc:language>
+  <dc:format>216</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Doctoral</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>On June 16, 1965, intense rainfall triggered numerous mass movements in Douglas County, Colorado.The purpose of this study was to examine these mass movements and determine the:(1) spatial distribution, (2) specific form and type, (3) contributing environmental factors, and (4) potential hazardous areas.Geometric and environmental field measurements were made on 45 scars.Geometric form measurements were used as the basis for the development of morphometric indices. The indices used were:depth (head)/length, depth (head)/width (source area), width (source area)/ length (source area), depth (head)/depth (side), depth (head)/total length of scar, length (source area)/total length of scar, width of transport zone/width (source area), shape, and volume.Correlation analysis was used to identify relations among the morphometric indices. Cluster analysis was used to identify groups of scars with similar morphometric characteristics. Each group of scars was then examined to identify environmental factors and hazard potential.Results of correlation analysis indicated two statistically significant relationships. Negative correlations exist between: (1) L/Lt and wc/W, and (2) D/Lt and wc/W. Both of these relationships suggest an association between the morphometry of the scars and the flow characteristics of the moving mass. In effect, channelization is related to both the displacement and volume of material from the source area. A long, narrow scar is produced by a moving viscous mass following existing drainageways downslope. With cluster analysis, four groups of scars were obtained that share similar morphometric characteristics. Group 1 was characterized by high L/Lt index values which suggested that sliding was the initial type of movement from the source area.Group 2 contained only one scar and was subsequently excluded from further analysis. Group 3 included scars with low values for the D/Lt index, suggesting that flowage was the operating process as material moved from the source area. Group 4 was comprised of scars exhibiting high values for the D/Ds index.This suggests rotational movement (slumping) of material within the source area. With each group, the material was apparently transformed into a flow as it moved through the transport zone. Environmental factors examined included topography, surface materials, and vegetation. A majority of the 45 scars were located on slopes with a northwest to northeast orientation. The only two associations observed between surface materials and types of movement occurred with groups 1 and 4. The scars in group 1 (slides) had a shear surface of gravelly-sand underlain by a distinct clay layer. Sixty percent of the scars in group 4 (slumps) occurred in surficial material thicker than five feet. No association between vegetation type or ground cover was observed.A hierarchy of hazardous areas for this type of mass movements was recognized.All areas beneath mesas and buttes possess some hazard, including the gently inclined areas at the base of the slopes. The next most hazardous locations include areas adjacent to drainage-ways at the base of slopes.At such locations, the greater the relief between the slope base and upland surfaces, the more extensive is the potentially affected area.The most hazardous situation occurs in those areas near the base of a north-facing slope and adjacent to drainageways.From this study, it can be concluded that a morphometric examination of mass movements has significant potential as a method of analyses for mass movements. Types of movement, factors contributing to movement and potentially affected areas can be suggested. However, more work is needed with various types of movements and in other locations before the full potential can be established.</dc:description>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:57357</dc:identifier>
+  <dc:rights>All Rights Reserved</dc:rights>
+  <dc:rights></dc:rights>
+  <dc:rights></dc:rights>
+  <dc:contributor>Herold, Laurance C.</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Geology</dc:subject>
+  <dc:subject>Geography</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier>du_mas_1980_Kuhaida.pdf</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_57355</identifier>
+    <datestamp>2014-12-09T18:56:26Z</datestamp>
+    <setSpec>codu_65308</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>County Land Use Planning: An Appraisal, with a Proposed Methodology For Evaluating Its Spatial Component</dc:title>
+  <dc:creator>Combs, Jr., Herbert Lee</dc:creator>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>September 1979</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:language>en</dc:language>
+  <dc:format>188</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Doctoral</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>Only in the past two or three decades has there been voiced any real sense of alarm arising from the extraordinary increase in population.In that same time period an increasing awareness of our nation&apos;s finite land space has been penetrating the minds of citizens and government officials. One consequence of this intensifying situation is the emergence of a group of professionals who desire to manage land use decisions in such a way as to present a balance between the numerous and often divergent uses of the finite land surface. These professionals are land use planners. As a result of several factors, state, county, and municipal governments have agencies of one sort or another which are charged with the responsibility for preparing comprehensive land use plans and, in some instances, for overseeing the proper functioning of the plans. These factors are numerous but one may cite federal initiatives in the form of legislation and financial incentives as examples and, at lower levels, the apparent competition for land use in the rural-urban arena. The inexorable growth of population with the expectable intensification of land use has prompted a concurrent—although somewhat tardy—evolution of comprehensive land use plans. The present stage in the evolution reflects a recognition of the scope and seriousness of the need for truly effective land use management. When one considers land use management, the concern is for planning the best use of land area; that is the spatial component.One notable shortcoming persists in the latest comprehensive plans; they include neither a procedure for evaluating the spatial component nor a stated intent to evaluate that critical component—particularly at the county level.If this is so, a methodology for evaluating the spatial component in county land use planning should be proposed.The problem and a purpose for this study emerge. In order to confirm the existence of the problem as initially perceived and to determine the planning milieu in which county governments are working, the planning background at the federal government level was examined as was that at the state level. The latter was accomplished through correspondence with planning agencies in each of the fifty states. In order to narrow the field to a manageable dimension, the planning and support documents of three counties in Colorado&apos;s north central area were carefully examined; i.e., those of Boulder, Larimer, and Weld Counties. Further information was obtained through field observation; visits to and conversations with planners of the three counties plus extensive correspondence. Through the study and investigation involved in this effort, it has been found that most states have provided authority and guidance to their counties to initiate and pursue land use planning. The extent to which counties have undertaken the tasks involved vary widely.This is true even among the three counties making up the study area for this paper. Comprehensive plans reflect to what extent land use pressures are perceived by the residents and officials of a county.They also reveal the degree of control that is to be exercised in managing land use decisions.Not surprisingly, the findings confirm the absence of a procedure to evaluate the spatial component in county land use plans.These findings are significant in that at this late date in the land management affairs of mankind, that management is still quite elemental in relation to the need.With the findings of this study available a methodology was proposed to evaluate the spatial component in county land use plans. The methodology includes a procedure which includes a detailed inventory of present land uses, a cyclic monitoring of the county area, steps which may be taken to rectify misuses, and a suggested means by which the effectiveness of the spatial component in plans may be evaluated. Some important conclusions emerge from this study. Now, late in the nineteenth century, some counties still have inadequate and in¬effective comprehensive plans. Even though some counties may have timely and sophisticated comprehensive plans for land use management, none specifically include a methodology for evaluating the effectiveness of any component of the plan.Finally, it is concluded that a new generation of county comprehensive land use plans is needed.The new plans must have as a specific objective woven into the fabric of the plan, the intention to evaluate the effectiveness of the spatial component of the plan, and a procedure whereby that intention can be effectuated.</dc:description>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:57355</dc:identifier>
+  <dc:rights>All Rights Reserved</dc:rights>
+  <dc:rights></dc:rights>
+  <dc:rights></dc:rights>
+  <dc:contributor>Herold, Laurance C.</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Geology</dc:subject>
+  <dc:subject>Geography</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier>du_mas_1979_Combs.pdf</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55707</identifier>
+    <datestamp>2014-12-09T18:56:33Z</datestamp>
+    <setSpec>codu_65308</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Studies on the Fluvial Environment Arctic Coastal Plain Province, Northern Alaska</dc:title>
+  <dc:creator>Lewellen, Robert Irl</dc:creator>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>August 1974</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:language>en</dc:language>
+  <dc:format>204</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Doctoral</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>Basic research on the Arctic fluvial environments has been presented. The arctic fluvial, although comparable in form to fluvial environments outside of the Arctic, is characterized by many unique processes. This is principally due to the fact that continuous permafrost underlies the Arctic Coastal Plain Province of Northern Alaska. Direct observations were made on the soils, permafrost, geomorphic processes, and general characteristics of five sites. The first site is an area of polymorphic ground in wet tundra soils and represents the incipient fluvial environment. The second site is a small drainage basin with an open channel and considerable disturbance by man. The third site was a small basin with essentially no disturbance by man. The fourth site is a large drainage basin with a tortuous channel. The channel is representative of the tributaries in the larger basins in the Province. The principal conclusions are numerous but can be summarized as follows. Low centered polygons can act as reservoirs and prevent runoff. Water assists in thawing ice wedges and forming polygon troughs. The troughs overlying the ice wedges can be part of an integrated drainage system. The degree of soil moisture determines if water will flow off of areas of integrated drainage. Large amounts of rainfall can be accepted immediately by the upland soils, and no surface runoff can occur. Runoff occurs only from the saturated soils which are adjacent to the integrated channels. Chemical and sediment loads are low in basins in tundra covered channels. Man&apos;s activity can trigger and accelerate erosion. There is a general sequence of events, repeated annually, between Spring runoff and Fall freeze-up. The evaporation and transpiration appear to be in balance with precipitation. The discharge and sediment load during the Spring runoff are important in forming and maintaining the present geomorphic form. The material presented is significant because this information has not been available before. The information is needed in light of the expanding resource exploitation already underway in northern Alaska.</dc:description>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:55707</dc:identifier>
+  <dc:rights>All Rights Reserved</dc:rights>
+  <dc:rights></dc:rights>
+  <dc:rights></dc:rights>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Geology</dc:subject>
+  <dc:subject>Geography</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier>du_mas_1974_Lewellen.pdf</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55709</identifier>
+    <datestamp>2014-12-09T18:56:41Z</datestamp>
+    <setSpec>codu_65308</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Geographic Research From Earth Orbit with Special Emphasis on Land Use</dc:title>
+  <dc:creator>Paludan, Charles Theodore Naftel</dc:creator>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>August 1975</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:language>en</dc:language>
+  <dc:format>164</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Doctoral</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>A thesis is proposed to show that the availability of repetitive observations from satellites yields information of significant benefit to the study of geography. A specific example of land-use survey of a selected test site is used to test the thesis. Data from the satellite LANDSAT-1, from aircraft at very high and medium altitudes, and from ground survey are used in the test experiment. Validation of the thesis statement requires definition of the terms, &quot;benefit&quot; and &quot;significant.&quot; This is accomplished by reference to published information needs of selected geographers. A set of five needs is extracted: (1) develop new approaches and ways of measuring interrelationships, (2) attempt to study all significant phenomena in an area, (3) include temporal data, (4) study human/nature relationships, and (5) determine areal distributions and pattern associations. The thesis is placed in historical perspective by discussion of the importance of reflective observation in past geographical discoveries. It is shown that the rapid traverse studies which began forty years ago are analogous to observations from spacecraft. Design of the test experiment in land-use survey establishes the rationale of the experiment, selects the test site in Madison County, Alabama, establishes objectives and limitations, and out-line tests to determine if objectives are met. Technical details of factors affecting conduct of the experiment are given. These include resolution limits, data gathering, observation modes, and the land-use classification system. Conduct of the experiment is described, and in the analysis of data a number of maps are produced. Using the maps as information products, the test are applied to show that experimental objectives were met. The results are stated in terms of questions raised by the thesis; the five information needs are each examined relative to the experiment findings, for example. The success of the study in confirmation of the thesis is shown. Important findings, unanswered questions, conclusions, and recommendations complete the report.</dc:description>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:55709</dc:identifier>
+  <dc:rights>All Rights Reserved</dc:rights>
+  <dc:rights></dc:rights>
+  <dc:rights></dc:rights>
+  <dc:contributor></dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Geology</dc:subject>
+  <dc:subject>Geography</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier>du_mas_1975_Paludan.pdf</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55651</identifier>
+    <datestamp>2014-12-09T18:56:47Z</datestamp>
+    <setSpec>codu_65308</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>A Quantitative Evaluation of the Importance of Present Climatic Conditions in the Profile of Slopes</dc:title>
+  <dc:creator>Toy, Terrence J.</dc:creator>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>June 1973</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:language>en</dc:language>
+  <dc:format>329</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Doctoral</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>The factors of the environment which control hillslope form include: (1) geology, (2) climate, (3) topography, (4) vegetation, (5) soils, and (6) process. The purpose of this research is to evaluate the importance of the climatic factor. Hillslope measurements and climate data were obtained for twenty-eight sites throughout the conterminous United States. Each hillslope selected has a southern exposure, is underlain by nearly horizontal marine shale, is within five miles of a weather station having a minimum record of twenty-one consecutive years including 1951-1971, and is devoid of man-made changes. The parameters developed from the hillslope surveys are: curvature of the convex segment; slope of the straight segment; slope of a regression line fit through the entire concave-convex hillslope profile; slope-length ratio; and departure from an average curve. The climate variables developed from Weather Bureau records were selected on the basis of their relationship to geomorphic processes. The climate variables utilized are: summer precipitation; fall precipitation; winter precipitation; spring precipitation; rainfall intensity; freeze-thaw cycles; thermal intensity; potential evapotranspiration; and water availability. Correlation coefficients from simple regression were used to determine the relationship between each hillslope parameter and each climate variable. Step-wise multiple regression was sued to measure the combined influence of all the climate variables on slope form. The hillslope parameters were divided into climatic groups and subjected to the analyses of variance to determine the possibility of the regionalization of landforms on the basis of climate. The results of the analyses indicate that climate plays an important role in determining hillslope form. Fifty-nine percent of the variations in the rate of curvature of the convex segments can be explained by the climate variables. Approximately 43 percent of the variation in the slop of the straight segments was accounted on the basis of climate. Slightly over 37 percent of the differences in the slope of the fitted regression line were attributable to differences in climate. Nearly 26 percent of the variation in the values of the slope-length ratio can be explained by the climate variables. Fourteen percent of the departure from the average curve was accounted for on the basis of climate. Two attempts to regionalize landforms on the basis of climate were unsuccessful. The elements of climate most important to hillslope form are: (1) potential evapotranspiration, (2) spring precipitation, and (3) water availability. It can be concluded from these results that hillslopes in arid regions generally have smaller radii of curvature of their convex segments, steeper gradients of their straight segments and smaller slope length ratios than those of humid areas. This suggests that stream patterns in arid areas should exhibit higher densities and frequencies than those in humid regions.</dc:description>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:55651</dc:identifier>
+  <dc:rights>All Rights Reserved</dc:rights>
+  <dc:rights></dc:rights>
+  <dc:rights></dc:rights>
+  <dc:contributor>Not Specified</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Geology</dc:subject>
+  <dc:subject>Geography</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier>du_mas_1973_Toy.pdf</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55649</identifier>
+    <datestamp>2014-12-09T18:56:53Z</datestamp>
+    <setSpec>codu_65308</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Spatial Patterns and Neighborhood Awareness: A Study in Geographic Perception</dc:title>
+  <dc:creator>Cohen, Steven H.</dc:creator>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>June 1973</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:language>English</dc:language>
+  <dc:format>198</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Doctoral</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>Cities are presently considered as huge, confusing and impersonal regions by the majority of urban residents in the United States. However, in our society, people have developed a means of spatial ordering centered about themselves that permits orientation and adjustment to urban living. The average person, in discussing his daily movements, generally refers to the urban area in terms of decreasing certainty and increasing suspicion as he mentally moves outward from his home. Of primary importance to geographers has been the research in perception of the urban area by residents and their resultant “mental” images. This study explored a means of measuring and examining the patterns of urban perception. The secondary objective of this investigation was the exploration of utilizing perception measurements in the city-planning process. Four neighborhoods in Denver, Colorado were chosen for use in the study. Each area encompassed differing formal planning and political units and were given special reference titles. They were: 1) Westside-a predominantly Chicano area located near the Central Business District, 2) Bear valley – an entirely White area in southwest Denver, 3) SE Denver – an almost entirely White area in the south-eastern part of the City and 4) Park Hill- an integrated Black-Anglo area in northeast Denver. Residents in the four neighborhoods were randomly selected and interviewed at home. The interviews conducted housing preference, landmark identification, and mobility. During the interviews respondents were requested to rate eighteen examples of housing by comfort. The results were then sorted according to four parameters: 1) Size, 2) Greenery, 3) Density and 4) Styel. Respondents were also requested to identify four landmarks unique to their neighborhood and twelve sites common to all four areas. Last, each person interviewed was requested to complete a trip matrix indication the frequency with which various regional shopping and recreation sites are visited. The analyses of survey data indicated that although all parameters were used to some degree by each neighborhood in stratifying housing by comfort, the greatest stratification between neighborhoods occurred in the use of Size. According to the sample data, there was a direct relationship between the affluence of a neighborhood and the number of residents who stratified housing preference by Size. The study also found that residents used different landmark symbols in site identification. The symbol choice became more regional in scope with increasing distance from the respondent’s home to the site. Also, in moving about their homes, the residents used one localized site for convenience shopping and about two sites, in different directions from the home, outside the immediate neighborhood for specialized shopping.</dc:description>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:55649</dc:identifier>
+  <dc:rights>All Rights Reserved</dc:rights>
+  <dc:rights></dc:rights>
+  <dc:rights></dc:rights>
+  <dc:contributor>Not Specified</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Geology</dc:subject>
+  <dc:subject>Geography</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier>du_mas_1973_Cohen.pdf</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_55648</identifier>
+    <datestamp>2014-12-09T18:56:58Z</datestamp>
+    <setSpec>codu_65308</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>A Survey of Scale Concepts in Geographic Research</dc:title>
+  <dc:creator>Doiron Jr. Claude J.</dc:creator>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>May 1972</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:language>en</dc:language>
+  <dc:format>166</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Doctoral</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>The great size of the earth and the many geographical elements upon it require that geographic research utilize a reductionism that demands comprehensive considerations of scale. These elements compose a range of geographical focus within the experience of man, and in keeping with the processes of nature. The geographer has no laboratory in the manner of other scientists, but must rely on the map, and more recently upon remote sensors, as a means of making portions of the landscape amenable for study. These also supplement his field work, which is affected by the dimensions of the landscape, and his limited powers of observation. Geography is a science of areal variation which requires extensive study of area. Man’s perception and conceptualization of area have important implications of scale. In field work, the geographer operates at a scale of reality (1:1). The sources with which he supplements field work are at various scales. Perception and conceptualization are processes, of both physiological and mental nature, peculiar to the individual; but the geographer is a trained individual and can give meaning to the areal variations at appropriately selected scales. Geographers have used the term, scale, with several meanings. Map scale is the most common and best understood. However, there are other scales necessary for the measure of areal variation. In this respect, it is frequently necessary for a special scale to be devised for the individual research problem. Geographers have also employed the term, scale, with the connotation of area, and to refer to a point on a scale. The important thing is that the scale measures what it says that it will measure, and that it is not in violation of the isomorphism between the real objects and the number system. It is also important that subsequent mathematical operations performed upon measured quantities, be in accord with the order of the scale (nominal, ordinal, interval, or ratio), with which their measure has been determined. In geography, it is clear that the term scale means measurement, and more specifically, the preciseness of measurement. There is also a need to distinguish between generalization and measurement, as the former belongs to hypothesis and theory, and the latter to empirical observation. The selection of scale for a particular geographic research problem, might be thought of as a position of observation within a cone, inverted over the study area (cone of resolution). The choice of scale available is almost infinite, and the geographer has to rely on intuition and experience for selection. Actually he works at multi-scale considerations, being governed by data sources and the nature of his problem. Examination of current research articles reveals that most geographic research is being conducted at small scales (65 percent) while only 6 percent is at large scale. In aerial photo interpretation scale plays an important part in resolution, detection, and identification, but the mechanical systems and physical conditions involved are the governing factors. Thematic and special purpose mapping have extreme scale considerations center around the expression of areal data as point data. This is basically a matter of the extent to which one wishes to conceptualize or think abstractly, but concept cannot continue to be built upon concept without eventual verification with reality.</dc:description>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:55648</dc:identifier>
+  <dc:rights>All Rights Reserved</dc:rights>
+  <dc:rights></dc:rights>
+  <dc:rights></dc:rights>
+  <dc:contributor>Griffiths, Thomas M.</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Geography</dc:subject>
+  <dc:subject>Geology</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier>du_mas_1972_Doiron_Jr.pdf</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54108</identifier>
+    <datestamp>2014-12-09T18:57:07Z</datestamp>
+    <setSpec>codu_65308</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Settlement Pattern Changes And Self-Organizing Systems In The Central Rio-Grande Watershed Of New Mexico A.D. 1350-1968</dc:title>
+  <dc:creator>Dyreson, Delmar A.</dc:creator>
+  <dc:contributor>Not Specified</dc:contributor>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>July 1971</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:language>en</dc:language>
+  <dc:format>361</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Doctoral</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>The distributions of settlements in the Rio Grande Valley of Central New Mexico are studied over the period A.D. 1350 to 1968. The first phase of the investigation is concerned with the historical geography of the settle¬ment changes. Historic records, archaeological evidence, maps and documents are studied to obtain the required information. Settlement maps are then constructed indicating the locations of settlements at various points in time. The quantitative phase of the investigation involves the analysis of the settlement maps. Medvedkov analysis and self-organizing system analysis are employed. Finally the quantitative results and historical geography of the study area are combined for the assessment of settlement pattern changes. While Medvedkov analysis may be useful in some geographic areas, the results of the present study indi¬cate that the method is not universally applicable. To overcome the inadequacies of Medvedkov analysis, the statistical information theory concept of redundancy was tested in the study area and results were compared with samples from outside the area. With empirical modifi¬cation of the Maximum entropy function, the use of redun¬dancy makes possible the measurement of system order in the study area where Medvedkov analysis proved inadequate. It is a natural step to move from the use of redundancy as a static measure of order to the dynamic redundancy rate of change and the associated concept of a self-organizing system. The settlement distributions in this heterogeneous geographical area are characterized by almost continuous change. The fluctuations in the self-organizing system parameter have a sinusoidal character with an average period of approximately 50 years and a non-constant amplitude. There is no indication that a steady or equilibrium condition is attained at any time in the study area. Dacey&apos;s Iowa data was also tested using self-organizing system analysis, and it was found that there were greater settlement distribution fluctuations toward the end of the time sequence than at the beginning. The following factors were noted as being associ¬ated with discernible patterns in the self-organizing system analysis: rapid population increase, steady population loss, spatial expansion and spatial contraction of settlement zone perimeters, out-migration, rural to urban migration, influence of the mission system, and advent of the railroads. Settlement maps and computer program are included in appendixes.</dc:description>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:54108</dc:identifier>
+  <dc:rights>All Rights Reserved</dc:rights>
+  <dc:rights></dc:rights>
+  <dc:rights></dc:rights>
+  <dc:contributor></dc:contributor>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Geology</dc:subject>
+  <dc:subject>Geography</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier>du_mas_1971_Dyreson.pdf</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54109</identifier>
+    <datestamp>2014-12-09T18:57:12Z</datestamp>
+    <setSpec>codu_65308</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Changing Commercial Patterns In Metropolitan Denver, Colorado 1960-1970</dc:title>
+  <dc:creator>Peterman, William A.</dc:creator>
+  <dc:contributor>Herold, Laurance C.</dc:contributor>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>December 1971</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:language>en</dc:language>
+  <dc:format>255</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Doctoral</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>This investigation is designed as a study of the recent changes in the locational patterns of commercial activity in Metropolitan Denver, Colorado. Several commercial functions are chosen as being representative of the various &quot;levels&quot; and types of commercial activity. The time period chosen is between the census years 1960 and 1970. The study is placed in a central place framework and a simple definition of centrality is used. Employing an analogy of physical &quot;sources&quot; and &quot;sinks&quot; a central place is said to be an area in which there is an excess of goods or services available to the population in that area. In a similar manner a non-central place is an area in which there is a deficit of goods or services available. By relating the number of facilities of a function to population through a simple formula, the degree of centrality for the function and area can be determined. Using census tracts as the basic unit area centrality indices are computed for ten different functions for both 1960 and 1970. In addition all of the functions are combined to determine a set of overall centrality indices. By comparing indices by tract for both years the changes in centrality occurring during the ten year period are determined. Maps depicting all of the centrality computations as well as the ten year changes are presented and discussed. A considerable change in the locational pattern of commercial activity has occurred between 1960 and 1970. Along with the increasing importance of major outlying planned shopping centers there has been a decrease in the relative importance of major business arterials. The differences between the geographical patterns for &quot;low&quot; and &quot;high&quot; order functions are becoming fewer. This appears to be the result of an increasing centralization of commercial activity in several nodal areas spread throughout the urban area. Finally the study has allowed the development of a framework for depicting commercial growth and change. This framework, consisting of five stages, relates changing pat¬terns of commercial activity to population trends and is useful in describing the comprehensive patterns of commercial change in any urban area.</dc:description>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:54109</dc:identifier>
+  <dc:rights>All Rights Reserved</dc:rights>
+  <dc:rights></dc:rights>
+  <dc:rights></dc:rights>
+  <dc:contributor></dc:contributor>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Geology</dc:subject>
+  <dc:subject>Geography</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier>du_mas_1971_Peterman.pdf</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_54139</identifier>
+    <datestamp>2014-12-09T18:57:18Z</datestamp>
+    <setSpec>codu_65308</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>The Morphology Of Slope Profiles: a Statistical Method To Critically Analyze the Slope Hypothesis Of Willeam M. Davis, Walther Penck, And Lester C. King</dc:title>
+  <dc:creator>Clark, Robert Owen</dc:creator>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>June 1970</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:language>en</dc:language>
+  <dc:format>458</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Doctoral</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>The classical theory that stages in a fluvially-initiated cycle of erosion are marked by similar and well-defined slope configurations has been postulated by William M. Davis and Walther Penck. Lester C. King has offered a third interpretation of hillslope morphology and changes that occur with time. Although this “uniformitarian” approach to cyclical landform development continues to permeate the literature, its verity has been questioned by some students of hillslope evolution. The need for a definitive statement on the nature of valley-side profiles is therefore of fundamental concern to the science of geomorphology. The classical works of Davis, Penck, and King are reviewed in depth to present an unbiased appraisal of the three geomorphic theories. Recent studies on hillslope development are also presented to clarify the problems related to hillslope evolution. Statistical techniques were employed to test the validity of the classical geomorphic theories and are based on mathematical profile curves and regression models. These procedures were used to evaluate over 1,200 slopes selected at random from large-scale topographic maps of the western United States. Since the geomorphic concepts under investigation are theoretical, slope configurations that depict various stages of these cycles can be expressed as mathematical (or theoretical) curves. If it is assumed that the theories of Davis, Penck, and King are valid indicators of slope form throughout a physiographic region, it is then theoretically possible to predict the configurations of large numbers of slopes within the same region. On this basis slopes selected at random from “Test Areas” in the Pacific Mountains, the Intermontane Plateaus, and the Rocky Mountains were mathematically fitted with theoretical profiles representing the “mature” stages of the classical geomorphic theories. Regression equations for each theorist were computed from comparisons of actual and theoretical curves in the Test Areas and then used to predict profiles of randomly selected slopes in sixteen “Prediction Areas.” By statistically comparing the predicted forms with their actual counterparts, the reliability of each geomorphic theory can be tested. If the variance between these two sets of profiles is significantly large, it would be logical to conclude that such a geomorphic system is neither compatible with nor representative of one or more of the physiographic regions. Statistical analyses of the classical slope theories revealed that uniformitarian development is not an entirely valid concept for the western United States. Although results varied considerably among several theorists, the statistical findings were almost wholly negative. Mean deviation values derived from a comparison of actual and predicted declivities rarely dropped below 4 degrees; more often these values were as high as 6 or 7 degrees and even higher. The percentage variances between actual and predicted slopes were also largely negative for the five profile categories (convex, concave, convexo-concave, concavo-convex, and straight). The concavo-convex form was the only statistically significant and, hence, predictable profile. This profile was accurately predicted by King’s multiple-element model in the Pacific Mountains, Intermontane Plateaus, and Rocky Mountains with percentage variances of 1.8, 7.5, and 4.6, respectively. Although King’s multiple-element model was found to be a valid predictor of concavo-convex slopes, the three major profiles (convex, concave, and convexo-concave) were not representative of the Test and Prediction areas. The logical conclusion is that hillslopes are highly variable and reflect the vagaries of the environment; hence hillslopes cannot be categorized on the basis of rigid slope models.</dc:description>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:54139</dc:identifier>
+  <dc:rights>All Rights Reserved</dc:rights>
+  <dc:rights></dc:rights>
+  <dc:rights></dc:rights>
+  <dc:contributor>Not Specified</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Geology</dc:subject>
+  <dc:subject>Geography</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier>du_mas_1970_Clark.pdf</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_57890</identifier>
+    <datestamp>2014-12-09T18:57:23Z</datestamp>
+    <setSpec>codu_65308</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Analysis Of Downstream Hydraulic Geometry In The Sangre De Cristo Range, Colorado</dc:title>
+  <dc:creator>Wasserman, Adrian A.</dc:creator>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>June 1990</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:language>en</dc:language>
+  <dc:format>218</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Doctoral</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>This research examines the influence of geomorphic processes on downstream hydraulic geometry relationships in the northern Sangre de Cristo Range, Colorado. Large calibre bed material delivered to stream channels by mass-wasting, past glacial and past glacio-fluvial processes profoundly affect stream dynamics and, therefore, downstream hydraulic geometry relationships.A total of 96 stations are measured: 32 mass-wasting deposits, 32 on till deposits and 32 on outwash deposits. Field measurements include channel cross-section measurements, slope and bed material size and roundness.Derived data include bankfull width, mean depth, mean velocity and discharge, and sorting. Data from topographic maps include elevation, drainage basin area and stream length. Downstream hydraulic geometry relationships are significantly related to bankfull discharge, but not to stream length. Bankfull mean depth has the highest rate of increase with bankfull discharge while bankfull width has the lowest rate of increase. Analysis of bed material at each station suggests the following characteristics. First, sorting and roundness are significantly related to stream length but not to bankfull discharge. Second, particle size is generally significantly stream length. Finally, the coarsest fraction immobile at bankfull stage. Downstream hydraulic geometry relationships are better explained by the addition of a particle size variable. In general, d gs exerts the greatest influence on these relationships. Bankfull width consistently increases with particle size for all groups examined. Bankfull mean depth increases and bankfull mean velocity decreases with particle size for streams flowing over mass-wasting deposits and till deposits. As particle size increases, so does protrusion with flow. Bed material characteristics are significantly different between material generated by mass-wasting, past glacial and past glacio-fluvial processes. Particle size is largest for mass-wasting generated material and smallest for outwash deposits. Outwash deposits are better sorted and more rounded compared to the other two groups. In conclusion, streams in the study area have only limited influence over their channels. Their effectiveness is governed by their competency to entrain large calibre bed material derived from mass-wasting, and past glacial processes.</dc:description>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:57890</dc:identifier>
+  <dc:rights>All Rights Reserved</dc:rights>
+  <dc:rights></dc:rights>
+  <dc:rights></dc:rights>
+  <dc:contributor>Toy, Terrence J.</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Geology</dc:subject>
+  <dc:subject>Geography</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier>du_mas_1990_wasserman_merged.pdf</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:contributor>Hadley, Richard F.</dc:contributor>
+  <dc:contributor>Longbrake, David B.</dc:contributor>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59156</identifier>
+    <datestamp>2014-12-09T18:57:29Z</datestamp>
+    <setSpec>codu_65308</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Geographic Factors Influencing the Spatial Distribution of Six Indicator Diseases in the Denver Metropolitan Area</dc:title>
+  <dc:creator>Marr, Paul Gerard</dc:creator>
+  <dc:contributor>Goetz, Andrew R.</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>March 1996</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>en</dc:language>
+  <dc:format>339</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Research presented here examined processes that may influence the disease landscape. This research attempted to determine if there was an association between these processes and disease occurrence that accounts for any residual disease variation after holding the influences of socioeconomics constant. Age-adjusted rates for six indicator diseases-- influenza/pneumonia, heart disease, malignant neoplasms, cerebrovascular disease, low birthweight, and congenital malformations-- from 1987 through 1991 were aggregated by census tract for the Denver metropolitan area. The influences attributed to socioeconomic status such as income, education, and employment, were held constant and high disease rate tracts were determined. The distances to the nearest hazardous waste site [Superfund National Priority List sites (NPL); Toxic Release Inventory sites (TRI); Resource Conservation and Recovery Act (RCRA) Treatment, Storage, and Disposal sites (TSD); and land fills] between high and normal disease rate census tracts were then compared. The distances to the nearest hazardous waste site type between tracts with normal and high disease rates were, overall, not
+significantly different. In three cases the distances between normal and high disease rate tracts were found to be significantly different: heart disease and TRI sites, heart disease and NPL sites, and low birthweight and NPL sites. Although the test results were statistically significant, these tracts were not found to be grouped near any
+hazardous waste site. Tracts with multiple high disease rates were examined for commonalities, yet none were found. It was hypothesized that socioeconomic status would account for much of the variation in disease frequency, and that any residual variation would be accounted for by proximity to hazardous waste. However, the results of this research indicate that at the aggregate (census tract) level, disease frequency is not associated with distance to hazardous waste facilities or sites. It was also determined that disease frequency was not a linear function of socioeconomic status, but rather, the influences of socioeconomic status on the health of the population were more pronounced for lower social groups.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>Geology</dc:subject>
+  <dc:subject>Geography</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier>codu:59156</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:rights></dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59156</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_57902</identifier>
+    <datestamp>2014-12-09T18:57:34Z</datestamp>
+    <setSpec>codu_65308</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Synoptic Associations of Exceptional Snowfall Seasons in New England</dc:title>
+  <dc:creator>Hartley, Suzanne</dc:creator>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>June 1996</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:language>en</dc:language>
+  <dc:format>177</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Doctoral</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>Seasonal snowfall in New England has exhibited wide variations over the last few decades, the underlying causes of which have not been identified. This research examines how interactions among the large-scale atmospheric circulation and associated sea-level pressure patterns, cyclonic activity and storm track preferences, and North Atlantic sea-surface temperatures contribute to exceptional winter snowfall totals in New England. Unrotated principal components analyses of winter (December-March) precipitation, temperature and snowfall at 27 stations across New England identified regional indices of these variables. Composite anomaly maps of 700-mb heights and sea-level pressure (over North America and adjacent regions of the Pacific and Atlantic Oceans) and western Atlantic sea-surface temperatures were generated for extreme-valued winters on each of the regional climate indices. Possible associations between the regional climatic indices and indices of the Pacific-North American (PNA), North Atlantic Oscillation (NAO) and Southern Oscillation (SOl) atmospheric patterns were explored by correlation and regression analysis. The climatic, atmospheric, and oceanic data fields were analyzed in a multivariate framework to identify dominant modes of joint variability. Finally, comparisons were made of pairs of winters with similar. seasonal temperature and precipitation, but dissimilar snowfall totals. High winter snowfall totals are associated with a meridional circulation regime, as indicated by a negative NAO index and negative 700-mb height anomalies over the eastern United States. Anomalously high surface pressure over northern Canada promotes advection of cold air into the region, and the preferred storm track is along or just to the south of the New England coast. Low winter snowfall totals are associated with no unique set of circumstances, but a positive NAO index and more zonal circulation is indicated, along with weaker high pressure over Canada, and a storm track over interior New England rather than along the coast. There is no direct association with the PNA index and only a weaklag association with the SOl is indicated. In extreme southern New England, high (low) winter snowfall totals are associated with negative (positive)sea-surface temperature anomalies along the Atlantic seaboard.</dc:description>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:57902</dc:identifier>
+  <dc:rights>All Rights Reserved</dc:rights>
+  <dc:rights></dc:rights>
+  <dc:rights></dc:rights>
+  <dc:contributor>Keables, Michael J.</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:subject>Geology</dc:subject>
+  <dc:subject>Geography</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier>du_mas_1996_Hartley.pdf</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59155</identifier>
+    <datestamp>2014-12-09T18:57:41Z</datestamp>
+    <setSpec>codu_65308</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>The Late-Quaternary Environmental History of Mt. Evans: Pollen and Stratigraphic Evidence from Clear Creek, Colorado</dc:title>
+  <dc:creator>Doerner, James Patrick</dc:creator>
+  <dc:contributor>Sullivan, Donald G.</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>August 1994</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>en</dc:language>
+  <dc:format>232</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>The purpose of this research is to examine the fossil pollen and stratigraphic record from Echo Lake and the Doolittle Ranch meadow in order to determine how vegetation in the Mt. Evans region of the Colorado Front
+Range has changed since the last glacial advance of the Pleistocene Epoch. This information can then be used to
+infer how the regional climate in the Mt. Evans area has changed over the period of record. The study area includes two sites from which sediment cores were extracted for pollen and sediment analyses. These sites are Echo Lake (T4S, R73W, section 31; Idaho Springs quadrangle) and the Doolittle Ranch meadow (T4S, R73W, section 30; Idaho Springs quadrangle). This research chronicles nearly 19,000 years of paleoenvironmental change. Deglaciation in the Colorado Front Range began around 14,000 yr BP. The vegetation of the late-glacial
+period was dominated by tundra plants, especially Artemisia. subalpine forests were depressed at least 300
+m during this period. The Pleistocene/Holocene transition occurred at about 10,200 yr BP. This is indicated by increase in arboreal pollen percentages with concomitant declines in non-arboreal pollen types, reflecting expansion of coniferous forests at the expense. of tundra. Maximum temperatures occurred between 9000
+and 7800 yr BP. Traditionally, palynologists have viewed the middle Holocene (7000 to 4000 yr BP) as the
+warmest/driest period of the Holocene. The results presented here suggest that the classic &quot;Altithermal&quot;
+warming scenario may not apply in the Colorado Front Range. The onset of Neoglacial cooling began about 4800 yr BP. Modern vegetation distributions were established by 1500 yr BP. Cooler conditions at this time likely
+resulted in the development of permafrost in the Echo Lake meadow. The discovery of permafrost in the Echo Lake meadow suggests several interesting implications. Permafrost in subalpine and alpine meadows may have played a significant role in maintaining wet meadows during times of climatic warming in the Holocene. Should hypothetical atmospheric (greenhouse) warming cause degradation of discontinuous mountain permafrost, there could be degradation or loss of subalpine and alpine wetlands in the Rocky Mountains. The loss of subalpine and alpine wetlands could have far-reaching ecological consequence.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>Geology</dc:subject>
+  <dc:subject>Geography</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier>codu:59155</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:rights></dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59155</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_57891</identifier>
+    <datestamp>2014-12-09T18:57:46Z</datestamp>
+    <setSpec>codu_65308</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>A Study of the Rapid Transformation of IBO Heartland Settlements From Rural to Urban Centers: A Post-Nigerian Civil War Phenomenon</dc:title>
+  <dc:creator>Anene, Lawrence Okezie C.</dc:creator>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:date>August 1991</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:language>en</dc:language>
+  <dc:format>309</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>Doctoral</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>The primary concern of this study was to investigate the factors responsible for the rapid emergence and growth of cities in the Ibo Heartland of Nigeria in the years following the end of the civil war in 1970.It was hypothesized that the Ibo Heartland has experienced an unusually rapid rate of urbanization in the post-civil war period. This main hypothesis was tested through the following specific hypotheses: 1. That the rate of urbanization of the Ibo Heartland settlements in the past-civil war period (1970-85) was unique. 2. That Government and private efforts at post-war reconstruction provided impetus for rapid urbanization of Ibo settlements. 3. That intensive community development efforts urbanization of Ibo rural settlements in the post-civil war period stimulated rapid urbanization of Ibo rural settlements. 4. That the return migration of Ibo businesses and persons resulted in the post-war urban phenomenon. 5. That certain Ibo cultural traits aided the urbanization processes. Seven emerging cities within the Ibo Heartland were selected for study. These were compared with fourteen cities of similar status selected from Ibo and Kano regions of Nigeria. Data for the study were collected through primary and secondary sources. Methods of· collecting primary data included use of questionnaires designed for scheduled interviews, oral interviews and field observations. Analyses of these data led to the conclusions that: (1) post-war urbanization in the Ibo Heartland was unique; (2) post-war reconstruction in Nigeria made an indirect contribution to this urbanization; (3) community development efforts provided infrastructures and economic j base for the transformation of Ibo rural settlements into cities; (4) return migration of Ibo businesses and capital propelled their rural settlements to faster growth and urbanization; and (5) Ibo culture was an underlying motivator in the process of transforming Ibo rural settlements into cities. Based on these findings, the researcher recommended among others the: (1) governments should make their impact felt in the development of new cities in Nigeria; (2) viability studies should be carried out before citing high order functions in the rural settlements and; (3) investments in the Ibo Heartland should be more on economic enterprises than mere prestige projects.</dc:description>
+  <dc:relation></dc:relation>
+  <dc:identifier>codu:57891</dc:identifier>
+  <dc:rights>All Rights Reserved</dc:rights>
+  <dc:rights></dc:rights>
+  <dc:rights></dc:rights>
+  <dc:contributor>Herold, Laurance C.</dc:contributor>
+  <dc:contributor></dc:contributor>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>Geography</dc:subject>
+  <dc:subject>Geology</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier>du_mas_1991_Anene.pdf</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:contributor>Longbrake, David</dc:contributor>
+  <dc:contributor>Goetz, Andrew</dc:contributor>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_59157</identifier>
+    <datestamp>2014-12-09T18:57:51Z</datestamp>
+    <setSpec>codu_65308</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Hazardous Waste Sites and Nearby Residential Populations in Metropolitan Denver</dc:title>
+  <dc:creator>Engelstad, Jeffrey Lyall</dc:creator>
+  <dc:contributor>Goetz, Andrew R.</dc:contributor>
+  <dc:contributor>Canan, Penelope</dc:contributor>
+  <dc:contributor>Geography</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>December 1997</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>en</dc:language>
+  <dc:format>428</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>This study attempted to provide clarity to the environmental justice debate examining whether or not low-income and, especially, minority persons are disproportionately distributed near hazardous land uses such as CERCLA sites in metropolitan Denver. In the first section, the distribution of CERCLA sites is examined in
+relation to selected economic, demographic and land use variables at the census tract level. The second component of the analysis focuses on a stratified random sample of CERCLA sites in relation to housing market variables, namely property values and number of transactions. This analysis resulted in a number of conclusions, some of which are in conflict with the existing literature regarding environmental justice. There is
+not a significant difference at the census tract level between tracts containing CERCLA sites and similarly industrial non-CERCLA census tracts. Additionally, tracts adjacent to CERCLA tracts but containing no CERCLA
+sites are not significantly different from CERCLA tracts, in terms of either income or minority percentage of the population. Several residential subdivisions were examined to ascertain whether there is a value differential between properties within one-half mile of a selected CERCLA site and other properties, in the same subdivision, outside the one-half mile radius. The results are mixed and it appears that housing value is significantly affected by the proximity of a designated CERCLA site only when the site is well publicized and therefore, is more likely to be seen as hazardous by the local residents. The number of residential property
+transactions is not statistically significantly different in CERCLA-influenced subdivisions as compared to contiguous non-CERCLA influenced subdivisions. Nothing contained in this study can clearly refute the supposition that low-income and especially minority persons are disproportionately situated near hazardous land uses. The issue more clearly is, are designated CERCLA sites considered hazardous land uses? Given the distribution of CERCLA sites in metropolitan Denver, and the results of the analysis contained herein, the
+conclusion is that most CERCLA sites are not perceived as hazardous and therefore, do not influence demographic, socioeconomic or market pricing variables in any significant manner.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>Geology</dc:subject>
+  <dc:subject>Geography</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier>codu:59157</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:rights></dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:59157</dc:identifier>
+  <dc:contributor>Longbrake, David B.</dc:contributor>
+  <dc:contributor>Herold, Laurence C.</dc:contributor>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

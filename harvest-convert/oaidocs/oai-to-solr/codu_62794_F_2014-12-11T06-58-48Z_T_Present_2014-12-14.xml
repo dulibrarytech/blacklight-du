@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-12-14T16:46:00Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68154</identifier>
+    <datestamp>2014-12-11T17:29:06Z</datestamp>
+    <setSpec>codu_68107</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Obstructive Sleep Apnea Syndrome and Neuropsychological Dysfunction: Understanding the Impact of Obesity</dc:title>
+  <dc:creator>Hilsendager, Chelsea A.</dc:creator>
+  <dc:contributor>McRae, Cynthia</dc:contributor>
+  <dc:contributor>Sherry, Patrick</dc:contributor>
+  <dc:contributor>Olmos-Gallo, Antonio</dc:contributor>
+  <dc:contributor>Morgridge College of Education</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2013-01-01</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>thesis</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>124 Pages</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>Obesity is the largest risk factor for the development of obstructive sleep apnea syndrome (OSAS), which is a common sleep-related breathing disorder that is associated with cognitive dysfunction. A growing body of literature suggests that obesity is related to negative neuropsychological outcomes independent of other health problems known to impact cognitive functioning (e.g., type II diabetes, cardiovascular disease). The purpose of this study was to investigate the impact of obesity on the cognitive functioning of individuals with OSAS. Specifically, this study aimed to examine whether or not differences existed between obese and non-obese persons with OSAS on a battery of cognitive tests that assessed memory, attention, and executive functions both at baseline and over six months of continuous positive airway pressure (CPAP) treatment. This study utilized data from Project Breathe, which was a study conducted at National Jewish Health. It was hypothesized that obese participants with OSAS would demonstrate poorer baseline performance on tests of memory, attention, and executive functioning, and they would show lesser improvement in these cognitive domains over six months of CPAP treatment compared to non-obese participants. Analysis of covariance (ANCOVA) and repeated measures analysis of covariance (RM-ANCOVA) tests were used to analyze the data. Results indicate that obese and non-obese participants did not demonstrate differences in neurocognitive functioning at baseline or following six months of CPAP treatment after adjusting for age and hypertension. Several limitations, including how obesity was measured, analyses used, and low statistical power may have contributed to the lack of significant findings in the predicted direction. Future research should focus on the following: larger sample sizes; using measures of obesity other than or in addition to body mass index (BMI); and examining the moderating impact of sex on eurocognitive functioning in this population.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>Obesity</dc:subject>
+  <dc:subject>Psychology</dc:subject>
+  <dc:subject>Sleep Apnea</dc:subject>
+  <dc:subject>Neuropsychological Dysfunction</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Dissertations, Academic</dc:subject>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright is held by the author. User is responsible for all copyright compliance.</dc:rights>
+  <dc:rights>Embargo Period: No embargo</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68154</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68155</identifier>
+    <datestamp>2014-12-11T17:32:11Z</datestamp>
+    <setSpec>codu_68107</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Measurement of Low Temperature Thermal Properties of Microcalorimeters Using Johnson Noise Thermometry</dc:title>
+  <dc:creator>Bassett, Dain J.</dc:creator>
+  <dc:contributor>Zink, Barry L.</dc:contributor>
+  <dc:contributor>Calbi, Mercedes M.</dc:contributor>
+  <dc:contributor>Lengsfeld, Corinne</dc:contributor>
+  <dc:contributor>Gosh, Kingshuk</dc:contributor>
+  <dc:contributor>Siemens, Mark</dc:contributor>
+  <dc:contributor>Natural Sciences and Mathematics</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2013-01-01</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>thesis</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>102 pages</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>Calorimetric measurments and thermal transport measurments through a-Si&lt;sub&gt;x&lt;/sub&gt;xN&lt;sub&gt;y&lt;/sub&gt; suspended membranes have been performed to further the understanding of low temperature thin film thermal transport, and understand the interesting physics present within an amorphous dielectric material. The thermal properties of several calorimeters have been measured to understand the geometric dependence on transport phenomenon. We analyze and compare our results with observations of previous measurements, and with those indicating quantum limited thermal transport. We see strong indications of changes to the physical mechanism transporting heat through these materials as temperature changes from 50 mK to 2 K. We have also developed a relaxation calorimetric measurement for use with Johnson Noise Thermometry.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>Heat capacity</dc:subject>
+  <dc:subject>Physics</dc:subject>
+  <dc:subject>Thermal trasport</dc:subject>
+  <dc:subject>Low temperature</dc:subject>
+  <dc:subject>Johnson noise</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Dissertations, Academic</dc:subject>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright is held by the author.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:rights>Embargo Period: No embargo</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68155</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68156</identifier>
+    <datestamp>2014-12-11T17:34:38Z</datestamp>
+    <setSpec>codu_68107</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Foreign Investment in African Resources: The Ecological Aspect to Imperialism and Unequal Exchange</dc:title>
+  <dc:creator>Frame,Mariko Lin</dc:creator>
+  <dc:contributor>Khan, Haider</dc:contributor>
+  <dc:contributor>Mittelman, James</dc:contributor>
+  <dc:contributor>DeMartino, George</dc:contributor>
+  <dc:contributor>Gilbert, Alan</dc:contributor>
+  <dc:contributor>Singh, Simron J.</dc:contributor>
+  <dc:contributor>Josef Korbel School of International Studies</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2014-01-27</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>308 pages</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>This dissertation examines the issue of foreign investment in African resources from the theoretical perspective of ecological imperialism and ecologically unequal exchange theory (EUE). Pulling from Marxist ecology, critical political ecology, and an environmental reading of Polanyi, this dissertation seeks to theoretically deepen and clarify the concept of `ecological imperialism.&apos; It posits that the wave of neoliberal policies that swept through the developing world in the 1980s can be interpreted as a historically distinct moment of ecological imperialism, a `counter-countermovement&apos; to the era of economic nationalism that sought to bring developing world resources under state control. Focusing on Africa and a case-study on Tanzania, it examines the extent to which foreign investment regimes since Africa&apos;s colonial era reproduce a neocolonial situation whereby African political economic structures are subjugated for the `metabolic&apos; needs of core economies, in a manner amenable to the ever expanding needs of capital accumulation. It also addresses the relation of ecological imperialism to one of the most currently important theories concerning global environmental inequalities, ecologically unequal exchange theory (EUE). Building on world-systems theory/dependency theory and integrating ecological economics, EUE theory holds that the global economy is characterized by unequal, asymmetrical transfers of ecosystem goods and services from developing to developed economies in a manner that systematically reproduces global environmental inequalities through the mechanism of international trade and foreign investment. This topic is central to issues of environmental justice and inequality, particularly in regards to North-South relations. In order to contribute to the ongoing empirical research agenda of EUE, the dissertation engages in a standardized empirical model known as an economy-wide material flows account (EW-MFA) for Tanzania over the years 1970-2010. EW-MFAs trace resource flows driven by economic activities and have been used to operationalize the concept of EUE. The dissertation finds that though MFAs have been widely used in EUE literature, they insufficiently capture many forms of environmental degradation that could be categorized as ecologically unequal exchange. This is particularly true for countries like Tanzania whose main exports are high-value, low-weight preciousities, as MFAs measure resource flows in physical weight. In sum, the dissertation argues for a comprehensive, nuanced, and non-reductionist approach to the issue of ecologically unequal exchange, and more broadly, to issues of ecological exploitation and environmental justice, one that examines unequal resource flows but also other potential forms of exploitation that can occur in the political economic and social dimension.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>Ecological imperialism</dc:subject>
+  <dc:subject>African studies</dc:subject>
+  <dc:subject>Neoliberalization of the environment</dc:subject>
+  <dc:subject>International political economy</dc:subject>
+  <dc:subject>Foreign investment in Africa</dc:subject>
+  <dc:subject>Ecological Marxism</dc:subject>
+  <dc:subject>Ecologically unequal exchange</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Dissertations, Academic</dc:subject>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright is held by the author.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:rights>Embargo Period: No embargo</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68156</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68159</identifier>
+    <datestamp>2014-12-11T17:40:16Z</datestamp>
+    <setSpec>codu_68107</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Fabrication And Application Of A Polymer Neuromorphic Circuitry Based On Polymer Memristive Devices And Polymer Transistors</dc:title>
+  <dc:creator>Nawrocki, Robert A.</dc:creator>
+  <dc:contributor>Shaheen, Sean E.</dc:contributor>
+  <dc:contributor>Voyles, Richard M.</dc:contributor>
+  <dc:contributor>Quigley, Martin F.</dc:contributor>
+  <dc:contributor>Gao, Wenzhong</dc:contributor>
+  <dc:contributor>Mahoor, Mohammad H.</dc:contributor>
+  <dc:contributor>Daniel Felix Ritchie School of Engineering and Computer Science</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2014-01-01</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>248 pages</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>Neuromorphic engineering is a discipline that aims to address the shortcomings of today&apos;s serial computers, namely large power consumption, susceptibility to physical damage, as well as the need for explicit programming, by applying biologically-inspired principles to develop neural systems with applications such as machine learning and perception, autonomous robotics and generic artificial intelligence. This doctoral dissertation presents work performed fabricating a previously developed type of polymer neuromorphic architecture, termed Polymer Neuromorphic Circuitry (PNC), inspired by the McCulloch-Pitts model of an artificial neuron. The major contribution of this dissertation is a development of processing techniques necessary to realize the Polymer Neuromorphic Circuitry, which required a development of individual polymer electronics elements, as well as customization of fabrication processes necessary for the realization of the circuitry on separate substrates as well as on a single substrate. This is the first demonstration of a fabrication of an entire neuron, and more importantly, a network of such neurons, that includes both the weighting functionality of a synapse and the somatic summing, all realized with polymer electronics technology.  Polymer electronics is a new branch of electronics that is based on conductive and semi-conductive polymers. These new elements hold a great advantage over the conventional, inorganic electronics in the form of physical flexibility, low cost and ease of fabrication, manufacturing compatibility with many substrate materials, as well as greater biological compatibility. These advantages were the primary motivation for the choice to fabricate all of the electrical components required to realize the PNC, namely polymer transistors, polymer memristive devices, and polymer resistors, with polymer electronics components. The efficacy of this design is validated by demonstrating that the activation function of a single neuron approximates the sigmoidal function commonly employed by artificial neural networks. The utility of the neuromorphic circuitry is further corroborated by illustrating that a network of such neurons, and even a single neuron, are capable of performing linear classification for a real-life problem.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>Memristive Devices, Memristors</dc:subject>
+  <dc:subject>Engineering</dc:subject>
+  <dc:subject>Organic Electronics</dc:subject>
+  <dc:subject>Neuromorphic Engineering</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Dissertations, Academic</dc:subject>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright is held by the author.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:rights>Embargo Period: No embargo</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68159</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68160</identifier>
+    <datestamp>2014-12-11T17:42:00Z</datestamp>
+    <setSpec>codu_68107</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Photoassisted Access to New Polyheterocycles</dc:title>
+  <dc:creator>Cowger, Teresa Marie</dc:creator>
+  <dc:contributor>Kutateladze, Andrei G.</dc:contributor>
+  <dc:contributor>Angleson, Joseph K.</dc:contributor>
+  <dc:contributor>Eaton, Gareth R.</dc:contributor>
+  <dc:contributor>Margittai, Martin</dc:contributor>
+  <dc:contributor>Cowan, Bryan J.</dc:contributor>
+  <dc:contributor>Natural Sciences and Mathematics</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2014-01-01</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>176 pages</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>Photoassisted diversity-oriented synthesis holds great promise in its ability to provide rapid access to complex and diverse molecular scaffolds. As it stands, while photochemical techniques  have  this  potential,  their  implementation  in  the  field  of synthetic organic chemistry is very limited. The main goal of this project was to utilize photochemically assisted techniques in the synthesis of a variety of novel polyheterocycles.  Initially, we explored the how the strain installed in these polycycles could be harnessed to trigger cationic rearrangements in the framework of the system. This was achieved via the high yield and rapid assembly of a highly strained system containing two oxetanes. This bis oxetane was derived from a compound containing carbonyl groups endo- to two respective bicyclic olefins which was assembled via a simple Diels-Alder step. The oxetanes were formed in a Paternò-Büchi reaction via excited-state chemistry. The protolytic ring-opening of this bis-oxetane compound afforded two highly unusual polycyclic products that both result from rather complex mechanisms which are 
+proposed in this work. In addition, we were able to elaborate on this rapid Diels-Alder assembly motif by designing a double-tandem [4+2][2+2][4+2][2+2] synthetic sequence which culminates in a complex scaffold containing an oxetane. When subjected to acidolysis, this oxetane affords a complex polycycle with rigidly held pendants rich in heteroatoms.
+</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>Cycloaddition</dc:subject>
+  <dc:subject>Chemistry</dc:subject>
+  <dc:subject>Polyheterocycles</dc:subject>
+  <dc:subject>Photochemistry</dc:subject>
+  <dc:subject>Oxametathesis</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Dissertations, Academic</dc:subject>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright is held by the author. User is responsible for all copyright compliance.</dc:rights>
+  <dc:rights>Embargo Period: No embargo</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68160</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68153</identifier>
+    <datestamp>2014-12-11T17:51:49Z</datestamp>
+    <setSpec>codu_68107</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>A Study of Fetal Tissue Implantation for the Treatment of Parkinson&apos;s disease: Can Self-Efficacy and Social Support Predict Physical Functioning and Perceived Treatment?</dc:title>
+  <dc:creator>Fiebelkorn, Bethany Lou</dc:creator>
+  <dc:contributor>McRae, Cynthia</dc:contributor>
+  <dc:contributor>Valdez, Jesse N.</dc:contributor>
+  <dc:contributor>Green, Kathy</dc:contributor>
+  <dc:contributor>Morgridge College of Education</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2014-01-01</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>thesis</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>133 pages</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>Few studies have comprehensively explored the benefit of fetal tissue implantation in Parkinson&apos;s disease (PD) patients. This type of investigation is necessary to better understand how and why some participants in a double-blind investigation of fetal tissue implantation for PD improved following the surgical procedure while others did not (Freed et al., 2001). Data for the present study were collected during a quality of life (QoL) study conducted by McRae et al. (2004) that sampled PD patients who participated in Freed et al.&apos;s (2001) double-blind investigation of fetal tissue implantation. Several aspects of QoL were examined in McRae et al.&apos;s (2004) study, including perceived social support and self-efficacy. The literature on chronic disease management has consistently demonstrated the important role self-efficacy and social support have on the overall functioning of those living with chronic disease, specifically PD (Chenoweth, Gallager, Sheriff, Donoghue, &amp; Stein-Parbury, 2008; Montgomery, Lieberman, Sing, &amp; Fries, 1994; Schreurs, De Ridder, &amp; Bensing, 2000; Simpson, Haines, Lekwuwa, Wardle, &amp; Crawford, 2006). Additionally, literature on the placebo effect has suggested that higher levels of self-efficacy and perceived social support can enhance and sustain the placebo effect (Crow et al., 1999; Howard, 2008; Kaptchuk et al., 2008; Miller et al., 2009). The present study examined the predictive ability of perceived social support and self-efficacy in regard to physical functioning and perceived treatment in a sample of PD patients who received fetal tissue implantation. The study uniquely contributed to the literature because it was the first to examine the role of self-efficacy and the interaction between self-efficacy and social support on physical functioning and perceived treatment within this participant sample. Results indicated that self-efficacy was a significant predictor of physical functioning at 12-months post-fetal tissue implantation while social support was not found to be a significant predictor. Self-efficacy and social support were not significant predictors of patients&apos; physical functioning 24-months post-fetal tissue implantation or of patients&apos; perceived treatment group 12-months after the initial surgery. Future research studies might consider examining the longitudinal role of social support and self-efficacy on patient responsiveness to and benefit from surgical interventions for PD.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>Self-efficacy</dc:subject>
+  <dc:subject>Behavioral sciences</dc:subject>
+  <dc:subject>Fetal tissue implantation</dc:subject>
+  <dc:subject>Social support</dc:subject>
+  <dc:subject>Parkinson&apos;s disease</dc:subject>
+  <dc:subject>Physical functioning</dc:subject>
+  <dc:subject>Quality of life</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Dissertations, Academic</dc:subject>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright is held by the author. User is responsible for all copyright compliance.</dc:rights>
+  <dc:rights>Embargo Period: No embargo</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68153</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68167</identifier>
+    <datestamp>2014-12-11T20:44:26Z</datestamp>
+    <setSpec>codu_68107</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Opportunity gaps and remediation: can academic intensity in high school level the playing field?</dc:title>
+  <dc:creator>Buddenhagen, Brian</dc:creator>
+  <dc:contributor>Seidel, Kent</dc:contributor>
+  <dc:contributor>Gildersleeve, Ryan</dc:contributor>
+  <dc:contributor>Korach, Susan</dc:contributor>
+  <dc:contributor>Morgridge College of Education</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2014-01-01</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>87 pages</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>College remediation--sometimes referred to as developmental education--has come under increasing scrutiny as policymakers have focused on the racial and economic disparities evident in academic outcomes. The courses are designed to remedy the academic deficiencies of incoming freshmen, but descriptive statistics indicate that these students fare poorly in college, and many will not persist to graduation. This phenomenon is especially pronounced in community colleges, which--due to policy decisions and open enrollment philosophies--take on a the largest proportion of students in remedial education. Considering the attention paid to remediation, the following study focuses on predictors and interventions that could potentially help educators identify students who may need remediation well before high school graduation, and apply timely treatments that could reduce the likelihood of those students requiring remedial education in college. The study considers current research around predictors of college success and persistence--the likelihood that students will persist to four-year degrees--and uses this research to construct a study that seeks to identify variables that can reduce the likelihood that secondary students will need college remediation. The study considers background, skills-based and behavioral variables, but focuses in particular on academic intensity--the general rigor and level attainment achieved by students in their high school careers. To explore the phenomenon, it uses data collected by a large, urban school district in the Rocky Mountain West --data that includes information of standardized test scores, high school course-taking behaviors, and remediation status for those students who attended in-state, public institutions of higher education. In order to measure the effects of academic intensity, the study makes use of eight-grade standardized test scores as independent variables. These scores are collected early enough that effective interventions can be applied before high school graduation, and they offer a convenient means of assessing the likelihood that students will require remediation. They also offer a means of measuring the effects of those interventions: ideally, the study will demonstrate that the predictability of those scores is significantly weakened as the level of academic intensity is increased. Researchers vary in their definitions of academic intensity, with most focusing upon the number of Carnegie units completed in each discipline, and on the highest level of achievement within each discipline. Using the most reliable data available, this study focuses on two primary measures: student participation and achievement in Advanced Placement (AP) curriculum, and the calculated difference between a student&apos;s weighted and unweighted grade point average, which reflects the breadth of a student&apos;s participation in accelerated or AP curriculum. Though AP curriculum, in particular, possesses limitations demonstrated in previous research, these measures offer up the most consistent and trustable data. Using binary logistic regression, the study reveals three primary findings: race- and class-based remediation gaps cease to measure as significant when skills-based and dispositional student characteristics are factored into the model; after factoring in dispositional measures of academic intensity, only eighth-grade standardized math test scores and the volume of AP tests passed by students persist as significant predictors of college remediation; and the calculated difference between a student&apos;s weighted and unweighted GPAs offers the single best predictor of college remediation.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>Developmental education</dc:subject>
+  <dc:subject>Education administration</dc:subject>
+  <dc:subject>Education</dc:subject>
+  <dc:subject>Remediation</dc:subject>
+  <dc:subject>Academic intensity </dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Dissertations, Academic</dc:subject>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright is held by the author.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:rights>Embargo Period: No embargo</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68167</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68171</identifier>
+    <datestamp>2014-12-11T21:50:44Z</datestamp>
+    <setSpec>codu_68107</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>The Negative Impact of TRIPS on Gender Rights in Access to Health and Food in India: A Study of the Dynamics of Knowledge Economy and Neo-Medieval Governance</dc:title>
+  <dc:creator>Mukhopadhyay, Kausiki</dc:creator>
+  <dc:contributor>Khan, Haider</dc:contributor>
+  <dc:contributor>Donnelly, Jack</dc:contributor>
+  <dc:contributor>Rothman, Dale</dc:contributor>
+  <dc:contributor>Josef Korbel School of International Studies</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2014-01-01</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>344 pages</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>Southern developing nations are increasingly emulating the knowledge economy followed by the developed nations of the North. This paradigm is characterized by the signature feature of the regime of TRIPS or individualized legal patents, particularly bio-patents developed through biotechnology in pharmaceutical and agriculture. It is also characterized by corporate social responsibility as a market mode of governance of development and increasing state retrenchment from delivery of public welfare. This form of economy is embedded in multilayered governance of neo-medieval governance where states and corporations tussle for the right to define growth and equity. This thesis argues that such a mode of economy and governance has failed to deliver equity for the marginalized poor women in India. This is explicated through four critical factors. First, there is increasing biopiracy of tribal women&apos;s traditional knowledge and denuding of uncodified knowledge of tribal women due to land deprivation which in turn severely affects their health. Second, a thriving pharmaceutical sector has failed to deliver health equity for poor women, particularly by being engaged in creation of medicines that do not have relevance for the main disease profile of the poor - communicable diseases. Third, there is rise of non-communicable diseases of the poor. Patents act as legal barriers to access to medicine and severely impact the health of the poor. Fourth, the rise of Bt seeds in cash crop agriculture has meant that traditionally saved and used food crop seeds are being marginalized and there is a growing agrarian crisis for women who do not have control over land, seeds and seed technology. Fifth, poverty is on the rise which is a sure sign that equity has not trickled down. If the international society of states provides for customized patents for women&apos;s traditional knowledge, women&apos;s knowledge, health and food security would be better secured.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>Gender studies</dc:subject>
+  <dc:subject>TRIPS</dc:subject>
+  <dc:subject>Neo-medieval governance</dc:subject>
+  <dc:subject>Knowledge economy</dc:subject>
+  <dc:subject>Health and food security</dc:subject>
+  <dc:subject>Gender rights</dc:subject>
+  <dc:subject>Intellectual property</dc:subject>
+  <dc:subject>Health care management</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>India</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright is held by the author.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:rights>Embargo Period: No embargo</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68171</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68173</identifier>
+    <datestamp>2014-12-11T23:42:04Z</datestamp>
+    <setSpec>codu_68107</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>&quot;Another Way&quot;: The Pneumatology of Deleuzean Minoritarian Communal Interpretation in Scripture, the 16th Century Radical Reformation, and Alternative 21st Century Anabaptist Community</dc:title>
+  <dc:creator>Garber, Jeremy</dc:creator>
+  <dc:contributor>Mahan, Jeffrey H.</dc:contributor>
+  <dc:contributor>Erickson, Amy</dc:contributor>
+  <dc:contributor>Raschke, Carl A.</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:contributor>Iliff School of Theology</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2014-01-01</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>252 pages</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>This dissertation proposes a constructive theology of the Holy Spirit called the &quot;pneumatology of minoritarian communal interpretation,&quot; the alternative creation of meaning within an oppressive majority context. It illustrates the convergence of Deleuzean philosophy with Anabaptist pneumatology and media communal interpretation theory in three particular locations: 1) selected mentions of the Holy Spirit in the Hebrew Bible and Christian New Testament; 2) the 16th century Radical Reformation; and 3) &quot;Another Way,&quot; a 21st century alternative Anabaptist group focused around the spiritual discussion of art and popular media. Chapter One outlines the three theories. Chapter Two examines the Holy Spirit in the Hebrew Bible, particularly 1 Samuel 8, the book of Ezekiel, and the Gospel narratives. Chapter Three examines the pneumatological writings of the Radical Reformers, concentrating particularly on their theologies of the intersection between church and the surrounding majoritarian culture. Chapter Four outlines my original field research with Another Way, and examines the tension between minoritarian communal interpretation and the 21st century semiotic regime. Chapter Five then summarizes the conversations between theory and illustration to propose the pneumatology of minoritarian communal interpretation for Christian theology.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>Anabaptist</dc:subject>
+  <dc:subject>Theology</dc:subject>
+  <dc:subject>Philosophy</dc:subject>
+  <dc:subject>Mass communication</dc:subject>
+  <dc:subject>Pneumatology</dc:subject>
+  <dc:subject>Mennonite</dc:subject>
+  <dc:subject>Media</dc:subject>
+  <dc:subject>Deleuze</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Dissertations, Academic</dc:subject>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright is held by the author. User is responsible for all copyright compliance. This item is under a two-year embargo. During this time the document is inaccessible for public view.</dc:rights>
+  <dc:rights>Embargo Period: two years</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68173</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

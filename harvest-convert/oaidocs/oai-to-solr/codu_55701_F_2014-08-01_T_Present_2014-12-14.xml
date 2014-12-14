@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-12-14T16:40:50Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68142</identifier>
+    <datestamp>2014-11-18T00:26:46Z</datestamp>
+    <setSpec>codu_68139</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Digitization for Preservation and Access: Restoring the Usefulness of the Nitrate Negative Collections at the AmericanGeographical Society Library</dc:title>
+  <dc:creator>Matusiak, Krystyna K.; Johnston, Tamara, K.</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2014</dc:date>
+  <dc:publisher>The American Archivist 77 (1), 241-269.</dc:publisher>
+  <dc:publisher>Society of American Archivists</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>Eng</dc:language>
+  <dc:format>241-269</dc:format>
+  <dc:format></dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Film-based photographic collections of nitrate negatives pose major challenges
+to preservation and access because of unstable media and the lack of item-level
+indexing. Digitization offers an opportunity to capture the content of deteriorating
+negatives, to extend access to them, and to restore their usefulness as information
+resources. Digitization as a preservation strategy has been the subject of ongoing
+debate. This article contributes to the discussion by exploring access to and the
+preservation of film-based photographic collections and by presenting the digitization
+project at the American Geographical Society Library as a case study. The
+project, Saving and Sharing the AGS Library’s Historic Nitrate Negative Images, was
+undertaken from 2010 to 2012 to preserve and provide access to over 69,000 nitrate
+negatives from its historic collections.</dc:description>
+  <dc:description>Citation: Matusiak, K.K. &amp; Johnston, T. (2014). Digitization for preservation and access: Restoring the usefulness of the nitrate negative collections at the American Geographical Society Library. The American Archivist 77 (1), 241-269.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Preservation; Metadata; Online Collections; Film and Moving Images</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>issn: 0360-9081</dc:identifier>
+  <dc:rights>© Krystyna K. Matusiak and Tamara K. Johnston.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68142</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68141</identifier>
+    <datestamp>2014-11-18T00:30:47Z</datestamp>
+    <setSpec>codu_68139</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Perceptions of usability and usefulness of digital libraries</dc:title>
+  <dc:creator>Matusiak, Krystyna K.</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2012</dc:date>
+  <dc:publisher>The International Journal of Humanities and Arts Computing 6 (1-2), 133-147</dc:publisher>
+  <dc:publisher>Edinburgh University Press</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>Eng</dc:language>
+  <dc:format></dc:format>
+  <dc:format></dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>This paper provides an overview of a case study research that
+investigated the use of Digital Library (DL) resources in two undergraduate
+classes and explored faculty and students’ perceptions of educational digital
+libraries. This study found that students and faculty use academic DLs primarily
+for textual resources, but turn to the open Web for visual and multimedia
+resources. The study participants did not perceive academic libraries as a useful
+source of digital images and used search engines when searching for visual
+resources.
+The limited use of digital library resources for teaching and learning
+is associated with perceptions of usefulness and ease of use, especially if
+considered in a broader information landscape, in conjunction with other library
+information systems, and in the context of Web resources. The limited use of
+digital libraries is related to the following perceptions: 1) Library systems are
+not viewed as user-friendly, which in turn discourages potential users from
+trying DLs provided by academic libraries; 2) Academic libraries are perceived
+as places of primarily textual resources; perceptions of usefulness, especially
+in regard to relevance of content, coverage, and currency, seem to have a
+negative effect on user intention to use DLs, especially when searching for visual
+materials.</dc:description>
+  <dc:description>Citation: Matusiak, K. K. (2012). Perceptions of usability and usefulness of digital libraries. The International Journal of Humanities and Arts Computing 6 (1-2), 133-147.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Digital libraries, Usability; Usefulness; Perceptions of digital libraries; Use of digital resources; College students</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>isbn: 1753-8548</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>© Edinburgh University Press and the Association for History and Computing 2012
+www.eupjournals.com/ijhac
+</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68141</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68143</identifier>
+    <datestamp>2014-11-19T18:22:26Z</datestamp>
+    <setSpec>codu_68139</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Educating a new generation of library and information science professionals: A United States perspective</dc:title>
+  <dc:creator>Matusiak, K.K.; Stansbury, M., Barczyk, E.</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2014</dc:date>
+  <dc:publisher>Przegląd Biblioteczny/Library Review 82(2), 189-206.</dc:publisher>
+  <dc:publisher>Wydawnictwo Stowarzyszenia Biliotekarzy Polskich, Warsaw, Poland</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>Eng</dc:language>
+  <dc:format>p. 189-206</dc:format>
+  <dc:format></dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>This article examines the U.S model of library and information science (LIS) education in light of the changes brought about by information and communication technology. The accepted model of professional preparation in the United States has emphasized graduate education on a Master’s level from LIS programs accredited by the American Library Association (ALA). The authors trace the historical development of this approach and provide an overview of the ALA accreditation process. Furthermore, they examine the strategies of LIS programs in adjusting to the changing information environment, present the debate about the iSchool movement, and discuss the evolution of the core curriculum.  In addition, the article explores the relationship between LIS education and the field of practice and presents a practitioner’s perspective on educating library professionals. The authors conclude that the model of advanced professional preparation for librarianship is still relevant in the digital environment, but it requires greater flexibility and close cooperation with the field of practice.  </dc:description>
+  <dc:description>Citation: Matusiak, K.K., Stansbury, M., &amp; Barczyk, E. (2014). Educating a new generation of library and information science professionals: A United States perspective.  Przegląd Biblioteczny/Library Review 82(2), 189-206.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Library and information science education, library schools, library and information science curriculum, accreditation, library and information science professionals</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>issn: 0033-202X</dc:identifier>
+  <dc:rights>Wydawnictwo Stowarzyszenia Biliotekarzy Polskich</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68143</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68144</identifier>
+    <datestamp>2014-11-19T18:59:34Z</datestamp>
+    <setSpec>codu_68139</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Image and multimedia resources in an academic environment: A qualitative study of students&apos; experiences and literacy practices</dc:title>
+  <dc:creator>Matusiak, K.K.</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2013</dc:date>
+  <dc:publisher>Journal of the American Society for Information Science and Technology 64 (8), 1577-1589.</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>Eng</dc:language>
+  <dc:format>p. 1577-1589.</dc:format>
+  <dc:format></dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>Citation: Matusiak, K. K. (2013). Image and multimedia resources in an academic environment: A qualitative study of students&apos; experiences and literacy practices. Journal of the American Society for Information Science and Technology 64 (8), 1577-1589.</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>The digital environment provides an abundance of images and multimedia and offers a new potential for using resources in multiple modes of representation for teaching and learning.  This paper reports the findings of a case study that investigated the use of image and multimedia resources in an undergraduate classroom. The study assumed a contextual approach and focused on different class contexts and students’ literacy practices.  The class, which took place in a resource-rich, multimodal environment, was perceived by students as a positive learning experience.  The distribution of resources and their role in teaching and learning varied and depended on the context of use. The findings indicate that images fulfilled important descriptive and mnemonic functions when students were introduced to new concepts, but their role was limited in practices that required students to analyze and synthesize knowledge.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Images;multimedia;information resources; visual resources; user studies; literacy practices</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier>issn: 1532-2882</dc:identifier>
+  <dc:rights>Copyright © 1999-2014 John Wiley &amp; Sons</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68144</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68145</identifier>
+    <datestamp>2014-11-19T19:06:31Z</datestamp>
+    <setSpec>codu_68139</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Educating a new cadre of experts specializing in digital collections and digital curation: Experiential learning in digital library curriculum</dc:title>
+  <dc:creator>Matusiak, K.K.; Hu, X.</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2012</dc:date>
+  <dc:publisher>Proceedings of the American Society for Information Science and Technology, 49(1), 1-3.</dc:publisher>
+  <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>eng</dc:language>
+  <dc:format>1-3</dc:format>
+  <dc:format></dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Integration of experiential learning into the library and information science (LIS) courses has been a theme in LIS education, but the topic deserves renewed attention with an increasing demand for professionals in the digital library field and in light of the new initiative announced by the Library of Congress (LC) and the Institution of Museum and Library Services (IMLS) for national residency program in digital curation. The balance between theory and practice in digital library curricula, the challenges of incorporating practical projects into LIS coursework, and the current practice of teaching with hands on activities represent the primary areas of this panel discussion.</dc:description>
+  <dc:description>Citation: Matusiak, K. K., &amp; Hu, X. (2012). Educating a new cadre of experts specializing in digital collections and digital curation: Experiential learning in digital library curriculum. Presented at the American Society for Information Science &amp; Technology (ASIS&amp;T) 75th Annual Meeting, Baltimore, October 29, 2012. Published in the Proceedings of the American Society for Information Science and Technology, 49(1), 1-3.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>LIS education; digital library curriculum; experiential learning</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright © 2012 John Wiley &amp; Sons</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68145</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68146</identifier>
+    <datestamp>2014-11-19T19:14:05Z</datestamp>
+    <setSpec>codu_68139</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>What we are learning about the diverse backgrounds of academic library users: An overview of research designs and methods in information behavior studies.</dc:title>
+  <dc:creator>Matusiak, K.K.</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2013</dc:date>
+  <dc:publisher>IFLA Library at: http://library.ifla.org/68/ </dc:publisher>
+  <dc:publisher> International Federation of Library Associations (IFLA) </dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>Eng</dc:language>
+  <dc:format>p. 1-11</dc:format>
+  <dc:format></dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>Citation: Matusiak, K.K. (2013). What we are learning about the diverse backgrounds of academic library users: An overview of research designs and methods in information behavior studies. Presented at the International Federation of Library Associations (IFLA) World Library and Information Congress, Singapore, August 19, 2013. </dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Diversity; academic library users; research designs; data collection methods </dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>© Krystyna K. Matusiak CC-BY</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68146</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68174</identifier>
+    <datestamp>2014-12-12T04:56:49Z</datestamp>
+    <setSpec>codu_68140</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Building a Digital Collection at a Small Non-Profit Organization: Opportunities and Challenges</dc:title>
+  <dc:creator>Thomas, Wendy</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:date>2014</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:type>Poster</dc:type>
+  <dc:language>Eng</dc:language>
+  <dc:format></dc:format>
+  <dc:format></dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>This poster provides an overview of the process of setting up the first digital library project at a non-profit organization by a group of graduate students and volunteers. It will present the workflows and tools used in building a pilot project and examine the challenges of undertaking digital projects at a small cultural heritage institution with limited technical infrastructure and expertise. 
+
+The Rocky Mountain Philatelic Library is a small non-profit organization run solely by volunteers and funded through membership dues, donations and auctions of donated stamps and ephemera. To keep pace with technology and make their special collections accessible online, the RMPL has piloted a project to digitize a collection of historic postcards.  Working with minimal funds and no technical infrastructure, the project is relying on donated equipment and open source software.   Collaborating on the project are one faculty member and two graduate students from the University of Denver Library and Information Science program and two professional librarians, all participating as volunteers.  The open source content management system Omeka was selected for its flexibility, ease of use and low cost. Steps in the process include creating scanning workflows and standards, creating taxonomies and metadata schema based on Dublin Core and pilot testing all workflows. </dc:description>
+  <dc:description>This is a copy of a poster created by Wendy Thomas, graduate student in the Library and Information Science.  The poster describes the process of building a digital postcard collection at the Rocky Mountain Philatelic Library. The poster was presented as part of the Digital Liaisons program at the Annual Meeting of ASIS&amp;T (Association for Information Science and Technology) in Seattle November 3, 2014. </dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Digital collections; Digitization; Postcards; Scanning; Metadata</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject>Rocky Mountain Philatelic Library</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>© Wendy Thomas</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68174</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

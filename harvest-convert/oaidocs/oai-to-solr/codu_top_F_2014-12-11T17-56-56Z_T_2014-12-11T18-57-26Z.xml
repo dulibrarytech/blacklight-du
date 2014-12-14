@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-12-14T16:40:11Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68162</identifier>
+    <datestamp>2014-12-11T17:58:59Z</datestamp>
+    <setSpec>codu_68108</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Parameter Identification of Micro-grid Control System</dc:title>
+  <dc:creator>Gao, Ning</dc:creator>
+  <dc:contributor>Gao, Wenzhong</dc:contributor>
+  <dc:contributor>Sewalk, Stephen</dc:contributor>
+  <dc:contributor>Mahoor, Mohammad</dc:contributor>
+  <dc:contributor>Zhang, Jun</dc:contributor>
+  <dc:contributor>Ellectrical Engineering</dc:contributor>
+  <dc:contributor>Daniel Felix Ritchie School and Engineering and Computer Science</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2014-01-01</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>thesis</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>69 pages</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>Micro-grid provides an effective means of integrating distributed energy resource (DER) units into the power systems. A micro-grid is defined as an independent low- or medium-voltage distribution network comprising various DER units, power-electronic interfaces, controllable loads, and monitoring and protection devices. Following the development of the renewable energy, micro-grid has attracted much attention.  This thesis emphasizes on the parameter identification of the control system of the micro-grid. The control system plays an important role in the stable operation of the micro-grid. The micro-grid has two operation modes, which are grid-connected operation mode and islanded operation mode. The transition between two operation modes of the micro-grid often occurs according to the condition of the entire grid. In order to make this process smooth, the control system is crucial, and the parameters of the control system is critical to the disturbance suppression during the process of transition. In the thesis, a method combining least square method with Newton-Raphson algorithm is proposed. In order to prove the utility of the method, the parameter identification of a typical control system and its several separated elements are simulated in MATLAB. This method can identify multiple parameters at the same time and have fast convergence.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>M.S.</dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject>Control System</dc:subject>
+  <dc:subject>Parameter Identification</dc:subject>
+  <dc:subject>Newton-Raphson Algorithm</dc:subject>
+  <dc:subject>Micro-grid</dc:subject>
+  <dc:subject>Least Square Method</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright is held by the author.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:rights>Embargo Period: No embargo</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68162</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68163</identifier>
+    <datestamp>2014-12-11T18:15:15Z</datestamp>
+    <setSpec>codu_68108</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>The Role of Ugandan Women in Rural Agriculture and Food Security</dc:title>
+  <dc:creator>McKenna, Karen Ann</dc:creator>
+  <dc:contributor>Sisk, Timothy D.</dc:contributor>
+  <dc:contributor>Stanton, Andrea</dc:contributor>
+  <dc:contributor>Wedig, Karin</dc:contributor>
+  <dc:contributor>Josef Korbel School of International Studies</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2014-01-01</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>thesis</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>139 pages</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>Women engaged in small-scale rural agriculture in Iganga, Uganda for the purpose of household food security and/or income generation face a number of challenges to creating sustainable livelihoods. This analysis is presented in the form of a case study based on research conducted over the period of one year in Uganda between September 2012 and September 2013. Three conceptual orientations are used to guide the research, including sustainable livelihoods, gender and agricultural development, and food security. Pertinent economic, political, and social contexts are identified for each of these orientations. The author then identifies key challenges that women in Iganga face in small-scale agricultural production. Each of these challenges is analyzed in the economic, political, and social context of Uganda. The author concludes this work with programmatic recommendations based on challenges identified and presents a way forward for organizations working with women engaged in small-scale rural agriculture in Iganga.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>M.A.</dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject>Sub Saharan Africa studies</dc:subject>
+  <dc:subject>Women</dc:subject>
+  <dc:subject>Sustainable Livelihoods</dc:subject>
+  <dc:subject>Income Generation</dc:subject>
+  <dc:subject>Food Security</dc:subject>
+  <dc:subject>Agriculture</dc:subject>
+  <dc:subject>International relations</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Uganda</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright is held by the author.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:rights>Embargo Period: No embargo</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68163</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68164</identifier>
+    <datestamp>2014-12-11T18:36:02Z</datestamp>
+    <setSpec>codu_68108</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Short-tern Load Forecasting Using Neural Network For Future Smart Grid Application</dc:title>
+  <dc:creator>Zheng, Jixuan</dc:creator>
+  <dc:contributor>Gao, Wenzhong</dc:contributor>
+  <dc:contributor>Sewalk, Stephen</dc:contributor>
+  <dc:contributor>Mahoor, Mohammad</dc:contributor>
+  <dc:contributor>Zhang, Jun</dc:contributor>
+  <dc:contributor>Daniel Felix Ritchie School and Engineering and Computer Science</dc:contributor>
+  <dc:contributor>Electrical Engineering</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2014-01-01</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>thesis</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>81 pages</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>Short-term load forecasting of power system has been a classic problem for a long time. Not merely it has been researched extensively and intensively, but also a variety of forecasting methods has been raised. This thesis outlines some aspects and functions of smart meter. It also presents different policies and current statuses as well as future projects and objectives of SG development in several countries. Then the thesis compares main aspects about latest products of smart meter from different companies. Lastly, three types of prediction models are established in MATLAB to emulate the functions of smart grid in the short-term load forecasting, and then their results are compared and analyzed in terms of accuracy. For this thesis, more variables such as dew point temperature are used in the Neural Network model to achieve more accuracy for better short-term load forecasting results.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>M.S.</dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject>Different Countries Polices and Current Statuses</dc:subject>
+  <dc:subject>Engineering</dc:subject>
+  <dc:subject>Electrical engineering</dc:subject>
+  <dc:subject>Smart Meter</dc:subject>
+  <dc:subject>Smart Grid</dc:subject>
+  <dc:subject>Short-term Load Forecasting</dc:subject>
+  <dc:subject>Neural Network</dc:subject>
+  <dc:subject>Latest Products</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright is held by the author.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:rights>Embargo Period: No embargo</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68164</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68165</identifier>
+    <datestamp>2014-12-11T18:44:22Z</datestamp>
+    <setSpec>codu_68108</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Beyond Donors and Dollars: an Ethnographic Case Study of International Aid and its Agents in Mozambique</dc:title>
+  <dc:creator>Santoro, Carly Amanda</dc:creator>
+  <dc:contributor>Cruz, M. Dores</dc:contributor>
+  <dc:contributor>Ceron, Alejandro</dc:contributor>
+  <dc:contributor>Clemmer-Smith, Richard</dc:contributor>
+  <dc:contributor>Botta, Renee</dc:contributor>
+  <dc:contributor>Social Sciences</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2014-01-01</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>thesis</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>268 pages</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>In Mozambique, international non-governmental organizations (INGOs) work mainly in Mozambique&apos;s rural areas, with programs dedicated to the prevention of infectious diseases, education, access to food and clean water, gender equity, and many other concerns. Yet despite these efforts, Mozambican populations are critical of NGOs&apos; missions and practices, and Mozambique remains one of the poorest countries in the world. To explore these issues concerning contradictions in aid in Mozambique, I employ the concept of cultural capital, which refers to cultural practices, perspectives, and beliefs in relation to one&apos;s ability to access symbolic and material goods. My thesis examines the degree to which three classes of agents (rural Mozambicans, urban Mozambicans, and Western expatriates) utilize cultural capital by examining the perceptions, behaviors, and cultural trends within the groups as they relate to international development.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>M.A.</dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject>Aid</dc:subject>
+  <dc:subject>International relations</dc:subject>
+  <dc:subject>African studies</dc:subject>
+  <dc:subject>Cultural anthropology</dc:subject>
+  <dc:subject>NGO</dc:subject>
+  <dc:subject>Mozambique</dc:subject>
+  <dc:subject>Development</dc:subject>
+  <dc:subject>Culture</dc:subject>
+  <dc:subject>Colonialism</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright is held by the author.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:rights>Embargo Period: No embargo</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68165</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

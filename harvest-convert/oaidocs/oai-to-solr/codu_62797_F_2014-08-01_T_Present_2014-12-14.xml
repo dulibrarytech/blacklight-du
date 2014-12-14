@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-12-14T16:32:42Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63554</identifier>
+    <datestamp>2014-12-09T18:54:39Z</datestamp>
+    <setSpec>codu_62797</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Pragmatic Language Skills Underlying Social Competence of Reading Disability in Middle School Students</dc:title>
+  <dc:creator>Adibi, Ali</dc:creator>
+  <dc:contributor>Child, Family &amp; School Psychology</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:date>January 2009</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language>en</dc:language>
+  <dc:description>The purpose of this investigation was to examine pragmatic language engagement and social competence in middle school children with and without reading disability during dyadic interaction. Engagement was defined in terms of degree of information and responsiveness provided by each partner. Analyses indicated reading disabled students differ from non-reading disabled students in terms of pragmatic language engagement. However, this was true only in terms of degree of responsiveness. Students with reading disability employed similar degrees of pragmatic language engagement in terms of information to those of their non-disabled peers. Further, no relationships were found between social competence and either type of pragmatic language engagement, responsiveness or information. Implications for the multifaceted assessment of pragmatic language and social competence and future research are discussed.</dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:subject>Education, Educational Psychology--Education, Special--Education, Reading--Mental Health</dc:subject>
+  <dc:format>77</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63554</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:63554</dc:identifier>
+  <dc:contributor>Miller, Gloria E.</dc:contributor>
+  <dc:contributor>Chevillot, Frederique</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:type></dc:type>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:rights></dc:rights>
+  <dc:contributor>Dittrick-Nathan, Karin</dc:contributor>
+  <dc:contributor>Riley, Karen S.</dc:contributor>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

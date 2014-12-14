@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-12-14T16:40:46Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_60021</identifier>
+    <datestamp>2014-08-11T22:14:49Z</datestamp>
+    <setSpec>codu_60019</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Building Special Collections from Scratch: The Artists&apos; Books Collection at the University of Denver</dc:title>
+  <dc:creator>Levine-Clark, Michael</dc:creator>
+  <dc:contributor>Keeran, Peggy, 1959-</dc:contributor>
+  <dc:creator>Art Libraries Society of North America</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>MovingImage</dc:type>
+  <dc:date>2011-11-03</dc:date>
+  <dc:publisher>Denver, Colorado</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 video recording, 35 minutes, 33 seconds</dc:format>
+  <dc:format>Digital video recordings</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>Michael Levine-Clark&apos;s presentation to the Art Libraries Society of North America (ARLIS/NA) Mountain West Chapter Virtual Conference. Levine-Clark discusses the evolution of the Special Collections and Archives at the University of Denver (DU) from 2003 until the present (2011), focusing specifically on digital and print collections in the humanities and in particular, artists&apos; books. Contains Levine-Clark&apos;s PowerPoint presentation, including audio, video of Levine-Clark, and view of the &quot;chat&quot; and &quot;attendees&quot; screens. Includes question and answer period from 23:33-35:33.</dc:description>
+  <dc:description></dc:description>
+  <dc:description>Recorded using Adobe Connect web conferencing software.</dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Artists’ books</dc:subject>
+  <dc:subject>Collection development (Libraries)</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Denver (Colo.)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject>Levine-Clark, Michael</dc:subject>
+  <dc:subject>Keeran, Peggy, 1959-</dc:subject>
+  <dc:subject>University of Denver</dc:subject>
+  <dc:subject>Video recordings</dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright restrictions may apply. User is responsible for all copyright compliance.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:60021</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

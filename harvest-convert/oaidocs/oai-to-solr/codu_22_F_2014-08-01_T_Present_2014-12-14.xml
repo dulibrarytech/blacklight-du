@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-12-14T16:40:21Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_707</identifier>
+    <datestamp>2014-08-05T18:34:37Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Leningrad, Issakievskaja square--frid01783</dc:title>
+  <dc:title>St. Isaac&apos;s Cathedral</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:type>StillImage</dc:type>
+  <dc:type></dc:type>
+  <dc:date>1953</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language></dc:language>
+  <dc:format>120 film</dc:format>
+  <dc:format>color negative</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>good condition, color on AGFA film</dc:description>
+  <dc:description>Leningrad (Saint Petersburg) Issakievskaja Square with bus passing Saint Isaac Cathedral. Fartial view of Monument to Nicholas I in foreground.</dc:description>
+  <dc:description>Leningrad, Issakievskaja square</dc:description>
+  <dc:description>Leningrad. Issakievskaja ploschad</dc:description>
+  <dc:subject>Socialist Realist</dc:subject>
+  <dc:subject>cathedrals</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Isaakievskii sobor (Saint Petersburg, Russia)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Saint Petersburg</dc:coverage>
+  <dc:relation></dc:relation>
+  <dc:identifier>frid01783</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:707</dc:identifier>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage>Soviet Union</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_3704</identifier>
+    <datestamp>2014-08-05T18:35:27Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Leningrad, Issakievskaja square 2--frid03482</dc:title>
+  <dc:title>St. Isaac&apos;s Cathedral</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:type>StillImage</dc:type>
+  <dc:type></dc:type>
+  <dc:date>1947</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language></dc:language>
+  <dc:format>35mm film</dc:format>
+  <dc:format>black-and-white negative</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>good condition, AGFA SUPERPAN, 629844</dc:description>
+  <dc:description>Snow covered street and partial view of Monument to Nicholas I in foreground. Saint Isaac&apos;s Cathedral in background, people standing in front.</dc:description>
+  <dc:description>Leningrad, Issakievskii square, 1947</dc:description>
+  <dc:description>Leningrad, Issakievskaja ploshchad, 1947g.</dc:description>
+  <dc:subject>Socialist Realist</dc:subject>
+  <dc:subject>cathedrals</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Isaakievskii sobor (Saint Petersburg, Russia)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Saint Petersburg</dc:coverage>
+  <dc:relation>frid01783--fridpr00352</dc:relation>
+  <dc:identifier>frid03482</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:3704</dc:identifier>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage>Soviet Union</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_1523</identifier>
+    <datestamp>2014-08-05T18:45:17Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Tugboat on ice-covered Neva river coming toward shore--frid01793</dc:title>
+  <dc:title>Tugboat on ice-covered Neva River</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:type>StillImage</dc:type>
+  <dc:type></dc:type>
+  <dc:date>unknown</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language></dc:language>
+  <dc:format>35mm film</dc:format>
+  <dc:format>black-and-white negative</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>good condition</dc:description>
+  <dc:description>A tugboat steams down the ice-covered Neva River, passing the Marble Palace and approaching the Palace Quay, with people walking on the quay along the river.</dc:description>
+  <dc:description>Leningrad, winter view</dc:description>
+  <dc:description>Leningrad. Zimnije vidy</dc:description>
+  <dc:subject>Socialist Realist</dc:subject>
+  <dc:subject>boats</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Neva River (Russia)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Saint Petersburg</dc:coverage>
+  <dc:relation>frid01791</dc:relation>
+  <dc:identifier>frid01793</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:1523</dc:identifier>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage>Soviet Union</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_3305</identifier>
+    <datestamp>2014-08-05T18:52:55Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Leningrad, statue of Peter I, 1--frid03471</dc:title>
+  <dc:title>Bronze Horseman and Senate and Synod Building</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:type>StillImage</dc:type>
+  <dc:type></dc:type>
+  <dc:date>unknown</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language></dc:language>
+  <dc:format>35mm film</dc:format>
+  <dc:format>black-and-white negative</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>good condition, SUPERPAN, 629846</dc:description>
+  <dc:description>Person standing inside a low fence looking at the snow covered statue of Peter I (the Bronze Horseman) in Leningrad, with the Senate and Synod Building in the background.</dc:description>
+  <dc:description>Leningrad, statue of Peter I</dc:description>
+  <dc:description>Leningrad, pamjatnik Petru 1</dc:description>
+  <dc:subject>Socialist Realist</dc:subject>
+  <dc:subject>statues</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Soviet Union</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Saint Petersburg</dc:coverage>
+  <dc:relation>frid03473--frid03476</dc:relation>
+  <dc:identifier>frid03471</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:3305</dc:identifier>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_3365</identifier>
+    <datestamp>2014-08-05T18:55:08Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Leningrad, statue of Peter I, 2--frid03473</dc:title>
+  <dc:title>Bronze Horseman and Senate and Synod Building</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:type>StillImage</dc:type>
+  <dc:type></dc:type>
+  <dc:date>unknown</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language></dc:language>
+  <dc:format>35mm film</dc:format>
+  <dc:format>black-and-white negative</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>good condition, fingerprint, SUPERPAN, 629846</dc:description>
+  <dc:description>Woman standing inside a low fence facing camera, with snow-covered statue of Peter I (the Bronze Horseman) and the Senate and Synod Building in the background.</dc:description>
+  <dc:description>Leningrad, statue of Peter I</dc:description>
+  <dc:description>Leningrad, pamjatnik Petru 1</dc:description>
+  <dc:subject>Socialist Realist</dc:subject>
+  <dc:subject>statues</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Soviet Union</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Saint Petersburg</dc:coverage>
+  <dc:relation>frid03471--frid03476</dc:relation>
+  <dc:identifier>frid03473</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:3365</dc:identifier>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_3661</identifier>
+    <datestamp>2014-08-05T19:00:51Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Neva River and Peter and Paul Fortress--frid03481</dc:title>
+  <dc:title>Neva River and Peter and Paul Fortress</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:type>StillImage</dc:type>
+  <dc:type></dc:type>
+  <dc:date>unknown</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language></dc:language>
+  <dc:format>35mm film</dc:format>
+  <dc:format>black-and-white negative</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>good condition, minor scratches, torn, AGFA 168, 158015</dc:description>
+  <dc:description>View across the ice-covered Neva River to the Peter and Paul Fortress, with a light pole visible in the foreground.</dc:description>
+  <dc:description>Leningrad, river Neva</dc:description>
+  <dc:description>Leningrad, na Neve</dc:description>
+  <dc:subject>Socialist Realist</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Neva River (Russia)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Saint Petersburg</dc:coverage>
+  <dc:relation></dc:relation>
+  <dc:identifier>frid03481</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:3661</dc:identifier>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage>Soviet Union</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_5379</identifier>
+    <datestamp>2014-08-05T19:03:35Z</datestamp>
+    <setSpec>codu_22</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Neva River and Peter and Paul Fortress--frid03510</dc:title>
+  <dc:title>Neva River and Peter and Paul Fortress</dc:title>
+  <dc:creator>Fridlyand, Semyon</dc:creator>
+  <dc:type>StillImage</dc:type>
+  <dc:type></dc:type>
+  <dc:date>unknown</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:language></dc:language>
+  <dc:format>35mm film</dc:format>
+  <dc:format>black-and-white negative</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description>good condition, scratch, AGFA 168, SUPERPAN</dc:description>
+  <dc:description>View across the ice-covered Neva River to the Peter and Paul Fortress.</dc:description>
+  <dc:description>Leningrad</dc:description>
+  <dc:description>Leningrad</dc:description>
+  <dc:subject>Socialist Realist</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Neva River (Russia)</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage>Saint Petersburg</dc:coverage>
+  <dc:relation></dc:relation>
+  <dc:identifier>frid03510</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10176/codu:5379</dc:identifier>
+  <dc:rights>The University of Denver is providing access to these materials for educational and research purposes. The written permission of the copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. Preferred Citation: Dalbey Photographic Collection at the University of Denver. University Art Collections. University of Denver, Denver, Colo. Please credit: Courtesy of the Dalbey Photographic Collection at the University of Denver. Sponsorship credit line: &quot;Through the generous support of the Dalbey Family.&quot;</dc:rights>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type></dc:type>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage>Soviet Union</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

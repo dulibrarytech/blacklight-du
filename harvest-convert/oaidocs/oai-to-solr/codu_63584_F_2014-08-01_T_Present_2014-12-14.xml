@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-12-14T16:41:42Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_63585</identifier>
+    <datestamp>2014-08-22T16:16:20Z</datestamp>
+    <setSpec>codu_63584</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Title</dc:title>
+  <dc:creator>Creators</dc:creator>
+  <dc:creator>Corporate Creators</dc:creator>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Topics</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>People</dc:subject>
+  <dc:subject>Organizations</dc:subject>
+  <dc:subject>Subject Genre</dc:subject>
+  <dc:description>Physical Notes</dc:description>
+  <dc:description>Description</dc:description>
+  <dc:description>Note</dc:description>
+  <dc:description>Administrative Notes</dc:description>
+  <dc:description>Funding Notes</dc:description>
+  <dc:publisher>Place of Publication</dc:publisher>
+  <dc:publisher>Publisher</dc:publisher>
+  <dc:contributor>Contributors</dc:contributor>
+  <dc:contributor>Corporate Contributors</dc:contributor>
+  <dc:date>Date Created</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Genre</dc:type>
+  <dc:format>Extent</dc:format>
+  <dc:format>Form</dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:identifier>codu:63585</dc:identifier>
+  <dc:identifier>isbn: ISBN</dc:identifier>
+  <dc:identifier>issn: ISSN</dc:identifier>
+  <dc:language>Language</dc:language>
+  <dc:relation>Host Title</dc:relation>
+  <dc:relation>Constituent Title</dc:relation>
+  <dc:relation>Preceding Title</dc:relation>
+  <dc:relation>Succeeding Title</dc:relation>
+  <dc:coverage>Scale</dc:coverage>
+  <dc:coverage>Coordinates</dc:coverage>
+  <dc:coverage>Places</dc:coverage>
+  <dc:coverage>Dates</dc:coverage>
+  <dc:rights>Rights Statement</dc:rights>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

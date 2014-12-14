@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-12-14T16:40:12Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68166</identifier>
+    <datestamp>2014-12-11T20:25:52Z</datestamp>
+    <setSpec>codu_68108</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Nationalism, Identity, and Rhetoric in Bosnia-Herzegovina: A Rhetorical Analysis of Presidential Speeches, 2004-2012</dc:title>
+  <dc:creator>Miller, Mary</dc:creator>
+  <dc:contributor>Sisk, Timothy D.</dc:contributor>
+  <dc:contributor>Kathoefer, Gabi</dc:contributor>
+  <dc:contributor>Feste, Karen</dc:contributor>
+  <dc:contributor>Josef Korbel School of International Studies</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2013-01-01</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>thesis</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>99 pages</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>Ethnic divisions undermine statebuilding efforts in Bosnia-Herzegovina almost twenty years after the end of a war among the three main ethnic groups in the country. The political elites influence on how nationalism and identity is experienced in Bosnia-Herzegovina and offer reflections on how the country can or cannot be united. To what extent do the political elites at the level of the presidency articulate more narrow, ethnic themes or a broader national identity in pubic speeches? The rhetoric used by the political elites is explored to find occurrences of ethnic polarization or a framing of national identity. The thesis is informed by theories that account for the construction of identity and nationalism, in addition to theories around ethnic conflict and myth-making rhetoric. Speeches made by the presidents of Bosnia-Herzegovina are analyzed from 2004-2012 to find instances of specific word usage that encourages a unified Bosnian identity, promotes an ethnic identity, or attacks another ethnicity. Initial findings indicate the level of the presidency is too elevated to create narrow instances of ethnic identity advancement, resulting in a low number of occurrences of specific ethnic identity rhetoric. This was unexpected from what the conceptual orientation offered by scholars would predict. The political elite did offer ethnic specific expressions, but these were few in comparison to expressions around a unified, nationalistic Bosnian identity. The reality of ethnic divisions in the country is perpetuated at another level in the political or social landscapes of the country, not at the political elite level.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>M.A.</dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject>Communication</dc:subject>
+  <dc:subject>International relations</dc:subject>
+  <dc:subject>Rhetoric</dc:subject>
+  <dc:subject>Baltic studies</dc:subject>
+  <dc:subject>President</dc:subject>
+  <dc:subject>Nationalism</dc:subject>
+  <dc:subject>Identity</dc:subject>
+  <dc:subject>Ethnicity</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Bosnia</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright is held by the author.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:rights>Embargo Period: No embargo</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68166</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68167</identifier>
+    <datestamp>2014-12-11T20:44:26Z</datestamp>
+    <setSpec>codu_68107</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Opportunity gaps and remediation: can academic intensity in high school level the playing field?</dc:title>
+  <dc:creator>Buddenhagen, Brian</dc:creator>
+  <dc:contributor>Seidel, Kent</dc:contributor>
+  <dc:contributor>Gildersleeve, Ryan</dc:contributor>
+  <dc:contributor>Korach, Susan</dc:contributor>
+  <dc:contributor>Morgridge College of Education</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2014-01-01</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>87 pages</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>College remediation--sometimes referred to as developmental education--has come under increasing scrutiny as policymakers have focused on the racial and economic disparities evident in academic outcomes. The courses are designed to remedy the academic deficiencies of incoming freshmen, but descriptive statistics indicate that these students fare poorly in college, and many will not persist to graduation. This phenomenon is especially pronounced in community colleges, which--due to policy decisions and open enrollment philosophies--take on a the largest proportion of students in remedial education. Considering the attention paid to remediation, the following study focuses on predictors and interventions that could potentially help educators identify students who may need remediation well before high school graduation, and apply timely treatments that could reduce the likelihood of those students requiring remedial education in college. The study considers current research around predictors of college success and persistence--the likelihood that students will persist to four-year degrees--and uses this research to construct a study that seeks to identify variables that can reduce the likelihood that secondary students will need college remediation. The study considers background, skills-based and behavioral variables, but focuses in particular on academic intensity--the general rigor and level attainment achieved by students in their high school careers. To explore the phenomenon, it uses data collected by a large, urban school district in the Rocky Mountain West --data that includes information of standardized test scores, high school course-taking behaviors, and remediation status for those students who attended in-state, public institutions of higher education. In order to measure the effects of academic intensity, the study makes use of eight-grade standardized test scores as independent variables. These scores are collected early enough that effective interventions can be applied before high school graduation, and they offer a convenient means of assessing the likelihood that students will require remediation. They also offer a means of measuring the effects of those interventions: ideally, the study will demonstrate that the predictability of those scores is significantly weakened as the level of academic intensity is increased. Researchers vary in their definitions of academic intensity, with most focusing upon the number of Carnegie units completed in each discipline, and on the highest level of achievement within each discipline. Using the most reliable data available, this study focuses on two primary measures: student participation and achievement in Advanced Placement (AP) curriculum, and the calculated difference between a student&apos;s weighted and unweighted grade point average, which reflects the breadth of a student&apos;s participation in accelerated or AP curriculum. Though AP curriculum, in particular, possesses limitations demonstrated in previous research, these measures offer up the most consistent and trustable data. Using binary logistic regression, the study reveals three primary findings: race- and class-based remediation gaps cease to measure as significant when skills-based and dispositional student characteristics are factored into the model; after factoring in dispositional measures of academic intensity, only eighth-grade standardized math test scores and the volume of AP tests passed by students persist as significant predictors of college remediation; and the calculated difference between a student&apos;s weighted and unweighted GPAs offers the single best predictor of college remediation.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>Developmental education</dc:subject>
+  <dc:subject>Education administration</dc:subject>
+  <dc:subject>Education</dc:subject>
+  <dc:subject>Remediation</dc:subject>
+  <dc:subject>Academic intensity </dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Dissertations, Academic</dc:subject>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright is held by the author.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:rights>Embargo Period: No embargo</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68167</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68168</identifier>
+    <datestamp>2014-12-11T20:56:23Z</datestamp>
+    <setSpec>codu_68108</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Puritanism and American Exceptionalism: A Genealogy of Their Impact on Native Americans 1620-1864</dc:title>
+  <dc:creator>Jones, Jeremiah Dan</dc:creator>
+  <dc:contributor>Leon, Luis</dc:contributor>
+  <dc:contributor>Philpott, William</dc:contributor>
+  <dc:contributor>Dixon, Sandra</dc:contributor>
+  <dc:contributor>Arts and Humanities</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2014-01-01</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>thesis</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>88 pages</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>This work traces the influence that a strand of Protestant Christianity had upon the idea of American Exceptionalism and its effect on the treatment of Native Americans. From Puritans to the Founding Fathers, to expansion into the west, this paper investigates instances where Indians have been forced to assimilate, removed from their homelands or exterminated outright in massacres. It specifically looks at the removal of the Cherokees, the Navajo Long Walk, the Pequot War, the Gnadenhutten Massacre, The Battle at Blue Water Creek and the Sand Creek Massacre</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>M.A.</dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject>American history</dc:subject>
+  <dc:subject>Religion</dc:subject>
+  <dc:subject>Puritanism</dc:subject>
+  <dc:subject>Native American Massacres</dc:subject>
+  <dc:subject>Native American</dc:subject>
+  <dc:subject>Manifest Destiny</dc:subject>
+  <dc:subject>Indian Removal</dc:subject>
+  <dc:subject>American Exceptionalism</dc:subject>
+  <dc:subject>Native American studies</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright is held by the author.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:rights>Embargo Period: No embargo</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68168</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68169</identifier>
+    <datestamp>2014-12-11T21:12:33Z</datestamp>
+    <setSpec>codu_68108</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Design and Evaluation of a Propulsion System for Small, Compact, Low-speed Maneuvering Underwater Vehicles</dc:title>
+  <dc:creator>Mbithi, Florence</dc:creator>
+  <dc:contributor>Rutherford, Matthew J.</dc:contributor>
+  <dc:contributor>Vitzilaios, Nikos</dc:contributor>
+  <dc:contributor>Hoffman, Jennifer</dc:contributor>
+  <dc:contributor>Valavanis, Kimon</dc:contributor>
+  <dc:contributor>Mahoor, Mohammad</dc:contributor>
+  <dc:contributor>Daniel Felix Ritchie School of Engineering and Computer Science</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2014-01-01</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>thesis</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>99 pages</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>Underwater vehicles used to perform precision inspection and non-destructive evaluation in tightly constrained or delicate underwater environments must be small, have low-speed maneuverability and a smooth streamlined outer shape with no appendages. In this thesis, the design and analysis of a new propulsion system for such Underwater vehicles is presented. It consists primarily of a syringe and a plunger driven by a linear actuator and uses different inflow and outflow nozzles to provide continuous propulsive force. A prototype of the proposed propulsion mechanism is built and tested. The practical utility and potential efficacy of the system is demonstrated and assessed via direct thrust measurement experiments and by use of an initial proof-of-concept test vehicle. Experiments are performed to enable the evaluation and modelling of the thrust output of the mechanism as well as the speed capability of a vehicle employing the propulsion system.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>M.S.</dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject>Electrical engineering</dc:subject>
+  <dc:subject>Mechanical engineering</dc:subject>
+  <dc:subject>Engineering</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright is held by the author.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:rights>Embargo Period: No embargo</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68169</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68170</identifier>
+    <datestamp>2014-12-11T21:41:09Z</datestamp>
+    <setSpec>codu_68108</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Framing the Fight: Women&apos;s Use of Rhetorical Coercion to Gain Political Empowerment from Revolutionary Participation. The Cases of El Salvador, Guatemala, and Eritrea</dc:title>
+  <dc:creator>Hunter, Kyleanne</dc:creator>
+  <dc:contributor>Avant, Deborah</dc:contributor>
+  <dc:contributor>Chenoweth, Erica</dc:contributor>
+  <dc:contributor>Conant, Lisa</dc:contributor>
+  <dc:contributor>Avant, Deborah</dc:contributor>
+  <dc:contributor>Josef Korbel School of International Studies</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2014-01-01</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>thesis</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>102 pages</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>The below paper examines women&apos;s ability to translate participation in anti-government movement into political empowerment in the post-conflict government. I use the theory of Rhetorical Coercion to explore how the way in which women frame their participation impacts their ability to achieve increased political empowerment. I find that nationalistic frames are more successful than women&apos;s-specific frames in women&apos;s ability to achieve full empowerment and lasting rights. Using the cases of El Salvador, Guatemala and Eritrea I explore the inputs to a successful rhetorical strategy and the stumbling blocks to translating participation into national inclusion.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>M.A.</dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject>Political sciences</dc:subject>
+  <dc:subject>International relations</dc:subject>
+  <dc:subject>Krebs</dc:subject>
+  <dc:subject>Revolution</dc:subject>
+  <dc:subject>Rhetoric</dc:subject>
+  <dc:subject>Rhetorical Coercion</dc:subject>
+  <dc:subject>Women</dc:subject>
+  <dc:subject>Political Empowerment</dc:subject>
+  <dc:subject>Women&apos;s studies</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright is held by the author.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:rights>Embargo Period: No embargo</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68170</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68171</identifier>
+    <datestamp>2014-12-11T21:50:44Z</datestamp>
+    <setSpec>codu_68107</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>The Negative Impact of TRIPS on Gender Rights in Access to Health and Food in India: A Study of the Dynamics of Knowledge Economy and Neo-Medieval Governance</dc:title>
+  <dc:creator>Mukhopadhyay, Kausiki</dc:creator>
+  <dc:contributor>Khan, Haider</dc:contributor>
+  <dc:contributor>Donnelly, Jack</dc:contributor>
+  <dc:contributor>Rothman, Dale</dc:contributor>
+  <dc:contributor>Josef Korbel School of International Studies</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2014-01-01</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>344 pages</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>Southern developing nations are increasingly emulating the knowledge economy followed by the developed nations of the North. This paradigm is characterized by the signature feature of the regime of TRIPS or individualized legal patents, particularly bio-patents developed through biotechnology in pharmaceutical and agriculture. It is also characterized by corporate social responsibility as a market mode of governance of development and increasing state retrenchment from delivery of public welfare. This form of economy is embedded in multilayered governance of neo-medieval governance where states and corporations tussle for the right to define growth and equity. This thesis argues that such a mode of economy and governance has failed to deliver equity for the marginalized poor women in India. This is explicated through four critical factors. First, there is increasing biopiracy of tribal women&apos;s traditional knowledge and denuding of uncodified knowledge of tribal women due to land deprivation which in turn severely affects their health. Second, a thriving pharmaceutical sector has failed to deliver health equity for poor women, particularly by being engaged in creation of medicines that do not have relevance for the main disease profile of the poor - communicable diseases. Third, there is rise of non-communicable diseases of the poor. Patents act as legal barriers to access to medicine and severely impact the health of the poor. Fourth, the rise of Bt seeds in cash crop agriculture has meant that traditionally saved and used food crop seeds are being marginalized and there is a growing agrarian crisis for women who do not have control over land, seeds and seed technology. Fifth, poverty is on the rise which is a sure sign that equity has not trickled down. If the international society of states provides for customized patents for women&apos;s traditional knowledge, women&apos;s knowledge, health and food security would be better secured.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>Gender studies</dc:subject>
+  <dc:subject>TRIPS</dc:subject>
+  <dc:subject>Neo-medieval governance</dc:subject>
+  <dc:subject>Knowledge economy</dc:subject>
+  <dc:subject>Health and food security</dc:subject>
+  <dc:subject>Gender rights</dc:subject>
+  <dc:subject>Intellectual property</dc:subject>
+  <dc:subject>Health care management</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>India</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright is held by the author.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:rights>Embargo Period: No embargo</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68171</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68172</identifier>
+    <datestamp>2014-12-11T22:58:28Z</datestamp>
+    <setSpec>codu_68108</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Stress Corrosion Cracking in Polymer Matrix Glass Fiber Composites</dc:title>
+  <dc:creator>Kosak, Jonathan</dc:creator>
+  <dc:contributor>Zink, Barry L.</dc:contributor>
+  <dc:contributor>Kumosa, Maciej</dc:contributor>
+  <dc:contributor>Zink, Barry L.</dc:contributor>
+  <dc:contributor>Mechanical Engineering</dc:contributor>
+  <dc:contributor>Daniel Felix Richie School of Engineering and Computer Science</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2014-01-01</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>thesis</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>145 pages</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>With the use of Polymer Matrix Glass Fiber Composites ever expanding, understanding conditions that lead to failure before expected service life is of increasing importance. Stress Corrosion Cracking (SCC) has proven to be one such example of conditions found in use in high voltage transmission line applications that leads to brittle fracture of polymer matrix composites. SCC has been proven to be the result of acid buildup on the lines due to corona discharges and water buildup. This acid leaches minerals from the fibers, leading to fracture at low loads and service life. In order to combat this problem, efforts are being made to determine which composites have greater resistance to SCC. This study was used to create a methodology to monitor for damage during SCC and classify damage by mechanism type (matrix cracking and fiber breaking) by using 4-point SCC bend testing, 3-point bend testing, a forward predictive model, unique post processing techniques, and microscopy. This would allow a classification in composite resistance to SCC as well as create a methodology for future research in this field.  Concluding this study, only matrix cracking was able to be fully classified, however, a methodology was developed for future experimentation.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>M.S.</dc:description>
+  <dc:description>master</dc:description>
+  <dc:subject>Composite</dc:subject>
+  <dc:subject>Mechanical engineering</dc:subject>
+  <dc:subject>Materials science</dc:subject>
+  <dc:subject>Stress Corrosion Cracking</dc:subject>
+  <dc:subject> Polymer</dc:subject>
+  <dc:subject>Modeling</dc:subject>
+  <dc:subject>Glass Fiber</dc:subject>
+  <dc:subject>Acoustic Emission</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright is held by the author.  User is responsible for all copyright compliance.</dc:rights>
+  <dc:rights>Embargo Period: No embargo</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68172</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68173</identifier>
+    <datestamp>2014-12-11T23:42:04Z</datestamp>
+    <setSpec>codu_68107</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>&quot;Another Way&quot;: The Pneumatology of Deleuzean Minoritarian Communal Interpretation in Scripture, the 16th Century Radical Reformation, and Alternative 21st Century Anabaptist Community</dc:title>
+  <dc:creator>Garber, Jeremy</dc:creator>
+  <dc:contributor>Mahan, Jeffrey H.</dc:contributor>
+  <dc:contributor>Erickson, Amy</dc:contributor>
+  <dc:contributor>Raschke, Carl A.</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:contributor>Iliff School of Theology</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2014-01-01</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>252 pages</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>This dissertation proposes a constructive theology of the Holy Spirit called the &quot;pneumatology of minoritarian communal interpretation,&quot; the alternative creation of meaning within an oppressive majority context. It illustrates the convergence of Deleuzean philosophy with Anabaptist pneumatology and media communal interpretation theory in three particular locations: 1) selected mentions of the Holy Spirit in the Hebrew Bible and Christian New Testament; 2) the 16th century Radical Reformation; and 3) &quot;Another Way,&quot; a 21st century alternative Anabaptist group focused around the spiritual discussion of art and popular media. Chapter One outlines the three theories. Chapter Two examines the Holy Spirit in the Hebrew Bible, particularly 1 Samuel 8, the book of Ezekiel, and the Gospel narratives. Chapter Three examines the pneumatological writings of the Radical Reformers, concentrating particularly on their theologies of the intersection between church and the surrounding majoritarian culture. Chapter Four outlines my original field research with Another Way, and examines the tension between minoritarian communal interpretation and the 21st century semiotic regime. Chapter Five then summarizes the conversations between theory and illustration to propose the pneumatology of minoritarian communal interpretation for Christian theology.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>Ph.D.</dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>Anabaptist</dc:subject>
+  <dc:subject>Theology</dc:subject>
+  <dc:subject>Philosophy</dc:subject>
+  <dc:subject>Mass communication</dc:subject>
+  <dc:subject>Pneumatology</dc:subject>
+  <dc:subject>Mennonite</dc:subject>
+  <dc:subject>Media</dc:subject>
+  <dc:subject>Deleuze</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Dissertations, Academic</dc:subject>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright is held by the author. User is responsible for all copyright compliance. This item is under a two-year embargo. During this time the document is inaccessible for public view.</dc:rights>
+  <dc:rights>Embargo Period: two years</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68173</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68174</identifier>
+    <datestamp>2014-12-12T04:56:49Z</datestamp>
+    <setSpec>codu_68140</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Building a Digital Collection at a Small Non-Profit Organization: Opportunities and Challenges</dc:title>
+  <dc:creator>Thomas, Wendy</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:date>2014</dc:date>
+  <dc:publisher></dc:publisher>
+  <dc:publisher></dc:publisher>
+  <dc:type>Poster</dc:type>
+  <dc:language>Eng</dc:language>
+  <dc:format></dc:format>
+  <dc:format></dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description>This poster provides an overview of the process of setting up the first digital library project at a non-profit organization by a group of graduate students and volunteers. It will present the workflows and tools used in building a pilot project and examine the challenges of undertaking digital projects at a small cultural heritage institution with limited technical infrastructure and expertise. 
+
+The Rocky Mountain Philatelic Library is a small non-profit organization run solely by volunteers and funded through membership dues, donations and auctions of donated stamps and ephemera. To keep pace with technology and make their special collections accessible online, the RMPL has piloted a project to digitize a collection of historic postcards.  Working with minimal funds and no technical infrastructure, the project is relying on donated equipment and open source software.   Collaborating on the project are one faculty member and two graduate students from the University of Denver Library and Information Science program and two professional librarians, all participating as volunteers.  The open source content management system Omeka was selected for its flexibility, ease of use and low cost. Steps in the process include creating scanning workflows and standards, creating taxonomies and metadata schema based on Dublin Core and pilot testing all workflows. </dc:description>
+  <dc:description>This is a copy of a poster created by Wendy Thomas, graduate student in the Library and Information Science.  The poster describes the process of building a digital postcard collection at the Rocky Mountain Philatelic Library. The poster was presented as part of the Digital Liaisons program at the Annual Meeting of ASIS&amp;T (Association for Information Science and Technology) in Seattle November 3, 2014. </dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Digital collections; Digitization; Postcards; Scanning; Metadata</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>Colorado</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject>Rocky Mountain Philatelic Library</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>© Wendy Thomas</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68174</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

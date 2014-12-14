@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-12-14T16:40:35Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68103</identifier>
+    <datestamp>2014-08-21T19:59:44Z</datestamp>
+    <setSpec>codu_66958</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Examining the Impact of Child Psychologists&apos; Stigmatization of Parents on Treatment Outcomes Through a Developmental Lens</dc:title>
+  <dc:creator>Fryer, Alana H.</dc:creator>
+  <dc:contributor>Fox, Judith</dc:contributor>
+  <dc:contributor>Howard, Rebecca</dc:contributor>
+  <dc:contributor>Smith-Acuna, Shelly</dc:contributor>
+  <dc:contributor>Graduate School of Professional Psychology</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date></dc:date>
+  <dc:publisher>Denver, Colo.</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>thesis</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 electronic resource (37 p.)</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>The purpose of this paper is to examine how child psychologists’ specialized training in
+
+human development may make them more prone to stigmatize the parents of their young clients. The 
+stigmatization of parents may lead to fewer parents seeking treatment for their children and to 
+poorer treatment outcomes for those who work with a child psychologist. The process of 
+stigmatization is summarized to provide context for the method through which parents receive 
+stigma. A commonly used theory of child development, Erik Erikson’s stages of ego development, is 
+outlined to provide background on how child psychologists may interpret and evaluate a child’s
+development. Child psychologists’ may identify parenting practices that seem to hinder or stunt children’s emotional development, which would make the psychologist more apt
+
+to stigmatize and isolate parents from the treatment process. To demonstrate the unique ways in 
+which a child psychologist may stigmatize parents of children at different developmental stages two 
+case studies are included. Finally, a theoretical model of treatment is described that may be more 
+inclusive, and less stigmatizing of parents.  This model outlines how the parents’ concerns about 
+and observations of their children should be validated and reflected in the treatment process. This 
+treatment modality would allow for child psychologists to more actively involve parents in 
+treatment and provide more education and support around their children’s unique emotional 
+development needs. Through this treatment model and child psychologists’ awareness of and attempts 
+to reduce the stigmatization of parents, treatment outcomes for young clients may improve.
+
+</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>PsyD</dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>Theoretical analysis and synthesis</dc:subject>
+  <dc:subject>Case Study</dc:subject>
+  <dc:subject>Program evaluation/development</dc:subject>
+  <dc:subject>Empirical mixed</dc:subject>
+  <dc:subject>Empirical qualitative</dc:subject>
+  <dc:subject>Empirical quantitative</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Dissertations, Academic</dc:subject>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:rights>Embargo Period: Permanently suppressed.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68103</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68106</identifier>
+    <datestamp>2014-08-21T22:08:30Z</datestamp>
+    <setSpec>codu_66958</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>How Language and Stereotypes Affect the Help-Seeking Behaviors of Victims of Female-on-Female Sexual Assault
+</dc:title>
+  <dc:creator>Johnson, A. Elizabeth</dc:creator>
+  <dc:contributor>McNeill, John</dc:contributor>
+  <dc:contributor>Henderson Metzger, Lynett</dc:contributor>
+  <dc:contributor>Schaefer, Vivian</dc:contributor>
+  <dc:contributor>Graduate School of Professional Psychology</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date></dc:date>
+  <dc:publisher>Denver, Colo.</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>thesis</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 electronic resource (46 pages)</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>While much attention has been paid to the experiences of the female victims of male-perpetrated sexual assault, relatively little attention has been paid to the experiences of female-on-female sexual assault. However, female-on-female sexual assault can and does occur within lesbian and queer communities. What literature there is on the topic demonstrates that gender stereotypes, as well as stereotypes about the lesbian and queer communities, play a role in the decision process to seek help. This paper seeks to analyze the role of language and stereotypes in the help-seeking behaviors of victims of female-on-female sexual assault, using Relational Frame Theory as a framework.
+</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>PsyD</dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>Relational frame theory</dc:subject>
+  <dc:subject>Lesbian</dc:subject>
+  <dc:subject>Bisexual</dc:subject>
+  <dc:subject>Queer</dc:subject>
+  <dc:subject>Sexual assault</dc:subject>
+  <dc:subject>Stereotypes</dc:subject>
+  <dc:subject>Rule-governed behavior</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Dissertations, Academic</dc:subject>
+  <dc:identifier></dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:rights>Embargo Period: Permanently suppressed.</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68106</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68098</identifier>
+    <datestamp>2014-08-21T22:11:07Z</datestamp>
+    <setSpec>codu_66958</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Using the R-PAS’ Aggressive Content Score For the Evaluation of Aggressive Behaviors in Children</dc:title>
+  <dc:creator>DEHASS, REBECCA</dc:creator>
+  <dc:contributor>Martin, E. Hale</dc:contributor>
+  <dc:contributor>Forstot Nadel, Michele J.</dc:contributor>
+  <dc:contributor>Welton-Mitchell, Courtney</dc:contributor>
+  <dc:contributor>Graduate School of Professional Psychology</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2014-07-15</dc:date>
+  <dc:publisher>Denver, Colo.</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type>thesis</dc:type>
+  <dc:language>English</dc:language>
+  <dc:format>1 electronic resource (32 pages)</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>The Rorschach Performance Assessment System (R-PAS) was developed in 2011 as an
+alternative to the previous Comprehensive System. The goal was to improve the psychometrics,
+and particularly the validity, of this assessment method. The norms for children were
+questionable in the Comprehensive system (e.g., outdated, low numbers of subjects) and validity
+studies for children were sparse. One of the indicators included in the R-PAS system, the
+aggressive content indicator (AgC), is intended to reflect aggressive behavior, but few studies
+have examined the validity of this indicator. This study examined the validity of AgC in a
+sample of 32 children and adolescents receiving services at a residential treatment center.
+Subjects’ AgC scores were analyzed in relation to demographics and diagnosis, as well as ratings
+of aggression and conduct problems from the Behavioral Assessment System for Children-2
+(BASC-2) Parent and Teacher Reports. Correlations between the AgC score and BASC-2
+aggression and conduct problems scores were not statistically significant. None of the
+correlations between AgC score and a diagnosis of Conduct Disorder, Oppositional Defiant
+Disorder, Posttraumatic Stress Disorder, or Mood Disorders were significant either. Given the
+small sample size, null results may be a result of power concerns. The lack of significant
+correlations may however, indicate that operational definitions of aggression used in various
+forms of measurement reflect different constructs.</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>PsyD</dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:subject>Rorschach Test</dc:subject>
+  <dc:subject>Aggressiveness</dc:subject>
+  <dc:subject>Children</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Dissertations, Academic</dc:subject>
+  <dc:identifier>codu:68098</dc:identifier>
+  <dc:rights>Copyright is held by the author.</dc:rights>
+  <dc:rights></dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68098</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_68059</identifier>
+    <datestamp>2014-08-29T16:23:40Z</datestamp>
+    <setSpec>codu_66958</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Facebook as organizing, yet not transforming, self-experience</dc:title>
+  <dc:creator>Muchnick, Risa</dc:creator>
+  <dc:creator></dc:creator>
+  <dc:contributor>Buirski, Peter</dc:contributor>
+  <dc:contributor>Gorgens, Kimberly</dc:contributor>
+  <dc:contributor>Ginsberg, Amy</dc:contributor>
+  <dc:contributor>Graduate School of Professional Psychology</dc:contributor>
+  <dc:contributor>University of Denver</dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>2014-07-102014-07-10</dc:date>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:type>thesis</dc:type>
+  <dc:format>34</dc:format>
+  <dc:format>born digital</dc:format>
+  <dc:description>Facebook and other forms of social media (SM) are virtually constructed but interacted with psychologically.  Much research in the field of psychology has been done on excessive, or &amp;quot;addictive&amp;quot; Internet use, with increased attention paid to use of SM sites in particular.  Sociology has also contributed to the exploration of trends, group phenomena, and patterns of excessive or non-excessive Internet or SM use, leaving us with a rich understanding of the ubiquity of SM participation across the world.  From these areas of inquiry comes an interesting question about SM use for the world of relational theory, in particular self psychology (SP) and intersubjective systems theory (IST).
+ It is clear that SM users become attached to their site or sites of choice, and various ideas have been posited about why.  This paper proposes that this attachment occurs because SM shares various characteristics with selfobject experience, thus making its use attractive to those searching for missing selfobject experience or the correction of painful self-experience from the past.  I will discuss how selfobject experience transforms; outline the way in which SM mimics selfobject experience; how such characteristics are alluring to those craving selfobject experience; and how the unique interaction between the user and the SM site determines whether the site contributes to transforming growth-promoting experience or becomes a form of organizing but not transforming self-experience.</dc:description>
+  <dc:description>PsyD</dc:description>
+  <dc:description>doctoral</dc:description>
+  <dc:description>Theoretical Analysis and Synthesis</dc:description>
+  <dc:subject>Intersubjectivity</dc:subject>
+  <dc:subject>Self psychology</dc:subject>
+  <dc:subject>Facebook</dc:subject>
+  <dc:subject>Transforming</dc:subject>
+  <dc:rights>
+ Copyright is held by author.
+</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:68059</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>

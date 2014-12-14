@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+ <responseDate>2014-12-14T16:54:34Z</responseDate>
+ <request verb= "ListRecords">http://digitaldu.coalliance.org/oai2</request>
+ <ListRecords>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_67828</identifier>
+    <datestamp>2014-09-02T14:30:00Z</datestamp>
+    <setSpec>codu_67824</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Spiritual Buddhist Art</dc:title>
+  <dc:creator>Singh, Sarika</dc:creator>
+  <dc:creator>Master Locho</dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:type>Text</dc:type>
+  <dc:date>[2013]</dc:date>
+  <dc:publisher>Dharamsala (India)</dc:publisher>
+  <dc:publisher>self-published</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format></dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Buddhist art</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>This item is released to the public under a Creative Commons Attribution license. You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. See http://creativecommons.org/licenses/by/2.0/</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:67828</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_67827</identifier>
+    <datestamp>2014-09-02T14:31:16Z</datestamp>
+    <setSpec>codu_67824</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>1.2 Rainbow Buddha</dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor>University of Denver. Department of Archives and Special Collections</dc:contributor>
+  <dc:type>StillImage</dc:type>
+  <dc:date>No date</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format></dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Buddhist art</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>India</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>This item is released to the public under a Creative Commons Attribution license. You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. See http://creativecommons.org/licenses/by/2.0/</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:67827</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_67826</identifier>
+    <datestamp>2014-09-02T14:31:21Z</datestamp>
+    <setSpec>codu_67824</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>1.1 Rainbow Buddha</dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor>University of Denver. Department of Archives and Special Collections</dc:contributor>
+  <dc:type>StillImage</dc:type>
+  <dc:date>No date</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format></dc:format>
+  <dc:format></dc:format>
+  <dc:format>reformatted digital</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Buddhist art</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage>India</dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>This item is released to the public under a Creative Commons Attribution license. You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. See http://creativecommons.org/licenses/by/2.0/</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:67826</dc:identifier>
+</oai_dc:dc></metadata>
+  </record>
+  <record>
+   <header>
+    <identifier>oai:digitaldu.coalliance.org:codu_67825</identifier>
+    <datestamp>2014-09-02T14:31:26Z</datestamp>
+    <setSpec>codu_67824</setSpec>
+   </header>
+   <metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>1 Rainbow Buddha</dc:title>
+  <dc:creator></dc:creator>
+  <dc:contributor></dc:contributor>
+  <dc:creator></dc:creator>
+  <dc:contributor>University of Denver. Department of Archives and Special Collections</dc:contributor>
+  <dc:type>StillImage</dc:type>
+  <dc:date>No date</dc:date>
+  <dc:publisher>Denver (Colo.)</dc:publisher>
+  <dc:publisher>University of Denver</dc:publisher>
+  <dc:type></dc:type>
+  <dc:language></dc:language>
+  <dc:format></dc:format>
+  <dc:format></dc:format>
+  <dc:format>digitized other analog</dc:format>
+  <dc:description></dc:description>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:description>another note</dc:description>
+  <dc:description></dc:description>
+  <dc:description></dc:description>
+  <dc:subject>Buddhist art</dc:subject>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:coverage></dc:coverage>
+  <dc:subject></dc:subject>
+  <dc:subject></dc:subject>
+  <dc:subject>Photographs</dc:subject>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:relation></dc:relation>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:rights>This item is released to the public under a Creative Commons Attribution license. You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. See http://creativecommons.org/licenses/by/2.0/</dc:rights>
+  <dc:identifier>http://hdl.handle.net/10176/codu:67825</dc:identifier>
+  <dc:subject></dc:subject>
+  <dc:coverage>Dharamsala, India</dc:coverage>
+</oai_dc:dc></metadata>
+  </record>
+ </ListRecords>
+</OAI-PMH>
