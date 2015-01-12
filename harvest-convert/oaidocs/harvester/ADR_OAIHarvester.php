@@ -20,7 +20,7 @@ class ADR_OAIHarvester {
 
 		$this->recCount = 0;
 		$this->fileCount = 0;
-		$this->outputFolder = "../oai-dc-out/"; 	// must include trailing '/' here
+		$this->outputFolder = "../oai-to-solr/"; 	// must include trailing '/' here
 		$this->toPointStack = array("");
 	}
 
