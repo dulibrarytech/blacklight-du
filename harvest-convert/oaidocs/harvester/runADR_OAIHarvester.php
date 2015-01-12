@@ -7,7 +7,7 @@
  * Batch: If a file named 'setPidList.txt' is present, all of the sets listed in the file (format codu:nnnnn) will be harvested
  */
 
-require_once('ADR_OAIHarvester.php');
+require('ADR_OAIHarvester.php');
 
 $harvester = new ADR_OAIHarvester();
 error_reporting(0);

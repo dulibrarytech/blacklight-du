@@ -7,7 +7,7 @@
  *
  * University of Denver, University Libraries, 4/2014 */
 
-require_once('file_helper.php');
+require('file_helper.php');
 
 class ADR_OAIHarvester {
 
