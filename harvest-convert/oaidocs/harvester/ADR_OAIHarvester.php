@@ -1,9 +1,10 @@
 <?php
 
-/* ADR OAI Harvester Class
+/* ADR OAI Harvester 
  * 
  * Author: 		Jeff Rynhart jeff.rynhart@du.edu
- * Description: 
+ * Description: Harvest record sets from the adr based on time range
+ * NOTICE: 		Must set outputFolder to desired location
  *
  * University of Denver, University Libraries, 4/2014 */
 
@@ -20,7 +21,7 @@ class ADR_OAIHarvester {
 
 		$this->recCount = 0;
 		$this->fileCount = 0;
-		$this->outputFolder = "../oai-to-solr/"; 	// must include trailing '/' here
+		$this->outputFolder = "oaidocs/oai-to-solr/"; 	// must include trailing '/' here
 		$this->toPointStack = array("");
 	}
 
