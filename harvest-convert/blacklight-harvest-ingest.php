@@ -11,9 +11,17 @@ $curDate 	= date('Y-m-d');
 $dateFile 	= 'harvest.dat';
 $logFile 	= 'auto-harvest-index.log';
 
-// Get previous harvest date
-$hdlDate 	= fopen($dateFile, 'r+');
-$strDate 	= fread($hdlDate, filesize($dateFile));
+// Get previous harvest date.  If file not present, exit script.  Send email.
+$hdlDate = @fopen($dateFile, 'r+');
+if($hdlDate === FALSE) {
+
+	echo "harvest.dat not found or inaccessible, exit script\n";
+	exit;
+}
+else {
+
+	$strDate = fread($hdlDate, filesize($dateFile));
+}
 
 // Open output buffer
 ob_start();
@@ -42,7 +50,7 @@ echo "Parse complete.\n";
 echo "Posting new files to solr...\n";
 echo shell_exec('java -jar oaidocs/oai-to-solr/oai-dc-converted/post.jar oaidocs/oai-to-solr/oai-dc-converted/*.xml') . "\n";	// Output folder created by solr parser if not present
 
-// Move harvested xml files to the 'docs' dir
+// Create a folder to archive harvested files, if not present
 if(!file_exists('oaidocs/harvester/docs')) {
 
 	mkdir('oaidocs/harvester/docs',0775);
