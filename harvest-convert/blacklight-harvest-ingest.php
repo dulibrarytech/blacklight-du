@@ -1,7 +1,11 @@
 <?php 
 
 /*
+ * Auto Harvest and Blacklight Ingest
+ * University of Denver, 1/2015, Jeff Rynhart
  *
+ * A file named 'harvest.dat' must be present in the same folder as this script.  
+ * 	This file should contain a date in the format 'yyyy-mm-dd'.  This is the date of the last data harvest for Blacklight
  */
 
 require('oaidocs/harvester/ADR_OAIHarvester.php');
@@ -11,11 +15,14 @@ $curDate 	= date('Y-m-d');
 $dateFile 	= 'harvest.dat';
 $logFile 	= 'auto-harvest-index.log';
 
+$harvester = new ADR_OAIHarvester();
+$parser = new OaiToSolrXmlParser();
+
 // Get previous harvest date.  If file not present, exit script.  Send email.
 $hdlDate = @fopen($dateFile, 'r+');
 if($hdlDate === FALSE) {
 
-	echo "harvest.dat not found or inaccessible, exit script\n";
+	echo "harvest.dat not found or inaccessible, exiting script.\n";
 	exit;
 }
 else {
