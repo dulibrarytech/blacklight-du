@@ -7,12 +7,11 @@
 require('oaidocs/harvester/ADR_OAIHarvester.php');
 require('oaidocs/oai-to-solr/OaiToSolrXmlParser.php');
 
-fclose(STDOUT);
-$STDOUT = fopen('application.log', 'wb');
-
 $curDate 	= date('Y-m-d');
 $dateFile 	= 'harvest.dat';
 $logFile 	= 'auto-harvest-index.log';
+
+// Get previous harvest date
 $hdlDate 	= fopen($dateFile, 'r+');
 $strDate 	= fread($hdlDate, filesize($dateFile));
 
