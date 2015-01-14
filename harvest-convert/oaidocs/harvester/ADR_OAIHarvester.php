@@ -351,19 +351,17 @@ class ADR_OAIHarvester {
 	// Write the data to the specified path/file
 	private function writeToFile($filepath,$data) {
 
-		$fp = fopen($filepath, 'w');
-		
-		if (!$fp) 
-		{
-			throw new Exception("Cannot open file.");
-		}
-		else
-		{
-			echo "Writing " . $filepath . "\n";
-			return fwrite($fp, $data);
-		}
+		if(file_put_contents($filepath, $data) === false) {
 
-		fclose($fp);
+			echo "Error writing to file: " . $filepath . "\n";
+			echo "Data type: " . gettype($data) . "\n";
+			echo "Exiting script...\n";
+			exit;
+		}
+		else {
+
+			echo "Created file: " . $filepath . "\n";
+		}
 	}
 
 	// Wrapper for oai-api ListRecords function
