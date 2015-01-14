@@ -200,8 +200,10 @@ class ADR_OAIHarvester {
 		echo "Retrieving records for " . $setPid . " from " . $from . " to " . $to . "\n";
 		
 		$xmlString = $this->listRecords($setPid,$from,$until); 
-		if($xmlString == "empty")
+		if($xmlString === false) {
+			
 			return false;
+		}
 
 		$count = $this->getRecordCount($xmlString);
 		echo $count . " records found.\n";
@@ -373,9 +375,7 @@ class ADR_OAIHarvester {
 			$until = "&until=" . $until;
 
 		$url = "http://digitaldu.coalliance.org/oai2?verb=ListRecords" . $from . $until . "&metadataPrefix=oai_dc&set=" . $pid;
-		$records = file_get_contents($url); 
-
-		return ($records == "" || $records == null || !isset($records)) ? "empty" : $records;
+		return file_get_contents($url); 
 	}
 
 	private function composeFilestring($pid,$from,$until) {
