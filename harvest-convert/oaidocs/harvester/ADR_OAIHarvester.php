@@ -21,7 +21,7 @@ class ADR_OAIHarvester {
 
 		$this->recCount = 0;
 		$this->fileCount = 0;
-		$this->outputFolder = "oaidocs/oai-to-solr/"; 	// must include trailing '/' here
+		$this->outputFolder = "docs/"; 	// must include trailing '/' here
 		$this->toPointStack = array("");
 	}
 
@@ -201,17 +201,20 @@ class ADR_OAIHarvester {
 		
 		$xmlString = $this->listRecords($setPid,$from,$until); 
 		if($xmlString === false) {
-			
+
 			return false;
 		}
 
+		// Validate the returned xml
+
+		// Count number of individual records are in the set  
 		$count = $this->getRecordCount($xmlString);
 		echo $count . " records found.\n";
 
 		// Account for 'no records' ie empty record set.
 		// First, check forward from the current 'to' point until the previous 'to' point.
-		// If none there,
-		if($this->getRecordCount($xmlString) === 0) 
+		// If none there, 
+		if($count === 0) 
 		{
 			$from = $until;
 
@@ -366,7 +369,7 @@ class ADR_OAIHarvester {
 		}
 	}
 
-	// Wrapper for oai-api ListRecords function
+	// Return a list of records from the ADR
 	private function listRecords($pid, $from = "", $until = "") {
 
 		if($from !== "")
@@ -375,9 +378,14 @@ class ADR_OAIHarvester {
 			$until = "&until=" . $until;
 
 		$url = "http://digitaldu.coalliance.org/oai2?verb=ListRecords" . $from . $until . "&metadataPrefix=oai_dc&set=" . $pid;
-		return file_get_contents($url); 
+		$data = file_get_contents($url); 
+
+		echo $data . "\n";	// debug
+
+		return $data;
 	}
 
+	// Create a filename containing the pid along with the from and to date
 	private function composeFilestring($pid,$from,$until) {
 
 		$untilTag = "";

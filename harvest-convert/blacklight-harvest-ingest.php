@@ -31,7 +31,7 @@ else {
 }
 
 // Open output buffer
-ob_start();
+//ob_start();
 
 // Welcome 
 echo "\n*** Blacklight-DU Automatic Harvest and Index ***\n";
@@ -48,6 +48,10 @@ echo "Harvest complete.\n";
 ftruncate($hdlDate, 0);
 fwrite($hdlDate, $curDate);
 
+// Copy files to solr parser dir
+echo "Moving harvested files to solr parser...\n";
+echo shell_exec('mv oaidocs/oai-to-solr/*.xml oaidocs/harvester/docs/') . "\n";
+
 // Parse harvested xml to solr index xml
 echo "Parsing harvested data to solr xml...\n";
 $parser->parseOAI();
@@ -61,19 +65,15 @@ echo shell_exec('java -jar oaidocs/oai-to-solr/oai-dc-converted/post.jar oaidocs
 if(!file_exists('oaidocs/harvester/docs')) {
 
 	mkdir('oaidocs/harvester/docs',0775);
-}
-
-// Store harvested files in docs/ folder
-echo "Moving harvested files to docs/...\n";
-echo shell_exec('mv oaidocs/oai-to-solr/*.xml oaidocs/harvester/docs/') . "\n"; 
+} 
 
 // Remove solr index files, so they are not re-indexed next time
 echo "Removing solr index files...\n";
 echo shell_exec('rm oaidocs/oai-to-solr/oai-dc-converted/*.xml') . "\n";
 
 // Write output to file
-$output = ob_get_flush();
-file_put_contents($logFile, $output);
+// $output = ob_get_flush();
+// file_put_contents($logFile, $output);
 
 // Close files
 fclose($hdlDate);
