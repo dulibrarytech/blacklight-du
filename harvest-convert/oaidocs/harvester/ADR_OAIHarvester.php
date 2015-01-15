@@ -95,6 +95,8 @@ class ADR_OAIHarvester {
 	// Returns the date that the given set was created
 	public function getSetCreationDate($setPid) {
 
+		echo "Retrieving creation date for set " . $setPid . "\n";
+
 		$setPid = str_replace("_", ":", $setPid);
 		$url = "http://coduFedora:denverCO@fedora.coalliance.org:8080/fedora/objects/" . $setPid . "/objectXML";
 		$retStr = false;
@@ -378,7 +380,10 @@ class ADR_OAIHarvester {
 			$until = "&until=" . $until;
 
 		$url = "http://digitaldu.coalliance.org/oai2?verb=ListRecords" . $from . $until . "&metadataPrefix=oai_dc&set=" . $pid;
-		$data = file_get_contents($url); 
+		//$data = file_get_contents($url); 
+		$ch = curl_init($url);
+		curl_setopt($ch, CURLOPT_RETURNTRANSFER, FALSE);
+		$data = curl_exec($ch);
 
 		echo $data . "\n";	// debug
 
