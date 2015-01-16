@@ -380,12 +380,7 @@ class ADR_OAIHarvester {
 			$until = "&until=" . $until;
 
 		$url = "http://digitaldu.coalliance.org/oai2?verb=ListRecords" . $from . $until . "&metadataPrefix=oai_dc&set=" . $pid;
-		//$data = file_get_contents($url); 
-		$ch = curl_init($url);
-		curl_setopt($ch, CURLOPT_RETURNTRANSFER, FALSE);
-		$data = curl_exec($ch);
-
-		echo $data . "\n";	// debug
+		$data = file_get_contents($url); 
 
 		return $data;
 	}
