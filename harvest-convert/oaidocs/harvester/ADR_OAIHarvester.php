@@ -80,9 +80,12 @@ class ADR_OAIHarvester {
     	{
     		if(!$this->writeRecordSetSectionsToFiles($setPid,$fromDate,$toDate))
     		{
-    			echo "Wrote " . $this->recCount . " records from set " . $setPid . " into " . $this->fileCount . ($this->fileCount > 1 ? " files.\n" : " file.\n");
-    		
-        		$this->recCount = 0;
+    			if($this->recCount !== 0) {
+
+    				echo "Wrote " . $this->recCount . " records from set " . $setPid . " into " . $this->fileCount . ($this->fileCount > 1 ? " files.\n" : " file.\n");
+    				$this->recCount = 0;
+    			}
+
         		$this->fileCount = 0;
     		}
     		// else
