@@ -160,17 +160,31 @@ class EadToSolrXmlParser {
 
 	protected function writeToFile($file) {
 
-		if(!file_exists($this->outputFolder))
-			mkdir($this->outputFolder,0775);
+		$status = false;
 
-		$fp = fopen($file, 'w');
-		
-		if (!$fp) {
-			throw new Exception("Cannot open file.");
+		if(file_exists($this->outputFolder) === false) {
+			
+			mkdir($this->outputFolder,0775);
 		}
 
-		$status = fwrite($fp, $this->solr_indexStr);
-		fclose($fp);
+		try {
+
+			$fp = fopen($file, 'w');
+
+			if ($fp === false) {
+			
+				echo "Error opening file: " . $file . "\n";
+			}
+			else {
+
+				$status = fwrite($fp, $this->solr_indexStr);
+				fclose($fp);
+			}
+		}
+		catch(Exception $e) {
+
+            echo $e->getMessage() . "\n";
+        }
 
 		return $status;
 	}	

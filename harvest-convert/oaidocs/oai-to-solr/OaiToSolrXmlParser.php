@@ -281,7 +281,7 @@ class OaiToSolrXmlParser {
 
 							            		if(!$this->IDSet)
 							            		{
-							            			$this->docString .= "<field name='id'>[no id]</field>\n";
+							            			$this->docString .= "<field name='id'>[no id]</field>\n"; 
 							            			$this->missingID++;
 							            		}
 							            		else
@@ -360,7 +360,7 @@ class OaiToSolrXmlParser {
 
 				// Write solr xml to file
 				$data = $this->solr_indexStr;
-		        if(!$this->writeToFile($filename, $data))
+		        if($this->writeToFile($filename, $data) === false)
 		        	echo "File write error: " . $filename . " aborted.\n";
 		        else
 		        	echo "File " . $filename . " completed.\n";
@@ -379,19 +379,33 @@ class OaiToSolrXmlParser {
 
 	protected function writeToFile($file, $data) {
 
-		if(!file_exists($this->outputFolder))
+		if(file_exists($this->outputFolder) === false) {
+			
 			mkdir($this->outputFolder,0775);
-
-		$file = $this->outputFolder . $file;
-		$fp = fopen($file, 'w');
-		
-		if (!$fp) 
-		{
-			throw new Exception("Cannot open file.");
 		}
 
-		$status = fwrite($fp, $data);
-		fclose($fp);
+		$file = $this->outputFolder . $file;
+		echo "Writing " . $file . "...\n";
+		$status = false;
+
+		try {
+
+			$fp = fopen($file, 'w');
+
+			if ($fp === false) {
+			
+				echo "Error opening file: " . $file . "\n";
+			}
+			else {
+
+				$status = fwrite($fp, $data);
+				fclose($fp);
+			}
+		}
+		catch(Exception $e) {
+
+            echo $e->getMessage() . "\n";
+        }
 
 		return $status;
 	}
@@ -510,9 +524,14 @@ class OaiToSolrXmlParser {
 	protected function getThumbnailDsid($pid) {
 
 		$dsid = null;
-		//echo "Connecting to remote server for thumbnail image...\n";
+		echo "Connecting to remote server for thumbnail image...\n";	// <-----DEBUG
 		$url = "http://coduFedora:denverCO@fedora.coalliance.org:8080/fedora/listDatastreams/" . $pid . "?xml=true";
 		$xmlStr = file_get_contents($url);
+
+		if($xmlStr === false) {
+
+			echo "Failed to retrieve image datastream from ADR.\n";
+		}
 
 		// parse out the dsid for the thumbnail
 		$xmlObj = simplexml_load_string($xmlStr);
@@ -530,6 +549,11 @@ class OaiToSolrXmlParser {
 	        	}
     		}
         }
+		else {
+
+			echo "Failed to create xml object.\n";
+		} 
+
 
 		return $dsid;
 	}
@@ -560,8 +584,8 @@ class OaiToSolrXmlParser {
 			// Reduce any double whitespaces to one.
 			$string = preg_replace('/\s\s+/', ' ', $string); 
 
-			// kludge?
-			if(!isset($string[0]) || $string[0] == null)
+			// kludge
+			if(isset($string[0]) === false || $string[0] == null)
 				return "";
 
 			$firstChar = $string[0];
@@ -615,7 +639,7 @@ class OaiToSolrXmlParser {
 	 	// Names that have been inputted as DC subject data will not be used as subject facets until further notice.
 	 	// From this point, anything with a numeric value will not be considered a facet field.  
 	 	// This will also exclude names from the facet field (they have been input to the DC subject field containing dates)
-		if(!preg_match('#[0-9]#',$string))
+		if(preg_match('#[0-9]#',$string) === false)
 		{ 
 		    for($i=0; $i<strlen($string); $i++) 
 			{ 
