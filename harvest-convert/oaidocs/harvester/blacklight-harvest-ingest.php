@@ -46,7 +46,7 @@ echo "Harvest complete.\n";
 
 // Remove existing date, and add the current date of this harvest.  The next auto-harvest will harvest from this date onward.
 ftruncate($hdlDate, 0);
-fwrite($hdlDate, $curDate);
+fwrite($hdlDate, trim($curDate));
 
 // Copy files to solr parser dir
 echo "Moving harvested files to solr parser...\n";
@@ -59,22 +59,16 @@ echo "Parse complete.\n";
 
 // Post index files to solr
 echo "Posting new files to solr...\n";
-//echo shell_exec('java -jar oaidocs/oai-to-solr/oai-dc-converted/post.jar oaidocs/oai-to-solr/oai-dc-converted/*.xml') . "\n";	// Output folder created by solr parser if not present
-
-// Create a folder to archive harvested files, if not present
-if(!file_exists('docs/')) {
-
-	mkdir('docs',0775);
-} 
+//echo shell_exec('java -jar oaidocs/oai-to-solr/oai-dc-converted/post.jar oaidocs/oai-to-solr/oai-dc-converted/*.xml') . "\n";	// Output folder created by solr parser if not present 
 
 // Remove solr index files, so they are not re-indexed next time
 echo "Removing solr index files...\n";
-echo shell_exec('rm ../oai-to-solr/oai-dc-converted/*.xml') . "\n";
-echo shell_exec('rm ../oai-to-solr/*.xml') . "\n";
+//echo shell_exec('rm ../oai-to-solr/oai-dc-converted/*.xml') . "\n";
+//echo shell_exec('rm ../oai-to-solr/*.xml') . "\n";
 
 // Write output to file
 $output = ob_get_flush();
-file_put_contents($logFile, $output);
+file_put_contents($logFile, $output, FILE_APPEND);
 
 // Close files
 fclose($hdlDate);
