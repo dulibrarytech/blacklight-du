@@ -13,7 +13,7 @@ require('../oai-to-solr/OaiToSolrXmlParser.php');
 
 $curDate 	= date('Y-m-d');
 $dateFile 	= 'harvest.dat';
-$logFile 	= 'auto-harvest-index.log';
+$logFile 	= 'auto-harvest-index.log';	/* TODO: add current date to log filename.  Remove 'APPEND' from write */
 
 $harvester = new ADR_OAIHarvester();
 $parser = new OaiToSolrXmlParser();
@@ -59,7 +59,7 @@ echo "Parse complete.\n";
 
 // Post index files to solr
 echo "Posting new files to solr...\n";
-echo shell_exec('java -jar oaidocs/oai-to-solr/oai-dc-converted/post.jar oaidocs/oai-to-solr/oai-dc-converted/*.xml') . "\n";	// Output folder created by solr parser if not present 
+echo shell_exec('java -Durl=http://localhost:8889/solr/update -jar oaidocs/oai-to-solr/oai-dc-converted/post.jar oaidocs/oai-to-solr/oai-dc-converted/*.xml') . "\n";	// Output folder created by solr parser if not present 
 
 // Remove solr index files, so they are not re-indexed next time
 echo "Removing solr index files...\n";
@@ -74,3 +74,4 @@ file_put_contents($logFile, $output, FILE_APPEND);
 fclose($hdlDate);
 
 ?>
+java -Durl=http://localhost:8080/solr/update -jar post.jar
