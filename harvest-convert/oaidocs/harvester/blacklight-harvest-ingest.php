@@ -74,4 +74,3 @@ file_put_contents($logFile, $output, FILE_APPEND);
 fclose($hdlDate);
 
 ?>
-java -Durl=http://localhost:8080/solr/update -jar post.jar
