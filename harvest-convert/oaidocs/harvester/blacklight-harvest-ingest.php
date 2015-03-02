@@ -59,7 +59,7 @@ echo "Parse complete.\n";
 
 // Post index files to solr
 echo "Posting new files to solr...\n";
-echo shell_exec('java -Durl=http://localhost:8889/solr/update -jar oaidocs/oai-to-solr/oai-dc-converted/post.jar oaidocs/oai-to-solr/oai-dc-converted/*.xml') . "\n";	// Output folder created by solr parser if not present 
+echo shell_exec('java -Durl=http://localhost:8889/solr/update -jar ../oai-to-solr/oai-dc-converted/post.jar ../oai-to-solr/oai-dc-converted/*.xml') . "\n";	// Output folder created by solr parser if not present 
 
 // Remove solr index files, so they are not re-indexed next time
 echo "Removing solr index files...\n";

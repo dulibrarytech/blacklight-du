@@ -524,7 +524,7 @@ class OaiToSolrXmlParser {
 	protected function getThumbnailDsid($pid) {
 
 		$dsid = null;
-		echo "Connecting to remote server for thumbnail image...\n";	// <-----DEBUG
+		//echo "Connecting to remote server for thumbnail image...\n";	// <-----DEBUG
 		$url = "http://coduFedora:denverCO@fedora.coalliance.org:8080/fedora/listDatastreams/" . $pid . "?xml=true";
 		$xmlStr = file_get_contents($url);
 
