@@ -58,13 +58,13 @@ class OaiToSolrXmlParser {
 	// If format data contains these chars, do not use it for a facet field
 	protected $formatFacetExcludeChars = array('[', '.', ',');
 
-	public function parseOAI() {
+	public function parseOAI($fileDir = ".") {
 
 		echo "Parsing OAI-DC files...\n";
 		echo "Connecting to fedora.coalliance.org...\n";
 
 		// Only parses *.xml files
-		$files = scandir('.');
+		$files = scandir($fileDir);
 
 		// Main parser loop
 		foreach($files as $file)

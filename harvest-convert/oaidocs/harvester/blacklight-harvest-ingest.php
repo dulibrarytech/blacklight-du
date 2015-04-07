@@ -54,7 +54,7 @@ echo shell_exec('cp docs/*.xml ../oai-to-solr/.') . "\n";
 
 // Parse harvested xml to solr index xml
 echo "Parsing harvested data to solr xml...\n";
-$parser->parseOAI();
+$parser->parseOAI("../oai-to-solr");
 echo "Parse complete.\n";
 
 // Post index files to solr
