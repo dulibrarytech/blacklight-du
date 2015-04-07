@@ -16,7 +16,7 @@ $dateFile 	= 'harvest.dat';
 $logFile 	= 'auto-harvest-index.log';	/* TODO: add current date to log filename.  Remove 'APPEND' from write */
 
 $harvester = new ADR_OAIHarvester();
-$parser = new OaiToSolrXmlParser();
+$parser = new OaiToSolrXmlParser("../oai-to-solr", "../oai-to-solr/oai-dc-converted");
 
 // Get previous harvest date.  If file not present, exit script.  Send email.
 $hdlDate = fopen($dateFile, 'r+');
@@ -54,7 +54,7 @@ echo shell_exec('cp docs/*.xml ../oai-to-solr/.') . "\n";
 
 // Parse harvested xml to solr index xml
 echo "Parsing harvested data to solr xml...\n";
-$parser->parseOAI("../oai-to-solr");
+$parser->parseOAI();
 echo "Parse complete.\n";
 
 // Post index files to solr

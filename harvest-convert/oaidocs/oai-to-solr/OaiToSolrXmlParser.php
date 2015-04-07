@@ -4,8 +4,10 @@
  * 
  * Author: 		Jeff Rynhart jeff.rynhart@du.edu
  * Description: Convert OAI:DC xml files to Solr index input format xml files. 
- * Input: 		OAI:DC .xml file(s) from current directory. 
+ * Input: 		OAI:DC .xml 
  *				Filename format: 'codu_#####.xml'
+ 				Param1: Path (relative to this parser instance) to the .xml files to parse
+ 				Param2: Relative path to the parser output folder
  * Output: 		Solr-compatible index .xml file(s) *** Must create output dir prior to conversion: './oai-dc-output/' ***
  *
  * University of Denver, University Libraries, 5/2014 */
@@ -32,7 +34,7 @@ class OaiToSolrXmlParser {
 	protected $urlPos = 0;
 	protected $folderPos = 0;
 	protected $folder = "00000";
-	protected $outputFolder = "oai-dc-converted/";	// include trailing slash; use "" for local folder
+	protected $outputFolder;	
 
 	// Control variables
 	protected $dateSet = false;
@@ -58,14 +60,21 @@ class OaiToSolrXmlParser {
 	// If format data contains these chars, do not use it for a facet field
 	protected $formatFacetExcludeChars = array('[', '.', ',');
 
+	// TODO: init all vars in constructor
+	function __construct($fileDir = ".", $outputFolder = "oai-dc-converted") {
+
+    	$this->outputFolder = $outputFolder . "/";
+    	$this->fileDir = $fileDir;
+    }
+
 	// param $fileDir: relative path to folder of .xml files to convert
-	public function parseOAI($fileDir = ".") {
+	public function parseOAI() {
 
 		echo "Parsing OAI-DC files...\n";
 		echo "Connecting to fedora.coalliance.org...\n";
 
 		// Only parses *.xml files
-		$files = scandir($fileDir);
+		$files = scandir($this->fileDir);
 
 		// Main parser loop
 		foreach($files as $file)
@@ -79,7 +88,7 @@ class OaiToSolrXmlParser {
 				$filename = substr($file, 0, -4) . "_SOLR.xml";
 
 				// Convert xml file to string, remove prefixes
-				$xmlString = file_get_contents($fileDir . "/" . $file);
+				$xmlString = file_get_contents($this->fileDir . "/" . $file);
 				$xmlString = str_replace('oai_dc:', '', $xmlString);
 				$xmlString = str_replace('dc:', '', $xmlString);
 
