@@ -58,6 +58,7 @@ class OaiToSolrXmlParser {
 	// If format data contains these chars, do not use it for a facet field
 	protected $formatFacetExcludeChars = array('[', '.', ',');
 
+	// param $fileDir: relative path to folder of .xml files to convert
 	public function parseOAI($fileDir = ".") {
 
 		echo "Parsing OAI-DC files...\n";
@@ -78,7 +79,7 @@ class OaiToSolrXmlParser {
 				$filename = substr($file, 0, -4) . "_SOLR.xml";
 
 				// Convert xml file to string, remove prefixes
-				$xmlString = file_get_contents($file);
+				$xmlString = file_get_contents($fileDir . "/" . $file);
 				$xmlString = str_replace('oai_dc:', '', $xmlString);
 				$xmlString = str_replace('dc:', '', $xmlString);
 
