@@ -121,7 +121,8 @@ class CatalogController < ApplicationController
     config.add_show_field 'format_facet', :label => 'Format'
     config.add_show_field 'subject_facet', :label => 'Subject'
     config.add_show_field 'publisher', :label => 'Publisher'
-    config.add_show_field 'abstract', :label => 'Description'
+    config.add_show_field 'abstract', :label => 'Abstract'
+    config.add_show_field 'description', :label => 'Description'
     config.add_show_field 'identifier', :label => 'Identifiers'
     config.add_show_field 'links', :label => 'Online'
     

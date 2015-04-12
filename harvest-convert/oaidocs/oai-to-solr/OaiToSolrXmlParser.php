@@ -149,7 +149,8 @@ class OaiToSolrXmlParser {
 			                						$this->docString .= "<field name='id'>" . $this->IDStr . "</field>\n";
 			                						$this->IDSet = true;
 			                						
-			                						$tempStr = $this->getThumbnailDataField();
+			                						// $tempStr = $this->getThumbnailDataField();
+			                						$tempStr = "";
 	                								if($tempStr != "")
 	                								{
 	                									$this->TNSet = true;
@@ -229,7 +230,8 @@ class OaiToSolrXmlParser {
 			                								$this->docString .= "<field name='id'>" . substr($trimmedString , -10) . "</field>\n";
 			                								$this->IDSet = true;
 
-			                								$tempStr = $this->getThumbnailDataField();
+			                								// $tempStr = $this->getThumbnailDataField();
+			                								$tempStr = "";
 			                								if($tempStr != "")
 			                								{
 			                									$this->TNSet = true;
@@ -244,7 +246,8 @@ class OaiToSolrXmlParser {
 			                								$this->docString .= "<field name='id'>" . $trimmedString . "</field>\n";
 			                								$this->IDSet = true;
 
-			                								$tempStr = $this->getThumbnailDataField();
+			                								// $tempStr = $this->getThumbnailDataField();
+			                								$tempStr = "";
 			                								if($tempStr != "")
 			                								{
 			                									$this->TNSet = true;
@@ -258,6 +261,10 @@ class OaiToSolrXmlParser {
 			                							// 	$this->solr_indexStr .= "<field name='local_identifier'>" . $trimmedString . "</field>\n";
 			                							// 	$this->localIDSet = true;
 			                							// }
+			                						}
+			                						else if($childNode->getName() === "description" && !$this->isEmpty($childNode))
+			                						{
+			                							$this->docString .= "<field name='description'>" . trim((string)$childNode) . "</field>\n";
 			                						}
 					            				}
 

@@ -130,6 +130,7 @@ be used for benchmarking.  To improve performance one could
   <field name="creator" type="text_general" indexed="true" stored="true" multiValued="true"/>
   <field name="format" type="text_general" indexed="true" stored="true" multiValued="true"/>
   <field name="abstract" type="text_general" indexed="true" stored="true" multiValued="false"/>
+  <field name="description" type="text_general" indexed="true" stored="true" multiValued="true"/>
   <field name="identifier" type="text_general" indexed="true" stored="true" multiValued="true"/>
   <field name="type" type="text_general" indexed="true" stored="true" multiValued="true"/>
   <field name="thumbnail" type="string" indexed="true" stored="true" multiValued="false"/>
@@ -159,7 +160,7 @@ be used for benchmarking.  To improve performance one could
  -->
  <!--field name="title" type="text_general" indexed="true" stored="true" multiValued="true"/>
  <field name="subject" type="text_general" indexed="true" stored="true"/-->
- <field name="description" type="text_general" indexed="true" stored="true"/>
+ <!-- <field name="description" type="text_general" indexed="true" stored="true" multiValued="true"/> -->
  <field name="comments" type="text_general" indexed="true" stored="true"/>
  <field name="author" type="text_general" indexed="true" stored="true"/>
  <field name="keywords" type="text_general" indexed="true" stored="true"/>
