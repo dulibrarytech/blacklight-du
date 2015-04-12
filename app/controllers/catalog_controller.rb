@@ -121,9 +121,9 @@ class CatalogController < ApplicationController
     config.add_show_field 'format_facet', :label => 'Format'
     config.add_show_field 'subject_facet', :label => 'Subject'
     config.add_show_field 'publisher', :label => 'Publisher'
+    config.add_show_field 'identifier', :label => 'Identifiers'
     config.add_show_field 'abstract', :label => 'Abstract'
     config.add_show_field 'description', :label => 'Description'
-    config.add_show_field 'identifier', :label => 'Identifiers'
     config.add_show_field 'links', :label => 'Online'
     
 
@@ -192,14 +192,21 @@ class CatalogController < ApplicationController
 
     config.add_search_field('subject') do |field|
       #field.solr_parameters = { :'spellcheck.dictionary' => 'subject' }
-      field.qt = 'search'
+
       field.solr_local_parameters = { 
         :qf => '$subject_qf',
         :pf => '$subject_pf'
       }
     end
 
+    config.add_search_field('description') do |field|
+      #field.solr_parameters = { :'spellcheck.dictionary' => 'subject' }
 
+      field.solr_local_parameters = { 
+        :qf => '$description_qf',
+        :pf => '$description_pf'
+      }
+    end
 
 
     # "sort results by" select (pulldown)
