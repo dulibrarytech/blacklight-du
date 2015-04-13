@@ -102,6 +102,7 @@
          subject_unstem_search^750
          subject_topic_facet^625
          subject_t^500
+         description^5000
          creator^1000
          creator_unstem_search^250
          creator_addl_unstem_search^250
@@ -130,6 +131,7 @@
          subject_unstem_search^7500
          subject_topic_facet^6250
          subject_t^5000
+         description^5000
          creator^5000
          creator_unstem_search^2500
          creator_addl_unstem_search^2500
@@ -198,6 +200,24 @@
          subject_topic_facet^500
          subject_addl_unstem_search^100
          subject_addl_t^10
+       </str>
+       <str name="description_qf">
+         description^1000
+         description_topic_unstem_search^200
+         description_unstem_search^125
+         description_topic_facet^100
+         description_t^50
+         description_addl_unstem_search^10
+         description_addl_t
+       </str>
+       <str name="description_qf">
+         description^10000
+         description_topic_unstem_search^2000
+         description_unstem_search^1250
+         description_t^1000
+         description_topic_facet^500
+         description_addl_unstem_search^100
+         description_addl_t^10
        </str>
        <!-- <str name="all_fields_qf">
          subject_topic_unstem_search^2000
