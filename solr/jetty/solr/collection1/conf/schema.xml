@@ -286,6 +286,7 @@ be used for benchmarking.  To improve performance one could
 <copyField source="title" dest="all_fields"/>
 <copyField source="subject" dest="all_fields"/>
 <copyField source="creator" dest="all_fields"/>
+<copyField source="description" dest="all_fields"/>
 <!-- <copyField source="pub_date" dest="all_fields"/>
 <copyField source="links" dest="all_fields"/> -->
 <!-- <copyField source="format" dest="all_fields"/>
