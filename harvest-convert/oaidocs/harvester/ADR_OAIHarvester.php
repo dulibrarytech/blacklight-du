@@ -26,6 +26,7 @@ class ADR_OAIHarvester {
 	}
 
 	// Harvest sets from coalliance.digitaldu.org
+	// pidArr: Array of pids to harvest. Format: (array('codu:12345', 'codu:23456', 'codu:34567' ...))
 	public function harvest_sets($pidArr = null, $startDate = null) {
 
 		echo "Running auto harvest...\n";
@@ -179,7 +180,7 @@ class ADR_OAIHarvester {
 		                	$children = $childNode->children();
 				            foreach($children as $childNode)
 				            {
-				                if($childNode->getName() === "setSpec")
+				                if($childNode->getName() === "setSpec" && $childNode->getName() != "codu_top") // codu_top contains all records.  Will create duplicates 4/14/15
 				                {
 				                	array_push($sets, trim((string)$childNode));
 				                }
