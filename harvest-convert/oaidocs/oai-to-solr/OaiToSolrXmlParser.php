@@ -149,7 +149,7 @@ class OaiToSolrXmlParser {
 			                						$this->docString .= "<field name='id'>" . $this->IDStr . "</field>\n";
 			                						$this->IDSet = true;
 			                						
-			                						// $tempStr = $this->getThumbnailDataField();
+			                						$tempStr = $this->getThumbnailDataField();
 			                						$tempStr = "";
 	                								if($tempStr != "")
 	                								{
@@ -230,7 +230,7 @@ class OaiToSolrXmlParser {
 			                								$this->docString .= "<field name='id'>" . substr($trimmedString , -10) . "</field>\n";
 			                								$this->IDSet = true;
 
-			                								// $tempStr = $this->getThumbnailDataField();
+			                								$tempStr = $this->getThumbnailDataField();
 			                								$tempStr = "";
 			                								if($tempStr != "")
 			                								{
@@ -246,7 +246,7 @@ class OaiToSolrXmlParser {
 			                								$this->docString .= "<field name='id'>" . $trimmedString . "</field>\n";
 			                								$this->IDSet = true;
 
-			                								// $tempStr = $this->getThumbnailDataField();
+			                								$tempStr = $this->getThumbnailDataField();
 			                								$tempStr = "";
 			                								if($tempStr != "")
 			                								{
