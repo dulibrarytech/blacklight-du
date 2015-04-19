@@ -150,7 +150,6 @@ class OaiToSolrXmlParser {
 			                						$this->IDSet = true;
 			                						
 			                						$tempStr = $this->getThumbnailDataField();
-			                						$tempStr = "";
 	                								if($tempStr != "")
 	                								{
 	                									$this->TNSet = true;
@@ -231,7 +230,6 @@ class OaiToSolrXmlParser {
 			                								$this->IDSet = true;
 
 			                								$tempStr = $this->getThumbnailDataField();
-			                								$tempStr = "";
 			                								if($tempStr != "")
 			                								{
 			                									$this->TNSet = true;
@@ -247,7 +245,6 @@ class OaiToSolrXmlParser {
 			                								$this->IDSet = true;
 
 			                								$tempStr = $this->getThumbnailDataField();
-			                								$tempStr = "";
 			                								if($tempStr != "")
 			                								{
 			                									$this->TNSet = true;
