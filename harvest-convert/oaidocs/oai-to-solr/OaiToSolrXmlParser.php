@@ -688,5 +688,9 @@ class OaiToSolrXmlParser {
 	 	return $returnString;
 	}
 
+	function removeBracketCharacters($string) {
+
+		return str_replace(array("<", ">"), "", $string);
+	}
 }
 
