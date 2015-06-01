@@ -464,7 +464,7 @@ class OaiToSolrXmlParser {
 	 	//$string = trim($string);
 	 	$tempstring = trim($string, ".,");
 		$tempstring = preg_replace('/\s\s+/', ' ', $string);	// Reduce any double whitespaces to one.;
-	 	$tempString = $this->removeBracketCharacters($tempString);
+	 	$tempstring = $this->removeBracketCharacters($tempstring);
 	 	$tempstring = strtolower($tempstring);
 	 	
 	 	// Add special cases here (conversions)
