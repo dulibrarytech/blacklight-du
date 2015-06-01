@@ -261,7 +261,9 @@ class OaiToSolrXmlParser {
 			                						}
 			                						else if($childNode->getName() === "description" && !$this->isEmpty($childNode))
 			                						{
-			                							$this->docString .= "<field name='description'>" . trim((string)$childNode) . "</field>\n";
+			                							$string =  trim((string)$childNode);
+			                							$string = $this->removeBracketCharacters($string);
+			                							$this->docString .= "<field name='description'>" . $string . "</field>\n";
 			                						}
 					            				}
 
@@ -462,7 +464,7 @@ class OaiToSolrXmlParser {
 	 	//$string = trim($string);
 	 	$tempstring = trim($string, ".,");
 		$tempstring = preg_replace('/\s\s+/', ' ', $string);	// Reduce any double whitespaces to one.;
-	 	//$string = str_replace(" ", "", $string);
+	 	$tempString = $this->removeBracketCharacters($tempString);
 	 	$tempstring = strtolower($tempstring);
 	 	
 	 	// Add special cases here (conversions)
@@ -537,36 +539,36 @@ class OaiToSolrXmlParser {
 
 	protected function getThumbnailDsid($pid) {
 
-		$dsid = null;
+		$dsid = "DSID";
 		//echo "Connecting to remote server for thumbnail image...\n";	// <-----DEBUG
-		$url = "http://coduFedora:denverCO@fedora.coalliance.org:8080/fedora/listDatastreams/" . $pid . "?xml=true";
-		$xmlStr = file_get_contents($url);
+		// $url = "http://coduFedora:denverCO@fedora.coalliance.org:8080/fedora/listDatastreams/" . $pid . "?xml=true";
+		// $xmlStr = file_get_contents($url);
 
-		if($xmlStr === false) {
+		// if($xmlStr === false) {
 
-			echo "Failed to retrieve image datastream from ADR.\n";
-		}
+		// 	echo "Failed to retrieve image datastream from ADR.\n";
+		// }
 
-		// parse out the dsid for the thumbnail
-		$xmlObj = simplexml_load_string($xmlStr);
+		// // parse out the dsid for the thumbnail
+		// $xmlObj = simplexml_load_string($xmlStr);
 
-		if($xmlObj != null)
-        {
-        	foreach ($xmlObj->children() as $child) 
-        	{
-    			if($child['dsid'] != "TN" &&
-	        		$child['label'] == "thumbnail" &&
-	        		substr($child['mimeType'],0,6) == "image/") {
+		// if($xmlObj != null)
+  //       {
+  //       	foreach ($xmlObj->children() as $child) 
+  //       	{
+  //   			if($child['dsid'] != "TN" &&
+	 //        		$child['label'] == "thumbnail" &&
+	 //        		substr($child['mimeType'],0,6) == "image/") {
 
-	        		$dsid = $child['dsid'];
-	        	//	echo "Image found.\n";
-	        	}
-    		}
-        }
-		else {
+	 //        		$dsid = $child['dsid'];
+	 //        	//	echo "Image found.\n";
+	 //        	}
+  //   		}
+  //       }
+		// else {
 
-			echo "Failed to create xml object.\n";
-		} 
+		// 	echo "Failed to create xml object.\n";
+		// } 
 
 		return $dsid;
 	}
@@ -582,6 +584,7 @@ class OaiToSolrXmlParser {
 		{
 			$string = strtolower($string);
 		 	$string = trim($string, ".,");
+		 	$string = $this->removeBracketCharacters($string);
 		 	$strLen = strlen($string);
 		 	$returnString = "";
 
@@ -645,6 +648,7 @@ class OaiToSolrXmlParser {
 
 		$string = strtolower($string);
 	 	$string = trim($string, ".,");
+	 	$string = $this->removeBracketCharacters($string);
 	 	$returnString = "";
 	 	$tempString = "";
 
