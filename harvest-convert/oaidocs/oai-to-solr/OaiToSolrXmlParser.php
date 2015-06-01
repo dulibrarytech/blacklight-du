@@ -539,36 +539,36 @@ class OaiToSolrXmlParser {
 
 	protected function getThumbnailDsid($pid) {
 
-		$dsid = "DSID";
-		//echo "Connecting to remote server for thumbnail image...\n";	// <-----DEBUG
-		// $url = "http://coduFedora:denverCO@fedora.coalliance.org:8080/fedora/listDatastreams/" . $pid . "?xml=true";
-		// $xmlStr = file_get_contents($url);
+		$dsid = null;
+		echo "Connecting to remote server for thumbnail image...\n";	// <-----DEBUG
+		$url = "http://coduFedora:denverCO@fedora.coalliance.org:8080/fedora/listDatastreams/" . $pid . "?xml=true";
+		$xmlStr = file_get_contents($url);
 
-		// if($xmlStr === false) {
+		if($xmlStr === false) {
 
-		// 	echo "Failed to retrieve image datastream from ADR.\n";
-		// }
+			echo "Failed to retrieve image datastream from ADR.\n";
+		}
 
-		// // parse out the dsid for the thumbnail
-		// $xmlObj = simplexml_load_string($xmlStr);
+		// parse out the dsid for the thumbnail
+		$xmlObj = simplexml_load_string($xmlStr);
 
-		// if($xmlObj != null)
-  //       {
-  //       	foreach ($xmlObj->children() as $child) 
-  //       	{
-  //   			if($child['dsid'] != "TN" &&
-	 //        		$child['label'] == "thumbnail" &&
-	 //        		substr($child['mimeType'],0,6) == "image/") {
+		if($xmlObj != null)
+        {
+        	foreach ($xmlObj->children() as $child) 
+        	{
+    			if($child['dsid'] != "TN" &&
+	        		$child['label'] == "thumbnail" &&
+	        		substr($child['mimeType'],0,6) == "image/") {
 
-	 //        		$dsid = $child['dsid'];
-	 //        	//	echo "Image found.\n";
-	 //        	}
-  //   		}
-  //       }
-		// else {
+	        		$dsid = $child['dsid'];
+	        	//	echo "Image found.\n";
+	        	}
+    		}
+        }
+		else {
 
-		// 	echo "Failed to create xml object.\n";
-		// } 
+			echo "Failed to create xml object.\n";
+		} 
 
 		return $dsid;
 	}
