@@ -532,7 +532,7 @@ class OaiToSolrXmlParser {
 		$dsid = $this->getThumbnailDsid($pid);
 
 		if($dsid != null)
-			$string = "<field name='thumbnail'>http://digitaldu.coalliance.org/fedora/repository/" . $pid . "/" . $dsid . "</field>\n";
+			$string = "<field name='thumbnail'>https://specialcollections.du.edu/islandora/object/" . $pid . "/datastream/" . $dsid . "/view</field>\n";
 
 		return $string;
 	}
@@ -541,7 +541,7 @@ class OaiToSolrXmlParser {
 
 		$dsid = null;
 		echo "Connecting to remote server for thumbnail image...\n";	// <-----DEBUG
-		$url = "http://coduFedora:denverCO@fedora.coalliance.org:8080/fedora/listDatastreams/" . $pid . "?xml=true";
+		$url = "http://lib-caspian.du.edu:8080/fedora/listDatastreams/" . $pid . "?xml=true";
 		$xmlStr = file_get_contents($url);
 
 		if($xmlStr === false) {

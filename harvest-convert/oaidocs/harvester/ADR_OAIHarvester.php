@@ -162,7 +162,7 @@ class ADR_OAIHarvester {
 		// String array to hold set pids
 		$sets = array();
 
-		$url = "http://digitaldu.coalliance.org/oai2?verb=ListSets";
+		$url = "https://specialcollections.du.edu/oai2?verb=ListSets";
 		$xmlStr = file_get_contents($url);
 		$xmlObj = simplexml_load_string($xmlStr);
 
@@ -383,7 +383,7 @@ class ADR_OAIHarvester {
 		if($until !== "")
 			$until = "&until=" . $until;
 
-		$url = "http://digitaldu.coalliance.org/oai2?verb=ListRecords" . $from . $until . "&metadataPrefix=oai_dc&set=" . $pid;
+		$url = "https://specialcollections.du.edu/oai2?verb=ListRecords" . $from . $until . "&metadataPrefix=oai_dc&set=" . $pid;
 		$data = file_get_contents($url); 
 
 		return $data;
