@@ -529,7 +529,8 @@ class OaiToSolrXmlParser {
 		if($pid == "")
 			$pid = "codu:" . $this->ID;
 
-		$dsid = $this->getThumbnailDsid($pid);
+		//$dsid = $this->getThumbnailDsid($pid);
+		$dsid = "TN";
 
 		if($dsid != null)
 			$string = "<field name='thumbnail'>https://specialcollections.du.edu/islandora/object/" . $pid . "/datastream/" . $dsid . "/view</field>\n";
