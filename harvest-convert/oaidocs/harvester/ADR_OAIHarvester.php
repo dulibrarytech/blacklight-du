@@ -6,6 +6,8 @@
  * Description: Harvest record sets from the adr based on time range
  * NOTICE: 		Must set outputFolder to desired location
  *
+ * 
+ *
  * University of Denver, University Libraries, 4/2014 */
 
 require('file_helper.php');
@@ -102,7 +104,8 @@ class ADR_OAIHarvester {
 		echo "Retrieving creation date for set " . $setPid . "\n";
 
 		$setPid = str_replace("_", ":", $setPid);
-		$url = "http://coduFedora:denverCO@fedora.coalliance.org:8080/fedora/objects/" . $setPid . "/objectXML";
+		//$url = "http://coduFedora:denverCO@fedora.coalliance.org:8080/fedora/objects/" . $setPid . "/objectXML";
+		$url = "http://fedoraAdmin:f3d0r@@dm1ndu@lib-caspian.du.edu:8080/fedora/objects/" . $setPid . "/objectXML";
 		$retStr = false;
 		$trimVal = "";
 		$foundNode = false;
