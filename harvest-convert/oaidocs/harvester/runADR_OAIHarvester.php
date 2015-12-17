@@ -23,6 +23,7 @@ if(!isset($argv[2]))
 
 		echo "Using auto harvest...\n";
 		$harvester->harvest_sets(null,$time);
+		echo "Harvest complete\n";
 	}
 }	
 else

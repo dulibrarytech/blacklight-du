@@ -6,8 +6,6 @@
  * Description: Harvest record sets from the adr based on time range
  * NOTICE: 		Must set outputFolder to desired location
  *
- * 
- *
  * University of Denver, University Libraries, 4/2014 */
 
 require('file_helper.php');
@@ -33,13 +31,14 @@ class ADR_OAIHarvester {
 
 		echo "Running auto harvest...\n";
 
-		if(!file_exists($this->outputFolder))
+		if(!file_exists($this->outputFolder)) {
+			echo "Creating output folder '" . $this->outputFolder . "'...";
 			mkdir($this->outputFolder,0775);
+		}
 
 		// Ping the repository for the current top set list
 		if($pidArr != null && is_array($pidArr)) 
 		{
-
 			echo "File present, " . count($pidArr) . " sets listed.\n";
 			foreach($pidArr as &$pid) {
 
@@ -51,14 +50,15 @@ class ADR_OAIHarvester {
 		}
 		else 
 		{
-
 			echo "Retrieving current sets...\n";
 			$currentSets = $this->getSetList();
+			echo "Sets received: " .  print_r($currentSets,true) . "\n";
 		}
 
 		echo "Harvesting set records...\n";
 		foreach($currentSets as $setPid)
 		{
+        	echo "Harvesting records from set " . $setPid . "\n";
         	$this->harvest_set($setPid,$startDate);
         }
 	}
@@ -105,7 +105,7 @@ class ADR_OAIHarvester {
 
 		$setPid = str_replace("_", ":", $setPid);
 		//$url = "http://coduFedora:denverCO@fedora.coalliance.org:8080/fedora/objects/" . $setPid . "/objectXML";
-		$url = "http://fedoraAdmin:f3d0r@@dm1ndu@lib-caspian.du.edu:8080/fedora/objects/" . $setPid . "/objectXML";
+        $url = "http://fedoraAdmin:f3d0r@@dm1ndu@lib-caspian.du.edu:8080/fedora/objects/" . $setPid . "/objectXML";
 		$retStr = false;
 		$trimVal = "";
 		$foundNode = false;
@@ -152,6 +152,9 @@ class ADR_OAIHarvester {
     			} 
 	        }
         }
+        else {
+        	echo "ERROR: Failed to load xml object for pid " . $setPid . "\n";
+        }
 
         if($retStr != "")
         	$retStr =  substr($retStr, 0, 19) . "Z";	
@@ -193,6 +196,9 @@ class ADR_OAIHarvester {
 				}
 			}
         }
+        else {
+        	echo "ERROR: Failed to load xml object from 'ListSets' output\n";
+        }
     
 		return $sets;
 	}
@@ -211,6 +217,7 @@ class ADR_OAIHarvester {
 		$xmlString = $this->listRecords($setPid,$from,$until); 
 		if($xmlString === false) {
 
+			echo "XML String is null from ListRecords on set " . $setPid . "\n";
 			return false;
 		}
 
