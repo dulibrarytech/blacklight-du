@@ -16,6 +16,7 @@ class ADR_OAIHarvester {
 	private $fileCount;
 	private $toPointStack;
 	private $outputFolder;
+	private $OAI_maxRecordOutput = 200;		// The max record output setting in the Islandora OAI module config menu (Maximum response size)
 
 	function __construct() {
 
@@ -204,7 +205,7 @@ class ADR_OAIHarvester {
 	}
 
 	// Writes all records from set that are dated with in the given date range to files.  
-	// Each file will contain < 200 records
+	// Each file will contain < [$OAI_maxRecordOutput] records
 	protected function writeRecordSetSectionsToFiles($setPid,$from,$until) {
 
 		// We have reached the omnipresent
@@ -244,7 +245,7 @@ class ADR_OAIHarvester {
 				return false;
 			}
 		}
-		else if($count < 200)
+		else if($count < $this->$OAI_maxRecordOutput)
 		{
 			$this->writeToFile( $this->composeFilestring($setPid,$from,$until), $xmlString );
 			$this->fileCount++;
