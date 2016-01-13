@@ -10,7 +10,13 @@
  *
  * Use:  	harvest_sets(array('codu:12345', 'codu:23456', 'codu:34567' ...))   
  *			
- * 			run
+ * This harvester is designed to work with a "maximum response size" setting in the islandora oai provider.  The value set in 
+ * the class variable must match the oai provider setting.  The purpose is to prevent extremely large collections from "bonking out" the islandora server.
+ * How it works: The oai request from a single pid, without including from/until dates, will return all of the records in the collection.  If the amount of records returned is 
+ * equal to this max amount, it can be reasonably assumed that there are more records to retrieve.  In this case the harvester "splits" the date range of the record
+ * request in half, then attempts to gather all records from the first half.  If this first half also returns the max limit, it is then split in half and the 
+ * process repeats.  Each date range is pushed on a stack and searched consecutively.  If < the limit is returned, that is all of the records that exist in
+ * the date range, and they are written to an output file.
  */
 
 require('file_helper.php');
