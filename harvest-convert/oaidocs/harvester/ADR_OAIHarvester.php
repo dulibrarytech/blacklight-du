@@ -6,7 +6,12 @@
  * Description: Harvest record sets from the adr based on time range
  * NOTICE: 		Must set outputFolder to desired location
  *
- * University of Denver, University Libraries, 4/2014 */
+ * University of Denver, University Libraries, 4/2014 
+ *
+ * Use:  	harvest_sets(array('codu:12345', 'codu:23456', 'codu:34567' ...))   
+ *			
+ * 			run
+ */
 
 require('file_helper.php');
 
