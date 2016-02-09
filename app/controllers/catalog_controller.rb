@@ -88,7 +88,7 @@ class CatalogController < ApplicationController
     # config.add_index_field 'lc_callnum_display', :label => 'Call number:'
 
     # DU: Index fields
-    # config.add_index_field 'title', :label => 'Title'
+    config.add_index_field 'abstract', :label => ''
     config.add_index_field 'creator', :label => 'Creator'
     config.add_index_field 'pub_date', :label => 'Date'
     config.add_index_field 'type_facet', :label => 'Type'
@@ -125,7 +125,7 @@ class CatalogController < ApplicationController
     config.add_show_field 'publisher', :label => 'Publisher'
     config.add_show_field 'identifier', :label => 'Identifiers'
     config.add_show_field 'abstract', :label => 'Abstract'
-    # config.add_show_field 'description', :label => 'Description'
+    config.add_show_field 'description', :label => 'Description'
     config.add_show_field 'links', :label => 'Online'
     
 
