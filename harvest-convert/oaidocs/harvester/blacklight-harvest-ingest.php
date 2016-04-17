@@ -28,6 +28,7 @@ if($hdlDate === FALSE) {
 else {
 
 	$strDate = fread($hdlDate, filesize($dateFile));
+	echo "From Date: " . $strDate . "\n";
 }
 
 // Open output buffer

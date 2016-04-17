@@ -405,7 +405,7 @@ class ADR_OAIHarvester {
 		if($until !== "")
 			$until = "&until=" . $until;
 
-		$url = "https://specialcollections.du.edu/oai2?verb=ListRecords" . $from . $until . "&metadataPrefix=oai_dc&set=" . $pid;
+		$url = "https://specialcollections.du.edu/oai2?verb=ListRecords" . $from . $until . "&metadataPrefix=oai_dc&set=" . $pid;	
 		$data = file_get_contents($url); 
 
 		return $data;
