@@ -39,10 +39,17 @@ echo "\n*** Blacklight-DU Automatic Harvest and Index ***\n";
 echo "Today's date: " . trim($curDate) . "\n";
 echo "Previous harvest date: " . trim($strDate) . "\n";
 
-// Harvest data
+// Harvest data, if setPidList.txt is present get those sets
 // Harvester is currently set to output to the path oaidocs/oai-solr.  
 echo "Beginning harvest of OAI records from " . trim($strDate) . " to present...\n";
-$harvester->harvest_sets(null,trim($strDate));
+$fileArr = file('setPidList.txt');
+if($fileArr != false) {
+	echo "Using setPidList.txt...\n";
+	$harvester->harvest_sets($fileArr,trim($strDate));
+}
+else {
+	$harvester->harvest_sets(null,trim($strDate));
+}
 echo "Harvest complete.\n";
 
 // Remove existing date, and add the current date of this harvest.  The next auto-harvest will harvest from this date onward.
