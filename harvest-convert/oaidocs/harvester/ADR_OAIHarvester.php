@@ -117,7 +117,8 @@ class ADR_OAIHarvester {
 
 		$setPid = str_replace("_", ":", $setPid);
 		//$url = "http://coduFedora:denverCO@fedora.coalliance.org:8080/fedora/objects/" . $setPid . "/objectXML";
-        $url = "http://fedoraAdmin:f3d0r@@dm1ndu@lib-caspian.du.edu:8080/fedora/objects/" . $setPid . "/objectXML";
+        //$url = "http://fedoraAdmin:f3d0r@@dm1ndu@lib-caspian.du.edu:8080/fedora/objects/" . $setPid . "/objectXML";
+        $url = "http://fedoraAdmin:f3d0r@@dm1ndu@librepo01-vlp.du.edu:8080/fedora/objects/" . $setPid . "/objectXML";
 		$retStr = false;
 		$trimVal = "";
 		$foundNode = false;

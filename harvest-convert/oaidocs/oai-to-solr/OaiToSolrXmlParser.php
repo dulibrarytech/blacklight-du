@@ -542,7 +542,8 @@ class OaiToSolrXmlParser {
 
 		$dsid = null;
 		echo "Connecting to remote server for thumbnail image...\n";	// <-----DEBUG
-		$url = "http://lib-caspian.du.edu:8080/fedora/listDatastreams/" . $pid . "?xml=true";
+		//$url = "http://lib-caspian.du.edu:8080/fedora/listDatastreams/" . $pid . "?xml=true";
+		$url = "http://librepo01-vlp.du.edu:8080/fedora/listDatastreams/" . $pid . "?xml=true";
 		$xmlStr = file_get_contents($url);
 
 		if($xmlStr === false) {
