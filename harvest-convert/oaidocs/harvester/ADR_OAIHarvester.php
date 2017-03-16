@@ -233,6 +233,11 @@ class ADR_OAIHarvester {
 			echo "XML String is null from ListRecords on set " . $setPid . "\n";
 			return false;
 		}
+
+		// 3-16-2017
+		// Remove extra <?xml> tags
+		$xmlString = str_replace('<metadata><?xml version="1.0"?>', '<metadata>', $xmlString);
+
 		// Validate the returned xml
 
 		// Count number of individual records are in the set  
@@ -256,7 +261,7 @@ class ADR_OAIHarvester {
 				return false;
 			}
 		}
-		else if($count < $this->$OAI_maxRecordOutput)
+		else if($count < $this->OAI_maxRecordOutput)
 		{
 			$this->writeToFile( $this->composeFilestring($setPid,$from,$until), $xmlString );
 			$this->fileCount++;
@@ -428,7 +433,7 @@ class ADR_OAIHarvester {
 	// Return number of records found in given xml file, false if xml object failed to be created
 	public function getRecordCount($xmlString) {
 
-		
+
 
 		$recordSetXmlObj = simplexml_load_string($xmlString);
 
