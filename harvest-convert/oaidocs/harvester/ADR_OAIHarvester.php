@@ -233,7 +233,6 @@ class ADR_OAIHarvester {
 			echo "XML String is null from ListRecords on set " . $setPid . "\n";
 			return false;
 		}
-
 		// Validate the returned xml
 
 		// Count number of individual records are in the set  
@@ -428,6 +427,8 @@ class ADR_OAIHarvester {
 
 	// Return number of records found in given xml file, false if xml object failed to be created
 	public function getRecordCount($xmlString) {
+
+		
 
 		$recordSetXmlObj = simplexml_load_string($xmlString);
 
