@@ -26,11 +26,13 @@ class CatalogController < ApplicationController
     # solr field configuration for search results/index views
     config.index.show_link = 'title'
     config.index.record_display_type = 'format'
+    config.index.title_field = 'title'      # DU - Blacklight v6
 
     # # solr field configuration for document/show views
     config.show.html_title = 'title'
     config.show.heading = 'title'
     config.show.display_type = 'format'
+    config.show.title_field = 'title'   # DU - Blacklight v6
 
     # solr fields that will be treated as facets by the blacklight application
     #   The ordering of the field names is the order of the display
