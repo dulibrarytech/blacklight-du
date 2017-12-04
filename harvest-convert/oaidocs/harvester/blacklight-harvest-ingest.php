@@ -13,7 +13,7 @@ require('../oai-to-solr/OaiToSolrXmlParser.php');
 
 $curDate 	= date('Y-m-d');
 $dateFile 	= 'harvest.dat';
-$logFile 	= 'auto-harvest-index.log';	/* TODO: add current date to log filename.  Remove 'APPEND' from write */
+$logFile 	= 'auto-harvest-index.' . $curDate . '.log';	/* TODO: add current date to log filename.  Remove 'APPEND' from write */
 
 $harvester = new ADR_OAIHarvester();
 $parser = new OaiToSolrXmlParser("../oai-to-solr", "../oai-to-solr/oai-dc-converted");
@@ -76,7 +76,7 @@ echo shell_exec('rm ../oai-to-solr/*.xml') . "\n";
 
 // Write output to file
 $output = ob_get_flush();
-file_put_contents($logFile, $output, FILE_APPEND);
+file_put_contents($logFile, $output);
 
 // Close files
 fclose($hdlDate);
